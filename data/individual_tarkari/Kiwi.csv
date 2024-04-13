@@ -1,0 +1,934 @@
+Commodity,Unit,Minimum,Maximum,Average,Season,Category,Year,Month,Day
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,1
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,2
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,3
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,4
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,5
+Kiwi,Kg,150.0,160.0,155.0,Late Autumn,Fruit,2020,December,6
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,7
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,8
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,9
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,10
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,11
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,12
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,13
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,14
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,15
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,16
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,17
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,18
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,19
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,20
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,21
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,22
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,23
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,24
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,25
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,26
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,27
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,28
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,29
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,December,30
+Kiwi,Kg,200.0,220.0,210.0,Late Autumn,Fruit,2020,December,31
+Kiwi,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2020,November,2
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2020,November,3
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2020,November,4
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2020,November,5
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2020,November,6
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2020,November,7
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2020,November,8
+Kiwi,Kg,200.0,220.0,210.0,Early Autumn,Fruit,2020,November,9
+Kiwi,Kg,180.0,200.0,190.0,Early Autumn,Fruit,2020,November,10
+Kiwi,Kg,200.0,220.0,210.0,Early Autumn,Fruit,2020,November,11
+Kiwi,Kg,180.0,200.0,190.0,Early Autumn,Fruit,2020,November,12
+Kiwi,Kg,180.0,200.0,190.0,Early Autumn,Fruit,2020,November,13
+Kiwi,Kg,180.0,200.0,190.0,Early Autumn,Fruit,2020,November,14
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,November,15
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,November,16
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,November,17
+Kiwi,Kg,200.0,220.0,210.0,Late Autumn,Fruit,2020,November,18
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,November,19
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,November,20
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,November,22
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,November,23
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,November,24
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,November,25
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,November,26
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,November,27
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,November,28
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,November,29
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2020,November,30
+Kiwi,Kg,240.0,250.0,245.0,Early Autumn,Fruit,2020,October,21
+Kiwi,Kg,240.0,250.0,245.0,Early Autumn,Fruit,2020,October,22
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2020,October,23
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2020,October,24
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2020,October,25
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2020,October,26
+Kiwi,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2020,October,27
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,April,1
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,April,2
+Kiwi,Kg,500.0,550.0,525.0,Spring,Fruit,2021,April,3
+Kiwi,Kg,530.0,550.0,540.0,Spring,Fruit,2021,April,4
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,April,5
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,April,6
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,April,7
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,April,8
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,April,9
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,April,10
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,April,11
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,April,12
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,April,13
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,April,14
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,April,15
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,April,16
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,April,17
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,April,18
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,April,19
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,April,20
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,April,21
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2021,April,22
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,April,23
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,April,24
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,April,25
+Kiwi,Kg,500.0,600.0,550.0,Spring,Fruit,2021,April,26
+Kiwi,Kg,500.0,600.0,550.0,Spring,Fruit,2021,April,27
+Kiwi,Kg,500.0,600.0,550.0,Spring,Fruit,2021,April,28
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,2
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,3
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,4
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,5
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,6
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,7
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,8
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,9
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,10
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,11
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,12
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,13
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,14
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,15
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,16
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,17
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,18
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,19
+Kiwi,Kg,650.0,700.0,675.0,Summer Monsoon,Fruit,2021,August,20
+Kiwi,Kg,650.0,700.0,675.0,Summer Monsoon,Fruit,2021,August,21
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2021,August,22
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,August,23
+Kiwi,Kg,650.0,700.0,675.0,Summer Monsoon,Fruit,2021,August,24
+Kiwi,Kg,650.0,700.0,675.0,Summer Monsoon,Fruit,2021,August,25
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,August,26
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,August,27
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,August,28
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,August,29
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,August,30
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,August,31
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,1
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2021,December,2
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2021,December,3
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2021,December,4
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2021,December,5
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2021,December,6
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,7
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2021,December,8
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2021,December,9
+Kiwi,Kg,180.0,220.0,200.0,Late Autumn,Fruit,2021,December,10
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2021,December,11
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2021,December,12
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2021,December,13
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2021,December,14
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2021,December,15
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2021,December,16
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2021,December,18
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2021,December,19
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,20
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2021,December,21
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,22
+Kiwi,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,23
+Kiwi,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,24
+Kiwi,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,25
+Kiwi,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,26
+Kiwi,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,27
+Kiwi,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,28
+Kiwi,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,29
+Kiwi,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,30
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,31
+Kiwi,Kg,280.0,300.0,290.0,Winter,Fruit,2021,February,1
+Kiwi,Kg,280.0,300.0,290.0,Winter,Fruit,2021,February,2
+Kiwi,Kg,250.0,260.0,255.0,Winter,Fruit,2021,February,3
+Kiwi,Kg,250.0,280.0,265.0,Winter,Fruit,2021,February,4
+Kiwi,Kg,280.0,300.0,290.0,Winter,Fruit,2021,February,5
+Kiwi,Kg,280.0,300.0,290.0,Winter,Fruit,2021,February,6
+Kiwi,Kg,280.0,300.0,290.0,Winter,Fruit,2021,February,7
+Kiwi,Kg,280.0,300.0,290.0,Winter,Fruit,2021,February,8
+Kiwi,Kg,280.0,300.0,290.0,Winter,Fruit,2021,February,9
+Kiwi,Kg,280.0,300.0,290.0,Winter,Fruit,2021,February,10
+Kiwi,Kg,280.0,300.0,290.0,Winter,Fruit,2021,February,11
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2021,February,12
+Kiwi,Kg,320.0,350.0,335.0,Winter,Fruit,2021,February,13
+Kiwi,Kg,330.0,350.0,340.0,Winter,Fruit,2021,February,14
+Kiwi,Kg,350.0,380.0,365.0,Winter,Fruit,2021,February,15
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2021,February,16
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2021,February,17
+Kiwi,Kg,380.0,400.0,390.0,Winter,Fruit,2021,February,18
+Kiwi,Kg,380.0,400.0,390.0,Winter,Fruit,2021,February,19
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2021,February,20
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2021,February,21
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2021,February,22
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2021,February,23
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2021,February,24
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2021,February,25
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2021,February,26
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2021,February,27
+Kiwi,Kg,330.0,350.0,340.0,Winter,Fruit,2021,February,28
+Kiwi,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2021,January,1
+Kiwi,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2021,January,2
+Kiwi,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2021,January,3
+Kiwi,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2021,January,4
+Kiwi,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2021,January,5
+Kiwi,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2021,January,6
+Kiwi,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2021,January,7
+Kiwi,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2021,January,8
+Kiwi,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2021,January,9
+Kiwi,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2021,January,10
+Kiwi,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2021,January,11
+Kiwi,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2021,January,12
+Kiwi,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2021,January,13
+Kiwi,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2021,January,14
+Kiwi,Kg,180.0,200.0,190.0,Winter,Fruit,2021,January,15
+Kiwi,Kg,180.0,200.0,190.0,Winter,Fruit,2021,January,16
+Kiwi,Kg,180.0,200.0,190.0,Winter,Fruit,2021,January,17
+Kiwi,Kg,220.0,250.0,235.0,Winter,Fruit,2021,January,18
+Kiwi,Kg,220.0,250.0,235.0,Winter,Fruit,2021,January,19
+Kiwi,Kg,250.0,260.0,255.0,Winter,Fruit,2021,January,20
+Kiwi,Kg,250.0,280.0,265.0,Winter,Fruit,2021,January,21
+Kiwi,Kg,250.0,300.0,275.0,Winter,Fruit,2021,January,22
+Kiwi,Kg,250.0,300.0,275.0,Winter,Fruit,2021,January,23
+Kiwi,Kg,250.0,300.0,275.0,Winter,Fruit,2021,January,24
+Kiwi,Kg,250.0,300.0,275.0,Winter,Fruit,2021,January,25
+Kiwi,Kg,250.0,300.0,275.0,Winter,Fruit,2021,January,26
+Kiwi,Kg,250.0,300.0,275.0,Winter,Fruit,2021,January,27
+Kiwi,Kg,280.0,300.0,290.0,Winter,Fruit,2021,January,28
+Kiwi,Kg,280.0,300.0,290.0,Winter,Fruit,2021,January,29
+Kiwi,Kg,280.0,300.0,290.0,Winter,Fruit,2021,January,30
+Kiwi,Kg,280.0,300.0,290.0,Winter,Fruit,2021,January,31
+Kiwi,Kg,800.0,850.0,825.0,Summer Monsoon,Fruit,2021,July,20
+Kiwi,Kg,800.0,850.0,825.0,Summer Monsoon,Fruit,2021,July,21
+Kiwi,Kg,800.0,850.0,825.0,Summer Monsoon,Fruit,2021,July,22
+Kiwi,Kg,750.0,800.0,775.0,Summer Monsoon,Fruit,2021,July,29
+Kiwi,Kg,800.0,850.0,825.0,Summer Monsoon,Fruit,2021,July,30
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2021,March,1
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2021,March,2
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2021,March,3
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2021,March,5
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2021,March,6
+Kiwi,Kg,330.0,350.0,340.0,Winter,Fruit,2021,March,7
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2021,March,8
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2021,March,9
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2021,March,10
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2021,March,11
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2021,March,12
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2021,March,13
+Kiwi,Kg,330.0,350.0,340.0,Winter,Fruit,2021,March,14
+Kiwi,Kg,330.0,350.0,340.0,Spring,Fruit,2021,March,15
+Kiwi,Kg,330.0,350.0,340.0,Spring,Fruit,2021,March,16
+Kiwi,Kg,300.0,350.0,325.0,Spring,Fruit,2021,March,17
+Kiwi,Kg,330.0,350.0,340.0,Spring,Fruit,2021,March,18
+Kiwi,Kg,300.0,350.0,325.0,Spring,Fruit,2021,March,19
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,March,20
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,March,21
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,March,22
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,March,23
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,March,24
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,March,25
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,March,26
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,March,27
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,March,28
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,March,29
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2021,March,30
+Kiwi,Kg,400.0,450.0,425.0,Spring,Fruit,2021,March,31
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,November,1
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,November,2
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,November,3
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,November,4
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,November,5
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,November,6
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,November,7
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,November,8
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,November,9
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,November,10
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,November,11
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,November,12
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,November,13
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,November,14
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,15
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,16
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,17
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,18
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,19
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,20
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,21
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,22
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,24
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,25
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,27
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,28
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,29
+Kiwi,Kg,180.0,220.0,200.0,Late Autumn,Fruit,2021,November,30
+Kiwi,Kg,300.0,400.0,350.0,Early Autumn,Fruit,2021,October,1
+Kiwi,Kg,300.0,400.0,350.0,Early Autumn,Fruit,2021,October,2
+Kiwi,Kg,300.0,400.0,350.0,Early Autumn,Fruit,2021,October,3
+Kiwi,Kg,300.0,400.0,350.0,Early Autumn,Fruit,2021,October,4
+Kiwi,Kg,300.0,400.0,350.0,Early Autumn,Fruit,2021,October,5
+Kiwi,Kg,300.0,400.0,350.0,Early Autumn,Fruit,2021,October,6
+Kiwi,Kg,300.0,400.0,350.0,Early Autumn,Fruit,2021,October,7
+Kiwi,Kg,300.0,400.0,350.0,Early Autumn,Fruit,2021,October,8
+Kiwi,Kg,300.0,400.0,350.0,Early Autumn,Fruit,2021,October,9
+Kiwi,Kg,300.0,400.0,350.0,Early Autumn,Fruit,2021,October,10
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2021,October,11
+Kiwi,Kg,400.0,500.0,450.0,Early Autumn,Fruit,2021,October,12
+Kiwi,Kg,350.0,400.0,375.0,Early Autumn,Fruit,2021,October,13
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2021,October,14
+Kiwi,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2021,October,15
+Kiwi,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2021,October,16
+Kiwi,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2021,October,17
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,October,18
+Kiwi,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2021,October,19
+Kiwi,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2021,October,20
+Kiwi,Kg,220.0,250.0,235.0,Early Autumn,Fruit,2021,October,21
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,October,22
+Kiwi,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2021,October,23
+Kiwi,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2021,October,24
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,October,25
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,October,26
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,October,27
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,October,28
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,October,29
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,October,30
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,October,31
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,September,1
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,September,2
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,September,3
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,September,4
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,September,5
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,September,6
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,September,7
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,September,8
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,September,9
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,September,10
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,September,11
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,September,12
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,September,13
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2021,September,14
+Kiwi,Kg,600.0,700.0,650.0,Early Autumn,Fruit,2021,September,15
+Kiwi,Kg,500.0,600.0,550.0,Early Autumn,Fruit,2021,September,16
+Kiwi,Kg,500.0,600.0,550.0,Early Autumn,Fruit,2021,September,17
+Kiwi,Kg,500.0,600.0,550.0,Early Autumn,Fruit,2021,September,18
+Kiwi,Kg,500.0,600.0,550.0,Early Autumn,Fruit,2021,September,19
+Kiwi,Kg,500.0,600.0,550.0,Early Autumn,Fruit,2021,September,20
+Kiwi,Kg,500.0,600.0,550.0,Early Autumn,Fruit,2021,September,21
+Kiwi,Kg,500.0,600.0,550.0,Early Autumn,Fruit,2021,September,22
+Kiwi,Kg,300.0,500.0,400.0,Early Autumn,Fruit,2021,September,23
+Kiwi,Kg,400.0,500.0,450.0,Early Autumn,Fruit,2021,September,24
+Kiwi,Kg,400.0,500.0,450.0,Early Autumn,Fruit,2021,September,25
+Kiwi,Kg,400.0,500.0,450.0,Early Autumn,Fruit,2021,September,26
+Kiwi,Kg,300.0,500.0,400.0,Early Autumn,Fruit,2021,September,27
+Kiwi,Kg,400.0,500.0,450.0,Early Autumn,Fruit,2021,September,28
+Kiwi,Kg,300.0,400.0,350.0,Early Autumn,Fruit,2021,September,29
+Kiwi,Kg,300.0,400.0,350.0,Early Autumn,Fruit,2021,September,30
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,1
+Kiwi,Kg,500.0,550.0,525.0,Spring,Fruit,2022,April,2
+Kiwi,Kg,500.0,550.0,525.0,Spring,Fruit,2022,April,3
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,4
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,5
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,6
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,7
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,8
+Kiwi,Kg,450.0,600.0,525.0,Spring,Fruit,2022,April,9
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,10
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,11
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,12
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,13
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,14
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,15
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,16
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,17
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,18
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,19
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,20
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,21
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,22
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,23
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,24
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,25
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,26
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,27
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,28
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,29
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,30
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,August,1
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,August,2
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,August,3
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,August,4
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,August,5
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,August,6
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,August,7
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,August,8
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,August,9
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,August,10
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,August,11
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,August,12
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,August,13
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,August,14
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,August,15
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,August,16
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,August,17
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,August,18
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,August,19
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,August,20
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,August,21
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,August,22
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,August,23
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,August,24
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,August,25
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,August,26
+Kiwi,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2022,August,27
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,August,28
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,August,29
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,August,30
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,August,31
+Kiwi,Kg,200.0,250.0,233.33,Late Autumn,Fruit,2022,December,1
+Kiwi,Kg,200.0,250.0,233.33,Late Autumn,Fruit,2022,December,2
+Kiwi,Kg,200.0,220.0,210.0,Late Autumn,Fruit,2022,December,3
+Kiwi,Kg,200.0,220.0,210.0,Late Autumn,Fruit,2022,December,4
+Kiwi,Kg,200.0,250.0,233.33,Late Autumn,Fruit,2022,December,5
+Kiwi,Kg,200.0,250.0,233.33,Late Autumn,Fruit,2022,December,6
+Kiwi,Kg,150.0,200.0,183.33,Late Autumn,Fruit,2022,December,7
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,December,8
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2022,December,9
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2022,December,10
+Kiwi,Kg,150.0,200.0,183.33,Late Autumn,Fruit,2022,December,11
+Kiwi,Kg,150.0,200.0,183.33,Late Autumn,Fruit,2022,December,12
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2022,December,13
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2022,December,14
+Kiwi,Kg,150.0,200.0,183.33,Late Autumn,Fruit,2022,December,15
+Kiwi,Kg,150.0,200.0,183.33,Late Autumn,Fruit,2022,December,16
+Kiwi,Kg,150.0,200.0,183.33,Late Autumn,Fruit,2022,December,17
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2022,December,18
+Kiwi,Kg,150.0,200.0,183.33,Late Autumn,Fruit,2022,December,19
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2022,December,20
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,December,21
+Kiwi,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2022,December,22
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,December,23
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,December,24
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,December,25
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,December,26
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2022,December,27
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2022,December,28
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2022,December,29
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2022,December,30
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2022,December,31
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,February,1
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,February,2
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,February,3
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,February,4
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,February,5
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,February,6
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,February,7
+Kiwi,Kg,450.0,500.0,475.0,Winter,Fruit,2022,February,8
+Kiwi,Kg,450.0,500.0,475.0,Winter,Fruit,2022,February,9
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,10
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,11
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,12
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,13
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,14
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,15
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,16
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,17
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,18
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,19
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,20
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,21
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,22
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,23
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,24
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,25
+Kiwi,Kg,500.0,550.0,525.0,Winter,Fruit,2022,February,28
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,January,1
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,January,2
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,January,3
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,January,4
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,January,5
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,January,6
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,January,7
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,January,8
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,January,9
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,January,11
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,January,12
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,January,13
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,January,14
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2022,January,15
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2022,January,16
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2022,January,17
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2022,January,18
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2022,January,19
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,20
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,21
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,22
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,23
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,24
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2022,January,25
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,26
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,27
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,28
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,29
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,30
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,31
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,1
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,2
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,3
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,4
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,5
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,6
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,7
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,8
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,9
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,10
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,11
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,12
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,July,16
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,July,17
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,July,18
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,July,19
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,July,20
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,July,21
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,July,22
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,July,23
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,July,24
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,July,25
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,July,26
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,July,27
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,July,28
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,July,29
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,July,30
+Kiwi,Kg,600.0,650.0,625.0,Summer Monsoon,Fruit,2022,July,31
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,1
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,2
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,3
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,4
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,5
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,6
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,7
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,8
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,9
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,10
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,11
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,12
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,13
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,14
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,15
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,16
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,17
+Kiwi,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,18
+Kiwi,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,19
+Kiwi,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,20
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,21
+Kiwi,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,22
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,23
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,24
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,25
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,26
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,27
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,28
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,29
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,30
+Kiwi,Kg,500.0,550.0,525.0,Winter,Fruit,2022,March,1
+Kiwi,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,2
+Kiwi,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,3
+Kiwi,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,5
+Kiwi,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,6
+Kiwi,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,7
+Kiwi,Kg,450.0,500.0,475.0,Winter,Fruit,2022,March,8
+Kiwi,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,9
+Kiwi,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,10
+Kiwi,Kg,450.0,500.0,475.0,Winter,Fruit,2022,March,11
+Kiwi,Kg,450.0,500.0,475.0,Winter,Fruit,2022,March,12
+Kiwi,Kg,450.0,500.0,475.0,Winter,Fruit,2022,March,13
+Kiwi,Kg,450.0,550.0,500.0,Winter,Fruit,2022,March,14
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,15
+Kiwi,Kg,450.0,550.0,500.0,Spring,Fruit,2022,March,16
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,17
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,18
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,19
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,20
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,21
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,22
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,23
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,24
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,25
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,26
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,27
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,28
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,29
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,30
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,31
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,1
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,2
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,3
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,4
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,5
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,6
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,7
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,8
+Kiwi,Kg,450.0,500.0,483.33,Spring,Fruit,2022,May,9
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,10
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,11
+Kiwi,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,14
+Kiwi,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,15
+Kiwi,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,16
+Kiwi,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,17
+Kiwi,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,18
+Kiwi,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,19
+Kiwi,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,20
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,May,21
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,May,22
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,May,23
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,May,24
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,May,25
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,May,26
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,May,27
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,May,28
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,May,29
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,May,30
+Kiwi,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,May,31
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,1
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,2
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,3
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,4
+Kiwi,Kg,180.0,200.0,193.33,Early Autumn,Fruit,2022,November,5
+Kiwi,Kg,180.0,200.0,190.0,Early Autumn,Fruit,2022,November,6
+Kiwi,Kg,180.0,200.0,190.0,Early Autumn,Fruit,2022,November,7
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,8
+Kiwi,Kg,180.0,200.0,193.33,Early Autumn,Fruit,2022,November,9
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,10
+Kiwi,Kg,200.0,220.0,213.33,Early Autumn,Fruit,2022,November,11
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,12
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,13
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,14
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,15
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,16
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,17
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,18
+Kiwi,Kg,200.0,220.0,210.0,Late Autumn,Fruit,2022,November,19
+Kiwi,Kg,200.0,250.0,233.33,Late Autumn,Fruit,2022,November,21
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,22
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,23
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,24
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,25
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,26
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,27
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,28
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,29
+Kiwi,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,30
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,October,1
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,2
+Kiwi,Kg,250.0,300.0,283.33,Early Autumn,Fruit,2022,October,3
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,4
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,5
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,6
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,October,7
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,October,8
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,October,9
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,October,10
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,October,11
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,October,12
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,October,13
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,October,14
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,October,15
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,October,16
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,October,17
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,October,18
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,October,19
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,20
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,21
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,22
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,23
+Kiwi,Kg,200.0,250.0,233.33,Early Autumn,Fruit,2022,October,24
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,25
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,26
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,27
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,29
+Kiwi,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,30
+Kiwi,Kg,200.0,250.0,233.33,Early Autumn,Fruit,2022,October,31
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,September,1
+Kiwi,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2022,September,2
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,September,22
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,September,23
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,September,24
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,September,25
+Kiwi,Kg,300.0,350.0,333.33,Early Autumn,Fruit,2022,September,26
+Kiwi,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,September,27
+Kiwi,Kg,300.0,350.0,333.33,Early Autumn,Fruit,2022,September,28
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,September,29
+Kiwi,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,September,30
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,1
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,2
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,3
+Kiwi,Kg,350.0,400.0,375.0,Spring,Fruit,2023,April,4
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,5
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,6
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,7
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,8
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,9
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,10
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,11
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,12
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,13
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,14
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,15
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,16
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,17
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,18
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,19
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,20
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,21
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,22
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,23
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,24
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,25
+Kiwi,Kg,500.0,600.0,550.0,Spring,Fruit,2023,April,26
+Kiwi,Kg,500.0,600.0,550.0,Spring,Fruit,2023,April,27
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,28
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,29
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,30
+Kiwi,Kg,750.0,800.0,775.0,Summer Monsoon,Fruit,2023,August,1
+Kiwi,Kg,750.0,800.0,775.0,Summer Monsoon,Fruit,2023,August,2
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,3
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,4
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,5
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,6
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,7
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,8
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,9
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,10
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,11
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,12
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,13
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,15
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,16
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,17
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,18
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,19
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,20
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,21
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,22
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,23
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,24
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,25
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,26
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,27
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,28
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,29
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,30
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,August,31
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,1
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,2
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,3
+Kiwi,Kg,300.0,350.0,333.33,Winter,Fruit,2023,February,4
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,5
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,6
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,7
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,8
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,9
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,10
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2023,February,11
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2023,February,12
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,13
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,14
+Kiwi,Kg,400.0,450.0,433.33,Winter,Fruit,2023,February,15
+Kiwi,Kg,400.0,450.0,425.0,Winter,Fruit,2023,February,16
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2023,February,17
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,18
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,19
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2023,February,20
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2023,February,21
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2023,February,22
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2023,February,23
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2023,February,24
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2023,February,25
+Kiwi,Kg,400.0,450.0,425.0,Winter,Fruit,2023,February,26
+Kiwi,Kg,350.0,400.0,375.0,Winter,Fruit,2023,February,27
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2023,February,28
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2023,January,1
+Kiwi,Kg,150.0,250.0,200.0,Late Autumn,Fruit,2023,January,2
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2023,January,3
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2023,January,4
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2023,January,5
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2023,January,6
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2023,January,7
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2023,January,8
+Kiwi,Kg,150.0,200.0,183.33,Late Autumn,Fruit,2023,January,9
+Kiwi,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2023,January,10
+Kiwi,Kg,200.0,250.0,233.33,Late Autumn,Fruit,2023,January,11
+Kiwi,Kg,250.0,300.0,283.33,Late Autumn,Fruit,2023,January,12
+Kiwi,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2023,January,13
+Kiwi,Kg,200.0,250.0,233.33,Late Autumn,Fruit,2023,January,14
+Kiwi,Kg,200.0,250.0,233.33,Winter,Fruit,2023,January,15
+Kiwi,Kg,250.0,300.0,275.0,Winter,Fruit,2023,January,16
+Kiwi,Kg,250.0,300.0,275.0,Winter,Fruit,2023,January,17
+Kiwi,Kg,250.0,300.0,275.0,Winter,Fruit,2023,January,18
+Kiwi,Kg,250.0,300.0,275.0,Winter,Fruit,2023,January,19
+Kiwi,Kg,250.0,300.0,283.33,Winter,Fruit,2023,January,20
+Kiwi,Kg,250.0,300.0,275.0,Winter,Fruit,2023,January,21
+Kiwi,Kg,250.0,300.0,275.0,Winter,Fruit,2023,January,22
+Kiwi,Kg,250.0,300.0,283.33,Winter,Fruit,2023,January,23
+Kiwi,Kg,250.0,300.0,283.33,Winter,Fruit,2023,January,24
+Kiwi,Kg,250.0,300.0,283.33,Winter,Fruit,2023,January,25
+Kiwi,Kg,250.0,300.0,275.0,Winter,Fruit,2023,January,26
+Kiwi,Kg,250.0,300.0,283.33,Winter,Fruit,2023,January,27
+Kiwi,Kg,250.0,300.0,283.33,Winter,Fruit,2023,January,28
+Kiwi,Kg,250.0,300.0,275.0,Winter,Fruit,2023,January,29
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2023,January,30
+Kiwi,Kg,300.0,350.0,325.0,Winter,Fruit,2023,January,31
+Kiwi,Kg,850.0,900.0,875.0,Early Summer,Fruit,2023,July,1
+Kiwi,Kg,850.0,900.0,875.0,Early Summer,Fruit,2023,July,2
+Kiwi,Kg,850.0,900.0,875.0,Early Summer,Fruit,2023,July,3
+Kiwi,Kg,850.0,900.0,875.0,Early Summer,Fruit,2023,July,4
+Kiwi,Kg,800.0,900.0,850.0,Early Summer,Fruit,2023,July,5
+Kiwi,Kg,800.0,900.0,850.0,Early Summer,Fruit,2023,July,6
+Kiwi,Kg,800.0,900.0,850.0,Early Summer,Fruit,2023,July,7
+Kiwi,Kg,800.0,900.0,850.0,Early Summer,Fruit,2023,July,8
+Kiwi,Kg,800.0,900.0,850.0,Early Summer,Fruit,2023,July,9
+Kiwi,Kg,800.0,900.0,850.0,Early Summer,Fruit,2023,July,10
+Kiwi,Kg,800.0,900.0,850.0,Early Summer,Fruit,2023,July,11
+Kiwi,Kg,800.0,900.0,850.0,Early Summer,Fruit,2023,July,12
+Kiwi,Kg,800.0,900.0,850.0,Early Summer,Fruit,2023,July,13
+Kiwi,Kg,800.0,900.0,850.0,Early Summer,Fruit,2023,July,14
+Kiwi,Kg,800.0,900.0,850.0,Summer Monsoon,Fruit,2023,July,15
+Kiwi,Kg,800.0,900.0,850.0,Summer Monsoon,Fruit,2023,July,16
+Kiwi,Kg,800.0,900.0,850.0,Summer Monsoon,Fruit,2023,July,17
+Kiwi,Kg,800.0,900.0,850.0,Summer Monsoon,Fruit,2023,July,18
+Kiwi,Kg,800.0,900.0,850.0,Summer Monsoon,Fruit,2023,July,19
+Kiwi,Kg,800.0,900.0,850.0,Summer Monsoon,Fruit,2023,July,20
+Kiwi,Kg,800.0,900.0,850.0,Summer Monsoon,Fruit,2023,July,21
+Kiwi,Kg,800.0,900.0,850.0,Summer Monsoon,Fruit,2023,July,22
+Kiwi,Kg,800.0,900.0,850.0,Summer Monsoon,Fruit,2023,July,23
+Kiwi,Kg,800.0,900.0,850.0,Summer Monsoon,Fruit,2023,July,24
+Kiwi,Kg,800.0,900.0,850.0,Summer Monsoon,Fruit,2023,July,25
+Kiwi,Kg,800.0,900.0,850.0,Summer Monsoon,Fruit,2023,July,26
+Kiwi,Kg,800.0,900.0,850.0,Summer Monsoon,Fruit,2023,July,27
+Kiwi,Kg,800.0,900.0,850.0,Summer Monsoon,Fruit,2023,July,28
+Kiwi,Kg,800.0,900.0,866.67,Summer Monsoon,Fruit,2023,July,29
+Kiwi,Kg,800.0,900.0,850.0,Summer Monsoon,Fruit,2023,July,30
+Kiwi,Kg,750.0,800.0,775.0,Summer Monsoon,Fruit,2023,July,31
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,June,1
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,June,2
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,June,3
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,June,4
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,June,5
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,June,6
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,June,7
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,June,8
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,June,9
+Kiwi,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,10
+Kiwi,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,11
+Kiwi,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,12
+Kiwi,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,13
+Kiwi,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,14
+Kiwi,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,15
+Kiwi,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,16
+Kiwi,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,17
+Kiwi,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,18
+Kiwi,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,19
+Kiwi,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,20
+Kiwi,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,21
+Kiwi,Kg,700.0,800.0,750.0,Early Summer,Fruit,2023,June,22
+Kiwi,Kg,700.0,800.0,750.0,Early Summer,Fruit,2023,June,23
+Kiwi,Kg,700.0,800.0,750.0,Early Summer,Fruit,2023,June,24
+Kiwi,Kg,700.0,800.0,750.0,Early Summer,Fruit,2023,June,25
+Kiwi,Kg,800.0,900.0,850.0,Early Summer,Fruit,2023,June,26
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2023,March,1
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2023,March,2
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2023,March,3
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2023,March,5
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2023,March,6
+Kiwi,Kg,250.0,300.0,283.33,Winter,Fruit,2023,March,7
+Kiwi,Kg,300.0,400.0,350.0,Winter,Fruit,2023,March,8
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2023,March,9
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2023,March,10
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2023,March,11
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2023,March,12
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2023,March,13
+Kiwi,Kg,400.0,500.0,450.0,Winter,Fruit,2023,March,14
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,15
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,16
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,17
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,18
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,19
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,20
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,21
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,22
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,23
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,24
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,25
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,26
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,27
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,28
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,29
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,30
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,March,31
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,1
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,2
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,3
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,4
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,5
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,6
+Kiwi,Kg,500.0,600.0,550.0,Spring,Fruit,2023,May,7
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,8
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,9
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,10
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,11
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,12
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,13
+Kiwi,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,14
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,15
+Kiwi,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,May,16
+Kiwi,Kg,450.0,500.0,483.33,Early Summer,Fruit,2023,May,17
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,18
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,19
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,20
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,21
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,22
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,23
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,24
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,25
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,26
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,27
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,28
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,29
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,30
+Kiwi,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,31
+Kiwi,Kg,700.0,800.0,750.0,Summer Monsoon,Fruit,2023,September,1
+Kiwi,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,September,2
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2023,September,3
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2023,September,4
+Kiwi,Kg,600.0,700.0,650.0,Summer Monsoon,Fruit,2023,September,5
+Kiwi,Kg,350.0,400.0,375.0,Summer Monsoon,Fruit,2023,September,10
+Kiwi,Kg,400.0,450.0,425.0,Summer Monsoon,Fruit,2023,September,11
+Kiwi,Kg,400.0,450.0,425.0,Summer Monsoon,Fruit,2023,September,12
+Kiwi,Kg,400.0,450.0,425.0,Summer Monsoon,Fruit,2023,September,13
+Kiwi,Kg,400.0,450.0,425.0,Summer Monsoon,Fruit,2023,September,14
+Kiwi,Kg,400.0,450.0,425.0,Early Autumn,Fruit,2023,September,15
+Kiwi,Kg,400.0,450.0,425.0,Early Autumn,Fruit,2023,September,16
+Kiwi,Kg,400.0,450.0,425.0,Early Autumn,Fruit,2023,September,17
+Kiwi,Kg,400.0,450.0,425.0,Early Autumn,Fruit,2023,September,18
+Kiwi,Kg,400.0,450.0,425.0,Early Autumn,Fruit,2023,September,19
+Kiwi,Kg,400.0,450.0,425.0,Early Autumn,Fruit,2023,September,20
+Kiwi,Kg,400.0,450.0,425.0,Early Autumn,Fruit,2023,September,21
+Kiwi,Kg,400.0,450.0,425.0,Early Autumn,Fruit,2023,September,22
+Kiwi,Kg,400.0,450.0,425.0,Early Autumn,Fruit,2023,September,23
+Kiwi,Kg,400.0,450.0,425.0,Early Autumn,Fruit,2023,September,24
+Kiwi,Kg,400.0,450.0,425.0,Early Autumn,Fruit,2023,September,25
+Kiwi,Kg,400.0,450.0,425.0,Early Autumn,Fruit,2023,September,26
+Kiwi,Kg,400.0,420.0,410.0,Early Autumn,Fruit,2023,September,27
+Kiwi,Kg,400.0,450.0,425.0,Early Autumn,Fruit,2023,September,28

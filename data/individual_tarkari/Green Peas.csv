@@ -1,0 +1,2194 @@
+Commodity,Unit,Minimum,Maximum,Average,Season,Category,Year,Month,Day
+Green Peas,Kg,90.0,100.0,95.0,Summer Monsoon,Vegetable,2013,August,2
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2013,December,1
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2013,December,2
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2013,December,3
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2013,December,4
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2013,December,5
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2013,December,6
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2013,December,8
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2013,December,9
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2013,December,10
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2013,December,11
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2013,December,12
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2013,December,13
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2013,December,15
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2013,December,16
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2013,December,18
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2013,December,19
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2013,December,20
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2013,December,22
+Green Peas,Kg,35.0,40.0,37.5,Late Autumn,Vegetable,2013,December,23
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2013,December,24
+Green Peas,Kg,40.0,45.0,42.5,Late Autumn,Vegetable,2013,December,26
+Green Peas,Kg,40.0,44.0,42.0,Late Autumn,Vegetable,2013,December,27
+Green Peas,Kg,30.0,35.0,32.5,Late Autumn,Vegetable,2013,December,29
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,31
+Green Peas,Kg,130.0,140.0,135.0,Summer Monsoon,Vegetable,2013,July,22
+Green Peas,Kg,140.0,150.0,145.0,Summer Monsoon,Vegetable,2013,July,25
+Green Peas,Kg,140.0,150.0,145.0,Summer Monsoon,Vegetable,2013,July,26
+Green Peas,Kg,130.0,140.0,135.0,Summer Monsoon,Vegetable,2013,July,28
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2013,June,16
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2013,June,17
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2013,June,18
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2013,June,19
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2013,June,20
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2013,June,21
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2013,June,25
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2013,June,26
+Green Peas,Kg,90.0,100.0,95.0,Early Autumn,Vegetable,2013,November,1
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2013,November,3
+Green Peas,Kg,90.0,100.0,95.0,Early Autumn,Vegetable,2013,November,4
+Green Peas,Kg,140.0,150.0,145.0,Early Autumn,Vegetable,2013,November,6
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2013,November,7
+Green Peas,Kg,70.0,80.0,75.0,Early Autumn,Vegetable,2013,November,10
+Green Peas,Kg,60.0,70.0,65.0,Early Autumn,Vegetable,2013,November,11
+Green Peas,Kg,50.0,60.0,55.0,Early Autumn,Vegetable,2013,November,12
+Green Peas,Kg,60.0,75.0,67.5,Early Autumn,Vegetable,2013,November,13
+Green Peas,Kg,60.0,75.0,67.5,Early Autumn,Vegetable,2013,November,14
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2013,November,15
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2013,November,16
+Green Peas,Kg,85.0,95.0,90.0,Late Autumn,Vegetable,2013,November,17
+Green Peas,Kg,75.0,90.0,82.5,Late Autumn,Vegetable,2013,November,18
+Green Peas,Kg,100.0,120.0,110.0,Late Autumn,Vegetable,2013,November,20
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2013,November,21
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2013,November,22
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2013,November,24
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2013,November,25
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2013,November,26
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2013,November,27
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2013,November,28
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2013,November,29
+Green Peas,Kg,150.0,160.0,155.0,Early Autumn,Vegetable,2013,October,1
+Green Peas,Kg,120.0,140.0,130.0,Early Autumn,Vegetable,2013,October,2
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2013,October,3
+Green Peas,Kg,110.0,130.0,120.0,Early Autumn,Vegetable,2013,October,4
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2013,October,6
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2013,October,7
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2013,October,8
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2013,October,9
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2013,October,10
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2013,October,11
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2013,October,12
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2013,October,14
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2013,October,15
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2013,October,16
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2013,October,17
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2013,October,20
+Green Peas,Kg,80.0,100.0,90.0,Early Autumn,Vegetable,2013,October,21
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2013,October,22
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2013,October,23
+Green Peas,Kg,90.0,100.0,95.0,Early Autumn,Vegetable,2013,October,24
+Green Peas,Kg,90.0,100.0,95.0,Early Autumn,Vegetable,2013,October,25
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2013,October,27
+Green Peas,Kg,90.0,100.0,95.0,Early Autumn,Vegetable,2013,October,28
+Green Peas,Kg,100.0,120.0,110.0,Early Autumn,Vegetable,2013,October,29
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2013,October,30
+Green Peas,Kg,90.0,100.0,95.0,Early Autumn,Vegetable,2013,October,31
+Green Peas,Kg,38.0,45.0,41.5,Spring,Vegetable,2014,April,1
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2014,April,2
+Green Peas,Kg,40.0,46.0,43.0,Spring,Vegetable,2014,April,3
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2014,April,4
+Green Peas,Kg,38.0,45.0,41.5,Spring,Vegetable,2014,April,6
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2014,April,7
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2014,April,9
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2014,April,10
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2014,April,11
+Green Peas,Kg,38.0,42.0,40.0,Spring,Vegetable,2014,April,13
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2014,April,15
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2014,April,16
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2014,April,17
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2014,April,18
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2014,April,20
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2014,April,21
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2014,April,22
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2014,April,23
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2014,April,25
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2014,April,27
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2014,April,28
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2014,April,29
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2014,April,30
+Green Peas,Kg,55.0,60.0,57.5,Summer Monsoon,Vegetable,2014,August,29
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2014,December,1
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2014,December,2
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2014,December,3
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2014,December,4
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2014,December,5
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2014,December,6
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2014,December,7
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2014,December,8
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2014,December,9
+Green Peas,Kg,65.0,70.0,67.5,Late Autumn,Vegetable,2014,December,10
+Green Peas,Kg,55.0,60.0,57.5,Late Autumn,Vegetable,2014,December,11
+Green Peas,Kg,50.0,55.0,52.5,Late Autumn,Vegetable,2014,December,12
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2014,December,13
+Green Peas,Kg,50.0,55.0,52.5,Late Autumn,Vegetable,2014,December,14
+Green Peas,Kg,55.0,65.0,60.0,Late Autumn,Vegetable,2014,December,15
+Green Peas,Kg,55.0,60.0,57.5,Late Autumn,Vegetable,2014,December,16
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2014,December,17
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2014,December,18
+Green Peas,Kg,60.0,65.0,62.5,Late Autumn,Vegetable,2014,December,19
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2014,December,21
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2014,December,22
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2014,December,23
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2014,December,24
+Green Peas,Kg,50.0,55.0,52.5,Late Autumn,Vegetable,2014,December,25
+Green Peas,Kg,55.0,60.0,57.5,Late Autumn,Vegetable,2014,December,26
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2014,December,27
+Green Peas,Kg,60.0,62.0,61.0,Late Autumn,Vegetable,2014,December,28
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2014,December,29
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2014,December,30
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2014,December,31
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2014,February,2
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2014,February,3
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2014,February,4
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2014,February,5
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2014,February,6
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2014,February,7
+Green Peas,Kg,24.0,40.0,32.0,Winter,Vegetable,2014,February,8
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2014,February,9
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2014,February,10
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2014,February,11
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2014,February,12
+Green Peas,Kg,38.0,42.0,40.0,Winter,Vegetable,2014,February,13
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2014,February,14
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2014,February,16
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2014,February,17
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2014,February,18
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2014,February,20
+Green Peas,Kg,30.0,40.0,35.0,Winter,Vegetable,2014,February,21
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2014,February,23
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2014,February,24
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2014,February,25
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2014,February,26
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2014,February,28
+Green Peas,Kg,30.0,35.0,32.5,Late Autumn,Vegetable,2014,January,1
+Green Peas,Kg,30.0,35.0,32.5,Late Autumn,Vegetable,2014,January,2
+Green Peas,Kg,40.0,45.0,42.5,Late Autumn,Vegetable,2014,January,3
+Green Peas,Kg,25.0,30.0,27.5,Late Autumn,Vegetable,2014,January,5
+Green Peas,Kg,28.0,32.0,30.0,Late Autumn,Vegetable,2014,January,6
+Green Peas,Kg,24.0,28.0,26.0,Late Autumn,Vegetable,2014,January,7
+Green Peas,Kg,22.0,26.0,24.0,Late Autumn,Vegetable,2014,January,8
+Green Peas,Kg,22.0,25.0,23.5,Late Autumn,Vegetable,2014,January,9
+Green Peas,Kg,22.0,26.0,24.0,Late Autumn,Vegetable,2014,January,10
+Green Peas,Kg,30.0,35.0,32.5,Late Autumn,Vegetable,2014,January,12
+Green Peas,Kg,26.0,30.0,28.0,Late Autumn,Vegetable,2014,January,13
+Green Peas,Kg,28.0,35.0,31.5,Late Autumn,Vegetable,2014,January,14
+Green Peas,Kg,25.0,35.0,30.0,Winter,Vegetable,2014,January,16
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2014,January,17
+Green Peas,Kg,20.0,25.0,22.5,Winter,Vegetable,2014,January,19
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2014,January,20
+Green Peas,Kg,25.0,30.0,27.5,Winter,Vegetable,2014,January,21
+Green Peas,Kg,25.0,30.0,27.5,Winter,Vegetable,2014,January,22
+Green Peas,Kg,25.0,30.0,27.5,Winter,Vegetable,2014,January,23
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2014,January,24
+Green Peas,Kg,25.0,30.0,27.5,Winter,Vegetable,2014,January,26
+Green Peas,Kg,26.0,32.0,29.0,Winter,Vegetable,2014,January,27
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2014,January,28
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2014,January,29
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2014,June,1
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2014,June,2
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2014,June,3
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2014,June,4
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2014,June,5
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2014,June,6
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2014,June,8
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2014,June,9
+Green Peas,Kg,80.0,90.0,85.0,Early Summer,Vegetable,2014,June,10
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2014,June,11
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2014,June,12
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2014,June,13
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2014,June,15
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2014,June,16
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2014,June,17
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2014,June,18
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2014,June,19
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2014,June,20
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2014,June,23
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2014,June,25
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2014,June,26
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2014,June,27
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2014,June,29
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2014,June,30
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2014,March,3
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2014,March,5
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2014,March,6
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2014,March,7
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2014,March,9
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2014,March,10
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2014,March,11
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2014,March,12
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2014,March,13
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2014,March,14
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2014,March,17
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2014,March,18
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2014,March,19
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2014,March,20
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2014,March,21
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2014,March,23
+Green Peas,Kg,38.0,45.0,41.5,Spring,Vegetable,2014,March,24
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2014,March,25
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2014,March,26
+Green Peas,Kg,38.0,42.0,40.0,Spring,Vegetable,2014,March,27
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2014,March,28
+Green Peas,Kg,36.0,42.0,39.0,Spring,Vegetable,2014,March,31
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2014,May,2
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2014,May,4
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2014,May,5
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2014,May,6
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2014,May,7
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2014,May,8
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2014,May,9
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2014,May,11
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2014,May,12
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2014,May,13
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,15
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,16
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,18
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,19
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,20
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,21
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,22
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,23
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,25
+Green Peas,Kg,60.0,65.0,62.5,Early Summer,Vegetable,2014,May,26
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,27
+Green Peas,Kg,60.0,70.0,65.0,Early Summer,Vegetable,2014,May,28
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,30
+Green Peas,Kg,70.0,80.0,75.0,Early Autumn,Vegetable,2014,November,1
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2014,November,2
+Green Peas,Kg,75.0,80.0,77.5,Early Autumn,Vegetable,2014,November,3
+Green Peas,Kg,70.0,80.0,75.0,Early Autumn,Vegetable,2014,November,4
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2014,November,5
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2014,November,6
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2014,November,7
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2014,November,8
+Green Peas,Kg,70.0,80.0,75.0,Early Autumn,Vegetable,2014,November,9
+Green Peas,Kg,70.0,80.0,75.0,Early Autumn,Vegetable,2014,November,10
+Green Peas,Kg,70.0,80.0,75.0,Early Autumn,Vegetable,2014,November,11
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2014,November,12
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2014,November,13
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2014,November,14
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2014,November,15
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2014,November,16
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2014,November,17
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2014,November,18
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2014,November,19
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2014,November,20
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2014,November,21
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2014,November,22
+Green Peas,Kg,85.0,95.0,90.0,Late Autumn,Vegetable,2014,November,23
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2014,November,24
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2014,November,25
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2014,November,26
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2014,November,27
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2014,November,28
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2014,November,29
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2014,November,30
+Green Peas,Kg,120.0,140.0,130.0,Early Autumn,Vegetable,2014,October,8
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2014,October,9
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2014,October,10
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2014,October,12
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2014,October,13
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2014,October,14
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2014,October,15
+Green Peas,Kg,90.0,100.0,95.0,Early Autumn,Vegetable,2014,October,16
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2014,October,17
+Green Peas,Kg,90.0,100.0,95.0,Early Autumn,Vegetable,2014,October,19
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2014,October,20
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2014,October,21
+Green Peas,Kg,85.0,90.0,87.5,Early Autumn,Vegetable,2014,October,22
+Green Peas,Kg,80.0,85.0,82.5,Early Autumn,Vegetable,2014,October,23
+Green Peas,Kg,80.0,85.0,82.5,Early Autumn,Vegetable,2014,October,24
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2014,October,25
+Green Peas,Kg,140.0,160.0,150.0,Early Autumn,Vegetable,2014,October,26
+Green Peas,Kg,130.0,140.0,135.0,Early Autumn,Vegetable,2014,October,27
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2014,October,28
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2014,October,29
+Green Peas,Kg,65.0,75.0,70.0,Early Autumn,Vegetable,2014,October,30
+Green Peas,Kg,70.0,80.0,75.0,Early Autumn,Vegetable,2014,October,31
+Green Peas,Kg,130.0,140.0,135.0,Early Autumn,Vegetable,2014,September,29
+Green Peas,Kg,130.0,140.0,135.0,Early Autumn,Vegetable,2014,September,30
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2015,April,1
+Green Peas,Kg,32.0,42.0,37.0,Spring,Vegetable,2015,April,2
+Green Peas,Kg,25.0,30.0,27.5,Spring,Vegetable,2015,April,3
+Green Peas,Kg,30.0,40.0,35.0,Spring,Vegetable,2015,April,4
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2015,April,5
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2015,April,6
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2015,April,7
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2015,April,8
+Green Peas,Kg,35.0,45.0,40.0,Spring,Vegetable,2015,April,10
+Green Peas,Kg,30.0,32.0,31.0,Spring,Vegetable,2015,April,12
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2015,April,13
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2015,April,14
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2015,April,15
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2015,April,16
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2015,April,17
+Green Peas,Kg,32.0,35.0,33.5,Spring,Vegetable,2015,April,18
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2015,April,19
+Green Peas,Kg,35.0,45.0,40.0,Spring,Vegetable,2015,April,20
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2015,April,21
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2015,April,22
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2015,April,23
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2015,April,24
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2015,April,25
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2015,April,26
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2015,April,27
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2015,April,28
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2015,April,29
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2015,April,30
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2015,December,1
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2015,December,2
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2015,December,3
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2015,December,4
+Green Peas,Kg,80.0,100.0,90.0,Late Autumn,Vegetable,2015,December,5
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2015,December,6
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2015,December,7
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2015,December,8
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2015,December,9
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2015,December,10
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2015,December,11
+Green Peas,Kg,90.0,110.0,100.0,Late Autumn,Vegetable,2015,December,12
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2015,December,13
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2015,December,14
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2015,December,15
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2015,December,16
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2015,December,17
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2015,December,18
+Green Peas,Kg,80.0,100.0,90.0,Late Autumn,Vegetable,2015,December,19
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2015,December,20
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2015,December,21
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2015,December,22
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2015,December,23
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2015,December,24
+Green Peas,Kg,90.0,120.0,105.0,Late Autumn,Vegetable,2015,December,25
+Green Peas,Kg,90.0,110.0,100.0,Late Autumn,Vegetable,2015,December,26
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2015,December,27
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2015,December,28
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2015,December,29
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2015,December,30
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2015,December,31
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,1
+Green Peas,Kg,48.0,52.0,50.0,Winter,Vegetable,2015,February,2
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,3
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,4
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2015,February,5
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,6
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,7
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,8
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,9
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,10
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,11
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,12
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,13
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,14
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,15
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,16
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,18
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2015,February,19
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2015,February,20
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2015,February,22
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2015,February,23
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,24
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,25
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,February,26
+Green Peas,Kg,48.0,52.0,50.0,Winter,Vegetable,2015,February,27
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2015,January,1
+Green Peas,Kg,50.0,55.0,52.5,Late Autumn,Vegetable,2015,January,2
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2015,January,3
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2015,January,4
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2015,January,5
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2015,January,6
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2015,January,7
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2015,January,8
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2015,January,9
+Green Peas,Kg,55.0,60.0,57.5,Late Autumn,Vegetable,2015,January,11
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2015,January,12
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2015,January,13
+Green Peas,Kg,55.0,60.0,57.5,Late Autumn,Vegetable,2015,January,14
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2015,January,15
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2015,January,16
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2015,January,17
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2015,January,18
+Green Peas,Kg,65.0,75.0,70.0,Winter,Vegetable,2015,January,19
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2015,January,20
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2015,January,21
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2015,January,22
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2015,January,23
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,January,25
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2015,January,26
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2015,January,27
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,January,28
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,January,29
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,January,31
+Green Peas,Kg,50.0,60.0,55.0,Early Summer,Vegetable,2015,July,9
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2015,June,1
+Green Peas,Kg,60.0,65.0,62.5,Early Summer,Vegetable,2015,June,2
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2015,June,3
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2015,June,4
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2015,June,5
+Green Peas,Kg,70.0,80.0,75.0,Early Summer,Vegetable,2015,June,6
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2015,June,7
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2015,June,8
+Green Peas,Kg,35.0,40.0,37.5,Early Summer,Vegetable,2015,June,21
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2015,March,1
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2015,March,2
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2015,March,3
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2015,March,6
+Green Peas,Kg,58.0,60.0,59.0,Winter,Vegetable,2015,March,9
+Green Peas,Kg,58.0,60.0,59.0,Winter,Vegetable,2015,March,10
+Green Peas,Kg,58.0,60.0,59.0,Winter,Vegetable,2015,March,11
+Green Peas,Kg,58.0,60.0,59.0,Winter,Vegetable,2015,March,12
+Green Peas,Kg,58.0,60.0,59.0,Winter,Vegetable,2015,March,13
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2015,March,14
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2015,March,15
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2015,March,16
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2015,March,17
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2015,March,18
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2015,March,19
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2015,March,20
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2015,March,21
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2015,March,22
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2015,March,23
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2015,March,24
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2015,March,25
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2015,March,26
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2015,March,27
+Green Peas,Kg,45.0,47.0,46.0,Spring,Vegetable,2015,March,28
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2015,March,29
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2015,March,30
+Green Peas,Kg,28.0,30.0,29.0,Spring,Vegetable,2015,March,31
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2015,May,2
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2015,May,3
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2015,May,4
+Green Peas,Kg,38.0,40.0,39.0,Spring,Vegetable,2015,May,5
+Green Peas,Kg,30.0,32.0,31.0,Spring,Vegetable,2015,May,6
+Green Peas,Kg,35.0,36.0,35.5,Spring,Vegetable,2015,May,7
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2015,May,8
+Green Peas,Kg,38.0,40.0,39.0,Spring,Vegetable,2015,May,10
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2015,May,11
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2015,May,12
+Green Peas,Kg,28.0,32.0,30.0,Spring,Vegetable,2015,May,13
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2015,May,14
+Green Peas,Kg,35.0,40.0,37.5,Early Summer,Vegetable,2015,May,15
+Green Peas,Kg,35.0,42.0,38.5,Early Summer,Vegetable,2015,May,16
+Green Peas,Kg,30.0,35.0,32.5,Early Summer,Vegetable,2015,May,17
+Green Peas,Kg,45.0,50.0,47.5,Early Summer,Vegetable,2015,May,18
+Green Peas,Kg,50.0,55.0,52.5,Early Summer,Vegetable,2015,May,19
+Green Peas,Kg,60.0,65.0,62.5,Early Summer,Vegetable,2015,May,20
+Green Peas,Kg,50.0,60.0,55.0,Early Summer,Vegetable,2015,May,21
+Green Peas,Kg,60.0,65.0,62.5,Early Summer,Vegetable,2015,May,22
+Green Peas,Kg,60.0,65.0,62.5,Early Summer,Vegetable,2015,May,23
+Green Peas,Kg,60.0,65.0,62.5,Early Summer,Vegetable,2015,May,24
+Green Peas,Kg,60.0,65.0,62.5,Early Summer,Vegetable,2015,May,25
+Green Peas,Kg,60.0,65.0,62.5,Early Summer,Vegetable,2015,May,26
+Green Peas,Kg,60.0,65.0,62.5,Early Summer,Vegetable,2015,May,27
+Green Peas,Kg,60.0,65.0,62.5,Early Summer,Vegetable,2015,May,28
+Green Peas,Kg,60.0,65.0,62.5,Early Summer,Vegetable,2015,May,29
+Green Peas,Kg,60.0,65.0,62.5,Early Summer,Vegetable,2015,May,30
+Green Peas,Kg,60.0,65.0,62.5,Early Summer,Vegetable,2015,May,31
+Green Peas,Kg,60.0,70.0,65.0,Early Autumn,Vegetable,2015,November,1
+Green Peas,Kg,60.0,70.0,65.0,Early Autumn,Vegetable,2015,November,2
+Green Peas,Kg,70.0,90.0,80.0,Early Autumn,Vegetable,2015,November,3
+Green Peas,Kg,70.0,80.0,75.0,Early Autumn,Vegetable,2015,November,4
+Green Peas,Kg,70.0,80.0,75.0,Early Autumn,Vegetable,2015,November,5
+Green Peas,Kg,60.0,70.0,65.0,Early Autumn,Vegetable,2015,November,6
+Green Peas,Kg,65.0,75.0,70.0,Early Autumn,Vegetable,2015,November,7
+Green Peas,Kg,90.0,100.0,95.0,Early Autumn,Vegetable,2015,November,8
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2015,November,9
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2015,November,10
+Green Peas,Kg,70.0,80.0,75.0,Early Autumn,Vegetable,2015,November,11
+Green Peas,Kg,90.0,120.0,105.0,Early Autumn,Vegetable,2015,November,12
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2015,November,15
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2015,November,16
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2015,November,17
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2015,November,18
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2015,November,19
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2015,November,20
+Green Peas,Kg,60.0,75.0,67.5,Late Autumn,Vegetable,2015,November,21
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2015,November,22
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2015,November,23
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2015,November,24
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2015,November,25
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2015,November,26
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2015,November,27
+Green Peas,Kg,80.0,110.0,95.0,Late Autumn,Vegetable,2015,November,28
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2015,November,29
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2015,November,30
+Green Peas,Kg,130.0,140.0,135.0,Early Autumn,Vegetable,2015,October,11
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2015,October,12
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2015,October,13
+Green Peas,Kg,130.0,140.0,135.0,Early Autumn,Vegetable,2015,October,14
+Green Peas,Kg,90.0,100.0,95.0,Early Autumn,Vegetable,2015,October,15
+Green Peas,Kg,90.0,100.0,95.0,Early Autumn,Vegetable,2015,October,16
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2015,October,17
+Green Peas,Kg,100.0,120.0,110.0,Early Autumn,Vegetable,2015,October,18
+Green Peas,Kg,90.0,100.0,95.0,Early Autumn,Vegetable,2015,October,19
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2015,October,20
+Green Peas,Kg,70.0,80.0,75.0,Early Autumn,Vegetable,2015,October,24
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2015,October,25
+Green Peas,Kg,80.0,90.0,85.0,Early Autumn,Vegetable,2015,October,26
+Green Peas,Kg,70.0,80.0,75.0,Early Autumn,Vegetable,2015,October,27
+Green Peas,Kg,60.0,70.0,65.0,Early Autumn,Vegetable,2015,October,28
+Green Peas,Kg,60.0,70.0,65.0,Early Autumn,Vegetable,2015,October,29
+Green Peas,Kg,50.0,60.0,55.0,Early Autumn,Vegetable,2015,October,30
+Green Peas,Kg,50.0,60.0,55.0,Early Autumn,Vegetable,2015,October,31
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,1
+Green Peas,Kg,60.0,65.0,62.5,Spring,Vegetable,2016,April,2
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,3
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,4
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,5
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,6
+Green Peas,Kg,60.0,65.0,62.5,Spring,Vegetable,2016,April,7
+Green Peas,Kg,60.0,65.0,62.5,Spring,Vegetable,2016,April,8
+Green Peas,Kg,65.0,70.0,67.5,Spring,Vegetable,2016,April,9
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,10
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,11
+Green Peas,Kg,80.0,90.0,85.0,Spring,Vegetable,2016,April,12
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2016,April,13
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2016,April,14
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2016,April,15
+Green Peas,Kg,100.0,120.0,110.0,Spring,Vegetable,2016,April,16
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2016,April,17
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2016,April,18
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2016,April,19
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2016,April,20
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2016,April,21
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2016,April,22
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2016,April,24
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2016,April,25
+Green Peas,Kg,100.0,110.0,105.0,Spring,Vegetable,2016,April,26
+Green Peas,Kg,100.0,110.0,105.0,Spring,Vegetable,2016,April,27
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2016,December,1
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2016,December,2
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2016,December,3
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2016,December,4
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2016,December,5
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2016,December,6
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2016,December,7
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2016,December,8
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2016,December,9
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2016,December,10
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2016,December,11
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2016,December,12
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2016,December,13
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2016,December,14
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2016,December,15
+Green Peas,Kg,75.0,85.0,80.0,Late Autumn,Vegetable,2016,December,16
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2016,December,17
+Green Peas,Kg,85.0,90.0,87.5,Late Autumn,Vegetable,2016,December,18
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2016,December,19
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2016,December,20
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2016,December,21
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2016,December,22
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2016,December,23
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2016,December,24
+Green Peas,Kg,35.0,40.0,37.5,Late Autumn,Vegetable,2016,December,25
+Green Peas,Kg,35.0,40.0,37.5,Late Autumn,Vegetable,2016,December,26
+Green Peas,Kg,35.0,40.0,37.5,Late Autumn,Vegetable,2016,December,27
+Green Peas,Kg,35.0,40.0,37.5,Late Autumn,Vegetable,2016,December,28
+Green Peas,Kg,30.0,35.0,32.5,Late Autumn,Vegetable,2016,December,29
+Green Peas,Kg,30.0,35.0,32.5,Late Autumn,Vegetable,2016,December,30
+Green Peas,Kg,28.0,30.0,29.0,Late Autumn,Vegetable,2016,December,31
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2016,February,1
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2016,February,2
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2016,February,3
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2016,February,4
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2016,February,5
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2016,February,6
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2016,February,7
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2016,February,8
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2016,February,9
+Green Peas,Kg,30.0,40.0,35.0,Winter,Vegetable,2016,February,10
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2016,February,11
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2016,February,12
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2016,February,13
+Green Peas,Kg,30.0,40.0,35.0,Winter,Vegetable,2016,February,14
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2016,February,15
+Green Peas,Kg,30.0,40.0,35.0,Winter,Vegetable,2016,February,16
+Green Peas,Kg,25.0,30.0,27.5,Winter,Vegetable,2016,February,17
+Green Peas,Kg,30.0,40.0,35.0,Winter,Vegetable,2016,February,18
+Green Peas,Kg,25.0,30.0,27.5,Winter,Vegetable,2016,February,19
+Green Peas,Kg,25.0,30.0,27.5,Winter,Vegetable,2016,February,20
+Green Peas,Kg,30.0,40.0,35.0,Winter,Vegetable,2016,February,21
+Green Peas,Kg,30.0,40.0,35.0,Winter,Vegetable,2016,February,22
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2016,February,23
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2016,February,24
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2016,February,25
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2016,February,26
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2016,February,27
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2016,February,28
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2016,February,29
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2016,January,1
+Green Peas,Kg,75.0,90.0,82.5,Late Autumn,Vegetable,2016,January,2
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2016,January,3
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2016,January,4
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2016,January,5
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2016,January,6
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2016,January,7
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2016,January,8
+Green Peas,Kg,70.0,85.0,77.5,Late Autumn,Vegetable,2016,January,9
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2016,January,10
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2016,January,11
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2016,January,12
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2016,January,13
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2016,January,14
+Green Peas,Kg,70.0,80.0,75.0,Winter,Vegetable,2016,January,15
+Green Peas,Kg,75.0,90.0,82.5,Winter,Vegetable,2016,January,16
+Green Peas,Kg,70.0,80.0,75.0,Winter,Vegetable,2016,January,17
+Green Peas,Kg,70.0,80.0,75.0,Winter,Vegetable,2016,January,18
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2016,January,19
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2016,January,20
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2016,January,21
+Green Peas,Kg,70.0,80.0,75.0,Winter,Vegetable,2016,January,22
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2016,January,23
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2016,January,24
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2016,January,25
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2016,January,26
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2016,January,27
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2016,January,28
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2016,January,29
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2016,January,30
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2016,January,31
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2016,June,5
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2016,June,6
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2016,June,7
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2016,June,8
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2016,June,9
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2016,March,1
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2016,March,2
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2016,March,4
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2016,March,5
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2016,March,6
+Green Peas,Kg,45.0,55.0,50.0,Winter,Vegetable,2016,March,7
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2016,March,8
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2016,March,9
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2016,March,10
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2016,March,11
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2016,March,12
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2016,March,13
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2016,March,15
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2016,March,16
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2016,March,17
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2016,March,18
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2016,March,19
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2016,March,20
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2016,March,21
+Green Peas,Kg,50.0,70.0,60.0,Spring,Vegetable,2016,March,22
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,March,23
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2016,March,24
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2016,March,25
+Green Peas,Kg,58.0,65.0,61.5,Spring,Vegetable,2016,March,26
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,March,27
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,March,28
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,March,29
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,March,30
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,March,31
+Green Peas,Kg,150.0,160.0,155.0,Early Autumn,Vegetable,2016,November,1
+Green Peas,Kg,140.0,150.0,145.0,Early Autumn,Vegetable,2016,November,2
+Green Peas,Kg,200.0,210.0,205.0,Early Autumn,Vegetable,2016,November,3
+Green Peas,Kg,190.0,200.0,195.0,Early Autumn,Vegetable,2016,November,4
+Green Peas,Kg,130.0,140.0,135.0,Early Autumn,Vegetable,2016,November,5
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2016,November,6
+Green Peas,Kg,90.0,95.0,92.5,Early Autumn,Vegetable,2016,November,7
+Green Peas,Kg,90.0,100.0,95.0,Early Autumn,Vegetable,2016,November,8
+Green Peas,Kg,95.0,100.0,97.5,Early Autumn,Vegetable,2016,November,9
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2016,November,10
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2016,November,11
+Green Peas,Kg,140.0,150.0,145.0,Early Autumn,Vegetable,2016,November,12
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2016,November,13
+Green Peas,Kg,95.0,100.0,97.5,Early Autumn,Vegetable,2016,November,14
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2016,November,15
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2016,November,16
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2016,November,17
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2016,November,18
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2016,November,19
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2016,November,20
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2016,November,21
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2016,November,22
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2016,November,23
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2016,November,24
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2016,November,25
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2016,November,26
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2016,November,27
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2016,November,28
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2016,November,29
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2016,November,30
+Green Peas,Kg,150.0,160.0,155.0,Early Autumn,Vegetable,2016,October,16
+Green Peas,Kg,150.0,160.0,155.0,Early Autumn,Vegetable,2016,October,17
+Green Peas,Kg,150.0,160.0,155.0,Early Autumn,Vegetable,2016,October,18
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2016,October,19
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2016,October,20
+Green Peas,Kg,150.0,160.0,155.0,Early Autumn,Vegetable,2016,October,21
+Green Peas,Kg,150.0,160.0,155.0,Early Autumn,Vegetable,2016,October,22
+Green Peas,Kg,150.0,160.0,155.0,Early Autumn,Vegetable,2016,October,23
+Green Peas,Kg,150.0,160.0,155.0,Early Autumn,Vegetable,2016,October,24
+Green Peas,Kg,150.0,160.0,155.0,Early Autumn,Vegetable,2016,October,25
+Green Peas,Kg,150.0,160.0,155.0,Early Autumn,Vegetable,2016,October,26
+Green Peas,Kg,150.0,160.0,155.0,Early Autumn,Vegetable,2016,October,27
+Green Peas,Kg,150.0,160.0,155.0,Early Autumn,Vegetable,2016,October,28
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2016,October,29
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2016,October,30
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2016,October,31
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,April,1
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2017,April,2
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2017,April,3
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2017,April,4
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2017,April,5
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2017,April,6
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,April,7
+Green Peas,Kg,60.0,68.0,64.0,Spring,Vegetable,2017,April,8
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2017,April,9
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2017,April,10
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2017,April,11
+Green Peas,Kg,65.0,70.0,67.5,Spring,Vegetable,2017,April,12
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2017,April,13
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2017,April,14
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2017,April,15
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,April,16
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2017,April,17
+Green Peas,Kg,60.0,65.0,62.5,Spring,Vegetable,2017,April,18
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2017,April,19
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2017,April,20
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2017,April,21
+Green Peas,Kg,48.0,52.0,50.0,Spring,Vegetable,2017,April,22
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,April,23
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,April,24
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2017,April,25
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2017,April,26
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2017,April,27
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,April,28
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,April,29
+Green Peas,Kg,90.0,95.0,92.5,Spring,Vegetable,2017,April,30
+Green Peas,Kg,85.0,90.0,87.5,Late Autumn,Vegetable,2017,December,1
+Green Peas,Kg,85.0,90.0,87.5,Late Autumn,Vegetable,2017,December,2
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2017,December,3
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2017,December,4
+Green Peas,Kg,100.0,120.0,110.0,Late Autumn,Vegetable,2017,December,5
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2017,December,6
+Green Peas,Kg,100.0,120.0,110.0,Late Autumn,Vegetable,2017,December,8
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2017,December,9
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2017,December,10
+Green Peas,Kg,80.0,85.0,82.5,Late Autumn,Vegetable,2017,December,11
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2017,December,12
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2017,December,13
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2017,December,14
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2017,December,15
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2017,December,16
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2017,December,17
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2017,December,18
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2017,December,19
+Green Peas,Kg,70.0,75.0,72.5,Late Autumn,Vegetable,2017,December,20
+Green Peas,Kg,60.0,65.0,62.5,Late Autumn,Vegetable,2017,December,27
+Green Peas,Kg,65.0,70.0,67.5,Late Autumn,Vegetable,2017,December,28
+Green Peas,Kg,60.0,65.0,62.5,Late Autumn,Vegetable,2017,December,29
+Green Peas,Kg,60.0,65.0,62.5,Late Autumn,Vegetable,2017,December,30
+Green Peas,Kg,60.0,65.0,62.5,Late Autumn,Vegetable,2017,December,31
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2017,February,1
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2017,February,2
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2017,February,3
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2017,February,4
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2017,February,5
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2017,February,6
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,February,7
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,February,8
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,February,9
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,February,10
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2017,February,11
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,February,12
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2017,February,13
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2017,February,14
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,February,15
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2017,February,16
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,February,17
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,February,18
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2017,February,19
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2017,February,20
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2017,February,21
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2017,February,22
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2017,February,23
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2017,February,25
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2017,February,26
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,February,27
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,February,28
+Green Peas,Kg,25.0,30.0,27.5,Late Autumn,Vegetable,2017,January,1
+Green Peas,Kg,25.0,30.0,27.5,Late Autumn,Vegetable,2017,January,2
+Green Peas,Kg,25.0,30.0,27.5,Late Autumn,Vegetable,2017,January,3
+Green Peas,Kg,25.0,30.0,27.5,Late Autumn,Vegetable,2017,January,4
+Green Peas,Kg,25.0,30.0,27.5,Late Autumn,Vegetable,2017,January,5
+Green Peas,Kg,25.0,30.0,27.5,Late Autumn,Vegetable,2017,January,6
+Green Peas,Kg,25.0,30.0,27.5,Late Autumn,Vegetable,2017,January,7
+Green Peas,Kg,25.0,30.0,27.5,Late Autumn,Vegetable,2017,January,8
+Green Peas,Kg,25.0,30.0,27.5,Late Autumn,Vegetable,2017,January,9
+Green Peas,Kg,25.0,30.0,27.5,Late Autumn,Vegetable,2017,January,10
+Green Peas,Kg,28.0,35.0,31.5,Late Autumn,Vegetable,2017,January,11
+Green Peas,Kg,30.0,35.0,32.5,Late Autumn,Vegetable,2017,January,12
+Green Peas,Kg,30.0,35.0,32.5,Late Autumn,Vegetable,2017,January,13
+Green Peas,Kg,35.0,40.0,37.5,Late Autumn,Vegetable,2017,January,14
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2017,January,15
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2017,January,16
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2017,January,17
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2017,January,18
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2017,January,19
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2017,January,20
+Green Peas,Kg,30.0,36.0,33.0,Winter,Vegetable,2017,January,21
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2017,January,22
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2017,January,23
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2017,January,24
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2017,January,25
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2017,January,26
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2017,January,27
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2017,January,28
+Green Peas,Kg,38.0,45.0,41.5,Winter,Vegetable,2017,January,29
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2017,January,30
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2017,January,31
+Green Peas,Kg,200.0,210.0,205.0,Early Summer,Vegetable,2017,July,9
+Green Peas,Kg,80.0,90.0,85.0,Early Summer,Vegetable,2017,June,1
+Green Peas,Kg,70.0,80.0,75.0,Early Summer,Vegetable,2017,June,2
+Green Peas,Kg,70.0,80.0,75.0,Early Summer,Vegetable,2017,June,3
+Green Peas,Kg,80.0,90.0,85.0,Early Summer,Vegetable,2017,June,4
+Green Peas,Kg,80.0,90.0,85.0,Early Summer,Vegetable,2017,June,5
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2017,June,6
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2017,June,7
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2017,June,8
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2017,June,9
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2017,June,10
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2017,June,11
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2017,June,12
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2017,June,13
+Green Peas,Kg,80.0,90.0,85.0,Early Summer,Vegetable,2017,June,18
+Green Peas,Kg,80.0,90.0,85.0,Early Summer,Vegetable,2017,June,19
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2017,March,1
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,March,2
+Green Peas,Kg,45.0,55.0,50.0,Winter,Vegetable,2017,March,4
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,March,5
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,March,6
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,March,7
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,March,8
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,March,9
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,March,10
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,March,11
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,March,13
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2017,March,14
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2017,March,15
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,March,16
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,March,17
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,March,18
+Green Peas,Kg,60.0,65.0,62.5,Spring,Vegetable,2017,March,19
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,March,20
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,March,21
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,March,22
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,March,23
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,March,24
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,March,25
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,March,26
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2017,March,27
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,March,28
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2017,March,29
+Green Peas,Kg,60.0,65.0,62.5,Spring,Vegetable,2017,March,30
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2017,March,31
+Green Peas,Kg,100.0,110.0,105.0,Spring,Vegetable,2017,May,1
+Green Peas,Kg,100.0,110.0,105.0,Spring,Vegetable,2017,May,2
+Green Peas,Kg,100.0,110.0,105.0,Spring,Vegetable,2017,May,3
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2017,May,4
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2017,May,5
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2017,May,6
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2017,May,7
+Green Peas,Kg,80.0,90.0,85.0,Spring,Vegetable,2017,May,8
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2017,May,9
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2017,May,10
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2017,May,11
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2017,May,15
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2017,May,16
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2017,May,17
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2017,May,18
+Green Peas,Kg,80.0,90.0,85.0,Early Summer,Vegetable,2017,May,19
+Green Peas,Kg,80.0,90.0,85.0,Early Summer,Vegetable,2017,May,20
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2017,May,21
+Green Peas,Kg,80.0,90.0,85.0,Early Summer,Vegetable,2017,May,22
+Green Peas,Kg,80.0,90.0,85.0,Early Summer,Vegetable,2017,May,23
+Green Peas,Kg,70.0,80.0,75.0,Early Summer,Vegetable,2017,May,24
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2017,May,25
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2017,May,26
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2017,May,27
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2017,May,28
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2017,May,29
+Green Peas,Kg,80.0,90.0,85.0,Early Summer,Vegetable,2017,May,30
+Green Peas,Kg,80.0,90.0,85.0,Early Summer,Vegetable,2017,May,31
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2017,November,1
+Green Peas,Kg,95.0,100.0,97.5,Early Autumn,Vegetable,2017,November,2
+Green Peas,Kg,90.0,95.0,92.5,Early Autumn,Vegetable,2017,November,3
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2017,November,4
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2017,November,5
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2017,November,6
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2017,November,7
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2017,November,8
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2017,November,9
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2017,November,10
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2017,November,11
+Green Peas,Kg,110.0,125.0,117.5,Early Autumn,Vegetable,2017,November,12
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2017,November,13
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2017,November,14
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2017,November,15
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2017,November,16
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2017,November,17
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2017,November,18
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2017,November,19
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2017,November,20
+Green Peas,Kg,90.0,95.0,92.5,Late Autumn,Vegetable,2017,November,21
+Green Peas,Kg,90.0,95.0,92.5,Late Autumn,Vegetable,2017,November,22
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2017,November,23
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2017,November,24
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2017,November,25
+Green Peas,Kg,100.0,120.0,110.0,Late Autumn,Vegetable,2017,November,26
+Green Peas,Kg,100.0,120.0,110.0,Late Autumn,Vegetable,2017,November,27
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2017,November,28
+Green Peas,Kg,90.0,95.0,92.5,Late Autumn,Vegetable,2017,November,29
+Green Peas,Kg,90.0,95.0,92.5,Late Autumn,Vegetable,2017,November,30
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2017,October,13
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2017,October,14
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2017,October,15
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2017,October,16
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2017,October,17
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2017,October,18
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2017,October,19
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2017,October,20
+Green Peas,Kg,190.0,200.0,195.0,Early Autumn,Vegetable,2017,October,23
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2017,October,24
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2017,October,25
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2017,October,26
+Green Peas,Kg,95.0,100.0,97.5,Early Autumn,Vegetable,2017,October,27
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2017,October,28
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2017,October,29
+Green Peas,Kg,95.0,100.0,97.5,Early Autumn,Vegetable,2017,October,30
+Green Peas,Kg,95.0,100.0,97.5,Early Autumn,Vegetable,2017,October,31
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,April,1
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,April,2
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,April,3
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,April,4
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,April,5
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,April,6
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2018,April,7
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2018,April,8
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2018,April,9
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2018,April,10
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2018,April,11
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,April,12
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,April,13
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,April,14
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,April,15
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2018,April,16
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,April,17
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2018,April,18
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2018,April,19
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2018,April,20
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,April,21
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2018,April,22
+Green Peas,Kg,75.0,80.0,77.5,Spring,Vegetable,2018,April,23
+Green Peas,Kg,75.0,80.0,77.5,Spring,Vegetable,2018,April,24
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2018,April,25
+Green Peas,Kg,65.0,70.0,67.5,Spring,Vegetable,2018,April,26
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2018,April,27
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2018,April,28
+Green Peas,Kg,75.0,80.0,77.5,Spring,Vegetable,2018,April,29
+Green Peas,Kg,75.0,80.0,77.5,Spring,Vegetable,2018,April,30
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2018,December,1
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2018,December,2
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2018,December,3
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2018,December,4
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2018,December,5
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2018,December,6
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2018,December,7
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2018,December,8
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2018,December,9
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2018,December,10
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2018,December,11
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2018,December,12
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2018,December,13
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2018,December,14
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2018,December,15
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2018,December,16
+Green Peas,Kg,55.0,60.0,57.5,Late Autumn,Vegetable,2018,December,17
+Green Peas,Kg,55.0,60.0,57.5,Late Autumn,Vegetable,2018,December,18
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2018,December,19
+Green Peas,Kg,55.0,60.0,57.5,Late Autumn,Vegetable,2018,December,20
+Green Peas,Kg,50.0,55.0,52.5,Late Autumn,Vegetable,2018,December,21
+Green Peas,Kg,55.0,60.0,57.5,Late Autumn,Vegetable,2018,December,22
+Green Peas,Kg,50.0,55.0,52.5,Late Autumn,Vegetable,2018,December,23
+Green Peas,Kg,55.0,60.0,57.5,Late Autumn,Vegetable,2018,December,24
+Green Peas,Kg,55.0,60.0,57.5,Late Autumn,Vegetable,2018,December,25
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2018,December,26
+Green Peas,Kg,50.0,55.0,52.5,Late Autumn,Vegetable,2018,December,27
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2018,December,28
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2018,December,29
+Green Peas,Kg,50.0,55.0,52.5,Late Autumn,Vegetable,2018,December,30
+Green Peas,Kg,50.0,55.0,52.5,Late Autumn,Vegetable,2018,December,31
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2018,February,1
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2018,February,2
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2018,February,3
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2018,February,4
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,5
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,6
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,7
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,8
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,9
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,10
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,11
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,12
+Green Peas,Kg,65.0,70.0,67.5,Winter,Vegetable,2018,February,13
+Green Peas,Kg,65.0,70.0,67.5,Winter,Vegetable,2018,February,14
+Green Peas,Kg,65.0,70.0,67.5,Winter,Vegetable,2018,February,15
+Green Peas,Kg,65.0,70.0,67.5,Winter,Vegetable,2018,February,16
+Green Peas,Kg,65.0,70.0,67.5,Winter,Vegetable,2018,February,17
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,18
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,19
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,20
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,21
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,22
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,23
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,24
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2018,February,25
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,26
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,27
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,February,28
+Green Peas,Kg,65.0,70.0,67.5,Late Autumn,Vegetable,2018,January,1
+Green Peas,Kg,70.0,75.0,72.5,Late Autumn,Vegetable,2018,January,2
+Green Peas,Kg,65.0,70.0,67.5,Late Autumn,Vegetable,2018,January,3
+Green Peas,Kg,65.0,70.0,67.5,Late Autumn,Vegetable,2018,January,4
+Green Peas,Kg,60.0,65.0,62.5,Late Autumn,Vegetable,2018,January,5
+Green Peas,Kg,60.0,65.0,62.5,Late Autumn,Vegetable,2018,January,6
+Green Peas,Kg,65.0,70.0,67.5,Late Autumn,Vegetable,2018,January,7
+Green Peas,Kg,55.0,60.0,57.5,Late Autumn,Vegetable,2018,January,8
+Green Peas,Kg,55.0,60.0,57.5,Late Autumn,Vegetable,2018,January,9
+Green Peas,Kg,60.0,65.0,62.5,Late Autumn,Vegetable,2018,January,10
+Green Peas,Kg,60.0,65.0,62.5,Late Autumn,Vegetable,2018,January,11
+Green Peas,Kg,60.0,65.0,62.5,Late Autumn,Vegetable,2018,January,12
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2018,January,14
+Green Peas,Kg,65.0,70.0,67.5,Winter,Vegetable,2018,January,16
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2018,January,17
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2018,January,18
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2018,January,19
+Green Peas,Kg,58.0,65.0,61.5,Winter,Vegetable,2018,January,20
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2018,January,21
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2018,January,22
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2018,January,23
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2018,January,24
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2018,January,25
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2018,January,26
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2018,January,27
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2018,January,28
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2018,January,29
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2018,January,30
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2018,January,31
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,March,1
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,March,2
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2018,March,3
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,March,5
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2018,March,6
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2018,March,7
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2018,March,8
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2018,March,9
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2018,March,10
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2018,March,11
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2018,March,12
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2018,March,13
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2018,March,14
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,March,15
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2018,March,16
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2018,March,17
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,March,18
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2018,March,19
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2018,March,20
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2018,March,21
+Green Peas,Kg,40.0,48.0,44.0,Spring,Vegetable,2018,March,22
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2018,March,23
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2018,March,24
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2018,March,25
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,March,26
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2018,March,27
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2018,March,28
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2018,March,29
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,March,30
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2018,March,31
+Green Peas,Kg,95.0,100.0,97.5,Spring,Vegetable,2018,May,1
+Green Peas,Kg,95.0,100.0,97.5,Spring,Vegetable,2018,May,2
+Green Peas,Kg,95.0,100.0,97.5,Spring,Vegetable,2018,May,3
+Green Peas,Kg,95.0,100.0,97.5,Spring,Vegetable,2018,May,4
+Green Peas,Kg,80.0,90.0,85.0,Spring,Vegetable,2018,May,5
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2018,May,6
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2018,May,7
+Green Peas,Kg,95.0,100.0,97.5,Spring,Vegetable,2018,May,8
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2018,November,1
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2018,November,2
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2018,November,3
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2018,November,4
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2018,November,5
+Green Peas,Kg,100.0,110.0,105.0,Early Autumn,Vegetable,2018,November,6
+Green Peas,Kg,130.0,140.0,135.0,Early Autumn,Vegetable,2018,November,7
+Green Peas,Kg,130.0,140.0,135.0,Early Autumn,Vegetable,2018,November,8
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2018,November,9
+Green Peas,Kg,130.0,140.0,135.0,Early Autumn,Vegetable,2018,November,11
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2018,November,12
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2018,November,13
+Green Peas,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2018,November,14
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2018,November,15
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2018,November,16
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2018,November,17
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2018,November,18
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2018,November,19
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2018,November,20
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2018,November,21
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2018,November,22
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2018,November,23
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2018,November,24
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2018,November,25
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2018,November,26
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2018,November,27
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2018,November,28
+Green Peas,Kg,90.0,95.0,92.5,Late Autumn,Vegetable,2018,November,29
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2018,November,30
+Green Peas,Kg,130.0,140.0,135.0,Early Autumn,Vegetable,2018,October,26
+Green Peas,Kg,140.0,150.0,145.0,Early Autumn,Vegetable,2018,October,27
+Green Peas,Kg,130.0,140.0,135.0,Early Autumn,Vegetable,2018,October,28
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2018,October,29
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2018,October,31
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2019,April,1
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2019,April,2
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2019,April,3
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2019,April,4
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2019,April,5
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2019,April,6
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2019,April,7
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2019,April,8
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2019,April,9
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2019,April,10
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2019,April,11
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2019,April,12
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2019,April,13
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2019,April,14
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2019,April,15
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2019,April,16
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2019,April,17
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2019,April,18
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2019,April,19
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2019,April,20
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2019,April,21
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2019,April,22
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2019,April,23
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2019,April,24
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2019,April,25
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2019,April,26
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2019,April,28
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2019,April,29
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2019,April,30
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2019,December,1
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2019,December,2
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2019,December,3
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2019,December,4
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2019,December,5
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2019,December,6
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2019,December,7
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2019,December,8
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2019,December,9
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2019,December,10
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2019,December,11
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2019,December,12
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2019,December,13
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2019,December,14
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2019,December,15
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2019,December,16
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2019,December,17
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2019,December,18
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2019,December,19
+Green Peas,Kg,65.0,70.0,67.5,Late Autumn,Vegetable,2019,December,20
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2019,December,21
+Green Peas,Kg,65.0,70.0,67.5,Late Autumn,Vegetable,2019,December,22
+Green Peas,Kg,65.0,70.0,67.5,Late Autumn,Vegetable,2019,December,23
+Green Peas,Kg,65.0,70.0,67.5,Late Autumn,Vegetable,2019,December,24
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2019,December,25
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2019,December,26
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2019,December,27
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2019,December,28
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2019,December,29
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2019,December,30
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2019,December,31
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2019,February,1
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,February,2
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2019,February,3
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2019,February,4
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2019,February,5
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,February,6
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,February,7
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,February,8
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2019,February,9
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,February,10
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,February,11
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,February,12
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,February,13
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,February,14
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2019,February,15
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,February,16
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2019,February,17
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,February,18
+Green Peas,Kg,50.0,55.0,52.5,Winter,Vegetable,2019,February,19
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2019,February,20
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2019,February,21
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2019,February,22
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2019,February,23
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2019,February,24
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2019,February,25
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2019,February,26
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2019,February,27
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2019,February,28
+Green Peas,Kg,50.0,55.0,52.5,Late Autumn,Vegetable,2019,January,1
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2019,January,2
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2019,January,3
+Green Peas,Kg,55.0,60.0,57.5,Late Autumn,Vegetable,2019,January,4
+Green Peas,Kg,55.0,60.0,57.5,Late Autumn,Vegetable,2019,January,5
+Green Peas,Kg,50.0,55.0,52.5,Late Autumn,Vegetable,2019,January,6
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2019,January,7
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2019,January,8
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2019,January,9
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2019,January,10
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2019,January,11
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2019,January,12
+Green Peas,Kg,40.0,45.0,42.5,Late Autumn,Vegetable,2019,January,13
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2019,January,14
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2019,January,15
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2019,January,16
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2019,January,17
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2019,January,18
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,January,19
+Green Peas,Kg,40.0,45.0,42.5,Winter,Vegetable,2019,January,20
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,January,21
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,January,22
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,January,23
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,January,24
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,January,25
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,January,26
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,January,27
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,January,28
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,January,29
+Green Peas,Kg,35.0,40.0,37.5,Winter,Vegetable,2019,January,30
+Green Peas,Kg,30.0,35.0,32.5,Winter,Vegetable,2019,January,31
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2019,June,1
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2019,June,2
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2019,June,5
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2019,June,6
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2019,June,7
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2019,June,9
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2019,March,1
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2019,March,2
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2019,March,3
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2019,March,5
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2019,March,6
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2019,March,7
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2019,March,8
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2019,March,9
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2019,March,10
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2019,March,11
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2019,March,12
+Green Peas,Kg,65.0,70.0,67.5,Winter,Vegetable,2019,March,13
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2019,March,14
+Green Peas,Kg,60.0,65.0,62.5,Spring,Vegetable,2019,March,15
+Green Peas,Kg,65.0,70.0,67.5,Spring,Vegetable,2019,March,16
+Green Peas,Kg,60.0,65.0,62.5,Spring,Vegetable,2019,March,17
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2019,March,18
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2019,March,19
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2019,March,20
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2019,March,21
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2019,March,22
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2019,March,23
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2019,March,24
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2019,March,25
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2019,March,26
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2019,March,27
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2019,March,28
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2019,March,29
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2019,March,30
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2019,March,31
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2019,May,1
+Green Peas,Kg,40.0,45.0,42.5,Spring,Vegetable,2019,May,2
+Green Peas,Kg,75.0,80.0,77.5,Spring,Vegetable,2019,May,3
+Green Peas,Kg,75.0,80.0,77.5,Spring,Vegetable,2019,May,4
+Green Peas,Kg,75.0,80.0,77.5,Spring,Vegetable,2019,May,5
+Green Peas,Kg,75.0,80.0,77.5,Spring,Vegetable,2019,May,6
+Green Peas,Kg,75.0,80.0,77.5,Spring,Vegetable,2019,May,12
+Green Peas,Kg,75.0,80.0,77.5,Spring,Vegetable,2019,May,13
+Green Peas,Kg,75.0,80.0,77.5,Spring,Vegetable,2019,May,14
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2019,May,15
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2019,May,16
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2019,May,17
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2019,May,18
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2019,May,19
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2019,May,20
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2019,May,21
+Green Peas,Kg,60.0,70.0,65.0,Early Summer,Vegetable,2019,May,22
+Green Peas,Kg,65.0,70.0,67.5,Early Summer,Vegetable,2019,May,23
+Green Peas,Kg,70.0,75.0,72.5,Early Summer,Vegetable,2019,May,24
+Green Peas,Kg,70.0,75.0,72.5,Early Summer,Vegetable,2019,May,25
+Green Peas,Kg,60.0,70.0,65.0,Early Summer,Vegetable,2019,May,26
+Green Peas,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2019,May,27
+Green Peas,Kg,65.0,70.0,67.5,Early Summer,Vegetable,2019,May,28
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2019,May,29
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2019,May,30
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2019,May,31
+Green Peas,Kg,140.0,150.0,145.0,Early Autumn,Vegetable,2019,November,1
+Green Peas,Kg,130.0,140.0,135.0,Early Autumn,Vegetable,2019,November,2
+Green Peas,Kg,140.0,150.0,145.0,Early Autumn,Vegetable,2019,November,3
+Green Peas,Kg,115.0,120.0,117.5,Early Autumn,Vegetable,2019,November,4
+Green Peas,Kg,120.0,125.0,122.5,Early Autumn,Vegetable,2019,November,5
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2019,November,6
+Green Peas,Kg,130.0,140.0,135.0,Early Autumn,Vegetable,2019,November,7
+Green Peas,Kg,130.0,140.0,135.0,Early Autumn,Vegetable,2019,November,8
+Green Peas,Kg,130.0,140.0,135.0,Early Autumn,Vegetable,2019,November,9
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2019,November,10
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2019,November,11
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2019,November,12
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2019,November,13
+Green Peas,Kg,120.0,125.0,122.5,Early Autumn,Vegetable,2019,November,14
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2019,November,15
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2019,November,16
+Green Peas,Kg,85.0,90.0,87.5,Late Autumn,Vegetable,2019,November,17
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2019,November,18
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2019,November,19
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2019,November,20
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2019,November,21
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2019,November,22
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2019,November,23
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2019,November,24
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2019,November,25
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2019,November,26
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2019,November,27
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2019,November,28
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2019,November,29
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2019,November,30
+Green Peas,Kg,180.0,190.0,185.0,Early Autumn,Vegetable,2019,October,22
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2019,October,23
+Green Peas,Kg,170.0,180.0,175.0,Early Autumn,Vegetable,2019,October,24
+Green Peas,Kg,170.0,180.0,175.0,Early Autumn,Vegetable,2019,October,25
+Green Peas,Kg,160.0,170.0,165.0,Early Autumn,Vegetable,2019,October,26
+Green Peas,Kg,140.0,150.0,145.0,Early Autumn,Vegetable,2019,October,27
+Green Peas,Kg,140.0,150.0,145.0,Early Autumn,Vegetable,2019,October,28
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2020,April,1
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2020,April,2
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2020,April,3
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2020,April,4
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2020,April,5
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2020,April,6
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2020,April,7
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2020,April,8
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2020,April,13
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2020,April,14
+Green Peas,Kg,30.0,40.0,35.0,Spring,Vegetable,2020,April,15
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2020,April,16
+Green Peas,Kg,25.0,30.0,27.5,Spring,Vegetable,2020,April,17
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2020,April,20
+Green Peas,Kg,25.0,30.0,27.5,Spring,Vegetable,2020,April,21
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2020,April,22
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2020,April,23
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2020,April,24
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2020,April,25
+Green Peas,Kg,30.0,35.0,32.5,Spring,Vegetable,2020,April,26
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2020,April,27
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2020,April,28
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2020,April,29
+Green Peas,Kg,55.0,60.0,57.5,Spring,Vegetable,2020,April,30
+Green Peas,Kg,200.0,210.0,205.0,Late Autumn,Vegetable,2020,December,1
+Green Peas,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2020,December,2
+Green Peas,Kg,190.0,210.0,200.0,Late Autumn,Vegetable,2020,December,3
+Green Peas,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2020,December,4
+Green Peas,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2020,December,5
+Green Peas,Kg,170.0,180.0,175.0,Late Autumn,Vegetable,2020,December,6
+Green Peas,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2020,December,7
+Green Peas,Kg,100.0,120.0,110.0,Late Autumn,Vegetable,2020,December,8
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2020,December,9
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2020,December,10
+Green Peas,Kg,80.0,100.0,90.0,Late Autumn,Vegetable,2020,December,11
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2020,December,12
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2020,December,13
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2020,December,14
+Green Peas,Kg,100.0,110.0,105.0,Late Autumn,Vegetable,2020,December,15
+Green Peas,Kg,80.0,100.0,90.0,Late Autumn,Vegetable,2020,December,16
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2020,December,17
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2020,December,18
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2020,December,19
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2020,December,20
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2020,December,21
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2020,December,22
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,23
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2020,December,24
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2020,December,25
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2020,December,26
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2020,December,27
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,28
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,29
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2020,December,30
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2020,December,31
+Green Peas,Kg,65.0,70.0,67.5,Winter,Vegetable,2020,February,1
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2020,February,2
+Green Peas,Kg,65.0,70.0,67.5,Winter,Vegetable,2020,February,3
+Green Peas,Kg,65.0,70.0,67.5,Winter,Vegetable,2020,February,4
+Green Peas,Kg,65.0,70.0,67.5,Winter,Vegetable,2020,February,5
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2020,February,6
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2020,February,7
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2020,February,8
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2020,February,9
+Green Peas,Kg,65.0,70.0,67.5,Winter,Vegetable,2020,February,10
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2020,February,11
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2020,February,12
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2020,February,13
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2020,February,14
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2020,February,15
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2020,February,16
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2020,February,17
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2020,February,18
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,February,19
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,February,20
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,February,21
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,February,22
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,February,23
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,February,24
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,February,25
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,February,26
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2020,February,27
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,February,28
+Green Peas,Kg,70.0,80.0,75.0,Winter,Vegetable,2020,February,29
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2020,January,1
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2020,January,2
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2020,January,3
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2020,January,4
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2020,January,5
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2020,January,6
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2020,January,7
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2020,January,8
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2020,January,9
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2020,January,10
+Green Peas,Kg,95.0,100.0,97.5,Late Autumn,Vegetable,2020,January,11
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2020,January,12
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2020,January,13
+Green Peas,Kg,75.0,80.0,77.5,Late Autumn,Vegetable,2020,January,14
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2020,January,15
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2020,January,16
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2020,January,17
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2020,January,18
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2020,January,19
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2020,January,20
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2020,January,21
+Green Peas,Kg,65.0,70.0,67.5,Winter,Vegetable,2020,January,22
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2020,January,23
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,January,24
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,January,25
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,January,26
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,January,27
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2020,January,28
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2020,January,29
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2020,January,30
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2020,January,31
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2020,June,4
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2020,June,5
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2020,June,6
+Green Peas,Kg,75.0,80.0,77.5,Early Summer,Vegetable,2020,June,7
+Green Peas,Kg,80.0,90.0,85.0,Winter,Vegetable,2020,March,1
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,March,2
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,March,4
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2020,March,5
+Green Peas,Kg,65.0,70.0,67.5,Winter,Vegetable,2020,March,6
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2020,March,7
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,March,8
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,March,9
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,March,10
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,March,11
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,March,12
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2020,March,13
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2020,March,14
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2020,March,15
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2020,March,16
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2020,March,17
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2020,March,18
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2020,March,19
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2020,March,20
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2020,March,21
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2020,March,22
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2020,March,23
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2020,March,25
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2020,March,26
+Green Peas,Kg,45.0,50.0,47.5,Spring,Vegetable,2020,March,27
+Green Peas,Kg,50.0,55.0,52.5,Spring,Vegetable,2020,March,28
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2020,March,29
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2020,March,30
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2020,March,31
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2020,May,2
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2020,May,3
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2020,May,4
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2020,May,5
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2020,May,6
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2020,May,7
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2020,May,8
+Green Peas,Kg,75.0,80.0,77.5,Spring,Vegetable,2020,May,11
+Green Peas,Kg,75.0,80.0,77.5,Spring,Vegetable,2020,May,12
+Green Peas,Kg,85.0,90.0,87.5,Spring,Vegetable,2020,May,14
+Green Peas,Kg,50.0,60.0,55.0,Early Summer,Vegetable,2020,May,21
+Green Peas,Kg,75.0,80.0,77.5,Early Autumn,Vegetable,2020,November,1
+Green Peas,Kg,150.0,160.0,155.0,Early Autumn,Vegetable,2020,November,2
+Green Peas,Kg,120.0,140.0,130.0,Early Autumn,Vegetable,2020,November,3
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2020,November,4
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2020,November,5
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2020,November,6
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2020,November,9
+Green Peas,Kg,130.0,150.0,140.0,Early Autumn,Vegetable,2020,November,10
+Green Peas,Kg,110.0,130.0,120.0,Early Autumn,Vegetable,2020,November,11
+Green Peas,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2020,November,12
+Green Peas,Kg,140.0,160.0,150.0,Early Autumn,Vegetable,2020,November,13
+Green Peas,Kg,130.0,150.0,140.0,Early Autumn,Vegetable,2020,November,14
+Green Peas,Kg,140.0,150.0,145.0,Late Autumn,Vegetable,2020,November,15
+Green Peas,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2020,November,19
+Green Peas,Kg,170.0,180.0,175.0,Late Autumn,Vegetable,2020,November,20
+Green Peas,Kg,150.0,160.0,155.0,Late Autumn,Vegetable,2020,November,21
+Green Peas,Kg,150.0,160.0,155.0,Late Autumn,Vegetable,2020,November,22
+Green Peas,Kg,140.0,160.0,150.0,Late Autumn,Vegetable,2020,November,23
+Green Peas,Kg,140.0,160.0,150.0,Late Autumn,Vegetable,2020,November,24
+Green Peas,Kg,140.0,150.0,145.0,Late Autumn,Vegetable,2020,November,25
+Green Peas,Kg,160.0,180.0,170.0,Late Autumn,Vegetable,2020,November,26
+Green Peas,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2020,November,27
+Green Peas,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2020,November,28
+Green Peas,Kg,150.0,160.0,155.0,Late Autumn,Vegetable,2020,November,29
+Green Peas,Kg,200.0,210.0,205.0,Late Autumn,Vegetable,2020,November,30
+Green Peas,Kg,240.0,260.0,250.0,Early Autumn,Vegetable,2020,October,30
+Green Peas,Kg,200.0,220.0,210.0,Early Autumn,Vegetable,2020,October,31
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2021,April,1
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,April,2
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,April,3
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,April,4
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,April,5
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,April,6
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,April,7
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,April,8
+Green Peas,Kg,110.0,120.0,115.0,Spring,Vegetable,2021,April,9
+Green Peas,Kg,100.0,120.0,110.0,Spring,Vegetable,2021,April,10
+Green Peas,Kg,110.0,120.0,115.0,Spring,Vegetable,2021,April,11
+Green Peas,Kg,100.0,120.0,110.0,Spring,Vegetable,2021,April,12
+Green Peas,Kg,100.0,120.0,110.0,Spring,Vegetable,2021,April,13
+Green Peas,Kg,110.0,120.0,115.0,Spring,Vegetable,2021,April,14
+Green Peas,Kg,110.0,120.0,115.0,Spring,Vegetable,2021,April,15
+Green Peas,Kg,110.0,120.0,115.0,Spring,Vegetable,2021,April,16
+Green Peas,Kg,140.0,160.0,150.0,Spring,Vegetable,2021,April,17
+Green Peas,Kg,150.0,160.0,155.0,Spring,Vegetable,2021,April,18
+Green Peas,Kg,150.0,160.0,155.0,Spring,Vegetable,2021,April,19
+Green Peas,Kg,150.0,160.0,155.0,Spring,Vegetable,2021,April,20
+Green Peas,Kg,150.0,160.0,155.0,Spring,Vegetable,2021,April,21
+Green Peas,Kg,150.0,160.0,155.0,Spring,Vegetable,2021,April,22
+Green Peas,Kg,190.0,200.0,195.0,Spring,Vegetable,2021,April,26
+Green Peas,Kg,190.0,200.0,195.0,Spring,Vegetable,2021,April,27
+Green Peas,Kg,170.0,180.0,175.0,Spring,Vegetable,2021,April,29
+Green Peas,Kg,180.0,200.0,190.0,Spring,Vegetable,2021,April,30
+Green Peas,Kg,150.0,160.0,155.0,Late Autumn,Vegetable,2021,December,1
+Green Peas,Kg,140.0,150.0,145.0,Late Autumn,Vegetable,2021,December,2
+Green Peas,Kg,140.0,150.0,145.0,Late Autumn,Vegetable,2021,December,3
+Green Peas,Kg,140.0,150.0,145.0,Late Autumn,Vegetable,2021,December,4
+Green Peas,Kg,140.0,150.0,145.0,Late Autumn,Vegetable,2021,December,5
+Green Peas,Kg,120.0,130.0,125.0,Late Autumn,Vegetable,2021,December,6
+Green Peas,Kg,120.0,140.0,130.0,Late Autumn,Vegetable,2021,December,7
+Green Peas,Kg,120.0,140.0,130.0,Late Autumn,Vegetable,2021,December,8
+Green Peas,Kg,120.0,140.0,130.0,Late Autumn,Vegetable,2021,December,9
+Green Peas,Kg,110.0,130.0,120.0,Late Autumn,Vegetable,2021,December,10
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2021,December,11
+Green Peas,Kg,130.0,140.0,135.0,Late Autumn,Vegetable,2021,December,12
+Green Peas,Kg,100.0,120.0,110.0,Late Autumn,Vegetable,2021,December,13
+Green Peas,Kg,100.0,120.0,110.0,Late Autumn,Vegetable,2021,December,14
+Green Peas,Kg,100.0,120.0,110.0,Late Autumn,Vegetable,2021,December,15
+Green Peas,Kg,80.0,100.0,90.0,Late Autumn,Vegetable,2021,December,16
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2021,December,17
+Green Peas,Kg,80.0,100.0,90.0,Late Autumn,Vegetable,2021,December,18
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2021,December,19
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2021,December,20
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2021,December,21
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2021,December,22
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2021,December,23
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2021,December,24
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2021,December,25
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2021,December,26
+Green Peas,Kg,70.0,90.0,80.0,Late Autumn,Vegetable,2021,December,27
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2021,December,28
+Green Peas,Kg,60.0,80.0,70.0,Late Autumn,Vegetable,2021,December,29
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2021,December,30
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2021,December,31
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,February,1
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,February,2
+Green Peas,Kg,45.0,55.0,50.0,Winter,Vegetable,2021,February,3
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,February,4
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,February,5
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2021,February,6
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2021,February,7
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,February,8
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,February,9
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,February,10
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,February,11
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,February,12
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,February,13
+Green Peas,Kg,75.0,80.0,77.5,Winter,Vegetable,2021,February,14
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,February,15
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,February,16
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,February,17
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,February,18
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2021,February,19
+Green Peas,Kg,65.0,75.0,70.0,Winter,Vegetable,2021,February,20
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2021,February,21
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2021,February,22
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2021,February,23
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2021,February,24
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2021,February,25
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,February,26
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2021,February,27
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2021,February,28
+Green Peas,Kg,45.0,55.0,50.0,Late Autumn,Vegetable,2021,January,1
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2021,January,2
+Green Peas,Kg,60.0,65.0,62.5,Late Autumn,Vegetable,2021,January,3
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2021,January,4
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2021,January,5
+Green Peas,Kg,45.0,50.0,47.5,Late Autumn,Vegetable,2021,January,6
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2021,January,7
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2021,January,8
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2021,January,9
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2021,January,10
+Green Peas,Kg,35.0,40.0,37.5,Late Autumn,Vegetable,2021,January,11
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2021,January,12
+Green Peas,Kg,30.0,40.0,35.0,Late Autumn,Vegetable,2021,January,13
+Green Peas,Kg,35.0,45.0,40.0,Late Autumn,Vegetable,2021,January,14
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2021,January,15
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2021,January,16
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2021,January,17
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2021,January,18
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2021,January,19
+Green Peas,Kg,35.0,45.0,40.0,Winter,Vegetable,2021,January,20
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2021,January,21
+Green Peas,Kg,45.0,55.0,50.0,Winter,Vegetable,2021,January,22
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2021,January,23
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2021,January,24
+Green Peas,Kg,35.0,45.0,40.0,Winter,Vegetable,2021,January,25
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2021,January,26
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,January,27
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,January,28
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,January,29
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,January,30
+Green Peas,Kg,45.0,50.0,47.5,Winter,Vegetable,2021,January,31
+Green Peas,Kg,140.0,150.0,145.0,Early Summer,Vegetable,2021,July,1
+Green Peas,Kg,140.0,150.0,145.0,Early Summer,Vegetable,2021,July,2
+Green Peas,Kg,140.0,150.0,145.0,Early Summer,Vegetable,2021,July,3
+Green Peas,Kg,140.0,150.0,145.0,Early Summer,Vegetable,2021,July,4
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2021,June,1
+Green Peas,Kg,100.0,120.0,110.0,Early Summer,Vegetable,2021,June,2
+Green Peas,Kg,100.0,120.0,110.0,Early Summer,Vegetable,2021,June,3
+Green Peas,Kg,100.0,120.0,110.0,Early Summer,Vegetable,2021,June,4
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2021,June,5
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2021,June,6
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2021,June,7
+Green Peas,Kg,150.0,160.0,155.0,Early Summer,Vegetable,2021,June,11
+Green Peas,Kg,140.0,150.0,145.0,Early Summer,Vegetable,2021,June,12
+Green Peas,Kg,130.0,140.0,135.0,Early Summer,Vegetable,2021,June,13
+Green Peas,Kg,140.0,150.0,145.0,Early Summer,Vegetable,2021,June,16
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2021,March,1
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2021,March,2
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2021,March,3
+Green Peas,Kg,60.0,65.0,62.5,Winter,Vegetable,2021,March,5
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,March,6
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,March,7
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2021,March,8
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2021,March,9
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2021,March,10
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,March,11
+Green Peas,Kg,55.0,60.0,57.5,Winter,Vegetable,2021,March,12
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2021,March,13
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2021,March,14
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2021,March,15
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2021,March,16
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2021,March,17
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2021,March,18
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2021,March,19
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2021,March,20
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2021,March,21
+Green Peas,Kg,80.0,90.0,85.0,Spring,Vegetable,2021,March,22
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2021,March,23
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2021,March,24
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2021,March,25
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2021,March,26
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2021,March,27
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2021,March,28
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2021,March,29
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2021,March,30
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2021,March,31
+Green Peas,Kg,150.0,160.0,155.0,Spring,Vegetable,2021,May,1
+Green Peas,Kg,110.0,120.0,115.0,Spring,Vegetable,2021,May,2
+Green Peas,Kg,100.0,110.0,105.0,Spring,Vegetable,2021,May,3
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,May,4
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,May,5
+Green Peas,Kg,110.0,120.0,115.0,Spring,Vegetable,2021,May,6
+Green Peas,Kg,100.0,120.0,110.0,Spring,Vegetable,2021,May,7
+Green Peas,Kg,100.0,120.0,110.0,Spring,Vegetable,2021,May,8
+Green Peas,Kg,100.0,110.0,105.0,Spring,Vegetable,2021,May,9
+Green Peas,Kg,100.0,110.0,105.0,Spring,Vegetable,2021,May,10
+Green Peas,Kg,100.0,110.0,105.0,Spring,Vegetable,2021,May,11
+Green Peas,Kg,100.0,110.0,105.0,Spring,Vegetable,2021,May,12
+Green Peas,Kg,100.0,110.0,105.0,Spring,Vegetable,2021,May,13
+Green Peas,Kg,100.0,110.0,105.0,Spring,Vegetable,2021,May,14
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2021,May,15
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2021,May,16
+Green Peas,Kg,100.0,120.0,110.0,Early Summer,Vegetable,2021,May,19
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2021,May,20
+Green Peas,Kg,100.0,120.0,110.0,Early Summer,Vegetable,2021,May,21
+Green Peas,Kg,100.0,120.0,110.0,Early Summer,Vegetable,2021,May,22
+Green Peas,Kg,100.0,120.0,110.0,Early Summer,Vegetable,2021,May,23
+Green Peas,Kg,140.0,150.0,145.0,Early Summer,Vegetable,2021,May,24
+Green Peas,Kg,140.0,150.0,145.0,Early Summer,Vegetable,2021,May,25
+Green Peas,Kg,140.0,150.0,145.0,Early Summer,Vegetable,2021,May,26
+Green Peas,Kg,140.0,150.0,145.0,Early Summer,Vegetable,2021,May,27
+Green Peas,Kg,140.0,150.0,145.0,Early Summer,Vegetable,2021,May,28
+Green Peas,Kg,140.0,150.0,145.0,Early Summer,Vegetable,2021,May,29
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2021,May,31
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,November,1
+Green Peas,Kg,200.0,220.0,210.0,Early Autumn,Vegetable,2021,November,2
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,November,3
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,November,4
+Green Peas,Kg,200.0,250.0,225.0,Early Autumn,Vegetable,2021,November,5
+Green Peas,Kg,250.0,300.0,275.0,Early Autumn,Vegetable,2021,November,8
+Green Peas,Kg,250.0,300.0,275.0,Early Autumn,Vegetable,2021,November,9
+Green Peas,Kg,250.0,300.0,275.0,Early Autumn,Vegetable,2021,November,10
+Green Peas,Kg,200.0,250.0,225.0,Early Autumn,Vegetable,2021,November,11
+Green Peas,Kg,220.0,250.0,235.0,Early Autumn,Vegetable,2021,November,12
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,November,13
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,November,14
+Green Peas,Kg,140.0,160.0,150.0,Late Autumn,Vegetable,2021,November,15
+Green Peas,Kg,120.0,140.0,130.0,Late Autumn,Vegetable,2021,November,16
+Green Peas,Kg,150.0,200.0,175.0,Late Autumn,Vegetable,2021,November,17
+Green Peas,Kg,150.0,200.0,175.0,Late Autumn,Vegetable,2021,November,18
+Green Peas,Kg,160.0,180.0,170.0,Late Autumn,Vegetable,2021,November,19
+Green Peas,Kg,150.0,180.0,165.0,Late Autumn,Vegetable,2021,November,20
+Green Peas,Kg,140.0,150.0,145.0,Late Autumn,Vegetable,2021,November,21
+Green Peas,Kg,160.0,180.0,170.0,Late Autumn,Vegetable,2021,November,22
+Green Peas,Kg,140.0,150.0,145.0,Late Autumn,Vegetable,2021,November,23
+Green Peas,Kg,120.0,130.0,125.0,Late Autumn,Vegetable,2021,November,24
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2021,November,25
+Green Peas,Kg,120.0,130.0,125.0,Late Autumn,Vegetable,2021,November,26
+Green Peas,Kg,110.0,130.0,120.0,Late Autumn,Vegetable,2021,November,27
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2021,November,28
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2021,November,29
+Green Peas,Kg,130.0,140.0,135.0,Late Autumn,Vegetable,2021,November,30
+Green Peas,Kg,220.0,250.0,235.0,Early Autumn,Vegetable,2021,October,2
+Green Peas,Kg,280.0,300.0,290.0,Early Autumn,Vegetable,2021,October,5
+Green Peas,Kg,280.0,300.0,290.0,Early Autumn,Vegetable,2021,October,6
+Green Peas,Kg,240.0,250.0,245.0,Early Autumn,Vegetable,2021,October,8
+Green Peas,Kg,250.0,280.0,265.0,Early Autumn,Vegetable,2021,October,9
+Green Peas,Kg,250.0,280.0,265.0,Early Autumn,Vegetable,2021,October,10
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,11
+Green Peas,Kg,150.0,180.0,165.0,Early Autumn,Vegetable,2021,October,12
+Green Peas,Kg,150.0,200.0,175.0,Early Autumn,Vegetable,2021,October,13
+Green Peas,Kg,240.0,260.0,250.0,Early Autumn,Vegetable,2021,October,18
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,19
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,20
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,21
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,22
+Green Peas,Kg,140.0,150.0,145.0,Early Autumn,Vegetable,2021,October,23
+Green Peas,Kg,140.0,150.0,145.0,Early Autumn,Vegetable,2021,October,24
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,25
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,26
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,27
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,28
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,29
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,30
+Green Peas,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,31
+Green Peas,Kg,280.0,300.0,290.0,Summer Monsoon,Vegetable,2021,September,9
+Green Peas,Kg,30.0,40.0,35.0,Spring,Vegetable,2022,April,1
+Green Peas,Kg,30.0,40.0,35.0,Spring,Vegetable,2022,April,2
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2022,April,3
+Green Peas,Kg,30.0,40.0,35.0,Spring,Vegetable,2022,April,4
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2022,April,5
+Green Peas,Kg,30.0,40.0,35.0,Spring,Vegetable,2022,April,6
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2022,April,7
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2022,April,8
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2022,April,9
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2022,April,10
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2022,April,11
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2022,April,12
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2022,April,13
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2022,April,14
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2022,April,15
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2022,April,16
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2022,April,17
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2022,April,18
+Green Peas,Kg,50.0,60.0,56.67,Spring,Vegetable,2022,April,19
+Green Peas,Kg,50.0,60.0,56.67,Spring,Vegetable,2022,April,20
+Green Peas,Kg,50.0,60.0,56.67,Spring,Vegetable,2022,April,21
+Green Peas,Kg,50.0,60.0,56.67,Spring,Vegetable,2022,April,22
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2022,April,23
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2022,April,24
+Green Peas,Kg,40.0,50.0,46.67,Spring,Vegetable,2022,April,25
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2022,April,26
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2022,April,27
+Green Peas,Kg,50.0,60.0,56.67,Spring,Vegetable,2022,April,28
+Green Peas,Kg,80.0,100.0,90.0,Spring,Vegetable,2022,April,29
+Green Peas,Kg,110.0,120.0,115.0,Spring,Vegetable,2022,April,30
+Green Peas,Kg,120.0,130.0,126.67,Late Autumn,Vegetable,2022,December,1
+Green Peas,Kg,120.0,130.0,125.0,Late Autumn,Vegetable,2022,December,2
+Green Peas,Kg,100.0,120.0,110.0,Late Autumn,Vegetable,2022,December,3
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2022,December,4
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2022,December,5
+Green Peas,Kg,110.0,120.0,116.67,Late Autumn,Vegetable,2022,December,6
+Green Peas,Kg,110.0,120.0,116.0,Late Autumn,Vegetable,2022,December,7
+Green Peas,Kg,120.0,140.0,130.0,Late Autumn,Vegetable,2022,December,8
+Green Peas,Kg,110.0,120.0,116.0,Late Autumn,Vegetable,2022,December,9
+Green Peas,Kg,140.0,150.0,145.0,Late Autumn,Vegetable,2022,December,10
+Green Peas,Kg,130.0,150.0,140.0,Late Autumn,Vegetable,2022,December,11
+Green Peas,Kg,100.0,120.0,110.0,Late Autumn,Vegetable,2022,December,12
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2022,December,13
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2022,December,14
+Green Peas,Kg,80.0,90.0,84.0,Late Autumn,Vegetable,2022,December,15
+Green Peas,Kg,70.0,80.0,76.0,Late Autumn,Vegetable,2022,December,16
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2022,December,17
+Green Peas,Kg,90.0,100.0,95.0,Late Autumn,Vegetable,2022,December,18
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2022,December,19
+Green Peas,Kg,60.0,70.0,66.0,Late Autumn,Vegetable,2022,December,20
+Green Peas,Kg,70.0,80.0,76.0,Late Autumn,Vegetable,2022,December,21
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2022,December,22
+Green Peas,Kg,60.0,70.0,64.0,Late Autumn,Vegetable,2022,December,23
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2022,December,24
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2022,December,25
+Green Peas,Kg,50.0,60.0,53.75,Late Autumn,Vegetable,2022,December,26
+Green Peas,Kg,45.0,55.0,50.0,Late Autumn,Vegetable,2022,December,27
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2022,December,28
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2022,December,29
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2022,December,30
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2022,December,31
+Green Peas,Kg,70.0,80.0,75.0,Winter,Vegetable,2022,February,1
+Green Peas,Kg,80.0,90.0,85.0,Winter,Vegetable,2022,February,2
+Green Peas,Kg,80.0,100.0,90.0,Winter,Vegetable,2022,February,3
+Green Peas,Kg,80.0,100.0,90.0,Winter,Vegetable,2022,February,4
+Green Peas,Kg,80.0,90.0,85.0,Winter,Vegetable,2022,February,5
+Green Peas,Kg,70.0,80.0,75.0,Winter,Vegetable,2022,February,6
+Green Peas,Kg,70.0,90.0,80.0,Winter,Vegetable,2022,February,7
+Green Peas,Kg,70.0,80.0,75.0,Winter,Vegetable,2022,February,8
+Green Peas,Kg,70.0,80.0,75.0,Winter,Vegetable,2022,February,9
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2022,February,10
+Green Peas,Kg,60.0,80.0,70.0,Winter,Vegetable,2022,February,11
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2022,February,12
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2022,February,13
+Green Peas,Kg,70.0,80.0,75.0,Winter,Vegetable,2022,February,14
+Green Peas,Kg,70.0,80.0,75.0,Winter,Vegetable,2022,February,15
+Green Peas,Kg,70.0,80.0,75.0,Winter,Vegetable,2022,February,16
+Green Peas,Kg,90.0,100.0,95.0,Winter,Vegetable,2022,February,17
+Green Peas,Kg,90.0,100.0,95.0,Winter,Vegetable,2022,February,18
+Green Peas,Kg,90.0,100.0,95.0,Winter,Vegetable,2022,February,19
+Green Peas,Kg,80.0,90.0,85.0,Winter,Vegetable,2022,February,20
+Green Peas,Kg,80.0,90.0,85.0,Winter,Vegetable,2022,February,21
+Green Peas,Kg,80.0,90.0,85.0,Winter,Vegetable,2022,February,22
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2022,February,23
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2022,February,24
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2022,February,25
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2022,February,27
+Green Peas,Kg,60.0,80.0,70.0,Winter,Vegetable,2022,February,28
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2022,January,1
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2022,January,2
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2022,January,3
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2022,January,4
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2022,January,5
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2022,January,6
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2022,January,7
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2022,January,8
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2022,January,9
+Green Peas,Kg,60.0,70.0,65.0,Late Autumn,Vegetable,2022,January,10
+Green Peas,Kg,75.0,85.0,80.0,Late Autumn,Vegetable,2022,January,11
+Green Peas,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2022,January,12
+Green Peas,Kg,80.0,100.0,90.0,Late Autumn,Vegetable,2022,January,13
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2022,January,14
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,January,15
+Green Peas,Kg,60.0,80.0,70.0,Winter,Vegetable,2022,January,16
+Green Peas,Kg,50.0,70.0,60.0,Winter,Vegetable,2022,January,17
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,January,18
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,January,19
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,January,20
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2022,January,21
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2022,January,22
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2022,January,23
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2022,January,24
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,January,25
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,January,26
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,January,27
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,January,28
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,January,29
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,January,30
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,January,31
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,March,1
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,March,2
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2022,March,3
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,March,5
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,March,6
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,March,7
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2022,March,8
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2022,March,9
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,March,10
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2022,March,11
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,March,12
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2022,March,13
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2022,March,14
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2022,March,15
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2022,March,16
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2022,March,17
+Green Peas,Kg,30.0,40.0,35.0,Spring,Vegetable,2022,March,18
+Green Peas,Kg,30.0,40.0,35.0,Spring,Vegetable,2022,March,19
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2022,March,20
+Green Peas,Kg,30.0,40.0,35.0,Spring,Vegetable,2022,March,21
+Green Peas,Kg,25.0,35.0,30.0,Spring,Vegetable,2022,March,22
+Green Peas,Kg,20.0,30.0,25.0,Spring,Vegetable,2022,March,23
+Green Peas,Kg,30.0,40.0,35.0,Spring,Vegetable,2022,March,24
+Green Peas,Kg,30.0,40.0,35.0,Spring,Vegetable,2022,March,25
+Green Peas,Kg,30.0,40.0,35.0,Spring,Vegetable,2022,March,26
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2022,March,27
+Green Peas,Kg,35.0,40.0,37.5,Spring,Vegetable,2022,March,28
+Green Peas,Kg,30.0,40.0,35.0,Spring,Vegetable,2022,March,29
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2022,March,30
+Green Peas,Kg,40.0,50.0,45.0,Spring,Vegetable,2022,March,31
+Green Peas,Kg,110.0,120.0,115.0,Spring,Vegetable,2022,May,1
+Green Peas,Kg,120.0,130.0,123.33,Spring,Vegetable,2022,May,2
+Green Peas,Kg,110.0,120.0,116.67,Spring,Vegetable,2022,May,3
+Green Peas,Kg,120.0,130.0,125.0,Spring,Vegetable,2022,May,4
+Green Peas,Kg,120.0,130.0,125.0,Spring,Vegetable,2022,May,5
+Green Peas,Kg,120.0,150.0,140.0,Spring,Vegetable,2022,May,6
+Green Peas,Kg,120.0,150.0,140.0,Spring,Vegetable,2022,May,7
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2022,May,8
+Green Peas,Kg,100.0,120.0,113.33,Spring,Vegetable,2022,May,9
+Green Peas,Kg,110.0,120.0,116.67,Spring,Vegetable,2022,May,10
+Green Peas,Kg,120.0,130.0,125.0,Spring,Vegetable,2022,May,11
+Green Peas,Kg,120.0,150.0,130.0,Early Summer,Vegetable,2022,May,15
+Green Peas,Kg,120.0,150.0,135.0,Early Summer,Vegetable,2022,May,16
+Green Peas,Kg,120.0,140.0,130.0,Early Summer,Vegetable,2022,May,17
+Green Peas,Kg,120.0,140.0,130.0,Early Summer,Vegetable,2022,May,18
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2022,May,19
+Green Peas,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2022,May,20
+Green Peas,Kg,140.0,150.0,146.67,Early Summer,Vegetable,2022,May,21
+Green Peas,Kg,120.0,150.0,135.0,Early Summer,Vegetable,2022,May,22
+Green Peas,Kg,120.0,130.0,125.0,Early Summer,Vegetable,2022,May,23
+Green Peas,Kg,100.0,120.0,110.0,Early Summer,Vegetable,2022,May,24
+Green Peas,Kg,100.0,120.0,110.0,Early Summer,Vegetable,2022,May,25
+Green Peas,Kg,100.0,110.0,105.0,Early Summer,Vegetable,2022,May,26
+Green Peas,Kg,100.0,120.0,110.0,Early Summer,Vegetable,2022,May,27
+Green Peas,Kg,110.0,120.0,115.0,Early Summer,Vegetable,2022,May,30
+Green Peas,Kg,120.0,150.0,135.0,Early Autumn,Vegetable,2022,November,1
+Green Peas,Kg,150.0,170.0,160.0,Early Autumn,Vegetable,2022,November,2
+Green Peas,Kg,120.0,150.0,136.67,Early Autumn,Vegetable,2022,November,3
+Green Peas,Kg,140.0,160.0,150.0,Early Autumn,Vegetable,2022,November,4
+Green Peas,Kg,110.0,130.0,120.0,Early Autumn,Vegetable,2022,November,5
+Green Peas,Kg,110.0,130.0,120.0,Early Autumn,Vegetable,2022,November,6
+Green Peas,Kg,150.0,160.0,155.0,Early Autumn,Vegetable,2022,November,7
+Green Peas,Kg,160.0,170.0,165.0,Early Autumn,Vegetable,2022,November,8
+Green Peas,Kg,160.0,180.0,170.0,Early Autumn,Vegetable,2022,November,9
+Green Peas,Kg,150.0,160.0,156.0,Early Autumn,Vegetable,2022,November,10
+Green Peas,Kg,140.0,160.0,150.0,Early Autumn,Vegetable,2022,November,11
+Green Peas,Kg,120.0,140.0,132.5,Early Autumn,Vegetable,2022,November,12
+Green Peas,Kg,130.0,140.0,135.0,Early Autumn,Vegetable,2022,November,13
+Green Peas,Kg,140.0,160.0,150.0,Early Autumn,Vegetable,2022,November,14
+Green Peas,Kg,130.0,150.0,142.0,Late Autumn,Vegetable,2022,November,15
+Green Peas,Kg,130.0,140.0,135.0,Late Autumn,Vegetable,2022,November,16
+Green Peas,Kg,120.0,140.0,130.0,Late Autumn,Vegetable,2022,November,17
+Green Peas,Kg,140.0,160.0,150.0,Late Autumn,Vegetable,2022,November,18
+Green Peas,Kg,140.0,150.0,146.0,Late Autumn,Vegetable,2022,November,19
+Green Peas,Kg,150.0,160.0,156.67,Late Autumn,Vegetable,2022,November,21
+Green Peas,Kg,150.0,160.0,156.0,Late Autumn,Vegetable,2022,November,22
+Green Peas,Kg,140.0,150.0,145.0,Late Autumn,Vegetable,2022,November,23
+Green Peas,Kg,130.0,140.0,136.0,Late Autumn,Vegetable,2022,November,24
+Green Peas,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2022,November,25
+Green Peas,Kg,120.0,130.0,126.0,Late Autumn,Vegetable,2022,November,26
+Green Peas,Kg,120.0,130.0,125.0,Late Autumn,Vegetable,2022,November,27
+Green Peas,Kg,120.0,130.0,124.0,Late Autumn,Vegetable,2022,November,28
+Green Peas,Kg,110.0,120.0,116.0,Late Autumn,Vegetable,2022,November,29
+Green Peas,Kg,120.0,130.0,125.0,Late Autumn,Vegetable,2022,November,30
+Green Peas,Kg,200.0,220.0,210.0,Early Autumn,Vegetable,2022,October,11
+Green Peas,Kg,200.0,250.0,225.0,Early Autumn,Vegetable,2022,October,12
+Green Peas,Kg,200.0,250.0,225.0,Early Autumn,Vegetable,2022,October,13
+Green Peas,Kg,200.0,220.0,213.33,Early Autumn,Vegetable,2022,October,14
+Green Peas,Kg,200.0,220.0,210.0,Early Autumn,Vegetable,2022,October,15
+Green Peas,Kg,200.0,220.0,210.0,Early Autumn,Vegetable,2022,October,16
+Green Peas,Kg,220.0,250.0,235.0,Early Autumn,Vegetable,2022,October,17
+Green Peas,Kg,250.0,300.0,276.67,Early Autumn,Vegetable,2022,October,18
+Green Peas,Kg,250.0,300.0,275.0,Early Autumn,Vegetable,2022,October,19
+Green Peas,Kg,250.0,300.0,275.0,Early Autumn,Vegetable,2022,October,20
+Green Peas,Kg,250.0,300.0,275.0,Early Autumn,Vegetable,2022,October,21
+Green Peas,Kg,200.0,250.0,225.0,Early Autumn,Vegetable,2022,October,22
+Green Peas,Kg,200.0,250.0,225.0,Early Autumn,Vegetable,2022,October,23
+Green Peas,Kg,250.0,300.0,283.33,Early Autumn,Vegetable,2022,October,24
+Green Peas,Kg,280.0,300.0,293.33,Early Autumn,Vegetable,2022,October,25
+Green Peas,Kg,220.0,250.0,240.0,Early Autumn,Vegetable,2022,October,26
+Green Peas,Kg,280.0,300.0,290.0,Early Autumn,Vegetable,2022,October,27
+Green Peas,Kg,200.0,220.0,213.33,Early Autumn,Vegetable,2022,October,29
+Green Peas,Kg,200.0,250.0,222.5,Early Autumn,Vegetable,2022,October,30
+Green Peas,Kg,150.0,200.0,175.0,Early Autumn,Vegetable,2022,October,31
+Green Peas,Kg,80.0,90.0,85.0,Summer Monsoon,Vegetable,2022,September,4
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,April,1
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,April,2
+Green Peas,Kg,110.0,120.0,115.0,Spring,Vegetable,2023,April,3
+Green Peas,Kg,80.0,90.0,85.0,Spring,Vegetable,2023,April,4
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,April,5
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,April,6
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,7
+Green Peas,Kg,80.0,90.0,85.0,Spring,Vegetable,2023,April,8
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,9
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,April,10
+Green Peas,Kg,80.0,90.0,85.0,Spring,Vegetable,2023,April,11
+Green Peas,Kg,80.0,90.0,85.0,Spring,Vegetable,2023,April,12
+Green Peas,Kg,80.0,90.0,85.0,Spring,Vegetable,2023,April,13
+Green Peas,Kg,80.0,90.0,85.0,Spring,Vegetable,2023,April,14
+Green Peas,Kg,80.0,90.0,85.0,Spring,Vegetable,2023,April,15
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,16
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,17
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,18
+Green Peas,Kg,80.0,90.0,85.0,Spring,Vegetable,2023,April,19
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,20
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,21
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,22
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,April,23
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2023,April,24
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,April,25
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,26
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,April,27
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,28
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,29
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,30
+Green Peas,Kg,40.0,50.0,46.0,Winter,Vegetable,2023,February,1
+Green Peas,Kg,40.0,50.0,46.0,Winter,Vegetable,2023,February,2
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,February,3
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,February,4
+Green Peas,Kg,40.0,50.0,45.0,Winter,Vegetable,2023,February,5
+Green Peas,Kg,50.0,60.0,54.0,Winter,Vegetable,2023,February,6
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,February,7
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,February,8
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,February,9
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2023,February,10
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2023,February,11
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2023,February,12
+Green Peas,Kg,50.0,60.0,56.0,Winter,Vegetable,2023,February,13
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,February,14
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,February,15
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2023,February,16
+Green Peas,Kg,50.0,60.0,56.0,Winter,Vegetable,2023,February,17
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,February,18
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,February,19
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,February,20
+Green Peas,Kg,60.0,70.0,64.0,Winter,Vegetable,2023,February,21
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,February,22
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2023,February,23
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,February,24
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,February,25
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2023,February,26
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,February,27
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,February,28
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2023,January,1
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2023,January,2
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2023,January,3
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2023,January,4
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2023,January,5
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2023,January,6
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2023,January,7
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2023,January,8
+Green Peas,Kg,40.0,50.0,45.0,Late Autumn,Vegetable,2023,January,9
+Green Peas,Kg,50.0,60.0,55.0,Late Autumn,Vegetable,2023,January,10
+Green Peas,Kg,50.0,60.0,56.67,Late Autumn,Vegetable,2023,January,11
+Green Peas,Kg,60.0,70.0,66.0,Late Autumn,Vegetable,2023,January,12
+Green Peas,Kg,70.0,80.0,75.0,Late Autumn,Vegetable,2023,January,13
+Green Peas,Kg,60.0,70.0,66.0,Late Autumn,Vegetable,2023,January,14
+Green Peas,Kg,60.0,70.0,66.0,Winter,Vegetable,2023,January,15
+Green Peas,Kg,70.0,80.0,76.0,Winter,Vegetable,2023,January,16
+Green Peas,Kg,70.0,80.0,75.0,Winter,Vegetable,2023,January,17
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,January,18
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,January,19
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,January,20
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,January,21
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,January,22
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,January,23
+Green Peas,Kg,50.0,60.0,57.5,Winter,Vegetable,2023,January,24
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,January,25
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,January,26
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,January,27
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,January,28
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,January,29
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,January,30
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,January,31
+Green Peas,Kg,180.0,200.0,190.0,Early Summer,Vegetable,2023,June,1
+Green Peas,Kg,180.0,200.0,190.0,Early Summer,Vegetable,2023,June,2
+Green Peas,Kg,180.0,200.0,190.0,Early Summer,Vegetable,2023,June,3
+Green Peas,Kg,180.0,200.0,190.0,Early Summer,Vegetable,2023,June,4
+Green Peas,Kg,190.0,200.0,196.67,Early Summer,Vegetable,2023,June,5
+Green Peas,Kg,180.0,200.0,193.33,Early Summer,Vegetable,2023,June,6
+Green Peas,Kg,170.0,180.0,175.0,Early Summer,Vegetable,2023,June,7
+Green Peas,Kg,160.0,180.0,166.67,Early Summer,Vegetable,2023,June,8
+Green Peas,Kg,160.0,180.0,170.0,Early Summer,Vegetable,2023,June,9
+Green Peas,Kg,160.0,180.0,170.0,Early Summer,Vegetable,2023,June,10
+Green Peas,Kg,160.0,180.0,170.0,Early Summer,Vegetable,2023,June,11
+Green Peas,Kg,180.0,200.0,190.0,Early Summer,Vegetable,2023,June,12
+Green Peas,Kg,180.0,200.0,190.0,Early Summer,Vegetable,2023,June,13
+Green Peas,Kg,180.0,200.0,190.0,Early Summer,Vegetable,2023,June,14
+Green Peas,Kg,160.0,180.0,170.0,Early Summer,Vegetable,2023,June,15
+Green Peas,Kg,140.0,160.0,150.0,Early Summer,Vegetable,2023,June,16
+Green Peas,Kg,150.0,180.0,163.33,Early Summer,Vegetable,2023,June,17
+Green Peas,Kg,150.0,180.0,166.67,Early Summer,Vegetable,2023,June,18
+Green Peas,Kg,180.0,200.0,190.0,Early Summer,Vegetable,2023,June,23
+Green Peas,Kg,180.0,200.0,190.0,Early Summer,Vegetable,2023,June,24
+Green Peas,Kg,180.0,200.0,190.0,Early Summer,Vegetable,2023,June,25
+Green Peas,Kg,180.0,200.0,190.0,Early Summer,Vegetable,2023,June,28
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,March,1
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2023,March,2
+Green Peas,Kg,70.0,80.0,76.67,Winter,Vegetable,2023,March,3
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2023,March,5
+Green Peas,Kg,50.0,60.0,56.0,Winter,Vegetable,2023,March,6
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2023,March,7
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,March,8
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2023,March,9
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,March,10
+Green Peas,Kg,55.0,65.0,60.0,Winter,Vegetable,2023,March,11
+Green Peas,Kg,50.0,60.0,55.0,Winter,Vegetable,2023,March,12
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2023,March,13
+Green Peas,Kg,60.0,70.0,65.0,Winter,Vegetable,2023,March,14
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,March,16
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,March,17
+Green Peas,Kg,50.0,60.0,56.67,Spring,Vegetable,2023,March,18
+Green Peas,Kg,50.0,60.0,55.0,Spring,Vegetable,2023,March,19
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,March,20
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,March,21
+Green Peas,Kg,60.0,70.0,66.67,Spring,Vegetable,2023,March,22
+Green Peas,Kg,70.0,80.0,76.67,Spring,Vegetable,2023,March,23
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,March,24
+Green Peas,Kg,70.0,80.0,76.67,Spring,Vegetable,2023,March,25
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,March,26
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,March,27
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,March,28
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,March,29
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,March,30
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,March,31
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,May,1
+Green Peas,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,May,2
+Green Peas,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,May,3
+Green Peas,Kg,70.0,80.0,76.67,Spring,Vegetable,2023,May,4
+Green Peas,Kg,80.0,90.0,85.0,Spring,Vegetable,2023,May,5
+Green Peas,Kg,80.0,90.0,86.67,Spring,Vegetable,2023,May,6
+Green Peas,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,May,7
+Green Peas,Kg,80.0,90.0,86.67,Spring,Vegetable,2023,May,8
+Green Peas,Kg,80.0,90.0,86.67,Spring,Vegetable,2023,May,9
+Green Peas,Kg,150.0,180.0,165.0,Spring,Vegetable,2023,May,10
+Green Peas,Kg,140.0,160.0,150.0,Spring,Vegetable,2023,May,11
+Green Peas,Kg,140.0,160.0,150.0,Spring,Vegetable,2023,May,12
+Green Peas,Kg,140.0,150.0,145.0,Spring,Vegetable,2023,May,13
+Green Peas,Kg,140.0,150.0,145.0,Spring,Vegetable,2023,May,14
+Green Peas,Kg,140.0,150.0,145.0,Early Summer,Vegetable,2023,May,15
+Green Peas,Kg,140.0,150.0,146.67,Early Summer,Vegetable,2023,May,16
+Green Peas,Kg,130.0,140.0,136.67,Early Summer,Vegetable,2023,May,17
+Green Peas,Kg,120.0,130.0,126.67,Early Summer,Vegetable,2023,May,18
+Green Peas,Kg,130.0,140.0,135.0,Early Summer,Vegetable,2023,May,19
+Green Peas,Kg,120.0,140.0,130.0,Early Summer,Vegetable,2023,May,20
+Green Peas,Kg,130.0,140.0,135.0,Early Summer,Vegetable,2023,May,21
+Green Peas,Kg,130.0,150.0,140.0,Early Summer,Vegetable,2023,May,22
+Green Peas,Kg,170.0,180.0,176.67,Early Summer,Vegetable,2023,May,23
+Green Peas,Kg,180.0,200.0,190.0,Early Summer,Vegetable,2023,May,24
+Green Peas,Kg,180.0,200.0,190.0,Early Summer,Vegetable,2023,May,25
+Green Peas,Kg,180.0,200.0,190.0,Early Summer,Vegetable,2023,May,26
+Green Peas,Kg,180.0,200.0,190.0,Early Summer,Vegetable,2023,May,27
+Green Peas,Kg,180.0,200.0,190.0,Early Summer,Vegetable,2023,May,28
+Green Peas,Kg,150.0,180.0,165.0,Early Summer,Vegetable,2023,May,29
+Green Peas,Kg,170.0,190.0,180.0,Early Summer,Vegetable,2023,May,30
+Green Peas,Kg,170.0,180.0,176.67,Early Summer,Vegetable,2023,May,31

@@ -1,0 +1,1490 @@
+Commodity,Unit,Minimum,Maximum,Average,Season,Category,Year,Month,Day
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2013,December,1
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2013,December,2
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2013,December,3
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2013,December,4
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2013,December,5
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2013,December,6
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2013,December,8
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2013,December,9
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2013,December,10
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2013,December,11
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2013,December,12
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2013,December,13
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2013,December,15
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2013,December,16
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2013,December,18
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2013,December,19
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2013,December,20
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2013,December,22
+Bakula,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2013,December,23
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2013,December,24
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2013,December,26
+Bakula,Kg,60.0,65.0,62.5,Late Autumn,Fruit,2013,December,27
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2013,December,29
+Bakula,Kg,60.0,65.0,62.5,Late Autumn,Fruit,2013,December,31
+Bakula,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2013,November,3
+Bakula,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2013,November,4
+Bakula,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2013,November,10
+Bakula,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2013,November,11
+Bakula,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2013,November,12
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2013,November,22
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2013,November,24
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2013,November,25
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2013,November,26
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2013,November,27
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2013,November,28
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2013,November,29
+Bakula,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2013,October,1
+Bakula,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2013,October,2
+Bakula,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2013,October,4
+Bakula,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2013,October,7
+Bakula,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2013,October,8
+Bakula,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2013,October,9
+Bakula,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2013,October,10
+Bakula,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2013,October,11
+Bakula,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2013,October,20
+Bakula,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2013,October,21
+Bakula,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2013,October,22
+Bakula,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2013,October,23
+Bakula,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2013,October,24
+Bakula,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2013,October,25
+Bakula,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2013,October,28
+Bakula,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2013,October,29
+Bakula,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2013,September,29
+Bakula,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2013,September,30
+Bakula,Kg,25.0,32.0,28.5,Spring,Fruit,2014,April,1
+Bakula,Kg,28.0,30.0,29.0,Spring,Fruit,2014,April,2
+Bakula,Kg,28.0,30.0,29.0,Spring,Fruit,2014,April,3
+Bakula,Kg,30.0,35.0,32.5,Spring,Fruit,2014,April,4
+Bakula,Kg,28.0,30.0,29.0,Spring,Fruit,2014,April,6
+Bakula,Kg,24.0,28.0,26.0,Spring,Fruit,2014,April,7
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2014,April,10
+Bakula,Kg,18.0,22.0,20.0,Spring,Fruit,2014,April,11
+Bakula,Kg,18.0,20.0,19.0,Spring,Fruit,2014,April,13
+Bakula,Kg,18.0,20.0,19.0,Spring,Fruit,2014,April,15
+Bakula,Kg,18.0,20.0,19.0,Spring,Fruit,2014,April,16
+Bakula,Kg,18.0,20.0,19.0,Spring,Fruit,2014,April,17
+Bakula,Kg,20.0,25.0,22.5,Spring,Fruit,2014,April,18
+Bakula,Kg,28.0,30.0,29.0,Spring,Fruit,2014,April,20
+Bakula,Kg,28.0,30.0,29.0,Spring,Fruit,2014,April,21
+Bakula,Kg,28.0,30.0,29.0,Spring,Fruit,2014,April,22
+Bakula,Kg,28.0,30.0,29.0,Spring,Fruit,2014,April,23
+Bakula,Kg,28.0,30.0,29.0,Spring,Fruit,2014,April,25
+Bakula,Kg,28.0,30.0,29.0,Spring,Fruit,2014,April,27
+Bakula,Kg,28.0,30.0,29.0,Spring,Fruit,2014,April,28
+Bakula,Kg,38.0,40.0,39.0,Spring,Fruit,2014,April,29
+Bakula,Kg,38.0,40.0,39.0,Spring,Fruit,2014,April,30
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2014,December,1
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2014,December,2
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2014,December,3
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2014,December,4
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2014,December,5
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,December,6
+Bakula,Kg,55.0,65.0,60.0,Late Autumn,Fruit,2014,December,7
+Bakula,Kg,60.0,65.0,62.5,Late Autumn,Fruit,2014,December,8
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2014,December,11
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2014,December,12
+Bakula,Kg,60.0,65.0,62.5,Late Autumn,Fruit,2014,December,13
+Bakula,Kg,24.0,29.0,26.5,Late Autumn,Fruit,2014,December,14
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2014,December,15
+Bakula,Kg,60.0,65.0,62.5,Late Autumn,Fruit,2014,December,16
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2014,December,17
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2014,December,18
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2014,December,19
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2014,December,21
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2014,December,23
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,December,24
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,December,25
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,December,26
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,December,27
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,December,28
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,December,29
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,December,30
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,December,31
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,2
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,February,3
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,February,4
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,February,5
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,February,6
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,7
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,9
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,10
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,11
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,February,12
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,February,13
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,February,14
+Bakula,Kg,38.0,40.0,39.0,Winter,Fruit,2014,February,16
+Bakula,Kg,38.0,40.0,39.0,Winter,Fruit,2014,February,17
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,February,18
+Bakula,Kg,38.0,40.0,39.0,Winter,Fruit,2014,February,20
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,21
+Bakula,Kg,40.0,45.0,42.5,Winter,Fruit,2014,February,23
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,February,24
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,February,25
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,February,26
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,February,28
+Bakula,Kg,60.0,65.0,62.5,Late Autumn,Fruit,2014,January,1
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,January,2
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,January,3
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,January,5
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,January,6
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,January,7
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,January,8
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2014,January,9
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,January,10
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2014,January,12
+Bakula,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2014,January,13
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,January,14
+Bakula,Kg,50.0,55.0,52.5,Winter,Fruit,2014,January,16
+Bakula,Kg,45.0,50.0,47.5,Winter,Fruit,2014,January,17
+Bakula,Kg,38.0,40.0,39.0,Winter,Fruit,2014,January,19
+Bakula,Kg,38.0,40.0,39.0,Winter,Fruit,2014,January,20
+Bakula,Kg,38.0,40.0,39.0,Winter,Fruit,2014,January,21
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,January,22
+Bakula,Kg,38.0,40.0,39.0,Winter,Fruit,2014,January,23
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2014,January,24
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,January,26
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,January,27
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2014,January,28
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,January,29
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,March,3
+Bakula,Kg,40.0,45.0,42.5,Winter,Fruit,2014,March,5
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,March,6
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,March,7
+Bakula,Kg,38.0,40.0,39.0,Winter,Fruit,2014,March,9
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,March,10
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,March,11
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2014,March,12
+Bakula,Kg,38.0,40.0,39.0,Winter,Fruit,2014,March,13
+Bakula,Kg,38.0,40.0,39.0,Winter,Fruit,2014,March,14
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2014,March,17
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2014,March,18
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2014,March,19
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2014,March,20
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2014,March,21
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2014,March,23
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2014,March,24
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2014,March,25
+Bakula,Kg,20.0,25.0,22.5,Spring,Fruit,2014,March,26
+Bakula,Kg,18.0,20.0,19.0,Spring,Fruit,2014,March,27
+Bakula,Kg,18.0,20.0,19.0,Spring,Fruit,2014,March,28
+Bakula,Kg,30.0,36.0,33.0,Spring,Fruit,2014,March,31
+Bakula,Kg,38.0,40.0,39.0,Spring,Fruit,2014,May,2
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2014,May,4
+Bakula,Kg,38.0,40.0,39.0,Spring,Fruit,2014,May,5
+Bakula,Kg,38.0,40.0,39.0,Spring,Fruit,2014,May,6
+Bakula,Kg,38.0,40.0,39.0,Spring,Fruit,2014,May,7
+Bakula,Kg,38.0,40.0,39.0,Spring,Fruit,2014,May,8
+Bakula,Kg,38.0,40.0,39.0,Spring,Fruit,2014,May,9
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2014,May,13
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2014,November,15
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2014,November,16
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2014,November,17
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2014,November,18
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2014,November,19
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2014,November,20
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,November,21
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,November,22
+Bakula,Kg,68.0,70.0,69.0,Late Autumn,Fruit,2014,November,23
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2014,November,24
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2014,November,25
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2014,November,26
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2014,November,27
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2014,November,28
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2014,November,29
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2014,November,30
+Bakula,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2014,October,30
+Bakula,Kg,25.0,26.0,25.5,Spring,Fruit,2015,April,1
+Bakula,Kg,24.0,26.0,25.0,Spring,Fruit,2015,April,2
+Bakula,Kg,20.0,25.0,22.5,Spring,Fruit,2015,April,3
+Bakula,Kg,20.0,25.0,22.5,Spring,Fruit,2015,April,4
+Bakula,Kg,20.0,25.0,22.5,Spring,Fruit,2015,April,5
+Bakula,Kg,25.0,30.0,27.5,Spring,Fruit,2015,April,6
+Bakula,Kg,25.0,30.0,27.5,Spring,Fruit,2015,April,7
+Bakula,Kg,25.0,30.0,27.5,Spring,Fruit,2015,April,8
+Bakula,Kg,30.0,31.0,30.5,Spring,Fruit,2015,April,10
+Bakula,Kg,32.0,34.0,33.0,Spring,Fruit,2015,April,12
+Bakula,Kg,30.0,35.0,32.5,Spring,Fruit,2015,April,13
+Bakula,Kg,30.0,32.0,31.0,Spring,Fruit,2015,April,19
+Bakula,Kg,28.0,30.0,29.0,Spring,Fruit,2015,April,20
+Bakula,Kg,30.0,32.0,31.0,Spring,Fruit,2015,April,21
+Bakula,Kg,30.0,32.0,31.0,Spring,Fruit,2015,April,22
+Bakula,Kg,30.0,32.0,31.0,Spring,Fruit,2015,April,23
+Bakula,Kg,30.0,35.0,32.5,Spring,Fruit,2015,April,24
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2015,April,29
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,1
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,2
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,3
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,4
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,5
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,6
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,7
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,8
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,9
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,10
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,11
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,12
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2015,December,13
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,14
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,15
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,16
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,17
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,18
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,19
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,20
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,21
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,22
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,23
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,24
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,25
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2015,December,26
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2015,December,27
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2015,December,28
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,December,29
+Bakula,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2015,December,30
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2015,December,31
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2015,February,1
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,2
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2015,February,3
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,4
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,5
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2015,February,6
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,7
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,8
+Bakula,Kg,40.0,45.0,42.5,Winter,Fruit,2015,February,9
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,10
+Bakula,Kg,30.0,32.0,31.0,Winter,Fruit,2015,February,11
+Bakula,Kg,32.0,35.0,33.5,Winter,Fruit,2015,February,12
+Bakula,Kg,30.0,32.0,31.0,Winter,Fruit,2015,February,13
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,14
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,15
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,16
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2015,February,18
+Bakula,Kg,30.0,32.0,31.0,Winter,Fruit,2015,February,19
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,20
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,22
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,23
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2015,February,24
+Bakula,Kg,34.0,36.0,35.0,Winter,Fruit,2015,February,25
+Bakula,Kg,35.0,38.0,36.5,Winter,Fruit,2015,February,26
+Bakula,Kg,30.0,40.0,35.0,Winter,Fruit,2015,February,27
+Bakula,Kg,45.0,55.0,50.0,Late Autumn,Fruit,2015,January,1
+Bakula,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2015,January,2
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2015,January,3
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,January,4
+Bakula,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2015,January,5
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2015,January,6
+Bakula,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2015,January,7
+Bakula,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2015,January,8
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2015,January,9
+Bakula,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2015,January,11
+Bakula,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2015,January,12
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2015,January,13
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2015,January,14
+Bakula,Kg,40.0,50.0,45.0,Winter,Fruit,2015,January,16
+Bakula,Kg,50.0,55.0,52.5,Winter,Fruit,2015,January,17
+Bakula,Kg,50.0,55.0,52.5,Winter,Fruit,2015,January,18
+Bakula,Kg,40.0,45.0,42.5,Winter,Fruit,2015,January,19
+Bakula,Kg,40.0,45.0,42.5,Winter,Fruit,2015,January,20
+Bakula,Kg,40.0,50.0,45.0,Winter,Fruit,2015,January,21
+Bakula,Kg,45.0,50.0,47.5,Winter,Fruit,2015,January,22
+Bakula,Kg,45.0,50.0,47.5,Winter,Fruit,2015,January,23
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2015,January,25
+Bakula,Kg,40.0,45.0,42.5,Winter,Fruit,2015,January,26
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2015,January,27
+Bakula,Kg,40.0,45.0,42.5,Winter,Fruit,2015,January,28
+Bakula,Kg,40.0,45.0,42.5,Winter,Fruit,2015,January,29
+Bakula,Kg,35.0,40.0,37.5,Winter,Fruit,2015,January,31
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2015,March,1
+Bakula,Kg,28.0,30.0,29.0,Winter,Fruit,2015,March,2
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2015,March,3
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2015,March,6
+Bakula,Kg,30.0,35.0,32.5,Winter,Fruit,2015,March,14
+Bakula,Kg,30.0,35.0,32.5,Spring,Fruit,2015,March,15
+Bakula,Kg,34.0,36.0,35.0,Spring,Fruit,2015,March,16
+Bakula,Kg,30.0,35.0,32.5,Spring,Fruit,2015,March,17
+Bakula,Kg,30.0,35.0,32.5,Spring,Fruit,2015,March,18
+Bakula,Kg,30.0,35.0,32.5,Spring,Fruit,2015,March,19
+Bakula,Kg,32.0,36.0,34.0,Spring,Fruit,2015,March,20
+Bakula,Kg,30.0,35.0,32.5,Spring,Fruit,2015,March,21
+Bakula,Kg,30.0,35.0,32.5,Spring,Fruit,2015,March,22
+Bakula,Kg,28.0,30.0,29.0,Spring,Fruit,2015,March,23
+Bakula,Kg,28.0,30.0,29.0,Spring,Fruit,2015,March,24
+Bakula,Kg,25.0,30.0,27.5,Spring,Fruit,2015,March,25
+Bakula,Kg,20.0,25.0,22.5,Spring,Fruit,2015,March,26
+Bakula,Kg,24.0,30.0,27.0,Spring,Fruit,2015,March,27
+Bakula,Kg,30.0,35.0,32.5,Spring,Fruit,2015,March,28
+Bakula,Kg,25.0,26.0,25.5,Spring,Fruit,2015,March,29
+Bakula,Kg,20.0,25.0,22.5,Spring,Fruit,2015,March,30
+Bakula,Kg,38.0,40.0,39.0,Spring,Fruit,2015,March,31
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2015,May,1
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2015,May,2
+Bakula,Kg,30.0,32.0,31.0,Spring,Fruit,2015,May,3
+Bakula,Kg,30.0,32.0,31.0,Spring,Fruit,2015,May,4
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2015,May,6
+Bakula,Kg,30.0,35.0,32.5,Spring,Fruit,2015,May,7
+Bakula,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2015,November,2
+Bakula,Kg,60.0,65.0,62.5,Early Autumn,Fruit,2015,November,12
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2015,November,18
+Bakula,Kg,60.0,65.0,62.5,Late Autumn,Fruit,2015,November,19
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,November,20
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2015,November,21
+Bakula,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2015,November,22
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2015,November,23
+Bakula,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2015,November,24
+Bakula,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2015,November,25
+Bakula,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2015,November,26
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2015,November,27
+Bakula,Kg,55.0,65.0,60.0,Late Autumn,Fruit,2015,November,28
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,November,29
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,November,30
+Bakula,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2015,October,28
+Bakula,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2015,October,29
+Bakula,Kg,50.0,55.0,52.5,Spring,Fruit,2016,April,1
+Bakula,Kg,53.0,56.0,54.5,Spring,Fruit,2016,April,2
+Bakula,Kg,50.0,55.0,52.5,Spring,Fruit,2016,April,3
+Bakula,Kg,50.0,52.0,51.0,Spring,Fruit,2016,April,4
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2016,April,5
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2016,April,6
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2016,April,7
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2016,April,8
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2016,April,9
+Bakula,Kg,60.0,65.0,62.5,Spring,Fruit,2016,April,10
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2016,April,11
+Bakula,Kg,60.0,65.0,62.5,Spring,Fruit,2016,April,12
+Bakula,Kg,60.0,65.0,62.5,Spring,Fruit,2016,April,13
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2016,December,1
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2016,December,2
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2016,December,3
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2016,December,4
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2016,December,5
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2016,December,6
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2016,December,7
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2016,December,8
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,December,9
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,December,10
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2016,December,11
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2016,December,12
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2016,December,13
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2016,December,14
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2016,December,15
+Bakula,Kg,60.0,68.0,64.0,Late Autumn,Fruit,2016,December,16
+Bakula,Kg,58.0,60.0,59.0,Late Autumn,Fruit,2016,December,17
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2016,December,18
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2016,December,19
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2016,December,20
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2016,December,21
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2016,December,22
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,December,23
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2016,December,24
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,December,25
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,December,26
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,December,27
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,December,28
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,December,29
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2016,December,30
+Bakula,Kg,50.0,58.0,54.0,Late Autumn,Fruit,2016,December,31
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2016,February,1
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2016,February,2
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2016,February,3
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2016,February,4
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2016,February,5
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2016,February,6
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2016,February,7
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2016,February,8
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2016,February,9
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2016,February,10
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2016,February,11
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2016,February,12
+Bakula,Kg,70.0,75.0,72.5,Winter,Fruit,2016,February,13
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2016,February,14
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2016,February,15
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2016,February,16
+Bakula,Kg,40.0,50.0,45.0,Winter,Fruit,2016,February,17
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,February,18
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,February,19
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,February,20
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2016,February,21
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,February,22
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,February,23
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,February,24
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,February,25
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,February,26
+Bakula,Kg,38.0,45.0,41.5,Winter,Fruit,2016,February,27
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,February,28
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,February,29
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,January,1
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,January,2
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,January,3
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,January,4
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,January,5
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2016,January,6
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,January,7
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2016,January,8
+Bakula,Kg,55.0,65.0,60.0,Late Autumn,Fruit,2016,January,9
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,January,10
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,January,11
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2016,January,12
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2016,January,13
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2016,January,14
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2016,January,15
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,January,16
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,January,17
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,January,18
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,January,19
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,January,20
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,January,21
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2016,January,22
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,January,23
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,January,24
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2016,January,25
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2016,January,26
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2016,January,27
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2016,January,28
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2016,January,29
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2016,January,30
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2016,January,31
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,March,1
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,March,2
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,March,4
+Bakula,Kg,55.0,60.0,57.5,Winter,Fruit,2016,March,5
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,March,6
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,March,7
+Bakula,Kg,55.0,60.0,57.5,Winter,Fruit,2016,March,8
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,March,9
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2016,March,10
+Bakula,Kg,50.0,55.0,52.5,Winter,Fruit,2016,March,11
+Bakula,Kg,50.0,56.0,53.0,Winter,Fruit,2016,March,12
+Bakula,Kg,50.0,55.0,52.5,Winter,Fruit,2016,March,13
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2016,March,15
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2016,March,16
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2016,March,17
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2016,March,18
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2016,March,19
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2016,March,20
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2016,March,21
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2016,March,22
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2016,March,23
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2016,March,24
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2016,March,25
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2016,March,26
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2016,March,27
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2016,March,28
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2016,March,29
+Bakula,Kg,50.0,55.0,52.5,Spring,Fruit,2016,March,30
+Bakula,Kg,50.0,55.0,52.5,Spring,Fruit,2016,March,31
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2016,November,19
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2016,November,24
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2016,November,26
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2016,November,27
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2016,November,28
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2016,November,29
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2016,November,30
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2017,April,1
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2017,April,2
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2017,April,3
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2017,April,4
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2017,April,5
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2017,April,6
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2017,April,7
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2017,April,8
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2017,April,9
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2017,April,10
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2017,April,17
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2017,April,23
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2017,April,24
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2017,April,25
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2017,April,26
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2017,April,27
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2017,April,28
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2017,April,29
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2017,December,1
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2017,December,2
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2017,December,3
+Bakula,Kg,90.0,95.0,92.5,Late Autumn,Fruit,2017,December,4
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2017,December,5
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2017,December,6
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2017,December,10
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2017,December,11
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2017,December,12
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2017,December,13
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2017,December,14
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2017,December,15
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2017,December,16
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2017,December,17
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2017,December,18
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2017,December,19
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2017,December,20
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2017,December,27
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2017,December,28
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2017,December,29
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2017,December,30
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2017,December,31
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2017,February,1
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2017,February,2
+Bakula,Kg,70.0,75.0,72.5,Winter,Fruit,2017,February,3
+Bakula,Kg,70.0,75.0,72.5,Winter,Fruit,2017,February,4
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,February,5
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2017,February,6
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2017,February,7
+Bakula,Kg,70.0,75.0,72.5,Winter,Fruit,2017,February,8
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2017,February,9
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2017,February,10
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2017,February,11
+Bakula,Kg,70.0,75.0,72.5,Winter,Fruit,2017,February,12
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2017,February,13
+Bakula,Kg,70.0,75.0,72.5,Winter,Fruit,2017,February,14
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,February,15
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2017,February,16
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,February,17
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2017,February,18
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2017,February,19
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,February,20
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,February,21
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,February,22
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,February,23
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,February,25
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,February,26
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,February,27
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,February,28
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2017,January,1
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2017,January,2
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2017,January,3
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2017,January,4
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2017,January,5
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2017,January,6
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2017,January,7
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2017,January,8
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2017,January,9
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2017,January,10
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2017,January,11
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2017,January,12
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2017,January,13
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2017,January,14
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2017,January,15
+Bakula,Kg,50.0,55.0,52.5,Winter,Fruit,2017,January,16
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2017,January,17
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,January,18
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,January,19
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2017,January,20
+Bakula,Kg,58.0,60.0,59.0,Winter,Fruit,2017,January,21
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2017,January,22
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,January,23
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2017,January,24
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2017,January,25
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,January,26
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,January,27
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,January,28
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,January,29
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2017,January,30
+Bakula,Kg,55.0,60.0,57.5,Winter,Fruit,2017,January,31
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2017,March,1
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2017,March,2
+Bakula,Kg,55.0,60.0,57.5,Winter,Fruit,2017,March,4
+Bakula,Kg,40.0,50.0,45.0,Winter,Fruit,2017,March,5
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2017,March,6
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2017,March,7
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2017,March,8
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2017,March,9
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2017,March,10
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2017,March,11
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2017,March,13
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2017,March,14
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2017,March,15
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2017,March,16
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2017,March,17
+Bakula,Kg,55.0,60.0,57.5,Spring,Fruit,2017,March,18
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2017,March,19
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2017,March,20
+Bakula,Kg,50.0,55.0,52.5,Spring,Fruit,2017,March,21
+Bakula,Kg,50.0,55.0,52.5,Spring,Fruit,2017,March,22
+Bakula,Kg,50.0,55.0,52.5,Spring,Fruit,2017,March,23
+Bakula,Kg,50.0,55.0,52.5,Spring,Fruit,2017,March,24
+Bakula,Kg,50.0,55.0,52.5,Spring,Fruit,2017,March,25
+Bakula,Kg,50.0,55.0,52.5,Spring,Fruit,2017,March,26
+Bakula,Kg,50.0,55.0,52.5,Spring,Fruit,2017,March,27
+Bakula,Kg,50.0,55.0,52.5,Spring,Fruit,2017,March,28
+Bakula,Kg,50.0,55.0,52.5,Spring,Fruit,2017,March,29
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2017,March,30
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2017,March,31
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2017,November,20
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2017,November,21
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2017,November,22
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2017,November,23
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2017,November,24
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2017,November,25
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2017,November,26
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2017,November,27
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2017,November,28
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2017,November,29
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2017,November,30
+Bakula,Kg,50.0,55.0,52.5,Spring,Fruit,2018,April,1
+Bakula,Kg,55.0,60.0,57.5,Spring,Fruit,2018,April,2
+Bakula,Kg,55.0,60.0,57.5,Spring,Fruit,2018,April,3
+Bakula,Kg,60.0,100.0,80.0,Spring,Fruit,2018,April,4
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2018,April,5
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,1
+Bakula,Kg,95.0,100.0,97.5,Late Autumn,Fruit,2018,December,3
+Bakula,Kg,95.0,100.0,97.5,Late Autumn,Fruit,2018,December,4
+Bakula,Kg,95.0,100.0,97.5,Late Autumn,Fruit,2018,December,5
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,6
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,7
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,8
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2018,December,9
+Bakula,Kg,95.0,100.0,97.5,Late Autumn,Fruit,2018,December,10
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,11
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,12
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,13
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,14
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,15
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2018,December,16
+Bakula,Kg,80.0,85.0,82.5,Late Autumn,Fruit,2018,December,17
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,18
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,19
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,20
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,21
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,22
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,23
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2018,December,24
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2018,December,25
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,26
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,27
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,28
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,29
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,December,30
+Bakula,Kg,85.0,90.0,87.5,Late Autumn,Fruit,2018,December,31
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,February,1
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,February,2
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,February,3
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,February,4
+Bakula,Kg,70.0,75.0,72.5,Winter,Fruit,2018,February,5
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2018,February,14
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2018,February,15
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2018,February,16
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2018,February,17
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2018,February,18
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2018,February,19
+Bakula,Kg,85.0,90.0,87.5,Winter,Fruit,2018,February,20
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,February,21
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2018,February,22
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2018,February,23
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2018,February,24
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2018,February,25
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,February,26
+Bakula,Kg,95.0,100.0,97.5,Winter,Fruit,2018,February,27
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,February,28
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2018,January,1
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2018,January,2
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2018,January,3
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2018,January,4
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2018,January,5
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2018,January,6
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2018,January,7
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2018,January,8
+Bakula,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2018,January,9
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2018,January,10
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2018,January,11
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2018,January,12
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2018,January,13
+Bakula,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2018,January,14
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2018,January,17
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2018,January,18
+Bakula,Kg,50.0,55.0,52.5,Winter,Fruit,2018,January,19
+Bakula,Kg,50.0,55.0,52.5,Winter,Fruit,2018,January,20
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,January,21
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,January,22
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2018,January,23
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,January,24
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,January,25
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,January,26
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2018,January,27
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2018,January,28
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,January,29
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,January,30
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,January,31
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,March,1
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2018,March,2
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2018,March,3
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,March,5
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,March,6
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,March,7
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,March,8
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,March,9
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2018,March,10
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2018,March,11
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2018,March,12
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2018,March,13
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2018,March,14
+Bakula,Kg,75.0,80.0,77.5,Spring,Fruit,2018,March,15
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2018,March,16
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2018,March,17
+Bakula,Kg,65.0,70.0,67.5,Spring,Fruit,2018,March,18
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2018,March,19
+Bakula,Kg,75.0,80.0,77.5,Spring,Fruit,2018,March,20
+Bakula,Kg,65.0,70.0,67.5,Spring,Fruit,2018,March,21
+Bakula,Kg,60.0,65.0,62.5,Spring,Fruit,2018,March,22
+Bakula,Kg,75.0,80.0,77.5,Spring,Fruit,2018,March,23
+Bakula,Kg,75.0,80.0,77.5,Spring,Fruit,2018,March,24
+Bakula,Kg,75.0,80.0,77.5,Spring,Fruit,2018,March,25
+Bakula,Kg,55.0,60.0,57.5,Spring,Fruit,2018,March,26
+Bakula,Kg,65.0,70.0,67.5,Spring,Fruit,2018,March,27
+Bakula,Kg,70.0,75.0,72.5,Spring,Fruit,2018,March,28
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2018,March,29
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2018,March,30
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2018,March,31
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,November,19
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,November,20
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,November,21
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,November,22
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,November,25
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2018,November,26
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2018,November,27
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,November,28
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,November,29
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2018,November,30
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2019,April,1
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2019,April,2
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2019,April,3
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2019,April,4
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2019,April,5
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2019,April,6
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2019,April,7
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2019,April,8
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2019,April,9
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2019,April,10
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2019,April,11
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2019,April,12
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2019,April,13
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2019,April,14
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2019,April,15
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2019,April,16
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2019,April,17
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,1
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,2
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,3
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2019,December,6
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,9
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,10
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,11
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,12
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,13
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,14
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,15
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,16
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,17
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,18
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,19
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,20
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,21
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,22
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,23
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,24
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,25
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,December,26
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2019,December,27
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2019,December,28
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2019,December,29
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2019,December,30
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2019,December,31
+Bakula,Kg,85.0,90.0,87.5,Winter,Fruit,2019,February,1
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2019,February,2
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,February,3
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2019,February,4
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,February,5
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,February,6
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,February,7
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2019,February,12
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,February,13
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,February,14
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,February,15
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,February,16
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2019,February,17
+Bakula,Kg,95.0,100.0,97.5,Winter,Fruit,2019,February,18
+Bakula,Kg,90.0,95.0,92.5,Winter,Fruit,2019,February,19
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,February,20
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,February,21
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2019,February,22
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2019,February,23
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,February,24
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,February,25
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,February,26
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,February,27
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,February,28
+Bakula,Kg,85.0,90.0,87.5,Late Autumn,Fruit,2019,January,1
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2019,January,2
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2019,January,3
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2019,January,4
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2019,January,5
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2019,January,6
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2019,January,7
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,January,8
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2019,January,9
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,January,10
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2019,January,11
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2019,January,12
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2019,January,13
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2019,January,14
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2019,January,15
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,January,16
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2019,January,17
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2019,January,18
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2019,January,19
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,January,20
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2019,January,21
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,January,22
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2019,January,23
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,January,24
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,January,25
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2019,January,26
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,January,27
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,January,28
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,January,29
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,January,30
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2019,January,31
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,March,1
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,March,2
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,March,3
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2019,March,5
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2019,March,6
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2019,March,7
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2019,March,8
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2019,March,9
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2019,March,10
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2019,March,11
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2019,March,12
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2019,March,13
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2019,March,14
+Bakula,Kg,55.0,60.0,57.5,Spring,Fruit,2019,March,15
+Bakula,Kg,60.0,65.0,62.5,Spring,Fruit,2019,March,16
+Bakula,Kg,60.0,65.0,62.5,Spring,Fruit,2019,March,17
+Bakula,Kg,55.0,60.0,57.5,Spring,Fruit,2019,March,18
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2019,March,19
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2019,March,20
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2019,March,21
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2019,March,22
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2019,March,23
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2019,March,24
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2019,March,25
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2019,March,26
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2019,March,27
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2019,March,28
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2019,March,29
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2019,March,30
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2019,March,31
+Bakula,Kg,110.0,120.0,115.0,Early Autumn,Fruit,2019,November,12
+Bakula,Kg,110.0,120.0,115.0,Early Autumn,Fruit,2019,November,13
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2019,November,15
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2019,November,17
+Bakula,Kg,95.0,100.0,97.5,Late Autumn,Fruit,2019,November,18
+Bakula,Kg,95.0,100.0,97.5,Late Autumn,Fruit,2019,November,19
+Bakula,Kg,95.0,100.0,97.5,Late Autumn,Fruit,2019,November,20
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,November,21
+Bakula,Kg,95.0,100.0,97.5,Late Autumn,Fruit,2019,November,22
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,November,23
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,November,24
+Bakula,Kg,95.0,100.0,97.5,Late Autumn,Fruit,2019,November,25
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,November,26
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,November,27
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,November,28
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2019,November,29
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2019,November,30
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2020,April,1
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2020,April,2
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2020,April,3
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2020,April,4
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2020,April,5
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2020,April,6
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2020,April,7
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2020,April,8
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2020,April,13
+Bakula,Kg,30.0,35.0,32.5,Spring,Fruit,2020,April,14
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2020,April,15
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2020,April,16
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2020,April,17
+Bakula,Kg,30.0,35.0,32.5,Spring,Fruit,2020,April,21
+Bakula,Kg,100.0,120.0,110.0,Summer Monsoon,Fruit,2020,August,27
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,December,1
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,December,2
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,December,3
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,December,4
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2020,December,5
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2020,December,6
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2020,December,7
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,December,8
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,9
+Bakula,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2020,December,10
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2020,December,11
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2020,December,12
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,December,13
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,December,14
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2020,December,15
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,December,16
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,December,17
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,December,18
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,December,19
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,December,20
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,December,21
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2020,December,22
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2020,December,23
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2020,December,24
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,December,25
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,December,26
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,December,27
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2020,December,28
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2020,December,29
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2020,December,30
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2020,December,31
+Bakula,Kg,95.0,100.0,97.5,Winter,Fruit,2020,February,12
+Bakula,Kg,95.0,100.0,97.5,Winter,Fruit,2020,February,13
+Bakula,Kg,95.0,100.0,97.5,Winter,Fruit,2020,February,14
+Bakula,Kg,95.0,100.0,97.5,Winter,Fruit,2020,February,15
+Bakula,Kg,95.0,100.0,97.5,Winter,Fruit,2020,February,16
+Bakula,Kg,95.0,100.0,97.5,Winter,Fruit,2020,February,17
+Bakula,Kg,95.0,100.0,97.5,Winter,Fruit,2020,February,18
+Bakula,Kg,95.0,100.0,97.5,Winter,Fruit,2020,February,19
+Bakula,Kg,95.0,100.0,97.5,Winter,Fruit,2020,February,20
+Bakula,Kg,95.0,100.0,97.5,Winter,Fruit,2020,February,21
+Bakula,Kg,75.0,80.0,77.5,Winter,Fruit,2020,February,22
+Bakula,Kg,90.0,95.0,92.5,Winter,Fruit,2020,February,23
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2020,February,24
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2020,February,25
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2020,February,26
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2020,February,27
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2020,February,28
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2020,February,29
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2020,January,1
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2020,January,2
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2020,January,3
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2020,January,9
+Bakula,Kg,95.0,100.0,97.5,Late Autumn,Fruit,2020,January,10
+Bakula,Kg,75.0,80.0,77.5,Late Autumn,Fruit,2020,January,13
+Bakula,Kg,95.0,100.0,97.5,Late Autumn,Fruit,2020,January,14
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2020,March,1
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2020,March,2
+Bakula,Kg,55.0,60.0,57.5,Winter,Fruit,2020,March,8
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2020,March,9
+Bakula,Kg,65.0,70.0,67.5,Winter,Fruit,2020,March,10
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2020,March,11
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2020,March,12
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2020,March,13
+Bakula,Kg,60.0,65.0,62.5,Winter,Fruit,2020,March,14
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2020,March,15
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2020,March,16
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2020,March,17
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2020,March,18
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2020,March,19
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2020,March,20
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2020,March,21
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2020,March,22
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2020,March,23
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2020,March,26
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2020,March,27
+Bakula,Kg,45.0,50.0,47.5,Spring,Fruit,2020,March,28
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2020,March,29
+Bakula,Kg,40.0,45.0,42.5,Spring,Fruit,2020,March,30
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2020,March,31
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2020,May,11
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2020,May,12
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2020,May,13
+Bakula,Kg,35.0,40.0,37.5,Spring,Fruit,2020,May,14
+Bakula,Kg,35.0,40.0,37.5,Early Summer,Fruit,2020,May,15
+Bakula,Kg,35.0,40.0,37.5,Early Summer,Fruit,2020,May,17
+Bakula,Kg,35.0,40.0,37.5,Early Summer,Fruit,2020,May,18
+Bakula,Kg,30.0,35.0,32.5,Early Summer,Fruit,2020,May,19
+Bakula,Kg,100.0,120.0,110.0,Early Autumn,Fruit,2020,November,4
+Bakula,Kg,100.0,120.0,110.0,Early Autumn,Fruit,2020,November,5
+Bakula,Kg,110.0,120.0,115.0,Early Autumn,Fruit,2020,November,6
+Bakula,Kg,100.0,110.0,105.0,Early Autumn,Fruit,2020,November,7
+Bakula,Kg,110.0,120.0,115.0,Early Autumn,Fruit,2020,November,8
+Bakula,Kg,100.0,110.0,105.0,Early Autumn,Fruit,2020,November,9
+Bakula,Kg,100.0,110.0,105.0,Early Autumn,Fruit,2020,November,10
+Bakula,Kg,100.0,110.0,105.0,Early Autumn,Fruit,2020,November,11
+Bakula,Kg,100.0,110.0,105.0,Early Autumn,Fruit,2020,November,12
+Bakula,Kg,100.0,110.0,105.0,Early Autumn,Fruit,2020,November,13
+Bakula,Kg,100.0,110.0,105.0,Early Autumn,Fruit,2020,November,14
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2020,November,15
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2020,November,19
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2020,November,20
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,November,21
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2020,November,22
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,November,23
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,November,24
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,November,25
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,November,26
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,November,27
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,November,28
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,November,29
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2020,November,30
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2021,April,1
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2021,April,2
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2021,April,3
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2021,April,4
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2021,April,5
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2021,April,6
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2021,April,7
+Bakula,Kg,90.0,100.0,95.0,Spring,Fruit,2021,April,8
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2021,April,9
+Bakula,Kg,90.0,100.0,95.0,Spring,Fruit,2021,April,10
+Bakula,Kg,80.0,90.0,85.0,Spring,Fruit,2021,April,11
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2021,April,12
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2021,April,13
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2021,April,14
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2021,April,15
+Bakula,Kg,90.0,100.0,95.0,Spring,Fruit,2021,April,16
+Bakula,Kg,80.0,90.0,85.0,Spring,Fruit,2021,April,17
+Bakula,Kg,80.0,90.0,85.0,Spring,Fruit,2021,April,18
+Bakula,Kg,90.0,100.0,95.0,Spring,Fruit,2021,April,19
+Bakula,Kg,90.0,100.0,95.0,Spring,Fruit,2021,April,20
+Bakula,Kg,80.0,90.0,85.0,Spring,Fruit,2021,April,21
+Bakula,Kg,80.0,90.0,85.0,Spring,Fruit,2021,April,24
+Bakula,Kg,80.0,90.0,85.0,Spring,Fruit,2021,April,25
+Bakula,Kg,90.0,100.0,95.0,Spring,Fruit,2021,April,26
+Bakula,Kg,90.0,100.0,95.0,Spring,Fruit,2021,April,27
+Bakula,Kg,130.0,150.0,140.0,Late Autumn,Fruit,2021,December,1
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,December,2
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,December,3
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,December,4
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,December,5
+Bakula,Kg,120.0,140.0,130.0,Late Autumn,Fruit,2021,December,6
+Bakula,Kg,130.0,150.0,140.0,Late Autumn,Fruit,2021,December,7
+Bakula,Kg,120.0,140.0,130.0,Late Autumn,Fruit,2021,December,8
+Bakula,Kg,130.0,140.0,135.0,Late Autumn,Fruit,2021,December,9
+Bakula,Kg,140.0,150.0,145.0,Late Autumn,Fruit,2021,December,10
+Bakula,Kg,130.0,140.0,135.0,Late Autumn,Fruit,2021,December,11
+Bakula,Kg,130.0,150.0,140.0,Late Autumn,Fruit,2021,December,12
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,December,13
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,December,14
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,December,15
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,December,16
+Bakula,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2021,December,17
+Bakula,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2021,December,18
+Bakula,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2021,December,19
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,December,20
+Bakula,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2021,December,21
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,December,22
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2021,December,23
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2021,December,24
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,December,25
+Bakula,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2021,December,26
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2021,December,27
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2021,December,28
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2021,December,29
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2021,December,30
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2021,December,31
+Bakula,Kg,110.0,120.0,115.0,Winter,Fruit,2021,February,1
+Bakula,Kg,110.0,120.0,115.0,Winter,Fruit,2021,February,2
+Bakula,Kg,100.0,110.0,105.0,Winter,Fruit,2021,February,3
+Bakula,Kg,100.0,110.0,105.0,Winter,Fruit,2021,February,4
+Bakula,Kg,100.0,110.0,105.0,Winter,Fruit,2021,February,5
+Bakula,Kg,100.0,110.0,105.0,Winter,Fruit,2021,February,6
+Bakula,Kg,120.0,130.0,125.0,Winter,Fruit,2021,February,7
+Bakula,Kg,110.0,120.0,115.0,Winter,Fruit,2021,February,8
+Bakula,Kg,100.0,110.0,105.0,Winter,Fruit,2021,February,9
+Bakula,Kg,110.0,120.0,115.0,Winter,Fruit,2021,February,10
+Bakula,Kg,100.0,110.0,105.0,Winter,Fruit,2021,February,11
+Bakula,Kg,110.0,120.0,115.0,Winter,Fruit,2021,February,12
+Bakula,Kg,110.0,120.0,115.0,Winter,Fruit,2021,February,13
+Bakula,Kg,110.0,120.0,115.0,Winter,Fruit,2021,February,14
+Bakula,Kg,100.0,110.0,105.0,Winter,Fruit,2021,February,15
+Bakula,Kg,100.0,110.0,105.0,Winter,Fruit,2021,February,16
+Bakula,Kg,100.0,110.0,105.0,Winter,Fruit,2021,February,17
+Bakula,Kg,110.0,120.0,115.0,Winter,Fruit,2021,February,18
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2021,February,19
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2021,February,20
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2021,February,21
+Bakula,Kg,110.0,120.0,115.0,Winter,Fruit,2021,February,22
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2021,February,23
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2021,February,24
+Bakula,Kg,100.0,110.0,105.0,Winter,Fruit,2021,February,25
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2021,February,26
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2021,February,27
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2021,February,28
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2021,January,1
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,January,2
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,January,3
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2021,January,4
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2021,January,5
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2021,January,6
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2021,January,7
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2021,January,8
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2021,January,9
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2021,January,10
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2021,January,11
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,January,12
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,January,13
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2021,January,14
+Bakula,Kg,100.0,110.0,105.0,Winter,Fruit,2021,January,15
+Bakula,Kg,100.0,110.0,105.0,Winter,Fruit,2021,January,16
+Bakula,Kg,100.0,110.0,105.0,Winter,Fruit,2021,January,17
+Bakula,Kg,110.0,120.0,115.0,Winter,Fruit,2021,January,18
+Bakula,Kg,110.0,120.0,115.0,Winter,Fruit,2021,January,19
+Bakula,Kg,110.0,120.0,115.0,Winter,Fruit,2021,January,20
+Bakula,Kg,110.0,120.0,115.0,Winter,Fruit,2021,January,21
+Bakula,Kg,100.0,110.0,105.0,Winter,Fruit,2021,January,22
+Bakula,Kg,100.0,120.0,110.0,Winter,Fruit,2021,January,23
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2021,January,24
+Bakula,Kg,100.0,110.0,105.0,Winter,Fruit,2021,January,25
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2021,January,26
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,27
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2021,January,28
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2021,January,29
+Bakula,Kg,110.0,120.0,115.0,Winter,Fruit,2021,January,30
+Bakula,Kg,100.0,110.0,105.0,Winter,Fruit,2021,January,31
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2021,March,1
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2021,March,2
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2021,March,3
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2021,March,5
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2021,March,6
+Bakula,Kg,40.0,50.0,45.0,Winter,Fruit,2021,March,7
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2021,March,8
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2021,March,9
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2021,March,10
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2021,March,11
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2021,March,12
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2021,March,13
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2021,March,14
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,15
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,16
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2021,March,17
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,18
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2021,March,19
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2021,March,20
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2021,March,21
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2021,March,22
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2021,March,23
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2021,March,24
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,25
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2021,March,26
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,27
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2021,March,28
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2021,March,29
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2021,March,30
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2021,March,31
+Bakula,Kg,120.0,130.0,125.0,Early Autumn,Fruit,2021,November,10
+Bakula,Kg,120.0,130.0,125.0,Early Autumn,Fruit,2021,November,11
+Bakula,Kg,110.0,120.0,115.0,Early Autumn,Fruit,2021,November,12
+Bakula,Kg,120.0,130.0,125.0,Early Autumn,Fruit,2021,November,13
+Bakula,Kg,120.0,150.0,135.0,Early Autumn,Fruit,2021,November,14
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,November,15
+Bakula,Kg,120.0,140.0,130.0,Late Autumn,Fruit,2021,November,16
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,November,17
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,November,18
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,November,19
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,November,20
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2021,November,21
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,November,22
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,November,23
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,November,24
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,November,25
+Bakula,Kg,120.0,140.0,130.0,Late Autumn,Fruit,2021,November,26
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,November,27
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,November,28
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,November,29
+Bakula,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,November,30
+Bakula,Kg,180.0,200.0,190.0,Early Autumn,Fruit,2021,October,21
+Bakula,Kg,160.0,180.0,170.0,Early Autumn,Fruit,2021,October,22
+Bakula,Kg,140.0,150.0,145.0,Early Autumn,Fruit,2021,October,23
+Bakula,Kg,140.0,150.0,145.0,Early Autumn,Fruit,2021,October,24
+Bakula,Kg,140.0,150.0,145.0,Early Autumn,Fruit,2021,October,25
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2022,April,1
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2022,April,2
+Bakula,Kg,20.0,30.0,25.0,Spring,Fruit,2022,April,3
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2022,April,4
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2022,April,5
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2022,April,8
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2022,April,9
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2022,April,10
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2022,April,11
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2022,April,12
+Bakula,Kg,90.0,100.0,95.0,Spring,Fruit,2022,April,17
+Bakula,Kg,40.0,50.0,46.67,Spring,Fruit,2022,April,19
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2022,April,20
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2022,April,21
+Bakula,Kg,90.0,100.0,95.0,Spring,Fruit,2022,April,24
+Bakula,Kg,80.0,100.0,90.0,Spring,Fruit,2022,April,30
+Bakula,Kg,90.0,100.0,96.67,Late Autumn,Fruit,2022,December,1
+Bakula,Kg,80.0,90.0,86.0,Late Autumn,Fruit,2022,December,2
+Bakula,Kg,80.0,90.0,86.67,Late Autumn,Fruit,2022,December,3
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2022,December,4
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2022,December,5
+Bakula,Kg,80.0,90.0,86.67,Late Autumn,Fruit,2022,December,6
+Bakula,Kg,70.0,80.0,76.0,Late Autumn,Fruit,2022,December,7
+Bakula,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2022,December,8
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2022,December,9
+Bakula,Kg,70.0,80.0,76.67,Late Autumn,Fruit,2022,December,10
+Bakula,Kg,70.0,80.0,76.67,Late Autumn,Fruit,2022,December,11
+Bakula,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,12
+Bakula,Kg,70.0,80.0,76.0,Late Autumn,Fruit,2022,December,13
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,December,14
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,December,15
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,December,16
+Bakula,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,December,17
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2022,December,18
+Bakula,Kg,50.0,60.0,57.5,Late Autumn,Fruit,2022,December,19
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,December,20
+Bakula,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,December,21
+Bakula,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,December,22
+Bakula,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,December,23
+Bakula,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,December,24
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2022,December,25
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,December,26
+Bakula,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,December,27
+Bakula,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2022,December,28
+Bakula,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,December,29
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,December,30
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,December,31
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,1
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,2
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,3
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,4
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,5
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,6
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,7
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2022,February,8
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2022,February,9
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2022,February,10
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,11
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,12
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,13
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2022,February,14
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2022,February,15
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,16
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,17
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2022,February,18
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,19
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,20
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,21
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,22
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,23
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,24
+Bakula,Kg,40.0,50.0,45.0,Winter,Fruit,2022,February,25
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,27
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,28
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2022,January,1
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2022,January,2
+Bakula,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2022,January,3
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2022,January,4
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2022,January,5
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2022,January,6
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2022,January,7
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2022,January,8
+Bakula,Kg,110.0,120.0,115.0,Late Autumn,Fruit,2022,January,9
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2022,January,10
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2022,January,11
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2022,January,12
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2022,January,13
+Bakula,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2022,January,14
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,January,15
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,January,16
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,January,17
+Bakula,Kg,80.0,100.0,90.0,Winter,Fruit,2022,January,18
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,January,19
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2022,January,20
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2022,January,21
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2022,January,22
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,January,23
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2022,January,24
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2022,January,25
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,January,26
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,January,27
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,January,28
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2022,January,29
+Bakula,Kg,90.0,100.0,95.0,Winter,Fruit,2022,January,30
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,January,31
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,March,1
+Bakula,Kg,80.0,90.0,85.0,Winter,Fruit,2022,March,2
+Bakula,Kg,50.0,70.0,60.0,Winter,Fruit,2022,March,3
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2022,March,5
+Bakula,Kg,70.0,80.0,75.0,Winter,Fruit,2022,March,6
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2022,March,7
+Bakula,Kg,40.0,50.0,45.0,Winter,Fruit,2022,March,8
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2022,March,9
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2022,March,10
+Bakula,Kg,40.0,50.0,45.0,Winter,Fruit,2022,March,11
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2022,March,12
+Bakula,Kg,40.0,50.0,45.0,Winter,Fruit,2022,March,13
+Bakula,Kg,30.0,40.0,35.0,Winter,Fruit,2022,March,14
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2022,March,15
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2022,March,16
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2022,March,17
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2022,March,18
+Bakula,Kg,20.0,30.0,25.0,Spring,Fruit,2022,March,19
+Bakula,Kg,40.0,50.0,45.0,Spring,Fruit,2022,March,20
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2022,March,21
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2022,March,22
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2022,March,23
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2022,March,24
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2022,March,25
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2022,March,26
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2022,March,27
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2022,March,28
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2022,March,29
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2022,March,30
+Bakula,Kg,30.0,40.0,35.0,Spring,Fruit,2022,March,31
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2022,May,2
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2022,May,3
+Bakula,Kg,130.0,150.0,140.0,Early Summer,Fruit,2022,May,19
+Bakula,Kg,110.0,120.0,116.67,Early Autumn,Fruit,2022,November,2
+Bakula,Kg,110.0,120.0,115.0,Early Autumn,Fruit,2022,November,3
+Bakula,Kg,100.0,110.0,105.0,Early Autumn,Fruit,2022,November,4
+Bakula,Kg,110.0,120.0,116.67,Early Autumn,Fruit,2022,November,5
+Bakula,Kg,110.0,120.0,115.0,Early Autumn,Fruit,2022,November,6
+Bakula,Kg,110.0,120.0,116.67,Early Autumn,Fruit,2022,November,7
+Bakula,Kg,110.0,120.0,115.0,Early Autumn,Fruit,2022,November,8
+Bakula,Kg,110.0,120.0,115.0,Early Autumn,Fruit,2022,November,9
+Bakula,Kg,120.0,130.0,126.67,Early Autumn,Fruit,2022,November,10
+Bakula,Kg,120.0,130.0,126.67,Early Autumn,Fruit,2022,November,11
+Bakula,Kg,120.0,130.0,126.67,Early Autumn,Fruit,2022,November,12
+Bakula,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2022,November,13
+Bakula,Kg,120.0,130.0,126.67,Early Autumn,Fruit,2022,November,14
+Bakula,Kg,120.0,130.0,126.67,Late Autumn,Fruit,2022,November,15
+Bakula,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2022,November,16
+Bakula,Kg,100.0,110.0,106.67,Late Autumn,Fruit,2022,November,17
+Bakula,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2022,November,18
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2022,November,19
+Bakula,Kg,110.0,120.0,116.67,Late Autumn,Fruit,2022,November,21
+Bakula,Kg,100.0,110.0,106.67,Late Autumn,Fruit,2022,November,22
+Bakula,Kg,100.0,110.0,105.0,Late Autumn,Fruit,2022,November,23
+Bakula,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2022,November,24
+Bakula,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2022,November,25
+Bakula,Kg,90.0,100.0,96.0,Late Autumn,Fruit,2022,November,26
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2022,November,27
+Bakula,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2022,November,28
+Bakula,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2022,November,29
+Bakula,Kg,80.0,90.0,86.0,Late Autumn,Fruit,2022,November,30
+Bakula,Kg,150.0,160.0,156.67,Early Autumn,Fruit,2022,October,13
+Bakula,Kg,120.0,140.0,130.0,Early Autumn,Fruit,2022,October,19
+Bakula,Kg,110.0,120.0,116.67,Early Autumn,Fruit,2022,October,20
+Bakula,Kg,110.0,120.0,116.67,Early Autumn,Fruit,2022,October,21
+Bakula,Kg,110.0,120.0,115.0,Early Autumn,Fruit,2022,October,22
+Bakula,Kg,110.0,120.0,115.0,Early Autumn,Fruit,2022,October,23
+Bakula,Kg,100.0,110.0,106.67,Early Autumn,Fruit,2022,October,24
+Bakula,Kg,90.0,100.0,96.67,Early Autumn,Fruit,2022,October,25
+Bakula,Kg,90.0,100.0,93.33,Early Autumn,Fruit,2022,October,26
+Bakula,Kg,100.0,120.0,110.0,Early Autumn,Fruit,2022,October,27
+Bakula,Kg,100.0,110.0,105.0,Early Autumn,Fruit,2022,October,29
+Bakula,Kg,100.0,120.0,110.0,Early Autumn,Fruit,2022,October,30
+Bakula,Kg,120.0,130.0,126.67,Early Autumn,Fruit,2022,October,31
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2023,April,1
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2023,April,2
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,3
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2023,April,4
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,5
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,6
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,7
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,8
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,9
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,10
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,11
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,12
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,13
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,14
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2023,April,15
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2023,April,16
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,19
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,20
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,21
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,22
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,23
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,24
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,25
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,26
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,27
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,28
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,April,29
+Bakula,Kg,70.0,80.0,76.67,Spring,Fruit,2023,April,30
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2023,February,1
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,2
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,3
+Bakula,Kg,50.0,60.0,56.67,Winter,Fruit,2023,February,4
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2023,February,5
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,6
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,7
+Bakula,Kg,50.0,60.0,56.67,Winter,Fruit,2023,February,8
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,9
+Bakula,Kg,50.0,60.0,56.67,Winter,Fruit,2023,February,10
+Bakula,Kg,50.0,60.0,56.67,Winter,Fruit,2023,February,11
+Bakula,Kg,50.0,60.0,55.0,Winter,Fruit,2023,February,12
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2023,February,13
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,14
+Bakula,Kg,50.0,60.0,56.67,Winter,Fruit,2023,February,15
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,16
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,17
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,18
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2023,February,19
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,20
+Bakula,Kg,60.0,70.0,66.0,Winter,Fruit,2023,February,21
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2023,February,22
+Bakula,Kg,70.0,80.0,76.67,Winter,Fruit,2023,February,23
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,24
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,25
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2023,February,26
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2023,February,27
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,28
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2023,January,1
+Bakula,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2023,January,2
+Bakula,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2023,January,3
+Bakula,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2023,January,4
+Bakula,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2023,January,5
+Bakula,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2023,January,6
+Bakula,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2023,January,7
+Bakula,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2023,January,8
+Bakula,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2023,January,9
+Bakula,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2023,January,10
+Bakula,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2023,January,11
+Bakula,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2023,January,12
+Bakula,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2023,January,13
+Bakula,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2023,January,14
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,15
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,16
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,17
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,18
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,19
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,20
+Bakula,Kg,50.0,60.0,56.67,Winter,Fruit,2023,January,21
+Bakula,Kg,50.0,60.0,56.67,Winter,Fruit,2023,January,22
+Bakula,Kg,50.0,60.0,56.67,Winter,Fruit,2023,January,23
+Bakula,Kg,50.0,60.0,56.67,Winter,Fruit,2023,January,24
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,25
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2023,January,26
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,27
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,28
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2023,January,29
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,30
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,31
+Bakula,Kg,130.0,140.0,136.67,Early Summer,Fruit,2023,June,10
+Bakula,Kg,130.0,150.0,140.0,Early Summer,Fruit,2023,June,11
+Bakula,Kg,140.0,150.0,145.0,Early Summer,Fruit,2023,June,12
+Bakula,Kg,150.0,160.0,155.0,Early Summer,Fruit,2023,June,19
+Bakula,Kg,40.0,50.0,45.0,Winter,Fruit,2023,March,1
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2023,March,2
+Bakula,Kg,60.0,70.0,67.5,Winter,Fruit,2023,March,3
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2023,March,5
+Bakula,Kg,55.0,60.0,58.33,Winter,Fruit,2023,March,6
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,March,7
+Bakula,Kg,50.0,60.0,56.67,Winter,Fruit,2023,March,8
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2023,March,9
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,March,10
+Bakula,Kg,55.0,60.0,58.33,Winter,Fruit,2023,March,11
+Bakula,Kg,60.0,70.0,65.0,Winter,Fruit,2023,March,12
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,March,13
+Bakula,Kg,60.0,70.0,66.67,Winter,Fruit,2023,March,14
+Bakula,Kg,60.0,70.0,66.67,Spring,Fruit,2023,March,15
+Bakula,Kg,60.0,70.0,66.67,Spring,Fruit,2023,March,16
+Bakula,Kg,70.0,80.0,75.0,Spring,Fruit,2023,March,17
+Bakula,Kg,60.0,70.0,66.67,Spring,Fruit,2023,March,18
+Bakula,Kg,50.0,60.0,55.0,Spring,Fruit,2023,March,19
+Bakula,Kg,60.0,70.0,66.67,Spring,Fruit,2023,March,20
+Bakula,Kg,60.0,70.0,66.67,Spring,Fruit,2023,March,21
+Bakula,Kg,60.0,70.0,66.67,Spring,Fruit,2023,March,22
+Bakula,Kg,60.0,70.0,66.67,Spring,Fruit,2023,March,23
+Bakula,Kg,60.0,70.0,66.67,Spring,Fruit,2023,March,24
+Bakula,Kg,60.0,70.0,66.67,Spring,Fruit,2023,March,25
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2023,March,26
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2023,March,27
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2023,March,28
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2023,March,29
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2023,March,30
+Bakula,Kg,60.0,70.0,65.0,Spring,Fruit,2023,March,31
+Bakula,Kg,90.0,100.0,95.0,Spring,Fruit,2023,May,7

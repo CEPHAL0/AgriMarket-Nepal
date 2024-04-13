@@ -1,0 +1,813 @@
+Commodity,Unit,Minimum,Maximum,Average,Season,Category,Year,Month,Day
+Drumstick,Kg,80.0,90.0,85.0,Late Autumn,Vegetable,2013,December,15
+Drumstick,Kg,35.0,40.0,37.5,Early Summer,Vegetable,2013,June,16
+Drumstick,Kg,45.0,50.0,47.5,Early Summer,Vegetable,2013,June,17
+Drumstick,Kg,35.0,40.0,37.5,Early Summer,Vegetable,2013,June,18
+Drumstick,Kg,45.0,50.0,47.5,Early Summer,Vegetable,2013,June,20
+Drumstick,Kg,45.0,50.0,47.5,Early Summer,Vegetable,2013,June,21
+Drumstick,Kg,100.0,105.0,102.5,Early Autumn,Vegetable,2013,November,13
+Drumstick,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2013,October,12
+Drumstick,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2013,October,22
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2014,April,1
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2014,April,2
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2014,April,3
+Drumstick,Kg,130.0,160.0,145.0,Spring,Vegetable,2014,April,4
+Drumstick,Kg,130.0,150.0,140.0,Spring,Vegetable,2014,April,6
+Drumstick,Kg,130.0,140.0,135.0,Spring,Vegetable,2014,April,7
+Drumstick,Kg,110.0,120.0,115.0,Spring,Vegetable,2014,April,9
+Drumstick,Kg,100.0,110.0,105.0,Spring,Vegetable,2014,April,10
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2014,April,11
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2014,April,13
+Drumstick,Kg,55.0,60.0,57.5,Spring,Vegetable,2014,April,15
+Drumstick,Kg,50.0,66.0,58.0,Spring,Vegetable,2014,April,16
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2014,April,17
+Drumstick,Kg,80.0,90.0,85.0,Spring,Vegetable,2014,April,18
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2014,April,20
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2014,April,21
+Drumstick,Kg,55.0,60.0,57.5,Spring,Vegetable,2014,April,22
+Drumstick,Kg,55.0,60.0,57.5,Spring,Vegetable,2014,April,23
+Drumstick,Kg,55.0,60.0,57.5,Spring,Vegetable,2014,April,25
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2014,April,27
+Drumstick,Kg,55.0,60.0,57.5,Spring,Vegetable,2014,April,28
+Drumstick,Kg,55.0,60.0,57.5,Spring,Vegetable,2014,April,29
+Drumstick,Kg,50.0,55.0,52.5,Spring,Vegetable,2014,April,30
+Drumstick,Kg,190.0,200.0,195.0,Winter,Vegetable,2014,February,12
+Drumstick,Kg,190.0,200.0,195.0,Winter,Vegetable,2014,February,13
+Drumstick,Kg,180.0,200.0,190.0,Winter,Vegetable,2014,February,16
+Drumstick,Kg,190.0,200.0,195.0,Winter,Vegetable,2014,February,23
+Drumstick,Kg,180.0,200.0,190.0,Winter,Vegetable,2014,February,24
+Drumstick,Kg,190.0,200.0,195.0,Winter,Vegetable,2014,February,25
+Drumstick,Kg,190.0,200.0,195.0,Winter,Vegetable,2014,February,26
+Drumstick,Kg,190.0,200.0,195.0,Winter,Vegetable,2014,February,28
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,1
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,3
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,4
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,5
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,6
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,8
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,9
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,10
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,11
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,12
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,13
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,15
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,16
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,17
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,18
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,19
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,June,20
+Drumstick,Kg,190.0,200.0,195.0,Winter,Vegetable,2014,March,3
+Drumstick,Kg,230.0,240.0,235.0,Winter,Vegetable,2014,March,6
+Drumstick,Kg,220.0,240.0,230.0,Winter,Vegetable,2014,March,7
+Drumstick,Kg,220.0,230.0,225.0,Winter,Vegetable,2014,March,9
+Drumstick,Kg,200.0,220.0,210.0,Winter,Vegetable,2014,March,10
+Drumstick,Kg,220.0,230.0,225.0,Winter,Vegetable,2014,March,11
+Drumstick,Kg,110.0,120.0,115.0,Winter,Vegetable,2014,March,12
+Drumstick,Kg,110.0,120.0,115.0,Winter,Vegetable,2014,March,13
+Drumstick,Kg,120.0,130.0,125.0,Winter,Vegetable,2014,March,14
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2014,March,17
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2014,March,18
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2014,March,19
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2014,March,20
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2014,March,21
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2014,March,23
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2014,March,24
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2014,March,25
+Drumstick,Kg,200.0,220.0,210.0,Spring,Vegetable,2014,March,26
+Drumstick,Kg,200.0,250.0,225.0,Spring,Vegetable,2014,March,27
+Drumstick,Kg,180.0,200.0,190.0,Spring,Vegetable,2014,March,28
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2014,March,31
+Drumstick,Kg,55.0,60.0,57.5,Spring,Vegetable,2014,May,2
+Drumstick,Kg,55.0,60.0,57.5,Spring,Vegetable,2014,May,4
+Drumstick,Kg,50.0,60.0,55.0,Spring,Vegetable,2014,May,5
+Drumstick,Kg,50.0,60.0,55.0,Spring,Vegetable,2014,May,6
+Drumstick,Kg,55.0,60.0,57.5,Spring,Vegetable,2014,May,7
+Drumstick,Kg,55.0,60.0,57.5,Spring,Vegetable,2014,May,8
+Drumstick,Kg,55.0,60.0,57.5,Spring,Vegetable,2014,May,9
+Drumstick,Kg,45.0,50.0,47.5,Spring,Vegetable,2014,May,11
+Drumstick,Kg,45.0,50.0,47.5,Spring,Vegetable,2014,May,12
+Drumstick,Kg,40.0,50.0,45.0,Spring,Vegetable,2014,May,13
+Drumstick,Kg,45.0,50.0,47.5,Early Summer,Vegetable,2014,May,15
+Drumstick,Kg,50.0,55.0,52.5,Early Summer,Vegetable,2014,May,16
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,18
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,19
+Drumstick,Kg,50.0,60.0,55.0,Early Summer,Vegetable,2014,May,20
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,21
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,26
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,27
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,28
+Drumstick,Kg,55.0,60.0,57.5,Early Summer,Vegetable,2014,May,30
+Drumstick,Kg,110.0,120.0,115.0,Early Autumn,Vegetable,2014,October,14
+Drumstick,Kg,190.0,200.0,195.0,Early Autumn,Vegetable,2014,September,22
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2014,September,23
+Drumstick,Kg,140.0,150.0,145.0,Early Autumn,Vegetable,2014,September,26
+Drumstick,Kg,140.0,150.0,145.0,Early Autumn,Vegetable,2014,September,28
+Drumstick,Kg,140.0,150.0,145.0,Early Autumn,Vegetable,2014,September,29
+Drumstick,Kg,120.0,130.0,125.0,Early Autumn,Vegetable,2014,September,30
+Drumstick,Kg,170.0,180.0,175.0,Spring,Vegetable,2015,April,1
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2015,April,2
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2015,April,3
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2015,April,4
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2015,April,5
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2015,April,6
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2015,April,7
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2015,April,8
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2015,April,10
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2015,April,12
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2015,April,13
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2015,April,14
+Drumstick,Kg,140.0,145.0,142.5,Spring,Vegetable,2015,April,15
+Drumstick,Kg,140.0,145.0,142.5,Spring,Vegetable,2015,April,16
+Drumstick,Kg,80.0,90.0,85.0,Spring,Vegetable,2015,April,17
+Drumstick,Kg,80.0,90.0,85.0,Spring,Vegetable,2015,April,18
+Drumstick,Kg,80.0,90.0,85.0,Spring,Vegetable,2015,April,19
+Drumstick,Kg,80.0,90.0,85.0,Spring,Vegetable,2015,April,24
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2015,April,25
+Drumstick,Kg,190.0,200.0,195.0,Winter,Vegetable,2015,February,27
+Drumstick,Kg,190.0,200.0,195.0,Winter,Vegetable,2015,March,1
+Drumstick,Kg,180.0,200.0,190.0,Spring,Vegetable,2015,March,17
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2015,March,18
+Drumstick,Kg,200.0,210.0,205.0,Spring,Vegetable,2015,March,19
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2015,March,20
+Drumstick,Kg,180.0,190.0,185.0,Spring,Vegetable,2015,March,21
+Drumstick,Kg,180.0,190.0,185.0,Spring,Vegetable,2015,March,22
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2015,March,23
+Drumstick,Kg,150.0,170.0,160.0,Spring,Vegetable,2015,March,24
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2015,March,25
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2015,March,26
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2015,March,27
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2015,March,29
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2015,March,30
+Drumstick,Kg,140.0,150.0,145.0,Spring,Vegetable,2015,March,31
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2016,April,1
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2016,April,2
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,3
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,4
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2016,April,5
+Drumstick,Kg,80.0,90.0,85.0,Spring,Vegetable,2016,April,6
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2016,April,7
+Drumstick,Kg,80.0,85.0,82.5,Spring,Vegetable,2016,April,8
+Drumstick,Kg,80.0,85.0,82.5,Spring,Vegetable,2016,April,9
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,10
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,11
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,12
+Drumstick,Kg,50.0,60.0,55.0,Spring,Vegetable,2016,April,13
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,14
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,15
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,16
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,17
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,18
+Drumstick,Kg,60.0,65.0,62.5,Spring,Vegetable,2016,April,19
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,20
+Drumstick,Kg,60.0,65.0,62.5,Spring,Vegetable,2016,April,21
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,22
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,23
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,24
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,25
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,26
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,27
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2016,April,28
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2016,April,29
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2016,April,30
+Drumstick,Kg,100.0,110.0,105.0,Winter,Vegetable,2016,March,4
+Drumstick,Kg,110.0,120.0,115.0,Winter,Vegetable,2016,March,6
+Drumstick,Kg,100.0,110.0,105.0,Winter,Vegetable,2016,March,7
+Drumstick,Kg,90.0,100.0,95.0,Winter,Vegetable,2016,March,8
+Drumstick,Kg,100.0,110.0,105.0,Spring,Vegetable,2016,March,15
+Drumstick,Kg,100.0,110.0,105.0,Spring,Vegetable,2016,March,16
+Drumstick,Kg,100.0,110.0,105.0,Spring,Vegetable,2016,March,17
+Drumstick,Kg,100.0,110.0,105.0,Spring,Vegetable,2016,March,18
+Drumstick,Kg,100.0,110.0,105.0,Spring,Vegetable,2016,March,19
+Drumstick,Kg,100.0,110.0,105.0,Spring,Vegetable,2016,March,20
+Drumstick,Kg,100.0,110.0,105.0,Spring,Vegetable,2016,March,21
+Drumstick,Kg,100.0,110.0,105.0,Spring,Vegetable,2016,March,22
+Drumstick,Kg,100.0,110.0,105.0,Spring,Vegetable,2016,March,23
+Drumstick,Kg,100.0,110.0,105.0,Spring,Vegetable,2016,March,24
+Drumstick,Kg,100.0,110.0,105.0,Spring,Vegetable,2016,March,25
+Drumstick,Kg,100.0,110.0,105.0,Spring,Vegetable,2016,March,26
+Drumstick,Kg,100.0,110.0,105.0,Spring,Vegetable,2016,March,27
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2016,March,28
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2016,March,29
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2016,March,30
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2016,March,31
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2016,May,1
+Drumstick,Kg,70.0,75.0,72.5,Spring,Vegetable,2016,May,2
+Drumstick,Kg,110.0,120.0,115.0,Spring,Vegetable,2017,April,1
+Drumstick,Kg,110.0,120.0,115.0,Spring,Vegetable,2017,April,2
+Drumstick,Kg,110.0,120.0,115.0,Spring,Vegetable,2017,April,3
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,4
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,5
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,6
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,7
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,8
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,9
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,10
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,11
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,12
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,13
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,14
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,15
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,16
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,17
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,18
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,19
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,20
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,21
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,22
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,23
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,24
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,25
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,April,26
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2017,March,16
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2017,March,17
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2017,March,18
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2017,March,19
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,March,20
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,March,21
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,March,22
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,March,23
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,March,24
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,March,25
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,March,26
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,March,27
+Drumstick,Kg,120.0,130.0,125.0,Spring,Vegetable,2017,March,28
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2017,March,29
+Drumstick,Kg,100.0,110.0,105.0,Spring,Vegetable,2017,March,30
+Drumstick,Kg,110.0,120.0,115.0,Spring,Vegetable,2017,March,31
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2018,April,1
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2018,April,2
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2018,April,3
+Drumstick,Kg,100.0,110.0,105.0,Spring,Vegetable,2018,March,15
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2018,March,20
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2018,March,21
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2018,March,22
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2018,March,23
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2018,March,24
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2018,March,25
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2018,March,26
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2018,March,27
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2018,March,28
+Drumstick,Kg,190.0,200.0,195.0,Spring,Vegetable,2018,March,29
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2018,March,30
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2018,March,31
+Drumstick,Kg,240.0,250.0,245.0,Late Autumn,Vegetable,2020,December,11
+Drumstick,Kg,220.0,240.0,230.0,Late Autumn,Vegetable,2020,December,12
+Drumstick,Kg,220.0,240.0,230.0,Late Autumn,Vegetable,2020,December,13
+Drumstick,Kg,220.0,240.0,230.0,Late Autumn,Vegetable,2020,December,14
+Drumstick,Kg,210.0,220.0,215.0,Late Autumn,Vegetable,2020,December,15
+Drumstick,Kg,200.0,220.0,210.0,Late Autumn,Vegetable,2020,December,20
+Drumstick,Kg,150.0,160.0,155.0,Late Autumn,Vegetable,2020,December,21
+Drumstick,Kg,150.0,160.0,155.0,Late Autumn,Vegetable,2020,December,22
+Drumstick,Kg,150.0,160.0,155.0,Late Autumn,Vegetable,2020,December,23
+Drumstick,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2020,December,24
+Drumstick,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2020,December,25
+Drumstick,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2020,December,26
+Drumstick,Kg,180.0,190.0,185.0,Late Autumn,Vegetable,2020,December,27
+Drumstick,Kg,150.0,160.0,155.0,Late Autumn,Vegetable,2020,December,28
+Drumstick,Kg,240.0,260.0,250.0,Late Autumn,Vegetable,2020,November,24
+Drumstick,Kg,220.0,240.0,230.0,Late Autumn,Vegetable,2020,November,25
+Drumstick,Kg,250.0,280.0,265.0,Late Autumn,Vegetable,2020,November,26
+Drumstick,Kg,250.0,270.0,260.0,Late Autumn,Vegetable,2020,November,27
+Drumstick,Kg,250.0,260.0,255.0,Late Autumn,Vegetable,2020,November,28
+Drumstick,Kg,250.0,260.0,255.0,Late Autumn,Vegetable,2020,November,30
+Drumstick,Kg,230.0,240.0,235.0,Early Autumn,Vegetable,2020,October,23
+Drumstick,Kg,240.0,250.0,245.0,Early Autumn,Vegetable,2020,October,24
+Drumstick,Kg,150.0,160.0,155.0,Early Autumn,Vegetable,2020,October,28
+Drumstick,Kg,140.0,150.0,145.0,Spring,Vegetable,2021,April,1
+Drumstick,Kg,140.0,150.0,145.0,Spring,Vegetable,2021,April,2
+Drumstick,Kg,140.0,160.0,150.0,Spring,Vegetable,2021,April,3
+Drumstick,Kg,140.0,160.0,150.0,Spring,Vegetable,2021,April,4
+Drumstick,Kg,140.0,160.0,150.0,Spring,Vegetable,2021,April,5
+Drumstick,Kg,140.0,150.0,145.0,Spring,Vegetable,2021,April,6
+Drumstick,Kg,140.0,150.0,145.0,Spring,Vegetable,2021,April,7
+Drumstick,Kg,140.0,150.0,145.0,Spring,Vegetable,2021,April,8
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2021,April,9
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2021,April,10
+Drumstick,Kg,120.0,140.0,130.0,Spring,Vegetable,2021,April,11
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2021,April,12
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2021,April,13
+Drumstick,Kg,120.0,150.0,135.0,Spring,Vegetable,2021,April,14
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2021,April,15
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,April,16
+Drumstick,Kg,80.0,100.0,90.0,Spring,Vegetable,2021,April,17
+Drumstick,Kg,80.0,90.0,85.0,Spring,Vegetable,2021,April,18
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2021,April,19
+Drumstick,Kg,80.0,100.0,90.0,Spring,Vegetable,2021,April,20
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,April,21
+Drumstick,Kg,80.0,90.0,85.0,Spring,Vegetable,2021,April,22
+Drumstick,Kg,70.0,90.0,80.0,Spring,Vegetable,2021,April,23
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2021,April,24
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2021,April,25
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2021,April,26
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2021,April,27
+Drumstick,Kg,60.0,80.0,70.0,Spring,Vegetable,2021,April,28
+Drumstick,Kg,200.0,250.0,225.0,Summer Monsoon,Vegetable,2021,August,1
+Drumstick,Kg,200.0,250.0,225.0,Summer Monsoon,Vegetable,2021,August,2
+Drumstick,Kg,160.0,180.0,170.0,Winter,Vegetable,2021,February,2
+Drumstick,Kg,160.0,180.0,170.0,Winter,Vegetable,2021,February,8
+Drumstick,Kg,160.0,180.0,170.0,Winter,Vegetable,2021,February,9
+Drumstick,Kg,160.0,180.0,170.0,Winter,Vegetable,2021,February,10
+Drumstick,Kg,160.0,180.0,170.0,Winter,Vegetable,2021,February,11
+Drumstick,Kg,160.0,170.0,165.0,Winter,Vegetable,2021,February,12
+Drumstick,Kg,160.0,180.0,170.0,Winter,Vegetable,2021,February,13
+Drumstick,Kg,160.0,170.0,165.0,Winter,Vegetable,2021,February,14
+Drumstick,Kg,160.0,170.0,165.0,Winter,Vegetable,2021,February,15
+Drumstick,Kg,160.0,170.0,165.0,Winter,Vegetable,2021,February,16
+Drumstick,Kg,160.0,170.0,165.0,Winter,Vegetable,2021,February,17
+Drumstick,Kg,160.0,170.0,165.0,Winter,Vegetable,2021,February,19
+Drumstick,Kg,160.0,170.0,165.0,Winter,Vegetable,2021,February,25
+Drumstick,Kg,160.0,180.0,170.0,Winter,Vegetable,2021,February,26
+Drumstick,Kg,150.0,160.0,155.0,Winter,Vegetable,2021,February,27
+Drumstick,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2021,January,12
+Drumstick,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2021,January,13
+Drumstick,Kg,180.0,200.0,190.0,Winter,Vegetable,2021,January,16
+Drumstick,Kg,180.0,200.0,190.0,Winter,Vegetable,2021,January,25
+Drumstick,Kg,170.0,180.0,175.0,Winter,Vegetable,2021,January,26
+Drumstick,Kg,160.0,180.0,170.0,Winter,Vegetable,2021,January,27
+Drumstick,Kg,160.0,180.0,170.0,Winter,Vegetable,2021,January,28
+Drumstick,Kg,150.0,160.0,155.0,Winter,Vegetable,2021,January,29
+Drumstick,Kg,160.0,170.0,165.0,Winter,Vegetable,2021,January,30
+Drumstick,Kg,160.0,170.0,165.0,Winter,Vegetable,2021,January,31
+Drumstick,Kg,250.0,300.0,275.0,Summer Monsoon,Vegetable,2021,July,16
+Drumstick,Kg,250.0,300.0,275.0,Summer Monsoon,Vegetable,2021,July,17
+Drumstick,Kg,250.0,300.0,275.0,Summer Monsoon,Vegetable,2021,July,18
+Drumstick,Kg,250.0,300.0,275.0,Summer Monsoon,Vegetable,2021,July,19
+Drumstick,Kg,200.0,250.0,225.0,Summer Monsoon,Vegetable,2021,July,29
+Drumstick,Kg,200.0,250.0,225.0,Summer Monsoon,Vegetable,2021,July,30
+Drumstick,Kg,200.0,250.0,225.0,Summer Monsoon,Vegetable,2021,July,31
+Drumstick,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2021,June,15
+Drumstick,Kg,110.0,120.0,115.0,Winter,Vegetable,2021,March,1
+Drumstick,Kg,120.0,140.0,130.0,Winter,Vegetable,2021,March,2
+Drumstick,Kg,150.0,160.0,155.0,Winter,Vegetable,2021,March,3
+Drumstick,Kg,140.0,150.0,145.0,Winter,Vegetable,2021,March,5
+Drumstick,Kg,140.0,150.0,145.0,Winter,Vegetable,2021,March,6
+Drumstick,Kg,140.0,150.0,145.0,Winter,Vegetable,2021,March,7
+Drumstick,Kg,200.0,220.0,210.0,Winter,Vegetable,2021,March,8
+Drumstick,Kg,200.0,220.0,210.0,Winter,Vegetable,2021,March,9
+Drumstick,Kg,200.0,220.0,210.0,Winter,Vegetable,2021,March,10
+Drumstick,Kg,180.0,200.0,190.0,Winter,Vegetable,2021,March,11
+Drumstick,Kg,160.0,180.0,170.0,Winter,Vegetable,2021,March,12
+Drumstick,Kg,150.0,160.0,155.0,Winter,Vegetable,2021,March,13
+Drumstick,Kg,160.0,170.0,165.0,Winter,Vegetable,2021,March,14
+Drumstick,Kg,250.0,270.0,260.0,Spring,Vegetable,2021,March,15
+Drumstick,Kg,140.0,150.0,145.0,Spring,Vegetable,2021,March,16
+Drumstick,Kg,140.0,160.0,150.0,Spring,Vegetable,2021,March,17
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2021,March,18
+Drumstick,Kg,140.0,150.0,145.0,Spring,Vegetable,2021,March,19
+Drumstick,Kg,140.0,150.0,145.0,Spring,Vegetable,2021,March,20
+Drumstick,Kg,140.0,150.0,145.0,Spring,Vegetable,2021,March,21
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2021,March,22
+Drumstick,Kg,160.0,180.0,170.0,Spring,Vegetable,2021,March,23
+Drumstick,Kg,160.0,180.0,170.0,Spring,Vegetable,2021,March,24
+Drumstick,Kg,160.0,180.0,170.0,Spring,Vegetable,2021,March,25
+Drumstick,Kg,160.0,180.0,170.0,Spring,Vegetable,2021,March,26
+Drumstick,Kg,160.0,180.0,170.0,Spring,Vegetable,2021,March,27
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2021,March,28
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2021,March,29
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2021,March,30
+Drumstick,Kg,130.0,150.0,140.0,Spring,Vegetable,2021,March,31
+Drumstick,Kg,50.0,60.0,55.0,Spring,Vegetable,2021,May,4
+Drumstick,Kg,50.0,60.0,55.0,Spring,Vegetable,2021,May,5
+Drumstick,Kg,50.0,60.0,55.0,Spring,Vegetable,2021,May,6
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,May,8
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,May,9
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,May,10
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,May,11
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,May,12
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,May,13
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2021,May,14
+Drumstick,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2021,May,15
+Drumstick,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2021,May,16
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,November,1
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,November,4
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,November,5
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,November,13
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,November,14
+Drumstick,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2021,November,16
+Drumstick,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2021,November,17
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,2
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,3
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,8
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,9
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,10
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,11
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,12
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,13
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,18
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,19
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,21
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,30
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,October,31
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2021,September,6
+Drumstick,Kg,190.0,200.0,195.0,Summer Monsoon,Vegetable,2021,September,8
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2021,September,9
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2021,September,10
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2021,September,11
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2021,September,12
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2021,September,13
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2021,September,14
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,September,15
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,September,16
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,September,17
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,September,18
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,September,19
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,September,20
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,September,21
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,September,22
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,September,23
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2021,September,24
+Drumstick,Kg,150.0,160.0,155.0,Spring,Vegetable,2022,April,1
+Drumstick,Kg,100.0,150.0,125.0,Spring,Vegetable,2022,April,2
+Drumstick,Kg,100.0,150.0,125.0,Spring,Vegetable,2022,April,3
+Drumstick,Kg,100.0,150.0,125.0,Spring,Vegetable,2022,April,4
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2022,April,5
+Drumstick,Kg,200.0,250.0,225.0,Spring,Vegetable,2022,April,6
+Drumstick,Kg,150.0,200.0,175.0,Spring,Vegetable,2022,April,7
+Drumstick,Kg,150.0,200.0,175.0,Spring,Vegetable,2022,April,8
+Drumstick,Kg,150.0,200.0,175.0,Spring,Vegetable,2022,April,9
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2022,April,10
+Drumstick,Kg,100.0,150.0,125.0,Spring,Vegetable,2022,April,11
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2022,April,12
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2022,April,13
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2022,April,14
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2022,April,15
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2022,April,16
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2022,April,17
+Drumstick,Kg,120.0,140.0,130.0,Spring,Vegetable,2022,April,18
+Drumstick,Kg,120.0,140.0,130.0,Spring,Vegetable,2022,April,19
+Drumstick,Kg,120.0,150.0,135.0,Spring,Vegetable,2022,April,20
+Drumstick,Kg,120.0,150.0,135.0,Spring,Vegetable,2022,April,21
+Drumstick,Kg,120.0,150.0,135.0,Spring,Vegetable,2022,April,22
+Drumstick,Kg,120.0,150.0,135.0,Spring,Vegetable,2022,April,23
+Drumstick,Kg,120.0,150.0,135.0,Spring,Vegetable,2022,April,24
+Drumstick,Kg,100.0,120.0,113.33,Spring,Vegetable,2022,April,25
+Drumstick,Kg,120.0,150.0,135.0,Spring,Vegetable,2022,April,26
+Drumstick,Kg,130.0,140.0,135.0,Spring,Vegetable,2022,April,27
+Drumstick,Kg,120.0,140.0,130.0,Spring,Vegetable,2022,April,28
+Drumstick,Kg,120.0,140.0,130.0,Spring,Vegetable,2022,April,29
+Drumstick,Kg,90.0,100.0,95.0,Summer Monsoon,Vegetable,2022,August,3
+Drumstick,Kg,100.0,120.0,110.0,Summer Monsoon,Vegetable,2022,August,4
+Drumstick,Kg,120.0,150.0,135.0,Summer Monsoon,Vegetable,2022,August,5
+Drumstick,Kg,120.0,150.0,135.0,Summer Monsoon,Vegetable,2022,August,6
+Drumstick,Kg,120.0,150.0,135.0,Summer Monsoon,Vegetable,2022,August,7
+Drumstick,Kg,280.0,300.0,290.0,Summer Monsoon,Vegetable,2022,August,8
+Drumstick,Kg,280.0,300.0,290.0,Summer Monsoon,Vegetable,2022,August,9
+Drumstick,Kg,250.0,300.0,275.0,Summer Monsoon,Vegetable,2022,August,10
+Drumstick,Kg,250.0,300.0,275.0,Summer Monsoon,Vegetable,2022,August,11
+Drumstick,Kg,250.0,300.0,275.0,Summer Monsoon,Vegetable,2022,August,12
+Drumstick,Kg,200.0,250.0,225.0,Summer Monsoon,Vegetable,2022,August,13
+Drumstick,Kg,200.0,250.0,225.0,Summer Monsoon,Vegetable,2022,August,14
+Drumstick,Kg,200.0,250.0,225.0,Summer Monsoon,Vegetable,2022,August,25
+Drumstick,Kg,150.0,200.0,175.0,Summer Monsoon,Vegetable,2022,August,26
+Drumstick,Kg,100.0,150.0,125.0,Summer Monsoon,Vegetable,2022,August,27
+Drumstick,Kg,120.0,150.0,135.0,Summer Monsoon,Vegetable,2022,August,28
+Drumstick,Kg,120.0,150.0,135.0,Summer Monsoon,Vegetable,2022,August,29
+Drumstick,Kg,100.0,120.0,110.0,Summer Monsoon,Vegetable,2022,August,30
+Drumstick,Kg,100.0,120.0,110.0,Summer Monsoon,Vegetable,2022,August,31
+Drumstick,Kg,250.0,300.0,275.0,Late Autumn,Vegetable,2022,December,6
+Drumstick,Kg,250.0,280.0,265.0,Late Autumn,Vegetable,2022,December,7
+Drumstick,Kg,250.0,280.0,265.0,Late Autumn,Vegetable,2022,December,8
+Drumstick,Kg,250.0,300.0,275.0,Late Autumn,Vegetable,2022,December,9
+Drumstick,Kg,220.0,250.0,235.0,Late Autumn,Vegetable,2022,December,10
+Drumstick,Kg,220.0,250.0,235.0,Late Autumn,Vegetable,2022,December,11
+Drumstick,Kg,220.0,250.0,235.0,Late Autumn,Vegetable,2022,December,12
+Drumstick,Kg,220.0,250.0,235.0,Late Autumn,Vegetable,2022,December,13
+Drumstick,Kg,220.0,250.0,235.0,Late Autumn,Vegetable,2022,December,14
+Drumstick,Kg,220.0,250.0,235.0,Late Autumn,Vegetable,2022,December,16
+Drumstick,Kg,220.0,250.0,235.0,Late Autumn,Vegetable,2022,December,17
+Drumstick,Kg,220.0,250.0,235.0,Late Autumn,Vegetable,2022,December,18
+Drumstick,Kg,220.0,250.0,235.0,Late Autumn,Vegetable,2022,December,20
+Drumstick,Kg,160.0,180.0,170.0,Late Autumn,Vegetable,2022,December,21
+Drumstick,Kg,150.0,160.0,156.67,Late Autumn,Vegetable,2022,December,22
+Drumstick,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2022,December,23
+Drumstick,Kg,200.0,220.0,210.0,Late Autumn,Vegetable,2022,December,24
+Drumstick,Kg,200.0,220.0,210.0,Late Autumn,Vegetable,2022,December,25
+Drumstick,Kg,200.0,220.0,210.0,Late Autumn,Vegetable,2022,December,26
+Drumstick,Kg,200.0,220.0,210.0,Late Autumn,Vegetable,2022,December,27
+Drumstick,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2022,December,28
+Drumstick,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2022,December,29
+Drumstick,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2022,December,30
+Drumstick,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2022,December,31
+Drumstick,Kg,200.0,225.0,212.5,Winter,Vegetable,2022,February,1
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,February,2
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,February,3
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,February,4
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2022,February,7
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2022,February,8
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,February,9
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2022,February,10
+Drumstick,Kg,280.0,300.0,290.0,Winter,Vegetable,2022,February,11
+Drumstick,Kg,280.0,300.0,290.0,Winter,Vegetable,2022,February,12
+Drumstick,Kg,280.0,300.0,290.0,Winter,Vegetable,2022,February,13
+Drumstick,Kg,260.0,280.0,270.0,Winter,Vegetable,2022,February,14
+Drumstick,Kg,280.0,300.0,290.0,Winter,Vegetable,2022,February,15
+Drumstick,Kg,280.0,300.0,290.0,Winter,Vegetable,2022,February,16
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2022,February,17
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2022,February,18
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,February,19
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,February,20
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,February,21
+Drumstick,Kg,380.0,400.0,390.0,Late Autumn,Vegetable,2022,January,3
+Drumstick,Kg,380.0,400.0,390.0,Late Autumn,Vegetable,2022,January,4
+Drumstick,Kg,380.0,400.0,390.0,Late Autumn,Vegetable,2022,January,5
+Drumstick,Kg,350.0,360.0,355.0,Late Autumn,Vegetable,2022,January,6
+Drumstick,Kg,340.0,360.0,350.0,Late Autumn,Vegetable,2022,January,7
+Drumstick,Kg,300.0,320.0,310.0,Late Autumn,Vegetable,2022,January,8
+Drumstick,Kg,300.0,320.0,310.0,Late Autumn,Vegetable,2022,January,9
+Drumstick,Kg,280.0,300.0,290.0,Late Autumn,Vegetable,2022,January,10
+Drumstick,Kg,280.0,300.0,290.0,Late Autumn,Vegetable,2022,January,11
+Drumstick,Kg,280.0,300.0,290.0,Late Autumn,Vegetable,2022,January,12
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,January,18
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,January,19
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,January,20
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,January,21
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,January,23
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,January,24
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,January,25
+Drumstick,Kg,180.0,200.0,190.0,Winter,Vegetable,2022,January,29
+Drumstick,Kg,180.0,200.0,190.0,Winter,Vegetable,2022,January,30
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,January,31
+Drumstick,Kg,220.0,250.0,235.0,Early Summer,Vegetable,2022,July,1
+Drumstick,Kg,220.0,250.0,235.0,Early Summer,Vegetable,2022,July,2
+Drumstick,Kg,220.0,250.0,235.0,Early Summer,Vegetable,2022,July,3
+Drumstick,Kg,250.0,300.0,275.0,Early Summer,Vegetable,2022,July,11
+Drumstick,Kg,250.0,280.0,265.0,Early Summer,Vegetable,2022,July,12
+Drumstick,Kg,180.0,200.0,193.33,Early Summer,Vegetable,2022,July,13
+Drumstick,Kg,150.0,200.0,175.0,Early Summer,Vegetable,2022,July,14
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2022,July,15
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2022,July,16
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2022,July,17
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2022,July,18
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2022,July,19
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2022,July,20
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2022,July,21
+Drumstick,Kg,170.0,180.0,176.67,Summer Monsoon,Vegetable,2022,July,22
+Drumstick,Kg,140.0,160.0,150.0,Summer Monsoon,Vegetable,2022,July,23
+Drumstick,Kg,140.0,160.0,150.0,Summer Monsoon,Vegetable,2022,July,24
+Drumstick,Kg,150.0,160.0,156.67,Summer Monsoon,Vegetable,2022,July,25
+Drumstick,Kg,110.0,120.0,116.67,Summer Monsoon,Vegetable,2022,July,26
+Drumstick,Kg,120.0,150.0,135.0,Summer Monsoon,Vegetable,2022,July,27
+Drumstick,Kg,120.0,150.0,135.0,Summer Monsoon,Vegetable,2022,July,28
+Drumstick,Kg,120.0,150.0,135.0,Summer Monsoon,Vegetable,2022,July,29
+Drumstick,Kg,280.0,300.0,290.0,Early Summer,Vegetable,2022,June,11
+Drumstick,Kg,100.0,120.0,110.0,Early Summer,Vegetable,2022,June,13
+Drumstick,Kg,230.0,250.0,240.0,Early Summer,Vegetable,2022,June,28
+Drumstick,Kg,220.0,250.0,235.0,Early Summer,Vegetable,2022,June,29
+Drumstick,Kg,220.0,250.0,235.0,Early Summer,Vegetable,2022,June,30
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,March,1
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,March,2
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,March,3
+Drumstick,Kg,160.0,180.0,170.0,Winter,Vegetable,2022,March,8
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,March,10
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,March,11
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,March,12
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,March,13
+Drumstick,Kg,200.0,250.0,225.0,Winter,Vegetable,2022,March,14
+Drumstick,Kg,180.0,200.0,190.0,Spring,Vegetable,2022,March,15
+Drumstick,Kg,180.0,200.0,190.0,Spring,Vegetable,2022,March,16
+Drumstick,Kg,160.0,180.0,170.0,Spring,Vegetable,2022,March,17
+Drumstick,Kg,180.0,200.0,190.0,Spring,Vegetable,2022,March,18
+Drumstick,Kg,180.0,200.0,190.0,Spring,Vegetable,2022,March,19
+Drumstick,Kg,180.0,200.0,190.0,Spring,Vegetable,2022,March,20
+Drumstick,Kg,180.0,200.0,190.0,Spring,Vegetable,2022,March,21
+Drumstick,Kg,250.0,300.0,275.0,Spring,Vegetable,2022,March,22
+Drumstick,Kg,250.0,300.0,275.0,Spring,Vegetable,2022,March,23
+Drumstick,Kg,160.0,200.0,180.0,Spring,Vegetable,2022,March,24
+Drumstick,Kg,160.0,200.0,180.0,Spring,Vegetable,2022,March,25
+Drumstick,Kg,150.0,200.0,175.0,Spring,Vegetable,2022,March,26
+Drumstick,Kg,150.0,200.0,175.0,Spring,Vegetable,2022,March,27
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2022,March,28
+Drumstick,Kg,200.0,220.0,210.0,Spring,Vegetable,2022,March,29
+Drumstick,Kg,250.0,300.0,275.0,Spring,Vegetable,2022,March,30
+Drumstick,Kg,250.0,300.0,275.0,Spring,Vegetable,2022,March,31
+Drumstick,Kg,120.0,150.0,135.0,Spring,Vegetable,2022,May,1
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2022,May,2
+Drumstick,Kg,140.0,160.0,150.0,Spring,Vegetable,2022,May,3
+Drumstick,Kg,140.0,150.0,145.0,Spring,Vegetable,2022,May,4
+Drumstick,Kg,140.0,150.0,145.0,Spring,Vegetable,2022,May,6
+Drumstick,Kg,120.0,150.0,135.0,Spring,Vegetable,2022,May,7
+Drumstick,Kg,120.0,150.0,135.0,Spring,Vegetable,2022,May,8
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2022,May,9
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2022,May,10
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2022,May,11
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2022,May,12
+Drumstick,Kg,100.0,120.0,110.0,Early Summer,Vegetable,2022,May,15
+Drumstick,Kg,100.0,120.0,110.0,Early Summer,Vegetable,2022,May,16
+Drumstick,Kg,100.0,120.0,110.0,Early Summer,Vegetable,2022,May,17
+Drumstick,Kg,100.0,120.0,110.0,Early Summer,Vegetable,2022,May,18
+Drumstick,Kg,110.0,120.0,115.0,Early Summer,Vegetable,2022,May,19
+Drumstick,Kg,110.0,120.0,115.0,Early Summer,Vegetable,2022,May,20
+Drumstick,Kg,110.0,120.0,116.67,Late Autumn,Vegetable,2022,November,26
+Drumstick,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2022,November,27
+Drumstick,Kg,110.0,120.0,115.0,Late Autumn,Vegetable,2022,November,28
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2022,October,1
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2022,October,2
+Drumstick,Kg,100.0,150.0,125.0,Summer Monsoon,Vegetable,2022,September,1
+Drumstick,Kg,100.0,120.0,110.0,Summer Monsoon,Vegetable,2022,September,3
+Drumstick,Kg,100.0,120.0,110.0,Summer Monsoon,Vegetable,2022,September,4
+Drumstick,Kg,100.0,120.0,110.0,Summer Monsoon,Vegetable,2022,September,5
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2022,September,29
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2022,September,30
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,April,1
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,April,2
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,April,3
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,April,4
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,April,5
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,April,6
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,April,7
+Drumstick,Kg,80.0,90.0,85.0,Spring,Vegetable,2023,April,8
+Drumstick,Kg,80.0,90.0,85.0,Spring,Vegetable,2023,April,9
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,10
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,11
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,12
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,13
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,14
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,15
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,April,16
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,April,17
+Drumstick,Kg,50.0,60.0,55.0,Spring,Vegetable,2023,April,18
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,April,19
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,April,20
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,April,21
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,April,22
+Drumstick,Kg,50.0,60.0,55.0,Spring,Vegetable,2023,April,23
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,April,24
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,April,25
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,April,26
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,April,27
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,April,28
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,April,29
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,April,30
+Drumstick,Kg,240.0,250.0,245.0,Summer Monsoon,Vegetable,2023,August,2
+Drumstick,Kg,220.0,230.0,225.0,Summer Monsoon,Vegetable,2023,August,3
+Drumstick,Kg,210.0,220.0,215.0,Summer Monsoon,Vegetable,2023,August,4
+Drumstick,Kg,210.0,220.0,215.0,Summer Monsoon,Vegetable,2023,August,5
+Drumstick,Kg,210.0,220.0,215.0,Summer Monsoon,Vegetable,2023,August,6
+Drumstick,Kg,210.0,220.0,215.0,Summer Monsoon,Vegetable,2023,August,7
+Drumstick,Kg,230.0,250.0,240.0,Summer Monsoon,Vegetable,2023,August,9
+Drumstick,Kg,220.0,250.0,235.0,Summer Monsoon,Vegetable,2023,August,10
+Drumstick,Kg,220.0,250.0,235.0,Summer Monsoon,Vegetable,2023,August,11
+Drumstick,Kg,230.0,240.0,235.0,Summer Monsoon,Vegetable,2023,August,14
+Drumstick,Kg,230.0,240.0,235.0,Summer Monsoon,Vegetable,2023,August,15
+Drumstick,Kg,220.0,240.0,230.0,Summer Monsoon,Vegetable,2023,August,16
+Drumstick,Kg,190.0,200.0,195.0,Summer Monsoon,Vegetable,2023,August,23
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2023,August,24
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2023,August,25
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2023,August,26
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2023,August,27
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2023,August,28
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2023,August,29
+Drumstick,Kg,200.0,220.0,210.0,Summer Monsoon,Vegetable,2023,August,30
+Drumstick,Kg,190.0,200.0,195.0,Summer Monsoon,Vegetable,2023,August,31
+Drumstick,Kg,300.0,320.0,310.0,Winter,Vegetable,2023,February,1
+Drumstick,Kg,280.0,300.0,290.0,Winter,Vegetable,2023,February,2
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2023,February,3
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2023,February,4
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2023,February,5
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2023,February,6
+Drumstick,Kg,280.0,300.0,290.0,Winter,Vegetable,2023,February,7
+Drumstick,Kg,400.0,500.0,450.0,Winter,Vegetable,2023,February,8
+Drumstick,Kg,300.0,350.0,333.33,Winter,Vegetable,2023,February,9
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2023,February,10
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2023,February,11
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2023,February,12
+Drumstick,Kg,250.0,280.0,265.0,Winter,Vegetable,2023,February,13
+Drumstick,Kg,220.0,250.0,235.0,Winter,Vegetable,2023,February,14
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2023,February,15
+Drumstick,Kg,280.0,320.0,300.0,Winter,Vegetable,2023,February,16
+Drumstick,Kg,240.0,250.0,246.67,Winter,Vegetable,2023,February,17
+Drumstick,Kg,220.0,250.0,236.67,Winter,Vegetable,2023,February,18
+Drumstick,Kg,220.0,250.0,235.0,Winter,Vegetable,2023,February,19
+Drumstick,Kg,220.0,230.0,225.0,Winter,Vegetable,2023,February,20
+Drumstick,Kg,220.0,240.0,230.0,Winter,Vegetable,2023,February,21
+Drumstick,Kg,220.0,240.0,230.0,Winter,Vegetable,2023,February,22
+Drumstick,Kg,180.0,200.0,190.0,Winter,Vegetable,2023,February,23
+Drumstick,Kg,150.0,180.0,165.0,Winter,Vegetable,2023,February,24
+Drumstick,Kg,140.0,160.0,150.0,Winter,Vegetable,2023,February,25
+Drumstick,Kg,140.0,160.0,150.0,Winter,Vegetable,2023,February,26
+Drumstick,Kg,140.0,160.0,150.0,Winter,Vegetable,2023,February,27
+Drumstick,Kg,140.0,150.0,146.67,Winter,Vegetable,2023,February,28
+Drumstick,Kg,180.0,200.0,190.0,Late Autumn,Vegetable,2023,January,1
+Drumstick,Kg,200.0,220.0,210.0,Late Autumn,Vegetable,2023,January,2
+Drumstick,Kg,200.0,220.0,210.0,Late Autumn,Vegetable,2023,January,4
+Drumstick,Kg,200.0,220.0,210.0,Late Autumn,Vegetable,2023,January,5
+Drumstick,Kg,200.0,220.0,210.0,Late Autumn,Vegetable,2023,January,6
+Drumstick,Kg,200.0,220.0,210.0,Late Autumn,Vegetable,2023,January,11
+Drumstick,Kg,220.0,250.0,235.0,Late Autumn,Vegetable,2023,January,13
+Drumstick,Kg,200.0,220.0,210.0,Late Autumn,Vegetable,2023,January,14
+Drumstick,Kg,200.0,220.0,210.0,Winter,Vegetable,2023,January,15
+Drumstick,Kg,200.0,220.0,210.0,Winter,Vegetable,2023,January,16
+Drumstick,Kg,200.0,220.0,210.0,Winter,Vegetable,2023,January,17
+Drumstick,Kg,200.0,220.0,210.0,Winter,Vegetable,2023,January,18
+Drumstick,Kg,200.0,220.0,210.0,Winter,Vegetable,2023,January,20
+Drumstick,Kg,200.0,220.0,210.0,Winter,Vegetable,2023,January,21
+Drumstick,Kg,200.0,220.0,210.0,Winter,Vegetable,2023,January,22
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2023,January,24
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2023,January,25
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2023,January,26
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2023,January,27
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2023,January,28
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2023,January,29
+Drumstick,Kg,250.0,300.0,275.0,Winter,Vegetable,2023,January,30
+Drumstick,Kg,300.0,330.0,316.67,Winter,Vegetable,2023,January,31
+Drumstick,Kg,80.0,90.0,86.67,Early Summer,Vegetable,2023,July,4
+Drumstick,Kg,160.0,180.0,170.0,Early Summer,Vegetable,2023,July,8
+Drumstick,Kg,160.0,180.0,170.0,Early Summer,Vegetable,2023,July,9
+Drumstick,Kg,160.0,180.0,170.0,Early Summer,Vegetable,2023,July,10
+Drumstick,Kg,200.0,250.0,225.0,Summer Monsoon,Vegetable,2023,July,28
+Drumstick,Kg,200.0,250.0,225.0,Summer Monsoon,Vegetable,2023,July,29
+Drumstick,Kg,200.0,250.0,225.0,Summer Monsoon,Vegetable,2023,July,30
+Drumstick,Kg,60.0,70.0,66.67,Early Summer,Vegetable,2023,June,1
+Drumstick,Kg,60.0,70.0,65.0,Early Summer,Vegetable,2023,June,2
+Drumstick,Kg,70.0,80.0,75.0,Early Summer,Vegetable,2023,June,3
+Drumstick,Kg,70.0,80.0,75.0,Early Summer,Vegetable,2023,June,4
+Drumstick,Kg,80.0,90.0,86.67,Early Summer,Vegetable,2023,June,5
+Drumstick,Kg,90.0,100.0,96.67,Early Summer,Vegetable,2023,June,6
+Drumstick,Kg,90.0,100.0,96.67,Early Summer,Vegetable,2023,June,7
+Drumstick,Kg,90.0,100.0,96.67,Early Summer,Vegetable,2023,June,8
+Drumstick,Kg,90.0,100.0,96.67,Early Summer,Vegetable,2023,June,9
+Drumstick,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2023,June,10
+Drumstick,Kg,90.0,100.0,95.0,Early Summer,Vegetable,2023,June,11
+Drumstick,Kg,70.0,80.0,76.67,Early Summer,Vegetable,2023,June,12
+Drumstick,Kg,70.0,80.0,75.0,Early Summer,Vegetable,2023,June,13
+Drumstick,Kg,70.0,80.0,76.67,Early Summer,Vegetable,2023,June,14
+Drumstick,Kg,70.0,80.0,76.67,Early Summer,Vegetable,2023,June,15
+Drumstick,Kg,70.0,80.0,76.67,Early Summer,Vegetable,2023,June,16
+Drumstick,Kg,80.0,90.0,86.67,Early Summer,Vegetable,2023,June,17
+Drumstick,Kg,80.0,90.0,85.0,Early Summer,Vegetable,2023,June,18
+Drumstick,Kg,80.0,90.0,85.0,Early Summer,Vegetable,2023,June,19
+Drumstick,Kg,140.0,150.0,145.0,Winter,Vegetable,2023,March,1
+Drumstick,Kg,140.0,150.0,145.0,Winter,Vegetable,2023,March,2
+Drumstick,Kg,120.0,130.0,126.67,Winter,Vegetable,2023,March,3
+Drumstick,Kg,120.0,130.0,125.0,Winter,Vegetable,2023,March,5
+Drumstick,Kg,120.0,150.0,136.67,Winter,Vegetable,2023,March,6
+Drumstick,Kg,150.0,200.0,175.0,Winter,Vegetable,2023,March,7
+Drumstick,Kg,140.0,160.0,150.0,Winter,Vegetable,2023,March,8
+Drumstick,Kg,140.0,160.0,150.0,Winter,Vegetable,2023,March,9
+Drumstick,Kg,120.0,150.0,136.67,Winter,Vegetable,2023,March,10
+Drumstick,Kg,120.0,150.0,135.0,Winter,Vegetable,2023,March,11
+Drumstick,Kg,130.0,150.0,140.0,Winter,Vegetable,2023,March,12
+Drumstick,Kg,180.0,200.0,193.33,Winter,Vegetable,2023,March,13
+Drumstick,Kg,150.0,200.0,175.0,Winter,Vegetable,2023,March,14
+Drumstick,Kg,150.0,180.0,163.33,Spring,Vegetable,2023,March,15
+Drumstick,Kg,120.0,150.0,135.0,Spring,Vegetable,2023,March,16
+Drumstick,Kg,150.0,200.0,175.0,Spring,Vegetable,2023,March,17
+Drumstick,Kg,150.0,200.0,175.0,Spring,Vegetable,2023,March,18
+Drumstick,Kg,150.0,200.0,170.0,Spring,Vegetable,2023,March,19
+Drumstick,Kg,100.0,150.0,125.0,Spring,Vegetable,2023,March,20
+Drumstick,Kg,100.0,150.0,125.0,Spring,Vegetable,2023,March,21
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2023,March,22
+Drumstick,Kg,120.0,150.0,140.0,Spring,Vegetable,2023,March,23
+Drumstick,Kg,150.0,200.0,175.0,Spring,Vegetable,2023,March,24
+Drumstick,Kg,150.0,200.0,175.0,Spring,Vegetable,2023,March,25
+Drumstick,Kg,150.0,200.0,175.0,Spring,Vegetable,2023,March,26
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,March,27
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,March,28
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,March,29
+Drumstick,Kg,90.0,100.0,95.0,Spring,Vegetable,2023,March,30
+Drumstick,Kg,100.0,120.0,110.0,Spring,Vegetable,2023,March,31
+Drumstick,Kg,60.0,70.0,65.0,Spring,Vegetable,2023,May,1
+Drumstick,Kg,60.0,70.0,66.67,Spring,Vegetable,2023,May,2
+Drumstick,Kg,60.0,70.0,66.67,Spring,Vegetable,2023,May,3
+Drumstick,Kg,70.0,80.0,76.67,Spring,Vegetable,2023,May,4
+Drumstick,Kg,70.0,80.0,76.67,Spring,Vegetable,2023,May,5
+Drumstick,Kg,80.0,90.0,86.67,Spring,Vegetable,2023,May,6
+Drumstick,Kg,80.0,90.0,85.0,Spring,Vegetable,2023,May,7
+Drumstick,Kg,80.0,90.0,85.0,Spring,Vegetable,2023,May,8
+Drumstick,Kg,90.0,100.0,96.67,Spring,Vegetable,2023,May,9
+Drumstick,Kg,80.0,90.0,86.67,Spring,Vegetable,2023,May,10
+Drumstick,Kg,70.0,80.0,75.0,Spring,Vegetable,2023,May,11
+Drumstick,Kg,70.0,80.0,76.67,Spring,Vegetable,2023,May,12
+Drumstick,Kg,80.0,90.0,86.67,Spring,Vegetable,2023,May,13
+Drumstick,Kg,80.0,90.0,85.0,Spring,Vegetable,2023,May,14
+Drumstick,Kg,70.0,80.0,76.67,Early Summer,Vegetable,2023,May,15
+Drumstick,Kg,70.0,80.0,75.0,Early Summer,Vegetable,2023,May,16
+Drumstick,Kg,70.0,80.0,76.67,Early Summer,Vegetable,2023,May,17
+Drumstick,Kg,70.0,80.0,76.67,Early Summer,Vegetable,2023,May,18
+Drumstick,Kg,70.0,80.0,76.67,Early Summer,Vegetable,2023,May,19
+Drumstick,Kg,60.0,70.0,65.0,Early Summer,Vegetable,2023,May,20
+Drumstick,Kg,60.0,70.0,65.0,Early Summer,Vegetable,2023,May,21
+Drumstick,Kg,70.0,80.0,76.67,Early Summer,Vegetable,2023,May,22
+Drumstick,Kg,60.0,70.0,66.67,Early Summer,Vegetable,2023,May,23
+Drumstick,Kg,60.0,70.0,65.0,Early Summer,Vegetable,2023,May,24
+Drumstick,Kg,70.0,80.0,75.0,Early Summer,Vegetable,2023,May,25
+Drumstick,Kg,70.0,80.0,73.33,Early Summer,Vegetable,2023,May,26
+Drumstick,Kg,60.0,70.0,65.0,Early Summer,Vegetable,2023,May,27
+Drumstick,Kg,60.0,70.0,65.0,Early Summer,Vegetable,2023,May,28
+Drumstick,Kg,60.0,70.0,66.67,Early Summer,Vegetable,2023,May,29
+Drumstick,Kg,60.0,70.0,65.0,Early Summer,Vegetable,2023,May,30
+Drumstick,Kg,60.0,70.0,66.67,Early Summer,Vegetable,2023,May,31
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2023,September,2
+Drumstick,Kg,200.0,220.0,210.0,Summer Monsoon,Vegetable,2023,September,3
+Drumstick,Kg,190.0,200.0,195.0,Summer Monsoon,Vegetable,2023,September,5
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2023,September,6
+Drumstick,Kg,200.0,220.0,210.0,Summer Monsoon,Vegetable,2023,September,8
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2023,September,9
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2023,September,10
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2023,September,11
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2023,September,12
+Drumstick,Kg,180.0,200.0,190.0,Summer Monsoon,Vegetable,2023,September,13
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2023,September,15
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2023,September,16
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2023,September,17
+Drumstick,Kg,180.0,200.0,190.0,Early Autumn,Vegetable,2023,September,18

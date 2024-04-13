@@ -1,0 +1,671 @@
+Commodity,Unit,Minimum,Maximum,Average,Season,Category,Year,Month,Day
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,August,8
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,August,14
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,August,16
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,August,18
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,August,19
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,August,20
+Sugarcane,1 pc,70.0,80.0,75.0,Summer Monsoon,Vegetable,2013,August,23
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,August,25
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,August,26
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,August,27
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,August,30
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,1
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,2
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,3
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,4
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,5
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,6
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,8
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,9
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,10
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,11
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,12
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,13
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,15
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,16
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,18
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,19
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,20
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,22
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,23
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,24
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,26
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,27
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,29
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,December,31
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,July,1
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,July,2
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,July,3
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,July,4
+Sugarcane,1 pc,60.0,70.0,65.0,Early Summer,Vegetable,2013,July,5
+Sugarcane,1 pc,60.0,70.0,65.0,Early Summer,Vegetable,2013,July,9
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,July,10
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,July,11
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,July,12
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,July,14
+Sugarcane,1 pc,50.0,60.0,55.0,Summer Monsoon,Vegetable,2013,July,15
+Sugarcane,1 pc,50.0,60.0,55.0,Summer Monsoon,Vegetable,2013,July,16
+Sugarcane,1 pc,50.0,60.0,55.0,Summer Monsoon,Vegetable,2013,July,17
+Sugarcane,1 pc,50.0,60.0,55.0,Summer Monsoon,Vegetable,2013,July,18
+Sugarcane,1 pc,50.0,60.0,55.0,Summer Monsoon,Vegetable,2013,July,19
+Sugarcane,1 pc,50.0,60.0,55.0,Summer Monsoon,Vegetable,2013,July,21
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,June,16
+Sugarcane,1 pc,60.0,70.0,65.0,Early Summer,Vegetable,2013,June,17
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,June,18
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,June,19
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,June,20
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,June,21
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,June,25
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,June,26
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,June,27
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,June,28
+Sugarcane,1 pc,50.0,60.0,55.0,Early Summer,Vegetable,2013,June,30
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,November,1
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,November,3
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2013,November,4
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2013,November,5
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2013,November,7
+Sugarcane,1 pc,50.0,55.0,52.5,Early Autumn,Vegetable,2013,November,10
+Sugarcane,1 pc,45.0,50.0,47.5,Early Autumn,Vegetable,2013,November,11
+Sugarcane,1 pc,50.0,60.0,55.0,Early Autumn,Vegetable,2013,November,12
+Sugarcane,1 pc,50.0,55.0,52.5,Early Autumn,Vegetable,2013,November,13
+Sugarcane,1 pc,45.0,50.0,47.5,Early Autumn,Vegetable,2013,November,14
+Sugarcane,1 pc,45.0,50.0,47.5,Late Autumn,Vegetable,2013,November,15
+Sugarcane,1 pc,45.0,50.0,47.5,Late Autumn,Vegetable,2013,November,16
+Sugarcane,1 pc,45.0,50.0,47.5,Late Autumn,Vegetable,2013,November,17
+Sugarcane,1 pc,45.0,50.0,47.5,Late Autumn,Vegetable,2013,November,18
+Sugarcane,1 pc,45.0,50.0,47.5,Late Autumn,Vegetable,2013,November,20
+Sugarcane,1 pc,50.0,55.0,52.5,Late Autumn,Vegetable,2013,November,21
+Sugarcane,1 pc,70.0,80.0,75.0,Late Autumn,Vegetable,2013,November,22
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2013,November,24
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2013,November,25
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2013,November,27
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2013,November,28
+Sugarcane,1 pc,40.0,45.0,42.5,Late Autumn,Vegetable,2013,November,29
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,1
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,2
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,3
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,4
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,6
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2013,October,7
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,8
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,9
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,10
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,11
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,12
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2013,October,16
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,17
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,20
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2013,October,21
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,22
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,23
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2013,October,24
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,25
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,27
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,28
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,29
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,30
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,October,31
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,September,1
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,September,2
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,September,3
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,September,4
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,September,5
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,September,6
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,September,8
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,September,9
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,September,10
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,September,11
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,September,12
+Sugarcane,1 pc,60.0,70.0,65.0,Summer Monsoon,Vegetable,2013,September,13
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2013,September,15
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2013,September,16
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2013,September,17
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2013,September,20
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,September,22
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2013,September,23
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,September,24
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,September,25
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,September,26
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,September,27
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,September,29
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2013,September,30
+Sugarcane,1 pc,50.0,55.0,52.5,Spring,Vegetable,2014,April,1
+Sugarcane,1 pc,50.0,55.0,52.5,Spring,Vegetable,2014,April,2
+Sugarcane,1 pc,50.0,55.0,52.5,Spring,Vegetable,2014,April,3
+Sugarcane,1 pc,50.0,60.0,55.0,Spring,Vegetable,2014,April,4
+Sugarcane,1 pc,50.0,60.0,55.0,Spring,Vegetable,2014,April,6
+Sugarcane,1 pc,50.0,60.0,55.0,Spring,Vegetable,2014,April,7
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,April,9
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,April,10
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,April,11
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,April,13
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,April,15
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,April,16
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,April,17
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,April,18
+Sugarcane,1 pc,50.0,60.0,55.0,Spring,Vegetable,2014,April,20
+Sugarcane,1 pc,50.0,60.0,55.0,Spring,Vegetable,2014,April,21
+Sugarcane,1 pc,70.0,80.0,75.0,Spring,Vegetable,2014,April,22
+Sugarcane,1 pc,80.0,90.0,85.0,Spring,Vegetable,2014,April,23
+Sugarcane,1 pc,70.0,80.0,75.0,Spring,Vegetable,2014,April,27
+Sugarcane,1 pc,80.0,90.0,85.0,Spring,Vegetable,2014,April,28
+Sugarcane,1 pc,80.0,90.0,85.0,Spring,Vegetable,2014,April,29
+Sugarcane,1 pc,80.0,90.0,85.0,Spring,Vegetable,2014,April,30
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,1
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,2
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,3
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,4
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,5
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,6
+Sugarcane,1 pc,40.0,45.0,42.5,Late Autumn,Vegetable,2014,December,7
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2014,December,8
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2014,December,9
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2014,December,10
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,11
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,12
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,13
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,14
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,15
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,16
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,17
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,18
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,19
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,21
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,22
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,23
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,24
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,25
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,26
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,27
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,28
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,29
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,30
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,December,31
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2014,February,2
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,3
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,4
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,5
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,6
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,7
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,9
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,10
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,11
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,12
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,13
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,14
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,16
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,17
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,18
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,20
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,21
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,23
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,24
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,25
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,February,26
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2014,February,28
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,January,1
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,January,2
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2014,January,3
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,January,5
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,January,6
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,January,7
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,January,8
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,January,9
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,January,10
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,January,12
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,January,13
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,January,14
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,January,16
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,January,17
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2014,January,19
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,January,20
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2014,January,21
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,January,22
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,January,23
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,January,24
+Sugarcane,1 pc,45.0,50.0,47.5,Winter,Vegetable,2014,January,26
+Sugarcane,1 pc,45.0,50.0,47.5,Winter,Vegetable,2014,January,27
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,January,28
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,January,29
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,March,3
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,March,5
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,March,6
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,March,7
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,March,9
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,March,10
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,March,11
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,March,12
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,March,13
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2014,March,14
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,March,17
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,March,18
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,March,19
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,March,20
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,March,21
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,March,23
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,March,24
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,March,25
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,March,26
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,March,27
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2014,March,28
+Sugarcane,1 pc,45.0,50.0,47.5,Spring,Vegetable,2014,March,31
+Sugarcane,1 pc,80.0,90.0,85.0,Spring,Vegetable,2014,May,2
+Sugarcane,1 pc,80.0,90.0,85.0,Spring,Vegetable,2014,May,4
+Sugarcane,1 pc,80.0,90.0,85.0,Spring,Vegetable,2014,May,5
+Sugarcane,1 pc,80.0,90.0,85.0,Spring,Vegetable,2014,May,6
+Sugarcane,1 pc,80.0,90.0,85.0,Spring,Vegetable,2014,May,7
+Sugarcane,1 pc,80.0,90.0,85.0,Spring,Vegetable,2014,May,8
+Sugarcane,1 pc,80.0,90.0,85.0,Spring,Vegetable,2014,May,9
+Sugarcane,1 pc,80.0,90.0,85.0,Spring,Vegetable,2014,May,11
+Sugarcane,1 pc,80.0,90.0,85.0,Spring,Vegetable,2014,May,12
+Sugarcane,1 pc,80.0,90.0,85.0,Early Summer,Vegetable,2014,May,27
+Sugarcane,1 pc,50.0,60.0,55.0,Early Autumn,Vegetable,2014,November,1
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2014,November,2
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2014,November,4
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2014,November,8
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2014,November,9
+Sugarcane,1 pc,50.0,60.0,55.0,Early Autumn,Vegetable,2014,November,10
+Sugarcane,1 pc,50.0,60.0,55.0,Early Autumn,Vegetable,2014,November,11
+Sugarcane,1 pc,50.0,60.0,55.0,Early Autumn,Vegetable,2014,November,12
+Sugarcane,1 pc,50.0,60.0,55.0,Early Autumn,Vegetable,2014,November,13
+Sugarcane,1 pc,50.0,60.0,55.0,Early Autumn,Vegetable,2014,November,14
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2014,November,15
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2014,November,16
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2014,November,17
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2014,November,18
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2014,November,19
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2014,November,20
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2014,November,21
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2014,November,22
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2014,November,23
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2014,November,24
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,November,25
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,November,26
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,November,27
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,November,28
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,November,29
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2014,November,30
+Sugarcane,1 pc,70.0,80.0,75.0,Early Autumn,Vegetable,2014,October,29
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2014,October,30
+Sugarcane,1 pc,60.0,70.0,65.0,Early Autumn,Vegetable,2014,October,31
+Sugarcane,1 pc,40.0,45.0,42.5,Spring,Vegetable,2015,April,1
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,April,3
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,April,4
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,April,5
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,April,6
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,April,8
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,April,10
+Sugarcane,1 pc,40.0,45.0,42.5,Spring,Vegetable,2015,April,12
+Sugarcane,1 pc,45.0,50.0,47.5,Spring,Vegetable,2015,April,13
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,April,14
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,April,15
+Sugarcane,1 pc,40.0,45.0,42.5,Spring,Vegetable,2015,April,16
+Sugarcane,1 pc,40.0,45.0,42.5,Spring,Vegetable,2015,April,17
+Sugarcane,1 pc,40.0,45.0,42.5,Spring,Vegetable,2015,April,18
+Sugarcane,1 pc,40.0,45.0,42.5,Spring,Vegetable,2015,April,19
+Sugarcane,1 pc,40.0,45.0,42.5,Spring,Vegetable,2015,April,24
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,April,25
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2015,February,1
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2015,February,2
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,3
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,4
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,5
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,6
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,7
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,8
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,9
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,10
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,11
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,12
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,13
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,14
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,15
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,16
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,18
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,19
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,20
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,22
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,23
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,24
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,25
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,26
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,February,27
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2015,January,1
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2015,January,2
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2015,January,3
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2015,January,4
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2015,January,5
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2015,January,6
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2015,January,7
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2015,January,8
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2015,January,9
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2015,January,11
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2015,January,12
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2015,January,13
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2015,January,14
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2015,January,16
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2015,January,17
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2015,January,18
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2015,January,19
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2015,January,21
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2015,January,22
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2015,January,23
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2015,January,25
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2015,January,26
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2015,January,27
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2015,January,28
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2015,January,29
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2015,January,31
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,March,1
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,March,2
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,March,3
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,March,6
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,March,9
+Sugarcane,1 pc,40.0,45.0,42.5,Winter,Vegetable,2015,March,10
+Sugarcane,1 pc,40.0,45.0,42.5,Winter,Vegetable,2015,March,11
+Sugarcane,1 pc,40.0,45.0,42.5,Winter,Vegetable,2015,March,12
+Sugarcane,1 pc,40.0,45.0,42.5,Winter,Vegetable,2015,March,13
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2015,March,14
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,March,16
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,March,17
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,March,18
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,March,19
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,March,20
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,March,21
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,March,22
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,March,23
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,March,24
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,March,25
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,March,26
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,March,27
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,March,28
+Sugarcane,1 pc,40.0,45.0,42.5,Spring,Vegetable,2015,March,29
+Sugarcane,1 pc,40.0,50.0,45.0,Spring,Vegetable,2015,March,30
+Sugarcane,1 pc,45.0,50.0,47.5,Spring,Vegetable,2015,March,31
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2016,March,8
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2020,December,1
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,2
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,3
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,4
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,5
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,7
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,8
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,10
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,11
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,12
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,13
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,14
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2020,December,15
+Sugarcane,1 pc,70.0,80.0,75.0,Late Autumn,Vegetable,2020,December,17
+Sugarcane,1 pc,70.0,80.0,75.0,Late Autumn,Vegetable,2020,December,18
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,19
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,20
+Sugarcane,1 pc,70.0,80.0,75.0,Late Autumn,Vegetable,2020,December,21
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,22
+Sugarcane,1 pc,70.0,80.0,75.0,Late Autumn,Vegetable,2020,December,23
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,December,24
+Sugarcane,1 pc,70.0,80.0,75.0,Late Autumn,Vegetable,2020,December,25
+Sugarcane,1 pc,70.0,80.0,75.0,Late Autumn,Vegetable,2020,December,26
+Sugarcane,1 pc,70.0,80.0,75.0,Late Autumn,Vegetable,2020,December,28
+Sugarcane,1 pc,70.0,80.0,75.0,Late Autumn,Vegetable,2020,December,29
+Sugarcane,1 pc,70.0,80.0,75.0,Late Autumn,Vegetable,2020,December,30
+Sugarcane,1 pc,90.0,100.0,95.0,Late Autumn,Vegetable,2020,November,18
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2020,November,19
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,November,20
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,November,21
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,November,22
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2020,November,23
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2020,November,24
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2020,November,25
+Sugarcane,1 pc,70.0,80.0,75.0,Late Autumn,Vegetable,2020,November,27
+Sugarcane,1 pc,70.0,80.0,75.0,Late Autumn,Vegetable,2020,November,28
+Sugarcane,1 pc,60.0,70.0,65.0,Late Autumn,Vegetable,2020,November,30
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2021,December,1
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2021,December,2
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2021,December,3
+Sugarcane,1 pc,40.0,50.0,45.0,Late Autumn,Vegetable,2021,December,4
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2021,December,5
+Sugarcane,1 pc,50.0,60.0,55.0,Late Autumn,Vegetable,2021,December,6
+Sugarcane,1 pc,80.0,90.0,85.0,Late Autumn,Vegetable,2021,December,18
+Sugarcane,1 pc,80.0,90.0,85.0,Late Autumn,Vegetable,2021,December,19
+Sugarcane,1 pc,80.0,90.0,85.0,Late Autumn,Vegetable,2021,December,20
+Sugarcane,1 pc,80.0,90.0,85.0,Late Autumn,Vegetable,2021,December,21
+Sugarcane,1 pc,90.0,100.0,95.0,Late Autumn,Vegetable,2021,December,22
+Sugarcane,1 pc,90.0,100.0,95.0,Late Autumn,Vegetable,2021,December,23
+Sugarcane,1 pc,80.0,90.0,85.0,Late Autumn,Vegetable,2021,December,24
+Sugarcane,1 pc,90.0,100.0,95.0,Late Autumn,Vegetable,2021,December,25
+Sugarcane,1 pc,90.0,100.0,95.0,Late Autumn,Vegetable,2021,December,26
+Sugarcane,1 pc,90.0,100.0,95.0,Late Autumn,Vegetable,2021,December,27
+Sugarcane,1 pc,90.0,100.0,95.0,Late Autumn,Vegetable,2021,December,28
+Sugarcane,1 pc,90.0,100.0,95.0,Late Autumn,Vegetable,2021,December,29
+Sugarcane,1 pc,90.0,100.0,95.0,Late Autumn,Vegetable,2021,December,31
+Sugarcane,1 pc,40.0,50.0,45.0,Winter,Vegetable,2021,February,2
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2021,February,3
+Sugarcane,1 pc,70.0,80.0,75.0,Winter,Vegetable,2021,February,4
+Sugarcane,1 pc,80.0,90.0,85.0,Winter,Vegetable,2021,February,5
+Sugarcane,1 pc,70.0,80.0,75.0,Winter,Vegetable,2021,February,6
+Sugarcane,1 pc,70.0,80.0,75.0,Winter,Vegetable,2021,February,7
+Sugarcane,1 pc,80.0,90.0,85.0,Winter,Vegetable,2021,February,8
+Sugarcane,1 pc,80.0,90.0,85.0,Winter,Vegetable,2021,February,10
+Sugarcane,1 pc,80.0,90.0,85.0,Winter,Vegetable,2021,February,11
+Sugarcane,1 pc,80.0,90.0,85.0,Winter,Vegetable,2021,February,12
+Sugarcane,1 pc,80.0,90.0,85.0,Winter,Vegetable,2021,February,13
+Sugarcane,1 pc,80.0,90.0,85.0,Winter,Vegetable,2021,February,14
+Sugarcane,1 pc,80.0,90.0,85.0,Winter,Vegetable,2021,February,15
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2021,February,16
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2021,February,17
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2021,February,18
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2021,February,26
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2021,February,27
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2021,February,28
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2021,March,1
+Sugarcane,1 pc,50.0,60.0,55.0,Winter,Vegetable,2021,March,2
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2021,March,3
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2021,March,5
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2021,March,6
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2021,March,7
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2021,March,8
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2021,March,9
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2021,March,10
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2021,March,11
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2021,March,12
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2021,March,13
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2021,March,14
+Sugarcane,1 pc,50.0,60.0,55.0,Spring,Vegetable,2021,March,15
+Sugarcane,1 pc,50.0,60.0,55.0,Spring,Vegetable,2021,March,16
+Sugarcane,1 pc,60.0,70.0,65.0,Spring,Vegetable,2021,March,19
+Sugarcane,1 pc,70.0,80.0,75.0,Spring,Vegetable,2021,March,20
+Sugarcane,1 pc,70.0,80.0,75.0,Spring,Vegetable,2021,March,21
+Sugarcane,1 pc,60.0,70.0,65.0,Spring,Vegetable,2021,March,22
+Sugarcane,1 pc,60.0,70.0,65.0,Spring,Vegetable,2021,March,23
+Sugarcane,1 pc,40.0,50.0,45.0,Early Autumn,Vegetable,2021,November,7
+Sugarcane,1 pc,40.0,50.0,45.0,Early Autumn,Vegetable,2021,November,8
+Sugarcane,1 pc,80.0,90.0,85.0,Early Autumn,Vegetable,2021,November,9
+Sugarcane,1 pc,80.0,90.0,85.0,Early Autumn,Vegetable,2021,November,10
+Sugarcane,1 pc,80.0,90.0,85.0,Early Autumn,Vegetable,2021,November,11
+Sugarcane,1 pc,90.0,100.0,95.0,Late Autumn,Vegetable,2021,November,15
+Sugarcane,1 pc,80.0,90.0,85.0,Late Autumn,Vegetable,2021,November,16
+Sugarcane,1 pc,80.0,90.0,85.0,Late Autumn,Vegetable,2021,November,17
+Sugarcane,1 pc,100.0,120.0,110.0,Late Autumn,Vegetable,2021,November,23
+Sugarcane,1 pc,100.0,120.0,110.0,Late Autumn,Vegetable,2021,November,24
+Sugarcane,1 pc,100.0,110.0,105.0,Late Autumn,Vegetable,2021,November,25
+Sugarcane,1 pc,100.0,110.0,105.0,Late Autumn,Vegetable,2021,November,26
+Sugarcane,1 pc,80.0,100.0,90.0,Late Autumn,Vegetable,2021,November,27
+Sugarcane,1 pc,70.0,80.0,75.0,Late Autumn,Vegetable,2021,November,28
+Sugarcane,1 pc,80.0,90.0,85.0,Late Autumn,Vegetable,2021,November,29
+Sugarcane,1 pc,80.0,100.0,90.0,Late Autumn,Vegetable,2021,November,30
+Sugarcane,1 pc,50.0,60.0,55.0,Early Autumn,Vegetable,2021,October,12
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,December,1
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,December,2
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,December,3
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,December,4
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,December,5
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,December,6
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,December,7
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,December,8
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,December,9
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,December,10
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,December,11
+Sugarcane,Per piece,80.0,90.0,86.67,Late Autumn,Vegetable,2022,December,12
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,December,13
+Sugarcane,Per piece,70.0,80.0,76.67,Late Autumn,Vegetable,2022,December,20
+Sugarcane,Per piece,80.0,90.0,86.67,Late Autumn,Vegetable,2022,December,21
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,December,22
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,December,23
+Sugarcane,1 pc,70.0,80.0,75.0,Winter,Vegetable,2022,February,1
+Sugarcane,1 pc,70.0,80.0,75.0,Winter,Vegetable,2022,February,2
+Sugarcane,1 pc,70.0,80.0,75.0,Winter,Vegetable,2022,February,3
+Sugarcane,1 pc,70.0,80.0,75.0,Winter,Vegetable,2022,February,11
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2022,February,12
+Sugarcane,1 pc,60.0,70.0,65.0,Winter,Vegetable,2022,February,13
+Sugarcane,1 pc,70.0,80.0,75.0,Winter,Vegetable,2022,February,14
+Sugarcane,1 pc,120.0,150.0,135.0,Winter,Vegetable,2022,February,15
+Sugarcane,1 pc,140.0,150.0,145.0,Winter,Vegetable,2022,February,16
+Sugarcane,1 pc,140.0,150.0,145.0,Winter,Vegetable,2022,February,17
+Sugarcane,1 pc,140.0,150.0,145.0,Winter,Vegetable,2022,February,18
+Sugarcane,1 pc,140.0,150.0,145.0,Winter,Vegetable,2022,February,19
+Sugarcane,1 pc,140.0,150.0,145.0,Winter,Vegetable,2022,February,20
+Sugarcane,1 pc,80.0,90.0,85.0,Winter,Vegetable,2022,February,21
+Sugarcane,1 pc,80.0,90.0,85.0,Winter,Vegetable,2022,February,22
+Sugarcane,1 pc,80.0,90.0,85.0,Winter,Vegetable,2022,February,23
+Sugarcane,1 pc,80.0,90.0,85.0,Winter,Vegetable,2022,February,24
+Sugarcane,1 pc,100.0,110.0,105.0,Winter,Vegetable,2022,February,25
+Sugarcane,1 pc,140.0,150.0,145.0,Winter,Vegetable,2022,February,27
+Sugarcane,1 pc,90.0,100.0,95.0,Late Autumn,Vegetable,2022,January,1
+Sugarcane,1 pc,90.0,100.0,95.0,Late Autumn,Vegetable,2022,January,2
+Sugarcane,1 pc,90.0,100.0,95.0,Late Autumn,Vegetable,2022,January,5
+Sugarcane,1 pc,90.0,100.0,95.0,Late Autumn,Vegetable,2022,January,6
+Sugarcane,1 pc,80.0,90.0,85.0,Winter,Vegetable,2022,January,26
+Sugarcane,1 pc,70.0,80.0,75.0,Winter,Vegetable,2022,January,27
+Sugarcane,1 pc,70.0,80.0,75.0,Winter,Vegetable,2022,January,28
+Sugarcane,1 pc,70.0,80.0,75.0,Winter,Vegetable,2022,January,29
+Sugarcane,1 pc,70.0,80.0,75.0,Winter,Vegetable,2022,January,30
+Sugarcane,1 pc,70.0,80.0,75.0,Winter,Vegetable,2022,January,31
+Sugarcane,1 pc,140.0,150.0,145.0,Winter,Vegetable,2022,March,1
+Sugarcane,1 pc,140.0,150.0,145.0,Winter,Vegetable,2022,March,2
+Sugarcane,1 pc,100.0,120.0,110.0,Winter,Vegetable,2022,March,3
+Sugarcane,1 pc,100.0,120.0,110.0,Winter,Vegetable,2022,March,5
+Sugarcane,1 pc,100.0,120.0,110.0,Winter,Vegetable,2022,March,6
+Sugarcane,1 pc,100.0,110.0,105.0,Winter,Vegetable,2022,March,7
+Sugarcane,1 pc,100.0,120.0,110.0,Winter,Vegetable,2022,March,8
+Sugarcane,1 pc,100.0,120.0,110.0,Winter,Vegetable,2022,March,9
+Sugarcane,1 pc,100.0,120.0,110.0,Winter,Vegetable,2022,March,10
+Sugarcane,1 pc,100.0,120.0,110.0,Winter,Vegetable,2022,March,11
+Sugarcane,1 pc,100.0,120.0,110.0,Winter,Vegetable,2022,March,12
+Sugarcane,1 pc,100.0,120.0,110.0,Winter,Vegetable,2022,March,13
+Sugarcane,1 pc,100.0,120.0,110.0,Winter,Vegetable,2022,March,14
+Sugarcane,1 pc,100.0,120.0,110.0,Spring,Vegetable,2022,March,15
+Sugarcane,1 pc,100.0,120.0,110.0,Spring,Vegetable,2022,March,16
+Sugarcane,1 pc,100.0,120.0,110.0,Spring,Vegetable,2022,March,17
+Sugarcane,1 pc,100.0,120.0,110.0,Spring,Vegetable,2022,March,18
+Sugarcane,Per piece,70.0,80.0,75.0,Early Autumn,Vegetable,2022,November,1
+Sugarcane,Per piece,70.0,80.0,75.0,Early Autumn,Vegetable,2022,November,2
+Sugarcane,Per piece,100.0,120.0,110.0,Early Autumn,Vegetable,2022,November,3
+Sugarcane,Per piece,100.0,120.0,110.0,Early Autumn,Vegetable,2022,November,4
+Sugarcane,Per piece,100.0,120.0,110.0,Early Autumn,Vegetable,2022,November,5
+Sugarcane,Per piece,100.0,120.0,110.0,Early Autumn,Vegetable,2022,November,6
+Sugarcane,Per piece,100.0,120.0,110.0,Early Autumn,Vegetable,2022,November,7
+Sugarcane,Per piece,100.0,120.0,110.0,Early Autumn,Vegetable,2022,November,8
+Sugarcane,Per piece,100.0,120.0,110.0,Early Autumn,Vegetable,2022,November,9
+Sugarcane,Per piece,100.0,120.0,110.0,Early Autumn,Vegetable,2022,November,10
+Sugarcane,Per piece,100.0,120.0,110.0,Early Autumn,Vegetable,2022,November,11
+Sugarcane,Per piece,90.0,100.0,95.0,Early Autumn,Vegetable,2022,November,12
+Sugarcane,Per piece,90.0,100.0,95.0,Early Autumn,Vegetable,2022,November,13
+Sugarcane,Per piece,90.0,100.0,95.0,Early Autumn,Vegetable,2022,November,14
+Sugarcane,Per piece,90.0,100.0,95.0,Late Autumn,Vegetable,2022,November,15
+Sugarcane,Per piece,70.0,80.0,76.67,Late Autumn,Vegetable,2022,November,17
+Sugarcane,Per piece,80.0,90.0,86.67,Late Autumn,Vegetable,2022,November,18
+Sugarcane,Per piece,80.0,90.0,86.67,Late Autumn,Vegetable,2022,November,19
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,November,21
+Sugarcane,Per piece,80.0,90.0,86.67,Late Autumn,Vegetable,2022,November,22
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,November,23
+Sugarcane,Per piece,70.0,80.0,75.0,Late Autumn,Vegetable,2022,November,24
+Sugarcane,Per piece,70.0,80.0,75.0,Late Autumn,Vegetable,2022,November,25
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,November,26
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,November,27
+Sugarcane,Per piece,70.0,80.0,76.67,Late Autumn,Vegetable,2022,November,28
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,November,29
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2022,November,30
+Sugarcane,Per piece,90.0,100.0,95.0,Early Autumn,Vegetable,2022,October,24
+Sugarcane,Per piece,90.0,100.0,96.67,Early Autumn,Vegetable,2022,October,25
+Sugarcane,Per piece,80.0,90.0,86.67,Early Autumn,Vegetable,2022,October,26
+Sugarcane,Per piece,80.0,90.0,85.0,Early Autumn,Vegetable,2022,October,28
+Sugarcane,Per piece,80.0,90.0,86.67,Early Autumn,Vegetable,2022,October,29
+Sugarcane,Per piece,70.0,80.0,75.0,Early Autumn,Vegetable,2022,October,30
+Sugarcane,Per piece,80.0,90.0,86.67,Early Autumn,Vegetable,2022,October,31
+Sugarcane,Per piece,70.0,80.0,75.0,Winter,Vegetable,2023,February,1
+Sugarcane,Per piece,70.0,80.0,75.0,Winter,Vegetable,2023,February,2
+Sugarcane,Per piece,80.0,90.0,86.67,Winter,Vegetable,2023,February,3
+Sugarcane,Per piece,70.0,80.0,76.67,Winter,Vegetable,2023,February,4
+Sugarcane,Per piece,70.0,80.0,75.0,Winter,Vegetable,2023,February,5
+Sugarcane,Per piece,80.0,90.0,86.67,Winter,Vegetable,2023,February,6
+Sugarcane,Per piece,70.0,80.0,75.0,Winter,Vegetable,2023,February,7
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,February,8
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,February,9
+Sugarcane,Per piece,70.0,80.0,75.0,Winter,Vegetable,2023,February,10
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,February,11
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,February,12
+Sugarcane,Per piece,80.0,90.0,86.67,Winter,Vegetable,2023,February,13
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,February,14
+Sugarcane,Per piece,70.0,80.0,76.67,Winter,Vegetable,2023,February,15
+Sugarcane,Per piece,70.0,80.0,75.0,Winter,Vegetable,2023,February,16
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,February,17
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,February,18
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,February,19
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,February,20
+Sugarcane,Per piece,70.0,80.0,76.67,Winter,Vegetable,2023,February,21
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,February,22
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,February,23
+Sugarcane,Per piece,80.0,90.0,86.67,Winter,Vegetable,2023,February,24
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,February,25
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,February,26
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,February,27
+Sugarcane,Per piece,70.0,80.0,75.0,Winter,Vegetable,2023,February,28
+Sugarcane,Per piece,80.0,90.0,86.67,Late Autumn,Vegetable,2023,January,9
+Sugarcane,Per piece,80.0,90.0,86.67,Late Autumn,Vegetable,2023,January,10
+Sugarcane,Per piece,80.0,90.0,86.67,Late Autumn,Vegetable,2023,January,11
+Sugarcane,Per piece,90.0,100.0,96.67,Late Autumn,Vegetable,2023,January,12
+Sugarcane,Per piece,80.0,90.0,85.0,Late Autumn,Vegetable,2023,January,13
+Sugarcane,Per piece,80.0,90.0,86.67,Late Autumn,Vegetable,2023,January,14
+Sugarcane,Per piece,80.0,90.0,86.67,Winter,Vegetable,2023,January,15
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,January,16
+Sugarcane,Per piece,80.0,90.0,86.67,Winter,Vegetable,2023,January,17
+Sugarcane,Per piece,80.0,90.0,86.67,Winter,Vegetable,2023,January,18
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,January,19
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,January,20
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,January,21
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,January,22
+Sugarcane,Per piece,80.0,90.0,86.67,Winter,Vegetable,2023,January,23
+Sugarcane,Per piece,80.0,90.0,86.67,Winter,Vegetable,2023,January,24
+Sugarcane,Per piece,80.0,90.0,86.67,Winter,Vegetable,2023,January,25
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,January,26
+Sugarcane,Per piece,80.0,90.0,86.67,Winter,Vegetable,2023,January,27
+Sugarcane,Per piece,60.0,70.0,66.67,Winter,Vegetable,2023,January,28
+Sugarcane,Per piece,60.0,70.0,65.0,Winter,Vegetable,2023,January,29
+Sugarcane,Per piece,70.0,80.0,75.0,Winter,Vegetable,2023,January,30
+Sugarcane,Per piece,70.0,80.0,75.0,Winter,Vegetable,2023,January,31
+Sugarcane,Per piece,70.0,80.0,75.0,Winter,Vegetable,2023,March,1
+Sugarcane,Per piece,60.0,70.0,65.0,Winter,Vegetable,2023,March,2
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,March,3
+Sugarcane,Per piece,70.0,80.0,75.0,Winter,Vegetable,2023,March,5
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,March,6
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,March,7
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,March,8
+Sugarcane,Per piece,80.0,90.0,85.0,Winter,Vegetable,2023,March,9
+Sugarcane,Per piece,70.0,80.0,75.0,Winter,Vegetable,2023,March,10
+Sugarcane,Per piece,70.0,80.0,75.0,Winter,Vegetable,2023,March,11
+Sugarcane,Per piece,70.0,80.0,75.0,Winter,Vegetable,2023,March,12
+Sugarcane,Per piece,70.0,80.0,75.0,Winter,Vegetable,2023,March,13
+Sugarcane,Per piece,100.0,120.0,110.0,Winter,Vegetable,2023,March,14
+Sugarcane,Per piece,120.0,130.0,125.0,Spring,Vegetable,2023,March,15
+Sugarcane,Per piece,120.0,130.0,125.0,Spring,Vegetable,2023,March,16
+Sugarcane,Per piece,120.0,130.0,125.0,Spring,Vegetable,2023,March,17
+Sugarcane,Per piece,120.0,130.0,125.0,Spring,Vegetable,2023,March,18
+Sugarcane,Per piece,120.0,130.0,125.0,Spring,Vegetable,2023,March,19
+Sugarcane,Per piece,120.0,130.0,125.0,Spring,Vegetable,2023,March,20
+Sugarcane,Per piece,120.0,130.0,125.0,Spring,Vegetable,2023,March,21
+Sugarcane,Per piece,120.0,130.0,125.0,Spring,Vegetable,2023,March,22
+Sugarcane,Per piece,120.0,130.0,126.67,Spring,Vegetable,2023,March,23
+Sugarcane,Per piece,120.0,130.0,125.0,Spring,Vegetable,2023,March,24
