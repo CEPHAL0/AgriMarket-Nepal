@@ -23,4 +23,9 @@ Generate Migration Files automatically
 alembic revision --autogenerate  -m "<migration_file_name>"
 ```
 
+Run backed
+```shell
+uvicorn main:app --host <host> --port <portnumber> --reload
+```
+
 **Postgresql url format:**`DATABASE_URI = 'postgresql://postgres:<password>@localhost/<name_of_the_datbase>'`
