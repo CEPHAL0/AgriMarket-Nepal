@@ -23,6 +23,11 @@ Generate Migration Files automatically
 alembic revision --autogenerate  -m "<migration_file_name>"
 ```
 
+Run migrations
+```shell
+alembic upgrade head
+```
+
 Run backed
 ```shell
 uvicorn main:app --host <host> --port <portnumber> --reload
