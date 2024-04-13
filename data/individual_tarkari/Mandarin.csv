@@ -1,0 +1,658 @@
+Commodity,Unit,Minimum,Maximum,Average,Season,Category,Year,Month,Day
+Mandarin,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2013,December,29
+Mandarin,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2013,November,4
+Mandarin,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2014,December,4
+Mandarin,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2014,December,7
+Mandarin,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2014,January,1
+Mandarin,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2014,January,2
+Mandarin,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2014,January,3
+Mandarin,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2014,January,6
+Mandarin,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2014,November,18
+Mandarin,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2014,November,19
+Mandarin,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2014,November,21
+Mandarin,Kg,35.0,40.0,37.5,Late Autumn,Fruit,2014,November,25
+Mandarin,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2014,October,21
+Mandarin,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2014,October,22
+Mandarin,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2014,October,23
+Mandarin,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2014,October,24
+Mandarin,Kg,60.0,75.0,67.5,Early Autumn,Fruit,2014,October,25
+Mandarin,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2015,November,12
+Mandarin,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2015,November,13
+Mandarin,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2015,November,14
+Mandarin,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,November,21
+Mandarin,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2015,October,17
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,April,1
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,April,2
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,April,3
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,April,4
+Mandarin,Kg,70.0,80.0,75.0,Spring,Fruit,2016,April,5
+Mandarin,Kg,70.0,80.0,75.0,Spring,Fruit,2016,April,6
+Mandarin,Kg,70.0,80.0,75.0,Spring,Fruit,2016,April,7
+Mandarin,Kg,70.0,80.0,75.0,Spring,Fruit,2016,April,8
+Mandarin,Kg,70.0,80.0,75.0,Spring,Fruit,2016,April,9
+Mandarin,Kg,60.0,70.0,65.0,Winter,Fruit,2016,February,22
+Mandarin,Kg,70.0,80.0,75.0,Winter,Fruit,2016,February,23
+Mandarin,Kg,60.0,70.0,65.0,Winter,Fruit,2016,February,24
+Mandarin,Kg,60.0,70.0,65.0,Winter,Fruit,2016,February,25
+Mandarin,Kg,50.0,60.0,55.0,Winter,Fruit,2016,February,26
+Mandarin,Kg,55.0,60.0,57.5,Winter,Fruit,2016,February,27
+Mandarin,Kg,50.0,60.0,55.0,Winter,Fruit,2016,February,28
+Mandarin,Kg,50.0,60.0,55.0,Winter,Fruit,2016,February,29
+Mandarin,Kg,50.0,60.0,55.0,Winter,Fruit,2016,March,1
+Mandarin,Kg,50.0,60.0,55.0,Winter,Fruit,2016,March,2
+Mandarin,Kg,50.0,60.0,55.0,Winter,Fruit,2016,March,4
+Mandarin,Kg,50.0,60.0,55.0,Winter,Fruit,2016,March,5
+Mandarin,Kg,60.0,70.0,65.0,Winter,Fruit,2016,March,6
+Mandarin,Kg,60.0,70.0,65.0,Winter,Fruit,2016,March,7
+Mandarin,Kg,70.0,80.0,75.0,Winter,Fruit,2016,March,9
+Mandarin,Kg,70.0,80.0,75.0,Winter,Fruit,2016,March,10
+Mandarin,Kg,70.0,80.0,75.0,Winter,Fruit,2016,March,11
+Mandarin,Kg,70.0,80.0,75.0,Winter,Fruit,2016,March,12
+Mandarin,Kg,70.0,80.0,75.0,Winter,Fruit,2016,March,13
+Mandarin,Kg,70.0,80.0,75.0,Spring,Fruit,2016,March,15
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,March,16
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,March,17
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,March,18
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,March,19
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,March,20
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,March,21
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,March,22
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,March,23
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,March,24
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,March,25
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,March,26
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,March,27
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,March,28
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,March,29
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,March,30
+Mandarin,Kg,60.0,70.0,65.0,Spring,Fruit,2016,March,31
+Mandarin,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2020,November,14
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,December,1
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,December,2
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,December,3
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,December,4
+Mandarin,Kg,320.0,340.0,330.0,Late Autumn,Fruit,2021,December,5
+Mandarin,Kg,250.0,280.0,265.0,Late Autumn,Fruit,2021,December,6
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,December,7
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,December,8
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,December,9
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,December,10
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,December,11
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,December,12
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,December,13
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,December,14
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,December,15
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,December,16
+Mandarin,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,18
+Mandarin,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,19
+Mandarin,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,20
+Mandarin,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,21
+Mandarin,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,22
+Mandarin,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,23
+Mandarin,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,24
+Mandarin,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2021,December,25
+Mandarin,Kg,150.0,200.0,175.0,Late Autumn,Fruit,2021,December,26
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2021,December,27
+Mandarin,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,28
+Mandarin,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,29
+Mandarin,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,November,3
+Mandarin,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2021,November,4
+Mandarin,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2021,November,5
+Mandarin,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2021,November,6
+Mandarin,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2021,November,7
+Mandarin,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2021,November,8
+Mandarin,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2021,November,9
+Mandarin,Kg,300.0,320.0,310.0,Early Autumn,Fruit,2021,November,10
+Mandarin,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2021,November,11
+Mandarin,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2021,November,12
+Mandarin,Kg,300.0,320.0,310.0,Early Autumn,Fruit,2021,November,13
+Mandarin,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2021,November,14
+Mandarin,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,November,15
+Mandarin,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,November,16
+Mandarin,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,November,17
+Mandarin,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,November,18
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,November,19
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,November,20
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,November,21
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,November,22
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,November,23
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,November,24
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,November,25
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,November,26
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,November,27
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,November,28
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,November,29
+Mandarin,Kg,320.0,350.0,335.0,Late Autumn,Fruit,2021,November,30
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,1
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,4
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,5
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,6
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,7
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,8
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,9
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,10
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,11
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,12
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,13
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,14
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,15
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,16
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,17
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,18
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,19
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,20
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,21
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,22
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,23
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,24
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,25
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,26
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,27
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,28
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,29
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,April,30
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,August,1
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,August,2
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,August,3
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,August,4
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,August,5
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,August,6
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,August,7
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,August,8
+Mandarin,Kg,200.0,210.0,205.0,Summer Monsoon,Fruit,2022,August,9
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,August,10
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,August,11
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,August,12
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,August,13
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,August,14
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,August,15
+Mandarin,Kg,240.0,250.0,246.67,Late Autumn,Fruit,2022,December,1
+Mandarin,Kg,240.0,250.0,246.67,Late Autumn,Fruit,2022,December,2
+Mandarin,Kg,240.0,250.0,246.67,Late Autumn,Fruit,2022,December,3
+Mandarin,Kg,240.0,250.0,245.0,Late Autumn,Fruit,2022,December,4
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,5
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,6
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,7
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,8
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,9
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,10
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,11
+Mandarin,Kg,220.0,250.0,240.0,Late Autumn,Fruit,2022,December,12
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,13
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,14
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,15
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,16
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,17
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,18
+Mandarin,Kg,220.0,250.0,240.0,Late Autumn,Fruit,2022,December,19
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,20
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,21
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,22
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,23
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,24
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,25
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,26
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,27
+Mandarin,Kg,220.0,250.0,240.0,Late Autumn,Fruit,2022,December,28
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,29
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,30
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,December,31
+Mandarin,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,1
+Mandarin,Kg,200.0,250.0,225.0,Winter,Fruit,2022,February,8
+Mandarin,Kg,250.0,300.0,275.0,Winter,Fruit,2022,February,9
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2022,February,10
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2022,February,11
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2022,February,12
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2022,February,13
+Mandarin,Kg,200.0,250.0,225.0,Winter,Fruit,2022,February,14
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2022,February,15
+Mandarin,Kg,200.0,250.0,225.0,Winter,Fruit,2022,February,16
+Mandarin,Kg,200.0,250.0,225.0,Winter,Fruit,2022,February,17
+Mandarin,Kg,200.0,250.0,225.0,Winter,Fruit,2022,February,18
+Mandarin,Kg,200.0,250.0,225.0,Winter,Fruit,2022,February,19
+Mandarin,Kg,200.0,250.0,225.0,Winter,Fruit,2022,February,20
+Mandarin,Kg,200.0,250.0,225.0,Winter,Fruit,2022,February,21
+Mandarin,Kg,200.0,250.0,225.0,Winter,Fruit,2022,February,22
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2022,February,23
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2022,February,24
+Mandarin,Kg,140.0,160.0,150.0,Winter,Fruit,2022,February,25
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2022,February,27
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,July,1
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,July,2
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,July,3
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,July,4
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,July,5
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,July,6
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,July,7
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,July,8
+Mandarin,Kg,200.0,220.0,213.33,Early Summer,Fruit,2022,July,9
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,July,10
+Mandarin,Kg,200.0,250.0,225.0,Early Summer,Fruit,2022,July,11
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,July,12
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,July,13
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,July,14
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,July,15
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,July,16
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,July,17
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,July,18
+Mandarin,Kg,200.0,250.0,225.0,Summer Monsoon,Fruit,2022,July,19
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,July,20
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,July,21
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,July,22
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,July,23
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,July,24
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,July,25
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,July,26
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,July,27
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,July,28
+Mandarin,Kg,200.0,210.0,205.0,Summer Monsoon,Fruit,2022,July,29
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,July,30
+Mandarin,Kg,200.0,220.0,210.0,Summer Monsoon,Fruit,2022,July,31
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,1
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,2
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,3
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,4
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,5
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,6
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,7
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,8
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,9
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,10
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,11
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,12
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,13
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,14
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,15
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,16
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,17
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,18
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,19
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,20
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,21
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,22
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,23
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,24
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,25
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,26
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,27
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,28
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,29
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,June,30
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2022,March,1
+Mandarin,Kg,200.0,250.0,225.0,Winter,Fruit,2022,March,2
+Mandarin,Kg,200.0,250.0,225.0,Winter,Fruit,2022,March,3
+Mandarin,Kg,200.0,250.0,225.0,Winter,Fruit,2022,March,8
+Mandarin,Kg,200.0,250.0,225.0,Winter,Fruit,2022,March,9
+Mandarin,Kg,200.0,250.0,225.0,Winter,Fruit,2022,March,10
+Mandarin,Kg,200.0,250.0,225.0,Winter,Fruit,2022,March,11
+Mandarin,Kg,180.0,200.0,190.0,Winter,Fruit,2022,March,12
+Mandarin,Kg,180.0,200.0,190.0,Winter,Fruit,2022,March,13
+Mandarin,Kg,150.0,200.0,175.0,Winter,Fruit,2022,March,14
+Mandarin,Kg,150.0,200.0,175.0,Spring,Fruit,2022,March,15
+Mandarin,Kg,150.0,200.0,175.0,Spring,Fruit,2022,March,16
+Mandarin,Kg,150.0,200.0,175.0,Spring,Fruit,2022,March,17
+Mandarin,Kg,150.0,200.0,175.0,Spring,Fruit,2022,March,18
+Mandarin,Kg,200.0,250.0,225.0,Spring,Fruit,2022,March,19
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2022,March,20
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2022,March,21
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,March,22
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,March,23
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2022,March,24
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,March,29
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,March,30
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,March,31
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,May,1
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,May,2
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,May,3
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,May,4
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,May,5
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,May,6
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,May,7
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,May,8
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,May,9
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,May,10
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2022,May,11
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2022,May,12
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,May,15
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,May,16
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,May,17
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,May,18
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,May,19
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,May,20
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,May,21
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,May,22
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,May,23
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,May,25
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,May,26
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,May,27
+Mandarin,Kg,200.0,250.0,225.0,Early Summer,Fruit,2022,May,28
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,May,29
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,May,30
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2022,May,31
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,November,1
+Mandarin,Kg,220.0,250.0,235.0,Early Autumn,Fruit,2022,November,2
+Mandarin,Kg,220.0,250.0,235.0,Early Autumn,Fruit,2022,November,3
+Mandarin,Kg,220.0,250.0,235.0,Early Autumn,Fruit,2022,November,4
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,November,5
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,November,6
+Mandarin,Kg,220.0,250.0,235.0,Early Autumn,Fruit,2022,November,7
+Mandarin,Kg,220.0,250.0,235.0,Early Autumn,Fruit,2022,November,8
+Mandarin,Kg,220.0,250.0,235.0,Early Autumn,Fruit,2022,November,9
+Mandarin,Kg,220.0,250.0,240.0,Early Autumn,Fruit,2022,November,10
+Mandarin,Kg,220.0,250.0,235.0,Early Autumn,Fruit,2022,November,11
+Mandarin,Kg,220.0,250.0,235.0,Early Autumn,Fruit,2022,November,12
+Mandarin,Kg,220.0,250.0,235.0,Early Autumn,Fruit,2022,November,13
+Mandarin,Kg,220.0,250.0,240.0,Early Autumn,Fruit,2022,November,14
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,November,15
+Mandarin,Kg,240.0,250.0,245.0,Late Autumn,Fruit,2022,November,16
+Mandarin,Kg,220.0,250.0,240.0,Late Autumn,Fruit,2022,November,17
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,November,18
+Mandarin,Kg,220.0,250.0,240.0,Late Autumn,Fruit,2022,November,19
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,November,21
+Mandarin,Kg,220.0,250.0,240.0,Late Autumn,Fruit,2022,November,22
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,November,23
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,November,24
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,November,25
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,November,26
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,November,27
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,November,28
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,November,29
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2022,November,30
+Mandarin,Kg,260.0,280.0,270.0,Early Autumn,Fruit,2022,October,1
+Mandarin,Kg,260.0,280.0,270.0,Early Autumn,Fruit,2022,October,2
+Mandarin,Kg,280.0,300.0,290.0,Early Autumn,Fruit,2022,October,3
+Mandarin,Kg,350.0,380.0,365.0,Early Autumn,Fruit,2022,October,4
+Mandarin,Kg,280.0,300.0,290.0,Early Autumn,Fruit,2022,October,5
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,6
+Mandarin,Kg,280.0,300.0,290.0,Early Autumn,Fruit,2022,October,7
+Mandarin,Kg,280.0,300.0,290.0,Early Autumn,Fruit,2022,October,8
+Mandarin,Kg,280.0,300.0,290.0,Early Autumn,Fruit,2022,October,9
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,10
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,11
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,12
+Mandarin,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,13
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,14
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,15
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,16
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,17
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,18
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,19
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,20
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,21
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,22
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,23
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,24
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,25
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,26
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,27
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,29
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,30
+Mandarin,Kg,250.0,280.0,265.0,Early Autumn,Fruit,2022,October,31
+Mandarin,Kg,300.0,350.0,325.0,Early Autumn,Fruit,2022,September,30
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,April,1
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,April,2
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,April,3
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,April,4
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,April,5
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,April,6
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,April,7
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,April,8
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,9
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,10
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,11
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,12
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,13
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,14
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,15
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,16
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,17
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,18
+Mandarin,Kg,250.0,280.0,265.0,Spring,Fruit,2023,April,19
+Mandarin,Kg,250.0,280.0,265.0,Spring,Fruit,2023,April,20
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,21
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,22
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,23
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,24
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,25
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,26
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,27
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,April,28
+Mandarin,Kg,225.0,250.0,237.5,Spring,Fruit,2023,April,29
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,April,30
+Mandarin,Kg,250.0,260.0,255.0,Summer Monsoon,Fruit,2023,August,1
+Mandarin,Kg,250.0,260.0,255.0,Summer Monsoon,Fruit,2023,August,2
+Mandarin,Kg,250.0,260.0,255.0,Summer Monsoon,Fruit,2023,August,3
+Mandarin,Kg,220.0,250.0,235.0,Summer Monsoon,Fruit,2023,August,4
+Mandarin,Kg,220.0,250.0,235.0,Summer Monsoon,Fruit,2023,August,5
+Mandarin,Kg,220.0,260.0,240.0,Summer Monsoon,Fruit,2023,August,6
+Mandarin,Kg,250.0,260.0,255.0,Summer Monsoon,Fruit,2023,August,7
+Mandarin,Kg,220.0,250.0,235.0,Summer Monsoon,Fruit,2023,August,8
+Mandarin,Kg,300.0,320.0,310.0,Summer Monsoon,Fruit,2023,August,9
+Mandarin,Kg,300.0,320.0,310.0,Summer Monsoon,Fruit,2023,August,10
+Mandarin,Kg,300.0,320.0,310.0,Summer Monsoon,Fruit,2023,August,11
+Mandarin,Kg,300.0,320.0,310.0,Summer Monsoon,Fruit,2023,August,12
+Mandarin,Kg,300.0,320.0,310.0,Summer Monsoon,Fruit,2023,August,13
+Mandarin,Kg,300.0,350.0,325.0,Summer Monsoon,Fruit,2023,August,14
+Mandarin,Kg,300.0,320.0,310.0,Summer Monsoon,Fruit,2023,August,15
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,August,16
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,August,17
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,August,18
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,August,19
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,August,20
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,August,21
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,August,22
+Mandarin,Kg,320.0,350.0,340.0,Summer Monsoon,Fruit,2023,August,23
+Mandarin,Kg,300.0,350.0,325.0,Summer Monsoon,Fruit,2023,August,24
+Mandarin,Kg,300.0,350.0,325.0,Summer Monsoon,Fruit,2023,August,25
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,August,26
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,August,27
+Mandarin,Kg,300.0,350.0,325.0,Summer Monsoon,Fruit,2023,August,28
+Mandarin,Kg,300.0,350.0,325.0,Summer Monsoon,Fruit,2023,August,29
+Mandarin,Kg,300.0,350.0,325.0,Summer Monsoon,Fruit,2023,August,30
+Mandarin,Kg,300.0,350.0,325.0,Summer Monsoon,Fruit,2023,August,31
+Mandarin,Kg,250.0,280.0,263.33,Winter,Fruit,2023,February,1
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2023,February,2
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2023,February,3
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2023,February,4
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2023,February,5
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2023,February,6
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2023,February,7
+Mandarin,Kg,250.0,270.0,260.0,Winter,Fruit,2023,February,8
+Mandarin,Kg,250.0,260.0,255.0,Winter,Fruit,2023,February,9
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2023,February,10
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2023,February,11
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2023,February,12
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2023,February,13
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2023,February,14
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,February,15
+Mandarin,Kg,250.0,260.0,255.0,Winter,Fruit,2023,February,16
+Mandarin,Kg,250.0,260.0,255.0,Winter,Fruit,2023,February,17
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2023,February,18
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2023,February,19
+Mandarin,Kg,240.0,260.0,250.0,Winter,Fruit,2023,February,20
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,February,21
+Mandarin,Kg,220.0,250.0,236.67,Winter,Fruit,2023,February,22
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,February,23
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,February,24
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,February,25
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,February,26
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,February,27
+Mandarin,Kg,150.0,180.0,170.0,Winter,Fruit,2023,February,28
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2023,January,1
+Mandarin,Kg,220.0,250.0,240.0,Late Autumn,Fruit,2023,January,2
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2023,January,3
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2023,January,4
+Mandarin,Kg,220.0,250.0,240.0,Late Autumn,Fruit,2023,January,5
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2023,January,6
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2023,January,7
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2023,January,8
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2023,January,9
+Mandarin,Kg,220.0,250.0,240.0,Late Autumn,Fruit,2023,January,10
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2023,January,11
+Mandarin,Kg,220.0,250.0,240.0,Late Autumn,Fruit,2023,January,12
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2023,January,13
+Mandarin,Kg,220.0,250.0,235.0,Late Autumn,Fruit,2023,January,14
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,January,15
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,January,16
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,January,17
+Mandarin,Kg,220.0,250.0,240.0,Winter,Fruit,2023,January,18
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,January,19
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,January,20
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,January,21
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,January,22
+Mandarin,Kg,220.0,250.0,240.0,Winter,Fruit,2023,January,23
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,January,24
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,January,25
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,January,26
+Mandarin,Kg,220.0,250.0,240.0,Winter,Fruit,2023,January,27
+Mandarin,Kg,220.0,250.0,240.0,Winter,Fruit,2023,January,28
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,January,29
+Mandarin,Kg,220.0,250.0,240.0,Winter,Fruit,2023,January,30
+Mandarin,Kg,250.0,280.0,265.0,Winter,Fruit,2023,January,31
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,July,1
+Mandarin,Kg,220.0,250.0,235.0,Early Summer,Fruit,2023,July,3
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,July,4
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,July,5
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,July,6
+Mandarin,Kg,220.0,250.0,235.0,Early Summer,Fruit,2023,July,7
+Mandarin,Kg,220.0,250.0,235.0,Early Summer,Fruit,2023,July,8
+Mandarin,Kg,220.0,250.0,235.0,Early Summer,Fruit,2023,July,9
+Mandarin,Kg,220.0,250.0,235.0,Early Summer,Fruit,2023,July,10
+Mandarin,Kg,220.0,250.0,235.0,Early Summer,Fruit,2023,July,11
+Mandarin,Kg,220.0,250.0,235.0,Early Summer,Fruit,2023,July,12
+Mandarin,Kg,220.0,250.0,235.0,Early Summer,Fruit,2023,July,14
+Mandarin,Kg,220.0,250.0,235.0,Summer Monsoon,Fruit,2023,July,15
+Mandarin,Kg,220.0,250.0,235.0,Summer Monsoon,Fruit,2023,July,16
+Mandarin,Kg,220.0,250.0,235.0,Summer Monsoon,Fruit,2023,July,17
+Mandarin,Kg,220.0,250.0,235.0,Summer Monsoon,Fruit,2023,July,18
+Mandarin,Kg,220.0,250.0,235.0,Summer Monsoon,Fruit,2023,July,19
+Mandarin,Kg,220.0,250.0,240.0,Summer Monsoon,Fruit,2023,July,20
+Mandarin,Kg,250.0,260.0,255.0,Summer Monsoon,Fruit,2023,July,21
+Mandarin,Kg,250.0,260.0,255.0,Summer Monsoon,Fruit,2023,July,22
+Mandarin,Kg,250.0,260.0,255.0,Summer Monsoon,Fruit,2023,July,23
+Mandarin,Kg,250.0,260.0,255.0,Summer Monsoon,Fruit,2023,July,24
+Mandarin,Kg,250.0,260.0,256.67,Summer Monsoon,Fruit,2023,July,25
+Mandarin,Kg,250.0,260.0,255.0,Summer Monsoon,Fruit,2023,July,26
+Mandarin,Kg,250.0,260.0,255.0,Summer Monsoon,Fruit,2023,July,27
+Mandarin,Kg,250.0,280.0,265.0,Summer Monsoon,Fruit,2023,July,28
+Mandarin,Kg,250.0,260.0,255.0,Summer Monsoon,Fruit,2023,July,29
+Mandarin,Kg,250.0,260.0,255.0,Summer Monsoon,Fruit,2023,July,30
+Mandarin,Kg,250.0,260.0,255.0,Summer Monsoon,Fruit,2023,July,31
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,1
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,2
+Mandarin,Kg,200.0,250.0,225.0,Early Summer,Fruit,2023,June,3
+Mandarin,Kg,200.0,250.0,225.0,Early Summer,Fruit,2023,June,4
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,5
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,6
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,7
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,8
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,9
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,10
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,11
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,12
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,13
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,14
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,15
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,16
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,17
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,18
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,19
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,20
+Mandarin,Kg,200.0,210.0,205.0,Early Summer,Fruit,2023,June,21
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,22
+Mandarin,Kg,200.0,250.0,225.0,Early Summer,Fruit,2023,June,23
+Mandarin,Kg,220.0,250.0,235.0,Early Summer,Fruit,2023,June,24
+Mandarin,Kg,220.0,250.0,235.0,Early Summer,Fruit,2023,June,25
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,26
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,27
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,28
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,29
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,June,30
+Mandarin,Kg,150.0,180.0,165.0,Winter,Fruit,2023,March,1
+Mandarin,Kg,150.0,180.0,165.0,Winter,Fruit,2023,March,2
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,March,3
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,March,5
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,March,6
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,March,7
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,March,8
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,March,9
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,March,10
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,March,11
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,March,12
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,March,13
+Mandarin,Kg,220.0,250.0,235.0,Winter,Fruit,2023,March,14
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,March,16
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,March,17
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,March,18
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,March,19
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,March,20
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,March,21
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,March,22
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,March,23
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,March,24
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,March,25
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,March,26
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,March,27
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,March,28
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,March,29
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,March,30
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,March,31
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,May,1
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,May,2
+Mandarin,Kg,220.0,250.0,235.0,Spring,Fruit,2023,May,3
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2023,May,4
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2023,May,5
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2023,May,6
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2023,May,7
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2023,May,8
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2023,May,9
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2023,May,10
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2023,May,11
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2023,May,12
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2023,May,13
+Mandarin,Kg,200.0,220.0,210.0,Spring,Fruit,2023,May,14
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,May,15
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,May,16
+Mandarin,Kg,180.0,200.0,193.33,Early Summer,Fruit,2023,May,17
+Mandarin,Kg,180.0,200.0,193.33,Early Summer,Fruit,2023,May,18
+Mandarin,Kg,180.0,200.0,190.0,Early Summer,Fruit,2023,May,19
+Mandarin,Kg,180.0,200.0,193.33,Early Summer,Fruit,2023,May,20
+Mandarin,Kg,180.0,200.0,190.0,Early Summer,Fruit,2023,May,21
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,May,22
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,May,23
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,May,24
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,May,25
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,May,26
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,May,27
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,May,28
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,May,29
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,May,30
+Mandarin,Kg,200.0,220.0,210.0,Early Summer,Fruit,2023,May,31
+Mandarin,Kg,300.0,350.0,325.0,Summer Monsoon,Fruit,2023,September,1
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,September,2
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,September,3
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,September,4
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,September,5
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,September,6
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,September,7
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,September,8
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,September,9
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,September,10
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,September,11
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,September,12
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,September,13
+Mandarin,Kg,320.0,350.0,335.0,Summer Monsoon,Fruit,2023,September,14
+Mandarin,Kg,320.0,350.0,335.0,Early Autumn,Fruit,2023,September,15
+Mandarin,Kg,320.0,350.0,335.0,Early Autumn,Fruit,2023,September,16
+Mandarin,Kg,320.0,350.0,335.0,Early Autumn,Fruit,2023,September,17
+Mandarin,Kg,320.0,350.0,335.0,Early Autumn,Fruit,2023,September,18
+Mandarin,Kg,320.0,350.0,335.0,Early Autumn,Fruit,2023,September,19
+Mandarin,Kg,320.0,350.0,335.0,Early Autumn,Fruit,2023,September,20
+Mandarin,Kg,320.0,350.0,340.0,Early Autumn,Fruit,2023,September,21
+Mandarin,Kg,320.0,350.0,335.0,Early Autumn,Fruit,2023,September,22
+Mandarin,Kg,320.0,350.0,340.0,Early Autumn,Fruit,2023,September,23
+Mandarin,Kg,320.0,350.0,335.0,Early Autumn,Fruit,2023,September,24
+Mandarin,Kg,320.0,350.0,335.0,Early Autumn,Fruit,2023,September,25
+Mandarin,Kg,320.0,350.0,335.0,Early Autumn,Fruit,2023,September,26
+Mandarin,Kg,320.0,350.0,335.0,Early Autumn,Fruit,2023,September,27
+Mandarin,Kg,320.0,350.0,335.0,Early Autumn,Fruit,2023,September,28

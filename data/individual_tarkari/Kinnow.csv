@@ -1,0 +1,590 @@
+Commodity,Unit,Minimum,Maximum,Average,Season,Category,Year,Month,Day
+Kinnow,Kg,60.0,65.0,62.5,Spring,Fruit,2014,April,1
+Kinnow,Kg,60.0,65.0,62.5,Spring,Fruit,2014,April,2
+Kinnow,Kg,60.0,65.0,62.5,Spring,Fruit,2014,April,3
+Kinnow,Kg,65.0,70.0,67.5,Spring,Fruit,2014,April,4
+Kinnow,Kg,65.0,70.0,67.5,Spring,Fruit,2014,April,6
+Kinnow,Kg,65.0,70.0,67.5,Spring,Fruit,2014,April,7
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2014,April,9
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2014,April,10
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2014,April,11
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2014,April,13
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2014,April,15
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2014,April,16
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2014,April,17
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2014,April,18
+Kinnow,Kg,80.0,90.0,85.0,Spring,Fruit,2014,April,25
+Kinnow,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2014,December,26
+Kinnow,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2014,December,27
+Kinnow,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2014,December,28
+Kinnow,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2014,December,29
+Kinnow,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2014,December,30
+Kinnow,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2014,December,31
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,February,2
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,February,3
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,February,4
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,February,5
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,February,6
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,February,7
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,February,9
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,February,10
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,February,11
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,February,12
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,February,13
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,February,14
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2014,February,16
+Kinnow,Kg,50.0,55.0,52.5,Winter,Fruit,2014,February,17
+Kinnow,Kg,50.0,55.0,52.5,Winter,Fruit,2014,February,18
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,February,20
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2014,February,21
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2014,February,23
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2014,February,24
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2014,February,25
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2014,February,26
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2014,February,28
+Kinnow,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2014,January,7
+Kinnow,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2014,January,8
+Kinnow,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2014,January,9
+Kinnow,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2014,January,10
+Kinnow,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2014,January,12
+Kinnow,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2014,January,13
+Kinnow,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2014,January,14
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,January,16
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,January,17
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,January,19
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,January,20
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,January,21
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,January,22
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,January,23
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,January,24
+Kinnow,Kg,50.0,55.0,52.5,Winter,Fruit,2014,January,26
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2014,January,27
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,January,28
+Kinnow,Kg,45.0,50.0,47.5,Winter,Fruit,2014,January,29
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2014,March,3
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2014,March,5
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2014,March,6
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2014,March,7
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2014,March,9
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2014,March,10
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2014,March,11
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2014,March,12
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2014,March,13
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2014,March,14
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2014,March,17
+Kinnow,Kg,55.0,60.0,57.5,Spring,Fruit,2014,March,18
+Kinnow,Kg,55.0,60.0,57.5,Spring,Fruit,2014,March,19
+Kinnow,Kg,55.0,60.0,57.5,Spring,Fruit,2014,March,20
+Kinnow,Kg,55.0,60.0,57.5,Spring,Fruit,2014,March,21
+Kinnow,Kg,55.0,60.0,57.5,Spring,Fruit,2014,March,23
+Kinnow,Kg,55.0,60.0,57.5,Spring,Fruit,2014,March,24
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2014,March,25
+Kinnow,Kg,55.0,60.0,57.5,Spring,Fruit,2014,March,26
+Kinnow,Kg,55.0,60.0,57.5,Spring,Fruit,2014,March,27
+Kinnow,Kg,55.0,60.0,57.5,Spring,Fruit,2014,March,28
+Kinnow,Kg,60.0,65.0,62.5,Spring,Fruit,2014,March,31
+Kinnow,Kg,60.0,65.0,62.5,Spring,Fruit,2015,April,1
+Kinnow,Kg,40.0,45.0,42.5,Spring,Fruit,2015,April,2
+Kinnow,Kg,70.0,80.0,75.0,Spring,Fruit,2015,April,3
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2015,April,4
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2015,April,5
+Kinnow,Kg,70.0,80.0,75.0,Spring,Fruit,2015,April,6
+Kinnow,Kg,40.0,50.0,45.0,Spring,Fruit,2015,April,7
+Kinnow,Kg,70.0,80.0,75.0,Spring,Fruit,2015,April,8
+Kinnow,Kg,70.0,80.0,75.0,Spring,Fruit,2015,April,10
+Kinnow,Kg,70.0,75.0,72.5,Spring,Fruit,2015,April,12
+Kinnow,Kg,70.0,75.0,72.5,Spring,Fruit,2015,April,13
+Kinnow,Kg,70.0,80.0,75.0,Spring,Fruit,2015,April,14
+Kinnow,Kg,70.0,80.0,75.0,Spring,Fruit,2015,April,15
+Kinnow,Kg,70.0,80.0,75.0,Spring,Fruit,2015,April,16
+Kinnow,Kg,70.0,80.0,75.0,Spring,Fruit,2015,April,17
+Kinnow,Kg,70.0,85.0,77.5,Spring,Fruit,2015,April,18
+Kinnow,Kg,40.0,45.0,42.5,Spring,Fruit,2015,April,19
+Kinnow,Kg,40.0,45.0,42.5,Spring,Fruit,2015,April,20
+Kinnow,Kg,40.0,50.0,45.0,Spring,Fruit,2015,April,21
+Kinnow,Kg,40.0,45.0,42.5,Spring,Fruit,2015,April,22
+Kinnow,Kg,40.0,45.0,42.5,Spring,Fruit,2015,April,23
+Kinnow,Kg,40.0,50.0,45.0,Spring,Fruit,2015,April,26
+Kinnow,Kg,40.0,50.0,45.0,Spring,Fruit,2015,April,27
+Kinnow,Kg,50.0,60.0,55.0,Spring,Fruit,2015,April,28
+Kinnow,Kg,40.0,45.0,42.5,Spring,Fruit,2015,April,29
+Kinnow,Kg,40.0,45.0,42.5,Spring,Fruit,2015,April,30
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,1
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,2
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,3
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,4
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,6
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,7
+Kinnow,Kg,60.0,70.0,65.0,Winter,Fruit,2015,February,8
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,9
+Kinnow,Kg,60.0,70.0,65.0,Winter,Fruit,2015,February,10
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,11
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,12
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,13
+Kinnow,Kg,60.0,70.0,65.0,Winter,Fruit,2015,February,14
+Kinnow,Kg,60.0,70.0,65.0,Winter,Fruit,2015,February,15
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,16
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,18
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,19
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,20
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,22
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,23
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2015,February,24
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,25
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,26
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,27
+Kinnow,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2015,January,1
+Kinnow,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,January,2
+Kinnow,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,January,3
+Kinnow,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,January,4
+Kinnow,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,January,5
+Kinnow,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,January,6
+Kinnow,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,January,7
+Kinnow,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,January,8
+Kinnow,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,January,9
+Kinnow,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,January,11
+Kinnow,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,January,12
+Kinnow,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2015,January,13
+Kinnow,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2015,January,14
+Kinnow,Kg,60.0,70.0,65.0,Winter,Fruit,2015,January,15
+Kinnow,Kg,60.0,70.0,65.0,Winter,Fruit,2015,January,16
+Kinnow,Kg,60.0,70.0,65.0,Winter,Fruit,2015,January,17
+Kinnow,Kg,60.0,70.0,65.0,Winter,Fruit,2015,January,18
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,January,19
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,January,20
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,January,21
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,January,22
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,January,23
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,January,25
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,January,26
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,January,27
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,January,28
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,January,29
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,January,31
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,March,1
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,March,2
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,March,3
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,March,6
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,March,9
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,March,10
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,March,11
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,March,12
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,March,13
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2015,March,14
+Kinnow,Kg,50.0,60.0,55.0,Spring,Fruit,2015,March,16
+Kinnow,Kg,50.0,55.0,52.5,Spring,Fruit,2015,March,17
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2015,March,18
+Kinnow,Kg,55.0,60.0,57.5,Spring,Fruit,2015,March,19
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2015,March,20
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2015,March,21
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2015,March,22
+Kinnow,Kg,60.0,65.0,62.5,Spring,Fruit,2015,March,23
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2015,March,24
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2015,March,25
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2015,March,26
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2015,March,27
+Kinnow,Kg,60.0,65.0,62.5,Spring,Fruit,2015,March,28
+Kinnow,Kg,60.0,65.0,62.5,Spring,Fruit,2015,March,29
+Kinnow,Kg,60.0,65.0,62.5,Spring,Fruit,2015,March,30
+Kinnow,Kg,60.0,70.0,65.0,Spring,Fruit,2015,March,31
+Kinnow,Kg,40.0,45.0,42.5,Spring,Fruit,2015,May,3
+Kinnow,Kg,40.0,45.0,42.5,Spring,Fruit,2015,May,4
+Kinnow,Kg,50.0,60.0,55.0,Spring,Fruit,2015,May,5
+Kinnow,Kg,50.0,60.0,55.0,Spring,Fruit,2015,May,6
+Kinnow,Kg,50.0,60.0,55.0,Spring,Fruit,2015,May,7
+Kinnow,Kg,40.0,45.0,42.5,Spring,Fruit,2015,May,8
+Kinnow,Kg,50.0,55.0,52.5,Spring,Fruit,2015,May,10
+Kinnow,Kg,50.0,60.0,55.0,Spring,Fruit,2015,May,11
+Kinnow,Kg,40.0,45.0,42.5,Spring,Fruit,2015,May,12
+Kinnow,Kg,50.0,60.0,55.0,Spring,Fruit,2015,May,13
+Kinnow,Kg,50.0,60.0,55.0,Spring,Fruit,2015,May,14
+Kinnow,Kg,50.0,60.0,55.0,Early Summer,Fruit,2015,May,15
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2016,February,9
+Kinnow,Kg,60.0,70.0,65.0,Winter,Fruit,2016,March,7
+Kinnow,Kg,55.0,60.0,57.5,Winter,Fruit,2016,March,8
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,3
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,4
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,5
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,7
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,8
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,9
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,10
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,11
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,12
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,13
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,14
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,15
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,16
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,17
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,18
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,19
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,20
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,21
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2020,December,22
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2020,December,23
+Kinnow,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,December,24
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2020,December,25
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2020,December,26
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2020,December,27
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2020,December,28
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2020,December,29
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2020,December,30
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2020,December,31
+Kinnow,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2020,November,8
+Kinnow,Kg,180.0,190.0,185.0,Late Autumn,Fruit,2020,November,21
+Kinnow,Kg,160.0,170.0,165.0,Spring,Fruit,2021,April,6
+Kinnow,Kg,160.0,170.0,165.0,Spring,Fruit,2021,April,7
+Kinnow,Kg,160.0,170.0,165.0,Spring,Fruit,2021,April,8
+Kinnow,Kg,160.0,170.0,165.0,Spring,Fruit,2021,April,9
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2021,December,7
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2021,December,10
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2021,December,11
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2021,December,12
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2021,December,14
+Kinnow,Kg,120.0,140.0,130.0,Late Autumn,Fruit,2021,December,15
+Kinnow,Kg,120.0,140.0,130.0,Late Autumn,Fruit,2021,December,16
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2021,December,18
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2021,December,19
+Kinnow,Kg,120.0,140.0,130.0,Late Autumn,Fruit,2021,December,20
+Kinnow,Kg,120.0,140.0,130.0,Late Autumn,Fruit,2021,December,21
+Kinnow,Kg,120.0,140.0,130.0,Late Autumn,Fruit,2021,December,22
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2021,December,23
+Kinnow,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,December,24
+Kinnow,Kg,120.0,140.0,130.0,Late Autumn,Fruit,2021,December,25
+Kinnow,Kg,120.0,140.0,130.0,Late Autumn,Fruit,2021,December,26
+Kinnow,Kg,120.0,140.0,130.0,Late Autumn,Fruit,2021,December,27
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2021,December,28
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2021,December,29
+Kinnow,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2021,December,30
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2021,December,31
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,1
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,2
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,3
+Kinnow,Kg,60.0,70.0,65.0,Winter,Fruit,2021,February,4
+Kinnow,Kg,60.0,70.0,65.0,Winter,Fruit,2021,February,5
+Kinnow,Kg,60.0,70.0,65.0,Winter,Fruit,2021,February,6
+Kinnow,Kg,60.0,70.0,65.0,Winter,Fruit,2021,February,7
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,8
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,9
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,10
+Kinnow,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,11
+Kinnow,Kg,60.0,70.0,65.0,Winter,Fruit,2021,February,12
+Kinnow,Kg,60.0,70.0,65.0,Winter,Fruit,2021,February,13
+Kinnow,Kg,60.0,70.0,65.0,Winter,Fruit,2021,February,14
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,15
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,16
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,17
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,18
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,19
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,20
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,21
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,22
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,23
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,24
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,25
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,26
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,27
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,February,28
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,January,1
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,January,2
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,January,3
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,January,4
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,January,5
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,January,6
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,January,7
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,January,8
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,January,9
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,January,10
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,January,11
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,January,12
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,January,13
+Kinnow,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,January,14
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,15
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,16
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,17
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,18
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,19
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,20
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,21
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,22
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,23
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,24
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,25
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,26
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,27
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,28
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,29
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,30
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,January,31
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,March,1
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,March,2
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,March,3
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,March,5
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,March,6
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,March,7
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,March,8
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,March,9
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,March,10
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,March,11
+Kinnow,Kg,70.0,80.0,75.0,Winter,Fruit,2021,March,12
+Kinnow,Kg,80.0,90.0,85.0,Winter,Fruit,2021,March,13
+Kinnow,Kg,80.0,90.0,85.0,Winter,Fruit,2021,March,14
+Kinnow,Kg,80.0,90.0,85.0,Spring,Fruit,2021,March,15
+Kinnow,Kg,80.0,90.0,85.0,Spring,Fruit,2021,March,16
+Kinnow,Kg,70.0,80.0,75.0,Spring,Fruit,2021,March,17
+Kinnow,Kg,70.0,80.0,75.0,Spring,Fruit,2021,March,18
+Kinnow,Kg,100.0,110.0,105.0,Spring,Fruit,2021,March,19
+Kinnow,Kg,100.0,110.0,105.0,Spring,Fruit,2021,March,20
+Kinnow,Kg,100.0,110.0,105.0,Spring,Fruit,2021,March,21
+Kinnow,Kg,100.0,110.0,105.0,Spring,Fruit,2021,March,22
+Kinnow,Kg,100.0,110.0,105.0,Spring,Fruit,2021,March,23
+Kinnow,Kg,100.0,110.0,105.0,Spring,Fruit,2021,March,24
+Kinnow,Kg,100.0,110.0,105.0,Spring,Fruit,2021,March,25
+Kinnow,Kg,120.0,130.0,125.0,Spring,Fruit,2021,March,26
+Kinnow,Kg,120.0,130.0,125.0,Spring,Fruit,2021,March,27
+Kinnow,Kg,120.0,130.0,125.0,Spring,Fruit,2021,March,28
+Kinnow,Kg,120.0,130.0,125.0,Spring,Fruit,2021,March,29
+Kinnow,Kg,120.0,130.0,125.0,Spring,Fruit,2021,March,30
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,April,1
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,April,2
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,April,3
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,April,4
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,April,5
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,April,6
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,April,7
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,April,8
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,April,9
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,April,10
+Kinnow,Kg,150.0,180.0,165.0,Spring,Fruit,2022,April,11
+Kinnow,Kg,150.0,200.0,175.0,Spring,Fruit,2022,April,12
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,April,13
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,April,14
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,April,15
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,April,16
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,April,17
+Kinnow,Kg,140.0,160.0,150.0,Late Autumn,Fruit,2022,December,20
+Kinnow,Kg,150.0,160.0,156.67,Late Autumn,Fruit,2022,December,21
+Kinnow,Kg,140.0,160.0,150.0,Late Autumn,Fruit,2022,December,22
+Kinnow,Kg,150.0,160.0,155.0,Late Autumn,Fruit,2022,December,23
+Kinnow,Kg,140.0,160.0,150.0,Late Autumn,Fruit,2022,December,24
+Kinnow,Kg,140.0,160.0,150.0,Late Autumn,Fruit,2022,December,25
+Kinnow,Kg,150.0,160.0,156.67,Late Autumn,Fruit,2022,December,26
+Kinnow,Kg,140.0,160.0,150.0,Late Autumn,Fruit,2022,December,27
+Kinnow,Kg,150.0,160.0,156.67,Late Autumn,Fruit,2022,December,28
+Kinnow,Kg,150.0,160.0,156.67,Late Autumn,Fruit,2022,December,29
+Kinnow,Kg,150.0,160.0,155.0,Late Autumn,Fruit,2022,December,30
+Kinnow,Kg,150.0,160.0,155.0,Late Autumn,Fruit,2022,December,31
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,1
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,2
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,3
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,4
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,5
+Kinnow,Kg,110.0,120.0,115.0,Winter,Fruit,2022,February,6
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,7
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,8
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,9
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,10
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,11
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,12
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,13
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,14
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,15
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,16
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,17
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,18
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,19
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,20
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,21
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,22
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,23
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,25
+Kinnow,Kg,110.0,120.0,115.0,Winter,Fruit,2022,February,27
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,February,28
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2022,January,1
+Kinnow,Kg,130.0,150.0,140.0,Late Autumn,Fruit,2022,January,2
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2022,January,3
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2022,January,4
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2022,January,5
+Kinnow,Kg,120.0,140.0,130.0,Late Autumn,Fruit,2022,January,6
+Kinnow,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2022,January,7
+Kinnow,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2022,January,8
+Kinnow,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2022,January,9
+Kinnow,Kg,120.0,130.0,125.0,Late Autumn,Fruit,2022,January,10
+Kinnow,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2022,January,11
+Kinnow,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2022,January,12
+Kinnow,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2022,January,13
+Kinnow,Kg,100.0,120.0,110.0,Late Autumn,Fruit,2022,January,14
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,January,15
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,January,16
+Kinnow,Kg,110.0,130.0,120.0,Winter,Fruit,2022,January,17
+Kinnow,Kg,110.0,130.0,120.0,Winter,Fruit,2022,January,18
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,January,19
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,January,20
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,January,21
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,January,22
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,January,23
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,January,24
+Kinnow,Kg,110.0,130.0,120.0,Winter,Fruit,2022,January,25
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,January,26
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,January,27
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,January,28
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,January,29
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,January,30
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,January,31
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,March,1
+Kinnow,Kg,100.0,120.0,110.0,Winter,Fruit,2022,March,2
+Kinnow,Kg,110.0,120.0,115.0,Winter,Fruit,2022,March,3
+Kinnow,Kg,110.0,120.0,115.0,Winter,Fruit,2022,March,5
+Kinnow,Kg,110.0,120.0,115.0,Winter,Fruit,2022,March,6
+Kinnow,Kg,110.0,120.0,115.0,Winter,Fruit,2022,March,7
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2022,March,8
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2022,March,9
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2022,March,10
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2022,March,11
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2022,March,12
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2022,March,13
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2022,March,14
+Kinnow,Kg,130.0,150.0,140.0,Spring,Fruit,2022,March,15
+Kinnow,Kg,140.0,160.0,150.0,Spring,Fruit,2022,March,16
+Kinnow,Kg,140.0,150.0,145.0,Spring,Fruit,2022,March,17
+Kinnow,Kg,140.0,150.0,145.0,Spring,Fruit,2022,March,18
+Kinnow,Kg,130.0,150.0,140.0,Spring,Fruit,2022,March,19
+Kinnow,Kg,130.0,150.0,140.0,Spring,Fruit,2022,March,20
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,March,21
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,March,22
+Kinnow,Kg,150.0,170.0,160.0,Spring,Fruit,2022,March,23
+Kinnow,Kg,150.0,170.0,160.0,Spring,Fruit,2022,March,24
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,March,25
+Kinnow,Kg,150.0,170.0,160.0,Spring,Fruit,2022,March,26
+Kinnow,Kg,150.0,170.0,160.0,Spring,Fruit,2022,March,27
+Kinnow,Kg,150.0,170.0,160.0,Spring,Fruit,2022,March,28
+Kinnow,Kg,150.0,170.0,160.0,Spring,Fruit,2022,March,29
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,March,30
+Kinnow,Kg,150.0,160.0,155.0,Spring,Fruit,2022,March,31
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,1
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,2
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,3
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,4
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,5
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,6
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,7
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,8
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,9
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,10
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,11
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,12
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,13
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,14
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,15
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,16
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,17
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,18
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,19
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,20
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,21
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,22
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,23
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,24
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,25
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,26
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,27
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,28
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,29
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,April,30
+Kinnow,Kg,130.0,150.0,140.0,Winter,Fruit,2023,February,1
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,2
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,3
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,4
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,5
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,6
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,7
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,8
+Kinnow,Kg,130.0,150.0,140.0,Winter,Fruit,2023,February,9
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,10
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,11
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,12
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,13
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,14
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,15
+Kinnow,Kg,120.0,140.0,133.33,Winter,Fruit,2023,February,16
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,17
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,18
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,19
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,20
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,21
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,22
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,23
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,24
+Kinnow,Kg,120.0,140.0,127.5,Winter,Fruit,2023,February,25
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,26
+Kinnow,Kg,120.0,130.0,125.0,Winter,Fruit,2023,February,27
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,February,28
+Kinnow,Kg,150.0,160.0,155.0,Late Autumn,Fruit,2023,January,1
+Kinnow,Kg,120.0,130.0,126.67,Late Autumn,Fruit,2023,January,2
+Kinnow,Kg,110.0,120.0,116.67,Late Autumn,Fruit,2023,January,3
+Kinnow,Kg,120.0,140.0,130.0,Late Autumn,Fruit,2023,January,4
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2023,January,5
+Kinnow,Kg,110.0,130.0,120.0,Late Autumn,Fruit,2023,January,6
+Kinnow,Kg,120.0,150.0,130.0,Late Autumn,Fruit,2023,January,7
+Kinnow,Kg,120.0,150.0,135.0,Late Autumn,Fruit,2023,January,8
+Kinnow,Kg,110.0,120.0,116.67,Late Autumn,Fruit,2023,January,9
+Kinnow,Kg,110.0,130.0,120.0,Late Autumn,Fruit,2023,January,10
+Kinnow,Kg,110.0,120.0,116.67,Late Autumn,Fruit,2023,January,11
+Kinnow,Kg,110.0,130.0,120.0,Late Autumn,Fruit,2023,January,12
+Kinnow,Kg,110.0,130.0,120.0,Late Autumn,Fruit,2023,January,13
+Kinnow,Kg,110.0,120.0,116.67,Late Autumn,Fruit,2023,January,14
+Kinnow,Kg,110.0,120.0,116.67,Winter,Fruit,2023,January,15
+Kinnow,Kg,110.0,130.0,120.0,Winter,Fruit,2023,January,16
+Kinnow,Kg,110.0,130.0,120.0,Winter,Fruit,2023,January,17
+Kinnow,Kg,110.0,130.0,120.0,Winter,Fruit,2023,January,18
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,January,19
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,January,20
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,January,21
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,January,22
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,January,23
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,January,24
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,January,25
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,January,26
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,January,27
+Kinnow,Kg,130.0,150.0,137.5,Winter,Fruit,2023,January,28
+Kinnow,Kg,130.0,150.0,140.0,Winter,Fruit,2023,January,29
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,January,30
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,January,31
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,March,1
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,March,2
+Kinnow,Kg,110.0,130.0,120.0,Winter,Fruit,2023,March,3
+Kinnow,Kg,110.0,130.0,120.0,Winter,Fruit,2023,March,5
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,March,6
+Kinnow,Kg,120.0,130.0,126.67,Winter,Fruit,2023,March,7
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,March,8
+Kinnow,Kg,120.0,140.0,130.0,Winter,Fruit,2023,March,9
+Kinnow,Kg,130.0,150.0,140.0,Winter,Fruit,2023,March,10
+Kinnow,Kg,130.0,150.0,140.0,Winter,Fruit,2023,March,11
+Kinnow,Kg,130.0,150.0,140.0,Winter,Fruit,2023,March,12
+Kinnow,Kg,120.0,150.0,135.0,Winter,Fruit,2023,March,13
+Kinnow,Kg,120.0,150.0,135.0,Winter,Fruit,2023,March,14
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,March,15
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,March,16
+Kinnow,Kg,130.0,150.0,140.0,Spring,Fruit,2023,March,17
+Kinnow,Kg,130.0,150.0,140.0,Spring,Fruit,2023,March,18
+Kinnow,Kg,130.0,150.0,140.0,Spring,Fruit,2023,March,19
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,March,20
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,March,21
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,March,23
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,March,24
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,March,25
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,March,26
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,March,27
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,March,28
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,March,29
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,March,30
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,March,31
+Kinnow,Kg,120.0,150.0,140.0,Spring,Fruit,2023,May,1
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,May,2
+Kinnow,Kg,120.0,150.0,135.0,Spring,Fruit,2023,May,3
+Kinnow,Kg,140.0,150.0,146.67,Spring,Fruit,2023,May,4
+Kinnow,Kg,130.0,150.0,140.0,Spring,Fruit,2023,May,5
+Kinnow,Kg,120.0,140.0,130.0,Spring,Fruit,2023,May,6
+Kinnow,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,7
+Kinnow,Kg,140.0,150.0,145.0,Spring,Fruit,2023,May,8
+Kinnow,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,14
