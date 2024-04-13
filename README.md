@@ -8,7 +8,7 @@ Eg:
 
 ## Scripts:
 
-Activate venv
+Activate venv   
 ```shell
 source venv/Srcipts/activate
 ```
@@ -17,3 +17,10 @@ Add Requirements to requirements.txt
 ```shell
 pip freeze>requirements.txt
 ```
+
+Generate Migration Files automatically
+```shell
+alembic revision --autogenerate  -m "<migration_file_name>"
+```
+
+**Postgresql url format:**`DATABASE_URI = 'postgresql://postgres:<password>@localhost/<name_of_the_datbase>'`
