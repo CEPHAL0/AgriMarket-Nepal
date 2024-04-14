@@ -1,6 +1,6 @@
 from sqlalchemy import Column, Boolean, Integer, String
 from sqlalchemy.orm import relationship
-from . import UserSurplusBooking
+from .user_surplus_booking import UserSurplusBooking
 
 from config.database import Base
 

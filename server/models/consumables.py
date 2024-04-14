@@ -3,19 +3,12 @@ from sqlalchemy.orm import relationship
 
 from config.database import Base
 
-
-class ConsumableType(Enum):
-    FRUIT = 'fruit'
-    VEGETABLE = 'vegetable'
-    OTHER = 'other'
-
-
 class Consumables(Base):
     __tablename__ = "consumables"
 
     id = Column(Integer, primary_key=True, autoincrement=True)
     name = Column(String, index=True)
-    type = Column(Enum(ConsumableType))
+    type = Column(Enum('fruit', 'vegetable', 'other', name='consumable_types'), index=True)
 
     consumable_listing = relationship("ConsumableListing", back_populates="consumables")
     bookings = relationship("UserSurplusBooking", back_populates="consumables")
