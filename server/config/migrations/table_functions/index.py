@@ -4,4 +4,12 @@ from config.migrations.table_functions import (
     districts_table,
     consumables_table,
     consumable_listings_table,
+    surplus_listings_table,
+    user_surplus_bookings_table,
+    prices_table,
+    macro_types_table,
+    consumable_macros_table,
+    farmer_performances_table,
+    resources_table,
+    resource_images_table,
 )
