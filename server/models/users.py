@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Boolean, Integer, String
+from sqlalchemy import Column, Boolean, Integer, String, Enum
 from sqlalchemy.orm import relationship
 from .user_surplus_booking import UserSurplusBooking
 
@@ -14,12 +14,12 @@ class User(Base):
     email = Column(String, unique=True, index=True)
     password = Column(String)
     image = Column(String)
-    role = Column(String, index=True)
+    role = Column(Enum('ADMIN', 'FARMER', 'USER', name='consumable_types'), index=True)
     address = Column(String)
     phone = Column(String, unique=True, index=True)
 
     farmer_performance = relationship("FarmerPerformance", back_populates="user")
     resources = relationship("Resources", back_populates="author")
     consumable_listing = relationship("ConsumableListing", back_populates="user")
-    poster_bookings = relationship("UserSurplusBooking", foreign_keys=[UserSurplusBooking.poster_id], back_populates="poster")
-    booker_bookings = relationship("UserSurplusBooking", foreign_keys=[UserSurplusBooking.booker_id], back_populates="booker")
+    # poster_bookings = relationship("UserSurplusBooking", foreign_keys=[UserSurplusBooking.poster_id], back_populates="poster")
+    # booker_bookings = relationship("UserSurplusBooking", foreign_keys=[UserSurplusBooking.booker_id], back_populates="booker")

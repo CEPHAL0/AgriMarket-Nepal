@@ -8,7 +8,8 @@ class Consumables(Base):
 
     id = Column(Integer, primary_key=True, autoincrement=True)
     name = Column(String, index=True)
-    type = Column(Enum('fruit', 'vegetable', 'other', name='consumable_types'), index=True)
+    type = Column(Enum('FRUIT', 'VEGETABLE', 'DAIRY', 'OTHER', name='consumable_types'), index=True)
+    image_path = Column(String)
 
     consumable_listing = relationship("ConsumableListing", back_populates="consumables")
     bookings = relationship("UserSurplusBooking", back_populates="consumables")

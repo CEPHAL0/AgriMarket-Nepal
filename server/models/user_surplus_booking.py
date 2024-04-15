@@ -12,6 +12,6 @@ class UserSurplusBooking(Base):
     poster_id = Column(Integer, ForeignKey('users.id'))
     booker_id = Column(Integer, ForeignKey('users.id'))
 
-    consumable = relationship("Consumables", back_populates="bookings")
+    consumables = relationship("Consumables", back_populates="bookings")
     poster = relationship("User", foreign_keys=[poster_id], backref="poster_bookings")
     booker = relationship("User", foreign_keys=[booker_id], backref="booker_bookings")

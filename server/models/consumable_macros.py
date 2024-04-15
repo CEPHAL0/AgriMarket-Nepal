@@ -14,4 +14,4 @@ class ConsumableMacros(Base):
     quantity = Column(Float)
 
     consumables = relationship("Consumables", back_populates="consumable_macros")
-    macro = relationship("MacroTypes", back_populates="consumable_macros")
+    macro_types = relationship("MacroTypes", back_populates="consumable_macros")

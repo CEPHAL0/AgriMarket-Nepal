@@ -12,5 +12,5 @@ class Districts(Base):
     province_id = Column(Integer, ForeignKey('provinces.id'))
     ecological_region = Column(String)
 
-    province = relationship("Provinces", back_populates="districts")
+    provinces = relationship("Provinces", back_populates="districts")
     consumable_listing = relationship("ConsumableListing", back_populates="district")

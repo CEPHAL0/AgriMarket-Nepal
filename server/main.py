@@ -1,9 +1,13 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from config.database import SessionLocal, Base, engine
+from routes import consumables
 
 from models import index
+import sys
+import os
 
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 app = FastAPI()
 
@@ -34,3 +38,4 @@ async def root():
     return {"message": "Hello World"}
 
 
+app.include_router(consumables.router)
