@@ -8,7 +8,7 @@ from models import index
 app = FastAPI()
 
 
-Base.metadata.create_all(bind=engine)
+# Base.metadata.create_all(bind=engine)
 
 
 app.add_middleware(
@@ -32,5 +32,3 @@ def get_db():
 @app.get("/")
 async def root():
     return {"message": "Hello World"}
-
-

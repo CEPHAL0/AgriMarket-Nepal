@@ -1,6 +1,7 @@
 from sqlalchemy import Column, Boolean, Integer, String
 from sqlalchemy.orm import relationship
-from .user_surplus_booking import UserSurplusBooking
+
+# from .user_surplus_booking import UserSurplusBooking
 
 from config.database import Base
 
@@ -17,9 +18,18 @@ class User(Base):
     role = Column(String, index=True)
     address = Column(String)
     phone = Column(String, unique=True, index=True)
+    profession = Column(String, unique=False, index=True)
 
-    farmer_performance = relationship("FarmerPerformance", back_populates="user")
-    resources = relationship("Resources", back_populates="author")
-    consumable_listing = relationship("ConsumableListing", back_populates="user")
-    poster_bookings = relationship("UserSurplusBooking", foreign_keys=[UserSurplusBooking.poster_id], back_populates="poster")
-    booker_bookings = relationship("UserSurplusBooking", foreign_keys=[UserSurplusBooking.booker_id], back_populates="booker")
+    # farmer_performance = relationship("FarmerPerformance", back_populates="user")
+    # resources = relationship("Resources", back_populates="author")
+    # consumable_listing = relationship("ConsumableListing", back_populates="user")
+    # poster_bookings = relationship(
+    #     "UserSurplusBooking",
+    #     foreign_keys=[UserSurplusBooking.poster_id],
+    #     back_populates="poster",
+    # )
+    # booker_bookings = relationship(
+    #     "UserSurplusBooking",
+    #     foreign_keys=[UserSurplusBooking.booker_id],
+    #     back_populates="booker",
+    # )
