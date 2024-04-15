@@ -66,3 +66,17 @@ alembic revision --autogenerate -m "Inital Setup"
 ### *Before doing some changes, you can delete the alembic_versions and other tables before generating migration files again*
 
 **Postgresql url format:**`DATABASE_URI = 'postgresql://postgres:<password>@localhost/<name_of_the_datbase>'`
+
+### Utility Commands
+
+1. Change Directory to server, activate python environment and remove all pycache server
+
+    ```shell
+    source backend.sh
+    ```
+
+2. Remove all pycache folder (*you need to be inside server folder to execute this*)
+
+    ```shell
+    source remove_pycache.sh
+    ```
