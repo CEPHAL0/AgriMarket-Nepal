@@ -31,7 +31,19 @@ Run migrations
 alembic upgrade head
 ```
 
-Run backed
+Roll back migrations to initial state
+
+```shell
+alembic downgrade base
+```
+
+Roll back migration to certain state: (For example, if you want to downgrade 00fc then you have to use alembic downgrade <version before 00fc>)
+
+```shell
+alembic downgrade <versionNumber>
+```
+
+Run backend
 
 ```shell
 uvicorn main:app --host <host> --port <portnumber> --reload
