@@ -1,5 +1,6 @@
-from sqlalchemy import Column, Boolean, Integer, String, ForeignKey
+from sqlalchemy import Column, Boolean, Integer, String, ForeignKey, DateTime
 from sqlalchemy.orm import relationship
+from datetime import datetime
 
 from config.database import Base
 
@@ -11,6 +12,8 @@ class UserSurplusBooking(Base):
     consumable_id = Column(Integer, ForeignKey('consumables.id'))
     poster_id = Column(Integer, ForeignKey('users.id'))
     booker_id = Column(Integer, ForeignKey('users.id'))
+    created_at = Column(DateTime, default=datetime.now(), nullable=False)
+    updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
     consumables = relationship("Consumables", back_populates="bookings")
     poster = relationship("User", foreign_keys=[poster_id], backref="poster_bookings")

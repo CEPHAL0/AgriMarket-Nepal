@@ -1,5 +1,6 @@
-from sqlalchemy import Column, Boolean, Integer, String, Enum
+from sqlalchemy import Column, Boolean, Integer, String, Enum, DateTime
 from sqlalchemy.orm import relationship
+from datetime import datetime
 
 # from .user_surplus_booking import UserSurplusBooking
 
@@ -19,6 +20,8 @@ class User(Base):
     address = Column(String)
     phone = Column(String, unique=True, index=True)
     profession = Column(String, unique=False, index=True)
+    created_at = Column(DateTime, default=datetime.now(), nullable=False)
+    updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
     farmer_performance = relationship("FarmerPerformance", back_populates="user")
     resources = relationship("Resources", back_populates="author")

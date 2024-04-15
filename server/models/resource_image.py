@@ -5,15 +5,14 @@ from datetime import datetime
 from config.database import Base
 
 
-class Districts(Base):
-    __tablename__ = "districts"
+class ResourceImage(Base):
+    __tablename__ = "resource_image"
 
     id = Column(Integer, primary_key=True, autoincrement=True)
-    name = Column(String, index=True)
-    province_id = Column(Integer, ForeignKey('provinces.id'))
-    ecological_region = Column(String)
+    resource_id = Column(Integer, ForeignKey('resources.id'), nullable=False)
+    image_path = Column(String)
+    order = Column(Integer, nullable=False)
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
-    provinces = relationship("Provinces", back_populates="districts")
-    consumable_listing = relationship("ConsumableListing", back_populates="district")
+    resource = relationship("Resources", back_populates="resource_image")

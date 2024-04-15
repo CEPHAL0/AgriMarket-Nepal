@@ -5,15 +5,13 @@ from datetime import datetime
 from config.database import Base
 
 
-class Districts(Base):
-    __tablename__ = "districts"
+class FarmerPerformance(Base):
+    __tablename__ = "farmer_performance"
 
     id = Column(Integer, primary_key=True, autoincrement=True)
-    name = Column(String, index=True)
-    province_id = Column(Integer, ForeignKey('provinces.id'))
-    ecological_region = Column(String)
+    farmer_id = Column(Integer, ForeignKey('users.id'), nullable=False)
+    performance = Column(Integer, nullable=False)
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
-    provinces = relationship("Provinces", back_populates="districts")
-    consumable_listing = relationship("ConsumableListing", back_populates="district")
+    user = relationship("User", back_populates="farmer_performance")

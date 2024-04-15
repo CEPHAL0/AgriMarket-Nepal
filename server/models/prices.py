@@ -5,15 +5,13 @@ from datetime import datetime
 from config.database import Base
 
 
-class ConsumableMacros(Base):
-    __tablename__ = "consumable_macros"
+class Prices(Base):
+    __tablename__ = "prices"
 
     id = Column(Integer, primary_key=True, autoincrement=True)
     consumable_id = Column(Integer, ForeignKey('consumables.id'), nullable=False)
-    macro_type_id = Column(Integer, ForeignKey('macro_types.id'), nullable=False)
-    quantity = Column(Float, nullable=False)
+    price = Column(Float, nullable=False) 
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
-    consumables = relationship("Consumables", back_populates="consumable_macros")
-    macro_types = relationship("MacroTypes", back_populates="consumable_macros")
+    consumables = relationship("Consumables", back_populates="prices")
