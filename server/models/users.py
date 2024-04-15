@@ -1,6 +1,7 @@
 from sqlalchemy import Column, Boolean, Integer, String, Enum
 from sqlalchemy.orm import relationship
-from .user_surplus_booking import UserSurplusBooking
+
+# from .user_surplus_booking import UserSurplusBooking
 
 from config.database import Base
 
@@ -17,6 +18,7 @@ class User(Base):
     role = Column(Enum('ADMIN', 'FARMER', 'USER', name='consumable_types'), index=True)
     address = Column(String)
     phone = Column(String, unique=True, index=True)
+    profession = Column(String, unique=False, index=True)
 
     farmer_performance = relationship("FarmerPerformance", back_populates="user")
     resources = relationship("Resources", back_populates="author")

@@ -12,7 +12,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 app = FastAPI()
 
 
-Base.metadata.create_all(bind=engine)
+# Base.metadata.create_all(bind=engine)
 
 
 app.add_middleware(
