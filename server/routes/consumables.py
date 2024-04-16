@@ -26,7 +26,7 @@ def get_consumables(db: Session = Depends(get_db)):
         return consumables
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to retrieve Consumables")
 
 
 @router.get("/{consumable_id}", response_model=ConsumablesSchema)
@@ -38,12 +38,17 @@ def get_consumable(consumable_id: int, db: Session = Depends(get_db)):
         if consumable is None:
             raise HTTPException(status_code=404, detail="Consumable not found")
         return consumable
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to retrieve Consumable")
 
 
-@router.post("/", response_model=ConsumablesSchema, status_code=201)
+@router.post("/create", response_model=ConsumablesSchema, status_code=201)
 def create_consumable(
     consumable: ConsumablesCreateSchema, db: Session = Depends(get_db)
 ):
@@ -55,12 +60,17 @@ def create_consumable(
         db.commit()
         db.refresh(db_consumable)
         return db_consumable
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to create Consumable")
 
 
-@router.put("/{consumable_id}", response_model=ConsumablesSchema)
+@router.put("/update/{consumable_id}", response_model=ConsumablesSchema)
 def update_consumable(
     consumable_id: int,
     consumable: ConsumablesCreateSchema,
@@ -77,12 +87,17 @@ def update_consumable(
         db.commit()
         db.refresh(db_consumable)
         return db_consumable
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to update Consumable")
 
 
-@router.delete("/{consumable_id}")
+@router.delete("/delete/{consumable_id}")
 def delete_consumable(consumable_id: int, db: Session = Depends(get_db)):
     try:
         db_consumable = (
@@ -93,6 +108,11 @@ def delete_consumable(consumable_id: int, db: Session = Depends(get_db)):
         db.delete(db_consumable)
         db.commit()
         return {"message": "Consumable deleted successfully"}
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to delete Consumables")

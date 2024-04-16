@@ -24,7 +24,7 @@ def get_prices(db: Session = Depends(get_db)):
         return prices
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to retrieve Prices")
 
 
 @router.get("/{price_id}", response_model=PricesSchema)
@@ -34,12 +34,17 @@ def get_price(price_id: int, db: Session = Depends(get_db)):
         if price is None:
             raise HTTPException(status_code=404, detail="Price not found")
         return price
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to retrieve Price")
 
 
-@router.post("/", response_model=PricesSchema, status_code=201)
+@router.post("/create", response_model=PricesSchema, status_code=201)
 def create_price(price: PricesCreateSchema, db: Session = Depends(get_db)):
     try:
         consumable = (
@@ -53,12 +58,17 @@ def create_price(price: PricesCreateSchema, db: Session = Depends(get_db)):
         db.commit()
         db.refresh(db_price)
         return db_price
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to create Prices")
 
 
-@router.put("/{price_id}", response_model=PricesSchema)
+@router.put("/update/{price_id}", response_model=PricesSchema)
 def update_price(
     price_id: int, price: PricesCreateSchema, db: Session = Depends(get_db)
 ):
@@ -69,12 +79,17 @@ def update_price(
         db_price.price = price.price
         db.commit()
         return db_price
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to update Price")
 
 
-@router.delete("/{price_id}")
+@router.delete("/delete/{price_id}")
 def delete_price(price_id: int, db: Session = Depends(get_db)):
     try:
         db_price = db.query(Prices).filter(Prices.id == price_id).first()
@@ -82,7 +97,12 @@ def delete_price(price_id: int, db: Session = Depends(get_db)):
             raise HTTPException(status_code=404, detail="Price not found")
         db.delete(db_price)
         db.commit()
-        return db_price
+        return {"message": "Deleted Price Successfully"}
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to delete Price")

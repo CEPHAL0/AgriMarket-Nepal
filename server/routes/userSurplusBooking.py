@@ -28,7 +28,9 @@ def get_user_surplus_bookings(db: Session = Depends(get_db)):
         return user_surplus_bookings
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(
+            status_code=400, detail="Failed to retrieve User Surplus Bookings"
+        )
 
 
 @router.get("/{user_surplus_booking_id}", response_model=UserSurplusBookingSchema)
@@ -46,12 +48,19 @@ def get_user_surplus_booking(
                 status_code=404, detail="User Surplus Booking not found"
             )
         return user_surplus_booking
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(
+            status_code=400, detail="Failed to retrieve User Surplus Booking"
+        )
 
 
-@router.post("/", status_code=201)
+@router.post("/create", status_code=201)
 def create_user_surplus_booking(
     user_surplus_booking: UserSurplusBookingCreateSchema, db: Session = Depends(get_db)
 ):
@@ -85,12 +94,19 @@ def create_user_surplus_booking(
         db.commit()
         db.refresh(db_user_surplus_booking)
         return db_user_surplus_booking
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(
+            status_code=400, detail="Failed to create User Surplus Booking"
+        )
 
 
-@router.put("/{user_surplus_booking_id}")
+@router.put("/update/{user_surplus_booking_id}")
 def update_user_surplus_booking(
     user_surplus_booking_id: int,
     user_surplus_booking: UserSurplusBookingCreateSchema,
@@ -112,12 +128,19 @@ def update_user_surplus_booking(
         db.commit()
         db.refresh(db_user_surplus_booking)
         return db_user_surplus_booking
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(
+            status_code=400, detail="Failed to update User Surplus Booking"
+        )
 
 
-@router.delete("/{user_surplus_booking_id}")
+@router.delete("/delete/{user_surplus_booking_id}")
 def delete_user_surplus_booking(
     user_surplus_booking_id: int, db: Session = Depends(get_db)
 ):
@@ -133,6 +156,13 @@ def delete_user_surplus_booking(
             )
         db.delete(db_user_surplus_booking)
         db.commit()
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(
+            status_code=400, detail="Failed to delete User Surplus Booking"
+        )

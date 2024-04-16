@@ -24,9 +24,10 @@ def get_macro_types(db: Session = Depends(get_db)):
     try:
         macro_types = db.query(MacroTypes).all()
         return macro_types
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to retrieve Macro Types")
 
 
 @router.get("/{macro_type_id}", response_model=MacroTypesSchema)
@@ -36,12 +37,17 @@ def get_macro_type(macro_type_id: int, db: Session = Depends(get_db)):
         if macro_type is None:
             raise HTTPException(status_code=404, detail="MacroType not found")
         return macro_type
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to retrieve Macro Type")
 
 
-@router.post("/", response_model=MacroTypesSchema, status_code=201)
+@router.post("/create", response_model=MacroTypesSchema, status_code=201)
 def create_macro_type(
     macro_type: MacroTypesCreateSchema, db: Session = Depends(get_db)
 ):
@@ -51,12 +57,13 @@ def create_macro_type(
         db.commit()
         db.refresh(db_macro_type)
         return db_macro_type
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to create Macro Types")
 
 
-@router.put("/{macro_type_id}", response_model=MacroTypesSchema)
+@router.put("/update/{macro_type_id}", response_model=MacroTypesSchema)
 def update_macro_type(
     macro_type_id: int,
     macro_type: MacroTypesCreateSchema,
@@ -73,12 +80,17 @@ def update_macro_type(
         db.commit()
         db.refresh(db_macro_type)
         return db_macro_type
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to update Macro Type")
 
 
-@router.delete("/{macro_type_id}", status_code=204)
+@router.delete("/delete/{macro_type_id}", status_code=204)
 def delete_macro_type(macro_type_id: int, db: Session = Depends(get_db)):
     try:
         db_macro_type = (
@@ -89,7 +101,12 @@ def delete_macro_type(macro_type_id: int, db: Session = Depends(get_db)):
 
         db.delete(db_macro_type)
         db.commit()
-        return None
+        return {"message": "Deleted Macro Type Successfully"}
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to delete Macro Type")

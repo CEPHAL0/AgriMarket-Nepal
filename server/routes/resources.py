@@ -27,7 +27,7 @@ def get_resources(db: Session = Depends(get_db)):
         return resources
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to retrieve Resources")
 
 
 @router.get("/{resource_id}", response_model=ResourcesSchema)
@@ -37,12 +37,17 @@ def get_resource(resource_id: int, db: Session = Depends(get_db)):
         if resource is None:
             raise HTTPException(status_code=404, detail="Resource not found")
         return resource
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to retrieve Resource")
 
 
-@router.post("/", response_model=ResourcesSchema, status_code=201)
+@router.post("/create", response_model=ResourcesSchema, status_code=201)
 def create_resource(resource: ResourcesCreateSchema, db: Session = Depends(get_db)):
     try:
         user = db.query(Users).filter(Users.id == resource.author_id).first()
@@ -59,12 +64,17 @@ def create_resource(resource: ResourcesCreateSchema, db: Session = Depends(get_d
         db.commit()
         db.refresh(db_resource)
         return db_resource
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to create Resource")
 
 
-@router.put("/{resource_id}", response_model=ResourcesSchema)
+@router.put("/update/{resource_id}", response_model=ResourcesSchema)
 def update_resource(
     resource_id: int, resource: ResourcesCreateSchema, db: Session = Depends(get_db)
 ):
@@ -79,12 +89,17 @@ def update_resource(
 
         db_resource.audience
         return resource
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to update Resource")
 
 
-@router.delete("/{resource_id}", status_code=204)
+@router.delete("/delete/{resource_id}", status_code=204)
 def delete_resource(resource_id: int, db: Session = Depends(get_db)):
     try:
         db_resource = db.query(Resources).filter(Resources.id == resource_id).first()
@@ -94,6 +109,11 @@ def delete_resource(resource_id: int, db: Session = Depends(get_db)):
         db.delete(db_resource)
         db.commit()
         return
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to delete Resource")

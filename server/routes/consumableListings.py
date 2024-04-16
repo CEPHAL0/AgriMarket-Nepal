@@ -26,9 +26,12 @@ def get_consumable_listings(db: Session = Depends(get_db)):
     try:
         consumable_listings = db.query(ConsumableListings).all()
         return consumable_listings
+        
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(
+            status_code=400, detail="Failed to retrieve Consumable Listings"
+        )
 
 
 @router.get("/{consumable_listing_id}", response_model=ConsumableListingSchema)
@@ -44,12 +47,19 @@ def get_one_consumable_listing(
         if consumable_listing is None:
             raise HTTPException(status_code=404, detail="Consumable Listing not found")
         return consumable_listing
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(
+            status_code=400, detail="Failed to retrieve Consumable Listing"
+        )
 
 
-@router.post("/", response_model=ConsumableListingSchema, status_code=201)
+@router.post("/create", response_model=ConsumableListingSchema, status_code=201)
 def create_consumable_listing(
     consumable_listing: ConsumableListingCreateSchema, db: Session = Depends(get_db)
 ):
@@ -76,12 +86,19 @@ def create_consumable_listing(
         db.commit()
         db.refresh(db_consumable_listing)
         return db_consumable_listing
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(
+            status_code=400, detail="Failed to create Consumable Listings"
+        )
 
 
-@router.put("/{consumable_listing_id}", response_model=ConsumableListingSchema)
+@router.put("/update/{consumable_listing_id}", response_model=ConsumableListingSchema)
 def update_consumable_listing(
     consumable_listing_id: int,
     consumable_listing: ConsumableListingCreateSchema,
@@ -103,12 +120,19 @@ def update_consumable_listing(
         db.commit()
         db.refresh(db_consumable_listing)
         return db_consumable_listing
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(
+            status_code=400, detail="Failed to update Consumable Listing"
+        )
 
 
-@router.delete("/{consumable_listing_id}", status_code=204)
+@router.delete("/delete/{consumable_listing_id}", status_code=204)
 def delete_consumable_listing(
     consumable_listing_id: int, db: Session = Depends(get_db)
 ):
@@ -123,6 +147,14 @@ def delete_consumable_listing(
 
         db.delete(consumable_listing)
         db.commit()
+        return {"message": "Deleted Consumable Listing Successfully"}
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(
+            status_code=400, detail="Failed to delete Consumable Listing"
+        )

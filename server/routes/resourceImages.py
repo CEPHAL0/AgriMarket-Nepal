@@ -27,7 +27,9 @@ def get_resource_images(db: Session = Depends(get_db)):
         return resource_images
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(
+            status_code=400, detail="Failed to retrieve Resource Images"
+        )
 
 
 @router.get("/{resource_image_id}", response_model=ResourceImageSchema)
@@ -41,12 +43,17 @@ def get_single_resource_image(resource_image_id: int, db: Session = Depends(get_
         if resource_image is None:
             raise HTTPException(status_code=404, detail="Resource Image not found")
         return resource_image
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to retrieve Resource Image")
 
 
-@router.post("/", response_model=ResourceImageSchema, status_code=201)
+@router.post("/create", response_model=ResourceImageSchema, status_code=201)
 def create_new_resource_image(
     resource_image: ResourceImageCreateSchema, db: Session = Depends(get_db)
 ):
@@ -68,12 +75,17 @@ def create_new_resource_image(
         db.commit()
         db.refresh(db_resource_image)
         return db_resource_image
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to create Resource Image")
 
 
-@router.put("/{resource_image_id}", response_model=ResourceImageSchema)
+@router.put("/update/{resource_image_id}", response_model=ResourceImageSchema)
 def update_resource_image(
     resource_image_id: int,
     resource_image: ResourceImageCreateSchema,
@@ -94,12 +106,17 @@ def update_resource_image(
         db.commit()
         db.refresh(db_resource_image)
         return db_resource_image
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to update Resource Image")
 
 
-@router.delete("/{resource_image_id}", status_code=204)
+@router.delete("/delete/{resource_image_id}", status_code=204)
 def delete_resource_image(resource_image_id: int, db: Session = Depends(get_db)):
     try:
         db_resource_image = (
@@ -112,6 +129,11 @@ def delete_resource_image(resource_image_id: int, db: Session = Depends(get_db))
 
         db.delete(db_resource_image)
         db.commit()
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to delete Resource Image")

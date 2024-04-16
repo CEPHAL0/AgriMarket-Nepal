@@ -27,7 +27,7 @@ def get_districts(db: Session = Depends(get_db)):
         return districts
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to retrieve Districts")
 
 
 @router.get("/{district_id}", response_model=DistrictsSchema)
@@ -37,12 +37,17 @@ def get_district(district_id: int, db: Session = Depends(get_db)):
         if district is None:
             raise HTTPException(status_code=404, detail="District not found")
         return district
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to retrieve District")
 
 
-@router.post("/", response_model=DistrictsSchema, status_code=201)
+@router.post("/create", response_model=DistrictsSchema, status_code=201)
 def create_district(district: DistrictCreateSchema, db: Session = Depends(get_db)):
     try:
         province = (
@@ -60,12 +65,17 @@ def create_district(district: DistrictCreateSchema, db: Session = Depends(get_db
         db.commit()
         db.refresh(db_district)
         return db_district
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
         raise e
 
 
-@router.put("/{district_id}", response_model=DistrictsSchema)
+@router.put("/update/{district_id}", response_model=DistrictsSchema)
 def update_district(
     district_id: int, district: DistrictCreateSchema, db: Session = Depends(get_db)
 ):
@@ -85,12 +95,17 @@ def update_district(
         db.commit()
         db.refresh(db_district)
         return db_district
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
         raise e
 
 
-@router.delete("/{district_id}")
+@router.delete("/delete/{district_id}")
 def delete_district(district_id: int, db: Session = Depends(get_db)):
     try:
         db_district = db.query(Districts).filter(Districts.id == district_id).first()
@@ -100,6 +115,11 @@ def delete_district(district_id: int, db: Session = Depends(get_db)):
         db.delete(db_district)
         db.commit()
         return {"message": "District deleted successfully"}
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
         raise e

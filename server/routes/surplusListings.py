@@ -27,7 +27,9 @@ def get_surplus_listings(db: Session = Depends(get_db)):
         return surplus_listings
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(
+            status_code=400, detail="Failed to retrieve Surplus Listings"
+        )
 
 
 @router.get("/{surplus_listing_id}", response_model=SurplusListingsSchema)
@@ -41,12 +43,19 @@ def get_surplus_listing(surplus_listing_id: int, db: Session = Depends(get_db)):
         if surplus_listing is None:
             raise HTTPException(status_code=404, detail="Surplus Listing not found")
         return surplus_listing
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(
+            status_code=400, detail="Failed to retrieve Surplus Listing"
+        )
 
 
-@router.post("/", response_model=SurplusListingsSchema, status_code=201)
+@router.post("/create", response_model=SurplusListingsSchema, status_code=201)
 def create_surplus_listing(
     surplus_listing: SurplusListingCreateSchema, db: Session = Depends(get_db)
 ):
@@ -67,12 +76,17 @@ def create_surplus_listing(
         db.commit()
         db.refresh(db_surplus_listing)
         return db_surplus_listing
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to create Surplus Listing")
 
 
-@router.put("/{surplus_listing_id}", response_model=SurplusListingsSchema)
+@router.put("/update/{surplus_listing_id}", response_model=SurplusListingsSchema)
 def update_surplus_listing(
     surplus_listing_id: int,
     surplus_listing: SurplusListingCreateSchema,
@@ -92,12 +106,17 @@ def update_surplus_listing(
         db.commit()
         db.refresh(db_surplus_listing)
         return db_surplus_listing
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to update Surplus Listing")
 
 
-@router.delete("/{surplus_listing_id}")
+@router.delete("/delete/{surplus_listing_id}")
 def delete_surplus_listing(surplus_listing_id: int, db: Session = Depends(get_db)):
     try:
         db_surplus_listing = (
@@ -109,6 +128,12 @@ def delete_surplus_listing(surplus_listing_id: int, db: Session = Depends(get_db
             raise HTTPException(status_code=404, detail="Surplus Listing not found")
         db.delete(db_surplus_listing)
         db.commit()
+        return {"message": "Successfully deleted Surplus Listing"}
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to delete Surplus Listing")

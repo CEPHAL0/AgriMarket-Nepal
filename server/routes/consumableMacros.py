@@ -26,9 +26,12 @@ def get_consumable_macros(db: Session = Depends(get_db)):
     try:
         consumable_macros = db.query(ConsumableMacros).all()
         return consumable_macros
+        
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(
+            status_code=400, detail="Failed to retrieve Consumable Macros"
+        )
 
 
 @router.get("/{consumable_macro_id}", response_model=ConsumableMacrosSchema)
@@ -42,12 +45,19 @@ def get_one_consumable_macro(consumable_macro_id: int, db: Session = Depends(get
         if consumable_macro is None:
             raise HTTPException(status_code=404, detail="ConsumableMacro not found")
         return consumable_macro
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(
+            status_code=400, detail="Failed to retrieve Consumable Macro"
+        )
 
 
-@router.post("/", response_model=ConsumableMacrosSchema, status_code=201)
+@router.post("/create", response_model=ConsumableMacrosSchema, status_code=201)
 def create_consumable_macro(
     consumable_macro: ConsumableMacrosCreateSchema, db: Session = Depends(get_db)
 ):
@@ -77,12 +87,17 @@ def create_consumable_macro(
         db.commit()
         db.refresh(db_consumable_macro)
         return db_consumable_macro
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to create Consumable Macro")
 
 
-@router.put("/{consumable_macro_id}", response_model=ConsumableMacrosSchema)
+@router.put("/update/{consumable_macro_id}", response_model=ConsumableMacrosSchema)
 def update_consumable_macro(
     consumable_macro_id: int,
     consumable_macro: ConsumableMacrosCreateSchema,
@@ -119,12 +134,17 @@ def update_consumable_macro(
         db.commit()
         db.refresh(db_consumable_macro)
         return db_consumable_macro
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to update Consumable Macro")
 
 
-@router.delete("/{consumable_macro_id}", status_code=204)
+@router.delete("/delete/{consumable_macro_id}", status_code=204)
 def delete_consumable_macro(consumable_macro_id: int, db: Session = Depends(get_db)):
     try:
         db_consumable_macro = (
@@ -133,10 +153,16 @@ def delete_consumable_macro(consumable_macro_id: int, db: Session = Depends(get_
             .first()
         )
         if db_consumable_macro is None:
-            raise HTTPException(status_code=404, detail="ConsumableMacro not found")
+            raise HTTPException(status_code=404, detail="Consumable Macro not found")
 
         db.delete(db_consumable_macro)
         db.commit()
+        return {"message": "Deleted Consumable Macro Successfully"}
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
-        raise e
+        raise HTTPException(status_code=400, detail="Failed to delete Consumable Macro")
