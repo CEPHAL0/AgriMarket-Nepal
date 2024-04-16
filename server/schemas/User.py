@@ -1,11 +1,8 @@
 from pydantic import BaseModel
 from enum import Enum
+from config.enums.role import RoleEnum
+from datetime import datetime
 
-
-class RoleEnum(str, Enum):
-    admin = "ADMIN"
-    farmer = "FARMER"
-    user = "USER"
 
 class UserBase(BaseModel):
     name: str
@@ -21,6 +18,8 @@ class UserCreate(UserBase):
 
 class User(UserBase):
     id: int
+    created_at: datetime
+    updated_at: datetime
 
     class Config:
         orm_mode = True

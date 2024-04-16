@@ -14,13 +14,13 @@ def get_db():
         db.close()
 
 
-@router.get("/consumables", response_model=list[ConsumablesSchema])
+@router.get("/", response_model=list[ConsumablesSchema])
 def get_consumables(db: Session = Depends(get_db)):
     consumables = db.query(Consumables).all()
     return consumables
 
 
-@router.get("/consumables/{consumable_id}", response_model=ConsumablesSchema)
+@router.get("/{consumable_id}", response_model=ConsumablesSchema)
 def get_consumable(consumable_id: int, db: Session = Depends(get_db)):
     consumable = db.query(Consumables).filter(Consumables.id == consumable_id).first()
     if consumable is None:
@@ -28,7 +28,7 @@ def get_consumable(consumable_id: int, db: Session = Depends(get_db)):
     return consumable
 
 
-@router.post("/consumables", response_model=ConsumablesSchema, status_code=201)
+@router.post("/", response_model=ConsumablesSchema, status_code=201)
 def create_consumable(consumable: ConsumablesCreateSchema, db: Session = Depends(get_db)):
     db_consumable = Consumables(name=consumable.name, type=consumable.type, image_path=consumable.image_path)
     db.add(db_consumable)
@@ -37,7 +37,7 @@ def create_consumable(consumable: ConsumablesCreateSchema, db: Session = Depends
     return db_consumable
 
 
-@router.put("/consumables/{consumable_id}", response_model=ConsumablesSchema)
+@router.put("/{consumable_id}", response_model=ConsumablesSchema)
 def update_consumable(consumable_id: int, consumable: ConsumablesCreateSchema, db: Session = Depends(get_db)):
     db_consumable = db.query(Consumables).filter(Consumables.id == consumable_id).first()
     if db_consumable is None:
@@ -49,7 +49,7 @@ def update_consumable(consumable_id: int, consumable: ConsumablesCreateSchema, d
     return db_consumable
 
 
-@router.delete("/consumables/{consumable_id}")
+@router.delete("/{consumable_id}")
 def delete_consumable(consumable_id: int, db: Session = Depends(get_db)):
     db_consumable = db.query(Consumables).filter(Consumables.id == consumable_id).first()
     if db_consumable is None:

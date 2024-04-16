@@ -1,6 +1,7 @@
 from sqlalchemy import Column, Boolean, Integer, String, Enum, DateTime
 from sqlalchemy.orm import relationship
 from datetime import datetime
+from config.enums.role import RoleEnum
 
 # from .user_surplus_booking import UserSurplusBooking
 
@@ -16,7 +17,7 @@ class User(Base):
     email = Column(String, unique=True, index=True)
     password = Column(String)
     image = Column(String)
-    role = Column(Enum('ADMIN', 'FARMER', 'USER', name='consumable_types'), index=True)
+    role = Column(Enum(RoleEnum), index=True)
     address = Column(String)
     phone = Column(String, unique=True, index=True)
     profession = Column(String, unique=False, index=True)
