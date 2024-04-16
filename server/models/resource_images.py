@@ -6,7 +6,7 @@ from config.database import Base
 
 
 class ResourceImages(Base):
-    __tablename__ = "resource_image"
+    __tablename__ = "resource_images"
 
     id = Column(Integer, primary_key=True, autoincrement=True)
     resource_id = Column(Integer, ForeignKey('resources.id'), nullable=False)

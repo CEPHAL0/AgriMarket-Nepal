@@ -11,7 +11,7 @@ class SurplusListings(Base):
     id = Column(Integer, primary_key=True, autoincrement=True)
     consumable_id = Column(Integer, ForeignKey('consumables.id'), nullable=False)
     price = Column(Float, nullable=False)
-    booked = Column(Enum("1", "0"), default=False, nullable=False)
+    booked = Column(Enum("1", "0"), default="0", nullable=False)
     posted_date = Column(DateTime, default=datetime.now())
 
     consumable = relationship("Consumables", back_populates="surplus_listings")

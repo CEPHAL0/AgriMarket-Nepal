@@ -1,6 +1,7 @@
 from sqlalchemy import Column, Boolean, Integer, String, ForeignKey, Enum, DateTime
 from sqlalchemy.orm import relationship
 from datetime import datetime
+from config.enums.audience import AudienceEnum
 
 from config.database import Base
 
@@ -9,7 +10,7 @@ class Resources(Base):
     __tablename__ = "resources"
 
     id = Column(Integer, primary_key=True, autoincrement=True)
-    audience = Column(Enum('FARMER', 'USER'), index=True, nullable=False)
+    audience = Column(Enum(AudienceEnum), index=True, nullable=False)
     title = Column(String, index=True, nullable=False)
     description = Column(String, nullable=False)
     author_id = Column(Integer, ForeignKey('users.id'), nullable=False)
