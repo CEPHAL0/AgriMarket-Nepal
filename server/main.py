@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from config.database import SessionLocal, Base, engine
-from routes import consumables
+from routes import consumables, users
 
 from models import index
 import sys
@@ -39,3 +39,4 @@ async def root():
 
 
 app.include_router(consumables.router)
+app.include_router(users.router, prefix="/users")
