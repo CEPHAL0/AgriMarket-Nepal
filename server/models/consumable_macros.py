@@ -16,4 +16,5 @@ class ConsumableMacros(Base):
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
     consumables = relationship("Consumables", back_populates="consumable_macros")
+    
     macro_types = relationship("MacroTypes", back_populates="consumable_macros")

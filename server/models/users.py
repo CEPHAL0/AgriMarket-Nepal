@@ -7,7 +7,7 @@ from datetime import datetime
 from config.database import Base
 
 
-class User(Base):
+class Users(Base):
     __tablename__ = "users"
 
     id = Column(Integer, primary_key=True, autoincrement=True)
@@ -16,15 +16,16 @@ class User(Base):
     email = Column(String, unique=True, index=True)
     password = Column(String)
     image = Column(String)
-    role = Column(Enum('ADMIN', 'FARMER', 'USER', name='consumable_types'), index=True)
+    role = Column(Enum("ADMIN", "FARMER", "USER", name="roleenum"), index=True)
     address = Column(String)
     phone = Column(String, unique=True, index=True)
-    profession = Column(String, unique=False, index=True)
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
-    farmer_performance = relationship("FarmerPerformance", back_populates="user")
+    farmer_performances = relationship("FarmerPerformances", back_populates="user")
+
     resources = relationship("Resources", back_populates="author")
-    consumable_listings = relationship("ConsumableListing", back_populates="user")
+    
+    consumable_listings = relationship("ConsumableListings", back_populates="user")
     # poster_bookings = relationship("UserSurplusBooking", foreign_keys=[UserSurplusBooking.poster_id], back_populates="poster")
     # booker_bookings = relationship("UserSurplusBooking", foreign_keys=[UserSurplusBooking.booker_id], back_populates="booker")
