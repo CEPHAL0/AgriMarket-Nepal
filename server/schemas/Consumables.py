@@ -1,5 +1,7 @@
 from pydantic import BaseModel
 from enum import Enum
+from datetime import datetime
+from config.enums.consumable import ConsumableEnum
 
 class ConsumableTypeEnum(str, Enum):
     vegetable = "VEGETABLE"
@@ -10,7 +12,8 @@ class ConsumableTypeEnum(str, Enum):
 
 class ConsumablesBase(BaseModel):
     name: str
-    type: ConsumableTypeEnum
+    type: ConsumableEnum
+    image_path: str
 
 
 class ConsumablesCreate(ConsumablesBase):
@@ -19,6 +22,8 @@ class ConsumablesCreate(ConsumablesBase):
 
 class Consumables(ConsumablesBase):
     id: int
+    created_at: datetime
+    updated_at: datetime
 
     class Config:
         orm_mode = True

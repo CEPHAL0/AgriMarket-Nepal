@@ -3,7 +3,7 @@ from sqlalchemy import Enum
 
 
 class ConsumableEnum(enum.Enum):
-    vegetable = "VEGETABLE"
-    fruit = "FRUIT"
-    dairy = "DAIRY"
-    other = "OTHER"
+    VEGETABLE = "VEGETABLE"
+    FRUIT = "FRUIT"
+    DAIRY = "DAIRY"
+    OTHER = "OTHER"

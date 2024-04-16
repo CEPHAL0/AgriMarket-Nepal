@@ -30,7 +30,7 @@ def get_consumable(consumable_id: int, db: Session = Depends(get_db)):
 
 @router.post("/consumables", response_model=ConsumablesSchema, status_code=201)
 def create_consumable(consumable: ConsumablesCreateSchema, db: Session = Depends(get_db)):
-    db_consumable = Consumables(name=consumable.name, type=consumable.type)
+    db_consumable = Consumables(name=consumable.name, type=consumable.type, image_path=consumable.image_path)
     db.add(db_consumable)
     db.commit()
     db.refresh(db_consumable)
