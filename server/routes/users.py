@@ -10,6 +10,7 @@ from sqlalchemy.orm import Session
 from config.database import SessionLocal, engine
 from models.users import User
 from schemas.User import User as UserSchema, UserCreate as UserCreateSchema
+from logger import logger
 
 router = APIRouter()
 
@@ -23,8 +24,11 @@ def get_db():
 
 @router.get("/", response_model=list[UserSchema])
 def get_users(db: Session = Depends(get_db)):
-    users = db.query(User).all()
-    return users
+    try:
+        users = db.query(User).all()
+        return users
+    except Exception as e:
+        logger.error(e)
 
 
 @router.get("/{user_id}", response_model=UserSchema)

@@ -24,7 +24,7 @@ class User(Base):
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
-    farmer_performance = relationship("FarmerPerformance", back_populates="user")
+    farmer_performances = relationship("FarmerPerformance", back_populates="user")
     resources = relationship("Resources", back_populates="author")
     consumable_listings = relationship("ConsumableListing", back_populates="user")
     # poster_bookings = relationship("UserSurplusBooking", foreign_keys=[UserSurplusBooking.poster_id], back_populates="poster")

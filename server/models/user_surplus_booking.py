@@ -6,7 +6,7 @@ from config.database import Base
 
 
 class UserSurplusBooking(Base):
-    __tablename__ = "user_surplus_booking"
+    __tablename__ = "user_surplus_bookings"
 
     id = Column(Integer, primary_key=True, autoincrement=True)
     consumable_id = Column(Integer, ForeignKey('consumables.id'))

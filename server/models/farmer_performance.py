@@ -6,7 +6,7 @@ from config.database import Base
 
 
 class FarmerPerformance(Base):
-    __tablename__ = "farmer_performance"
+    __tablename__ = "farmer_performances"
 
     id = Column(Integer, primary_key=True, autoincrement=True)
     farmer_id = Column(Integer, ForeignKey('users.id'), nullable=False)
@@ -14,4 +14,4 @@ class FarmerPerformance(Base):
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
-    user = relationship("User", back_populates="farmer_performance")
+    user = relationship("User", back_populates="farmer_performances")
