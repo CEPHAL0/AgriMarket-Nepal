@@ -14,4 +14,4 @@ class SurplusListings(Base):
     booked = Column(Enum("1", "0"), default=False, nullable=False)
     posted_date = Column(DateTime, default=datetime.now())
 
-    consumables = relationship("Consumables", back_populates="surplus_listings")
+    consumable = relationship("Consumables", back_populates="surplus_listings")

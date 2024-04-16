@@ -15,6 +15,6 @@ class Districts(Base):
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
-    provinces = relationship("Provinces", back_populates="districts")
+    province = relationship("Provinces", back_populates="districts")
 
     consumable_listings = relationship("ConsumableListings", back_populates="district")

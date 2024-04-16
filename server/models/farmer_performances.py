@@ -14,4 +14,4 @@ class FarmerPerformances(Base):
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
-    user = relationship("Users", back_populates="farmer_performances")
+    farmer = relationship("Users", back_populates="farmer_performances")

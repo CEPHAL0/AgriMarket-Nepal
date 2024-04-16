@@ -18,7 +18,7 @@ class ConsumableListings(Base):
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
-    consumables = relationship("Consumables", back_populates="consumable_listings")
+    consumable = relationship("Consumables", back_populates="consumable_listings")
 
     user = relationship("Users", back_populates="consumable_listings")
 

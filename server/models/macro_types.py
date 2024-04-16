@@ -13,4 +13,4 @@ class MacroTypes(Base):
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
-    consumable_macros = relationship("ConsumableMacros", back_populates="macro_types")
+    consumable_macros = relationship("ConsumableMacros", back_populates="macro_type")

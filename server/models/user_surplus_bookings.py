@@ -15,8 +15,12 @@ class UserSurplusBookings(Base):
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
-    consumables = relationship("Consumables", back_populates="bookings")
+    consumable = relationship("Consumables", back_populates="bookings")
 
-    poster = relationship("Users", foreign_keys=[poster_id], backref="poster_bookings")
-    
-    booker = relationship("Users", foreign_keys=[booker_id], backref="booker_bookings")
+    poster = relationship(
+        "Users", foreign_keys=[poster_id], back_populates="poster_bookings"
+    )
+
+    booker = relationship(
+        "Users", foreign_keys=[booker_id], back_populates="booker_bookings"
+    )

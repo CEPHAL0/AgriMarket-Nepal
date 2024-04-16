@@ -18,4 +18,4 @@ class Resources(Base):
 
     author = relationship("Users", back_populates="resources")
     
-    resource_image = relationship("ResourceImages", back_populates="resource")
+    resource_images = relationship("ResourceImages", back_populates="resource")

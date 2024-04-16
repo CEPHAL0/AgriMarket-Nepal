@@ -15,4 +15,4 @@ class ResourceImages(Base):
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
-    resource = relationship("Resources", back_populates="resource_image")
+    resource = relationship("Resources", back_populates="resource_images")

@@ -5,6 +5,7 @@ from config.enums.consumable import ConsumableEnum
 
 from config.database import Base
 
+
 class Consumables(Base):
     __tablename__ = "consumables"
 
@@ -15,12 +16,14 @@ class Consumables(Base):
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
-    consumable_listings = relationship("ConsumableListings", back_populates="consumables")
+    consumable_listings = relationship(
+        "ConsumableListings", back_populates="consumable"
+    )
 
-    bookings = relationship("UserSurplusBookings", back_populates="consumables")
+    bookings = relationship("UserSurplusBookings", back_populates="consumable")
 
-    surplus_listings = relationship("SurplusListings", back_populates="consumables")
+    surplus_listings = relationship("SurplusListings", back_populates="consumable")
 
-    prices = relationship("Prices", back_populates="consumables")
-    
-    consumable_macros = relationship("ConsumableMacros", back_populates="consumables")
+    prices = relationship("Prices", back_populates="consumable")
+
+    consumable_macros = relationship("ConsumableMacros", back_populates="consumable")
