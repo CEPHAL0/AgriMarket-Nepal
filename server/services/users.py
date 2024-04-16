@@ -2,7 +2,7 @@ from sqlalchemy.orm import Session
 from fastapi import HTTPException
 from models.users import Users
 from schemas import index
-from schemas.User import (
+from schemas.Users import (
     User as UserSchema,
     UserBase as UserBaseSchema,
     UserCreate as UserCreateSchema,
@@ -22,7 +22,7 @@ def get_users(db: Session) -> list[UserSchema]:
 
 
 def create_user(user: UserCreateSchema, db: Session):
-    
+
     db_user = Users(
         name=user.name,
         username=user.username,

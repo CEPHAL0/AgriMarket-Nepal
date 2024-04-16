@@ -2,10 +2,14 @@ from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 from config.database import SessionLocal, engine
 from models.provinces import Provinces
-from schemas.Provinces import Provinces as ProvincesSchema, ProvincesCreate as ProvincesCreateSchema
+from schemas.Provinces import (
+    Province as ProvincesSchema,
+    ProvinceCreate as ProvincesCreateSchema,
+)
 from logger import logger
 
 router = APIRouter()
+
 
 def get_db():
     db = SessionLocal()
@@ -51,7 +55,9 @@ def create_province(province: ProvincesCreateSchema, db: Session = Depends(get_d
 
 
 @router.put("/{province_id}", response_model=ProvincesSchema)
-def update_province(province_id: int, province: ProvincesCreateSchema, db: Session = Depends(get_db)):
+def update_province(
+    province_id: int, province: ProvincesCreateSchema, db: Session = Depends(get_db)
+):
     try:
         db_province = db.query(Provinces).filter(Provinces.id == province_id).first()
         if db_province is None:

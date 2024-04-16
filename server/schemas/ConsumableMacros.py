@@ -2,17 +2,17 @@ from pydantic import BaseModel
 from datetime import datetime
 
 
-class ConsumableMacrosBase(BaseModel):
+class ConsumableMacroBase(BaseModel):
     consumable_id: int
     macro_type_id: int
     quantity: float
 
 
-class ConsumableMacrosCreate(ConsumableMacrosBase):
+class ConsumableMacroCreate(ConsumableMacroBase):
     pass
 
 
-class ConsumableMacros(ConsumableMacrosBase):
+class ConsumableMacro(ConsumableMacroBase):
     id: int
     created_at: datetime
     updated_at: datetime

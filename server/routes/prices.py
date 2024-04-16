@@ -3,10 +3,11 @@ from sqlalchemy.orm import Session
 from config.database import SessionLocal, engine
 from models.prices import Prices
 from models.consumables import Consumables
-from schemas.Prices import Prices as PricesSchema, PriceCreate as PricesCreateSchema
+from schemas.Prices import Price as PricesSchema, PriceCreate as PricesCreateSchema
 from logger import logger
 
 router = APIRouter()
+
 
 def get_db():
     db = SessionLocal()
@@ -41,10 +42,12 @@ def get_price(price_id: int, db: Session = Depends(get_db)):
 @router.post("/", response_model=PricesSchema, status_code=201)
 def create_price(price: PricesCreateSchema, db: Session = Depends(get_db)):
     try:
-        consumable = db.query(Consumables).filter(Consumables.id == price.consumable_id).first()
+        consumable = (
+            db.query(Consumables).filter(Consumables.id == price.consumable_id).first()
+        )
         if consumable is None:
             raise HTTPException(status_code=404, detail="Consumable not found")
-        
+
         db_price = Prices(consumable_id=price.consumable_id, price=price.price)
         db.add(db_price)
         db.commit()
@@ -56,7 +59,9 @@ def create_price(price: PricesCreateSchema, db: Session = Depends(get_db)):
 
 
 @router.put("/{price_id}", response_model=PricesSchema)
-def update_price(price_id: int, price: PricesCreateSchema, db: Session = Depends(get_db)):
+def update_price(
+    price_id: int, price: PricesCreateSchema, db: Session = Depends(get_db)
+):
     try:
         db_price = db.query(Prices).filter(Prices.id == price_id).first()
         if db_price is None:

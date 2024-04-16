@@ -1,15 +1,8 @@
-# replace with auth routes
-
-
-
-
-
-
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 from config.database import SessionLocal, engine
 from models.users import Users
-from schemas.User import (
+from schemas.Users import (
     User as UserSchema,
     UserBase as UserBaseSchema,
     UserCreate as UserCreateSchema,
@@ -18,6 +11,7 @@ from services import users as user_service
 from logger import logger
 
 router = APIRouter()
+
 
 def get_db():
     db = SessionLocal()

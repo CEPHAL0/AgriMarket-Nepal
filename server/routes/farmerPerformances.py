@@ -1,12 +1,16 @@
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 from config.database import SessionLocal, engine
-from models.farmer_performance import FarmerPerformance
-from models.users import User
-from schemas.FarmerPerformance import FarmerPerformances as FarmerPerformanceSchema, FarmerPerformanceCreate as FarmerPerformanceCreateSchema
+from models.farmer_performances import FarmerPerformances
+from models.users import Users
+from schemas.FarmerPerformances import (
+    FarmerPerformance as FarmerPerformanceSchema,
+    FarmerPerformanceCreate as FarmerPerformanceCreateSchema,
+)
 from logger import logger
 
 router = APIRouter()
+
 
 def get_db():
     db = SessionLocal()
@@ -19,7 +23,7 @@ def get_db():
 @router.get("/", response_model=list[FarmerPerformanceSchema])
 def get_farmer_performances(db: Session = Depends(get_db)):
     try:
-        farmer_performances = db.query(FarmerPerformance).all()
+        farmer_performances = db.query(FarmerPerformances).all()
         return farmer_performances
     except Exception as e:
         logger.error(e)
@@ -27,9 +31,15 @@ def get_farmer_performances(db: Session = Depends(get_db)):
 
 
 @router.get("/{farmer_performance_id}", response_model=FarmerPerformanceSchema)
-def get_single_farmer_performance(farmer_performance_id: int, db: Session = Depends(get_db)):
+def get_single_farmer_performance(
+    farmer_performance_id: int, db: Session = Depends(get_db)
+):
     try:
-        farmer_performance = db.query(FarmerPerformance).filter(FarmerPerformance.id == farmer_performance_id).first()
+        farmer_performance = (
+            db.query(FarmerPerformances)
+            .filter(FarmerPerformances.id == farmer_performance_id)
+            .first()
+        )
         if farmer_performance is None:
             raise HTTPException(status_code=404, detail="Farmer Performance not found")
         return farmer_performance
@@ -39,13 +49,18 @@ def get_single_farmer_performance(farmer_performance_id: int, db: Session = Depe
 
 
 @router.post("/", response_model=FarmerPerformanceSchema, status_code=201)
-def create_new_farmer_performance(farmer_performance: FarmerPerformanceCreateSchema, db: Session = Depends(get_db)):
+def create_new_farmer_performance(
+    farmer_performance: FarmerPerformanceCreateSchema, db: Session = Depends(get_db)
+):
     try:
-        user = db.query(User).filter(User.id == farmer_performance.farmer_id).first()
+        user = db.query(Users).filter(Users.id == farmer_performance.farmer_id).first()
         if user is None:
-            raise HTTPException(status_code=404, detail="User not found")
-        
-        db_farmer_performance = FarmerPerformance(farmer_id=farmer_performance.farmer_id, performance=farmer_performance.performance)
+            raise HTTPException(status_code=404, detail="Users not found")
+
+        db_farmer_performance = FarmerPerformances(
+            farmer_id=farmer_performance.farmer_id,
+            performance=farmer_performance.performance,
+        )
         db.add(db_farmer_performance)
         db.commit()
         db.refresh(db_farmer_performance)
@@ -56,12 +71,20 @@ def create_new_farmer_performance(farmer_performance: FarmerPerformanceCreateSch
 
 
 @router.put("/{farmer_performance_id}", response_model=FarmerPerformanceSchema)
-def update_farmer_performance(farmer_performance_id: int, farmer_performance: FarmerPerformanceCreateSchema, db: Session = Depends(get_db)):
+def update_farmer_performance(
+    farmer_performance_id: int,
+    farmer_performance: FarmerPerformanceCreateSchema,
+    db: Session = Depends(get_db),
+):
     try:
-        db_farmer_performance = db.query(FarmerPerformance).filter(FarmerPerformance.id == farmer_performance_id).first()
+        db_farmer_performance = (
+            db.query(FarmerPerformances)
+            .filter(FarmerPerformances.id == farmer_performance_id)
+            .first()
+        )
         if db_farmer_performance is None:
             raise HTTPException(status_code=404, detail="Farmer Performance not found")
-        
+
         db_farmer_performance.farmer_id = farmer_performance.farmer_id
         db_farmer_performance.performance = farmer_performance.performance
         db.commit()
@@ -73,12 +96,18 @@ def update_farmer_performance(farmer_performance_id: int, farmer_performance: Fa
 
 
 @router.delete("/{farmer_performance_id}", status_code=204)
-def delete_farmer_performance(farmer_performance_id: int, db: Session = Depends(get_db)):
+def delete_farmer_performance(
+    farmer_performance_id: int, db: Session = Depends(get_db)
+):
     try:
-        farmer_performance = db.query(FarmerPerformance).filter(FarmerPerformance.id == farmer_performance_id).first()
+        farmer_performance = (
+            db.query(FarmerPerformances)
+            .filter(FarmerPerformances.id == farmer_performance_id)
+            .first()
+        )
         if farmer_performance is None:
             raise HTTPException(status_code=404, detail="Farmer Performance not found")
-        
+
         db.delete(farmer_performance)
         db.commit()
         return

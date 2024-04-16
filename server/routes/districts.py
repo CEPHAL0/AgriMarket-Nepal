@@ -3,10 +3,14 @@ from sqlalchemy.orm import Session
 from config.database import SessionLocal, engine
 from models.districts import Districts
 from models.provinces import Provinces
-from schemas.Districts import Districts as DistrictsSchema, DistrictCreate as DistrictCreateSchema
+from schemas.Districts import (
+    District as DistrictsSchema,
+    DistrictCreate as DistrictCreateSchema,
+)
 from logger import logger
 
 router = APIRouter()
+
 
 def get_db():
     db = SessionLocal()
@@ -41,11 +45,17 @@ def get_district(district_id: int, db: Session = Depends(get_db)):
 @router.post("/", response_model=DistrictsSchema, status_code=201)
 def create_district(district: DistrictCreateSchema, db: Session = Depends(get_db)):
     try:
-        province = db.query(Provinces).filter(Provinces.id == district.province_id).first()
+        province = (
+            db.query(Provinces).filter(Provinces.id == district.province_id).first()
+        )
         if province is None:
             raise HTTPException(status_code=404, detail="Province not found")
-        
-        db_district = Districts(name=district.name, province_id=district.province_id, ecological_region=district.ecological_region)
+
+        db_district = Districts(
+            name=district.name,
+            province_id=district.province_id,
+            ecological_region=district.ecological_region,
+        )
         db.add(db_district)
         db.commit()
         db.refresh(db_district)
@@ -56,16 +66,20 @@ def create_district(district: DistrictCreateSchema, db: Session = Depends(get_db
 
 
 @router.put("/{district_id}", response_model=DistrictsSchema)
-def update_district(district_id: int, district: DistrictCreateSchema, db: Session = Depends(get_db)):
+def update_district(
+    district_id: int, district: DistrictCreateSchema, db: Session = Depends(get_db)
+):
     try:
         db_district = db.query(Districts).filter(Districts.id == district_id).first()
         if db_district is None:
             raise HTTPException(status_code=404, detail="District not found")
-        
-        province = db.query(Provinces).filter(Provinces.id == district.province_id).first()
+
+        province = (
+            db.query(Provinces).filter(Provinces.id == district.province_id).first()
+        )
         if province is None:
             raise HTTPException(status_code=404, detail="Province not found")
-        
+
         db_district.name = district.name
         db_district.province_id = district.province_id
         db.commit()
@@ -82,7 +96,7 @@ def delete_district(district_id: int, db: Session = Depends(get_db)):
         db_district = db.query(Districts).filter(Districts.id == district_id).first()
         if db_district is None:
             raise HTTPException(status_code=404, detail="District not found")
-        
+
         db.delete(db_district)
         db.commit()
         return {"message": "District deleted successfully"}

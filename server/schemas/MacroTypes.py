@@ -2,14 +2,14 @@ from pydantic import BaseModel
 from datetime import datetime
 
 
-class MacroTypesBase(BaseModel):
+class MacroTypeBase(BaseModel):
     name: str
 
-class MacroTypeCreate(MacroTypesBase):
+class MacroTypeCreate(MacroTypeBase):
     pass
 
 
-class MacroTypes(MacroTypesBase):
+class MacroType(MacroTypeBase):
     id: int
     created_at: datetime
     updated_at: datetime

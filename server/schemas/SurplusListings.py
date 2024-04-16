@@ -2,17 +2,17 @@ from pydantic import BaseModel
 from datetime import datetime
 from config.enums.booked import BookedEnum
 
-class SurplusListingsBase(BaseModel):
+class SurplusListingBase(BaseModel):
     consumable_id: int
     price: float
     booked: BookedEnum
 
 
-class SurplusListingCreate(SurplusListingsBase):
+class SurplusListingCreate(SurplusListingBase):
     pass
 
 
-class SurplusListings(SurplusListingsBase):
+class SurplusListing(SurplusListingBase):
     id: int
     created_at: datetime
     updated_at: datetime
