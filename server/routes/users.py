@@ -32,14 +32,17 @@ def get_users(db: Session = Depends(get_db)):
         raise HTTPException(status_code=400, detail="Failed to get users")
 
 
-@router.get("/:user_id")
+@router.get("/{user_id}")
 def get_user(user_id: int, db: Session = Depends(get_db)):
-
-    user = user_service.get_user(user_id, db)
-
-    if user is None:
-        raise HTTPException(status_code=404, detail="User not found")
-    return user
+    try:
+        user = user_service.get_user(user_id, db)
+        return {"message": "User retrieved successfully", "data": user}
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+    except Exception as e:
+        logger.error(e)
+        raise HTTPException(status_code=400, detail="Failed to get user")
 
 
 @router.post("/create")
@@ -52,7 +55,7 @@ def create_user(user: UserCreateSchema, db: Session = Depends(get_db)):
         raise HTTPException(status_code=400, detail="Failed to save user")
 
 
-@router.delete("/:user_id")
+@router.delete("/{user_id}")
 def delete_user(user_id: int, db: Session = Depends(get_db)):
     try:
         user_service.delete_user(user_id, db)

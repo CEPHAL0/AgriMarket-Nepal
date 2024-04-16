@@ -10,7 +10,9 @@ from schemas.User import (
 
 
 def get_user(user_id: int, db: Session):
-    user = db.query(Users).filter(models.users.User.id == user_id).first()
+    user = db.query(Users).filter(Users.id == user_id).first()
+    if user is None:
+        raise HTTPException(status_code=404, detail="User not found")
     return user
 
 
@@ -20,6 +22,7 @@ def get_users(db: Session) -> list[UserSchema]:
 
 
 def create_user(user: UserCreateSchema, db: Session):
+    
     db_user = Users(
         name=user.name,
         username=user.username,
@@ -43,4 +46,3 @@ def delete_user(user_id: int, db: Session):
         raise HTTPException(status_code=404, detail="User not found")
     db.delete(db_user)
     db.commit()
-
