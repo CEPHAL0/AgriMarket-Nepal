@@ -1,3 +1,10 @@
+# replace with auth routes
+
+
+
+
+
+
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 from config.database import SessionLocal, engine
@@ -10,9 +17,7 @@ from schemas.User import (
 from services import users as user_service
 from logger import logger
 
-
 router = APIRouter()
-
 
 def get_db():
     db = SessionLocal()
@@ -29,7 +34,6 @@ def get_users(db: Session = Depends(get_db)):
         return users
     except Exception as e:
         logger.error(e)
-        raise HTTPException(status_code=400, detail="Failed to get users")
 
 
 @router.get("/{user_id}")
