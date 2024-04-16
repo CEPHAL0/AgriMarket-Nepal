@@ -25,6 +25,6 @@ class User(Base):
 
     farmer_performance = relationship("FarmerPerformance", back_populates="user")
     resources = relationship("Resources", back_populates="author")
-    consumable_listing = relationship("ConsumableListing", back_populates="user")
+    consumable_listings = relationship("ConsumableListing", back_populates="user")
     # poster_bookings = relationship("UserSurplusBooking", foreign_keys=[UserSurplusBooking.poster_id], back_populates="poster")
     # booker_bookings = relationship("UserSurplusBooking", foreign_keys=[UserSurplusBooking.booker_id], back_populates="booker")
