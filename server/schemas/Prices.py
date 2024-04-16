@@ -1,16 +1,17 @@
 from pydantic import BaseModel
 from datetime import datetime
 
-class PricesBase(BaseModel):
+
+class PriceBase(BaseModel):
     consumable_id: int
     price: float
 
 
-class PriceCreate(PricesBase):
+class PriceCreate(PriceBase):
     pass
 
 
-class Prices(PricesBase):
+class Price(PriceBase):
     id: int
     created_at: datetime
     updated_at: datetime

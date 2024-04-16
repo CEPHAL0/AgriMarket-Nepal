@@ -1,17 +1,17 @@
 from pydantic import BaseModel
 from datetime import datetime
 
-class DistrictsBase(BaseModel):
+class DistrictBase(BaseModel):
     name: str
     province_id: int
     ecological_region: str
 
 
-class DistrictCreate(DistrictsBase):
+class DistrictCreate(DistrictBase):
     pass
 
 
-class Districts(DistrictsBase):
+class District(DistrictBase):
     id: int
     created_at: datetime
     updated_at: datetime

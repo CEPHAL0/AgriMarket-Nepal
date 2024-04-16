@@ -2,18 +2,18 @@ from pydantic import BaseModel
 from datetime import datetime
 
 
-class ConsumableListingsBase(BaseModel):
+class ConsumableListingBase(BaseModel):
     consumable_id: int
     user_id: int
     price: float
     district_id: int
 
 
-class ConsumableListingCreate(ConsumableListingsBase):
+class ConsumableListingCreate(ConsumableListingBase):
     pass
 
 
-class ConsumableListings(ConsumableListingsBase):
+class ConsumableListing(ConsumableListingBase):
     id: int
     created_at: datetime
     updated_at: datetime

@@ -1,15 +1,15 @@
 from pydantic import BaseModel
 from datetime import datetime
 
-class ProvincesBase(BaseModel):
+class ProvinceBase(BaseModel):
     name: str
 
 
-class ProvincesCreate(ProvincesBase):
+class ProvinceCreate(ProvinceBase):
     pass
 
 
-class Provinces(ProvincesBase):
+class Province(ProvinceBase):
     id: int
     created_at: datetime
     updated_at: datetime

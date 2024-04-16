@@ -1,1 +1,1 @@
-from schemas import User, Consumable
+from schemas import Users, Consumables

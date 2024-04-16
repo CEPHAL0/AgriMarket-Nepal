@@ -2,17 +2,17 @@ from pydantic import BaseModel
 from datetime import datetime
 
 
-class ResourceImagesBase(BaseModel):
+class ResourceImageBase(BaseModel):
     resource_id: int
     image_path: str
     order: int
 
 
-class ResourceImageCreate(ResourceImagesBase):
+class ResourceImageCreate(ResourceImageBase):
     pass
 
 
-class ResourceImages(ResourceImagesBase):
+class ResourceImage(ResourceImageBase):
     id: int
     created_at: datetime
     updated_at: datetime

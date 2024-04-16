@@ -3,18 +3,18 @@ from datetime import datetime
 from config.enums.audience import AudienceEnum
 
 
-class ResourcesBase(BaseModel):
+class ResourceBase(BaseModel):
     audience: AudienceEnum
     title: str
     description: str
     author_id: int
 
 
-class ResourceCreate(ResourcesBase):
+class ResourceCreate(ResourceBase):
     pass
 
 
-class Resources(ResourcesBase):
+class Resource(ResourceBase):
     id: int
     created_at: datetime
     updated_at: datetime

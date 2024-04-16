@@ -11,17 +11,17 @@ class ConsumableTypeEnum(str, Enum):
     other = "OTHER"
 
 
-class ConsumablesBase(BaseModel):
+class ConsumableBase(BaseModel):
     name: str
     type: ConsumableEnum
     image_path: str
 
 
-class ConsumablesCreate(ConsumablesBase):
+class ConsumableCreate(ConsumableBase):
     pass
 
 
-class Consumable(ConsumablesBase):
+class Consumable(ConsumableBase):
     id: int
     created_at: datetime
     updated_at: datetime
