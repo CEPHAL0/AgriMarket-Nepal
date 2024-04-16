@@ -21,7 +21,6 @@ def create_users_table():
         ),
         sa.Column("address", sa.String, nullable=False),
         sa.Column("phone", sa.String, unique=True, nullable=False, index=True),
-        sa.Column("profession", sa.String, nullable=False, index=True),
         sa.Column(
             "created_at",
             sa.DateTime,

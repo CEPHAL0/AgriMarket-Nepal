@@ -15,8 +15,12 @@ class Consumables(Base):
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
-    consumable_listings = relationship("ConsumableListing", back_populates="consumables")
-    bookings = relationship("UserSurplusBooking", back_populates="consumables")
-    surplus_listing = relationship("SurplusListing", back_populates="consumables")
+    consumable_listings = relationship("ConsumableListings", back_populates="consumables")
+
+    bookings = relationship("UserSurplusBookings", back_populates="consumables")
+
+    surplus_listings = relationship("SurplusListings", back_populates="consumables")
+
     prices = relationship("Prices", back_populates="consumables")
+    
     consumable_macros = relationship("ConsumableMacros", back_populates="consumables")

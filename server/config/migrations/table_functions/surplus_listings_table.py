@@ -13,6 +13,12 @@ def create_surplus_listings_table():
         sa.Column("booked", sa.Enum(booked.BookedEnum), nullable=False, index=True),
         sa.ForeignKeyConstraint(["consumable_id"], ["consumables.id"]),
         sa.Column(
+            "posted_date",
+            sa.DateTime,
+            nullable=False,
+            index=True,
+        ),
+        sa.Column(
             "created_at",
             sa.DateTime,
             nullable=False,
