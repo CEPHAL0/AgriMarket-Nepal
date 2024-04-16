@@ -7,6 +7,7 @@ from logger import logger
 
 router = APIRouter()
 
+
 def get_db():
     db = SessionLocal()
     try:

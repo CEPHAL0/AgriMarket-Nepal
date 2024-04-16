@@ -3,6 +3,13 @@ from enum import Enum
 from config.enums.role import RoleEnum
 from datetime import datetime
 
+from config.enums.role import RoleEnum
+
+
+# class RoleEnum(str, Enum):
+#     ADMIN = "ADMIN"
+#     FARMER = "FARMER"
+#     USER = "USER"
 
 class UserBase(BaseModel):
     name: str
@@ -13,8 +20,10 @@ class UserBase(BaseModel):
     address: str
     phone: str
 
+
 class UserCreate(UserBase):
     password: str
+
 
 class User(UserBase):
     id: int
@@ -22,4 +31,4 @@ class User(UserBase):
     updated_at: datetime
 
     class Config:
-        orm_mode = True
+        from_attributes = True

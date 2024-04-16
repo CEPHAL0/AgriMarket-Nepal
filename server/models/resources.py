@@ -17,5 +17,6 @@ class Resources(Base):
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
 
-    author = relationship("User", back_populates="resources")
-    resource_image = relationship("ResourceImage", back_populates="resource")
+    author = relationship("Users", back_populates="resources")
+    
+    resource_images = relationship("ResourceImages", back_populates="resource")
