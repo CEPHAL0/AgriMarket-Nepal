@@ -30,8 +30,8 @@ const HeroSection = () => {
           <Image
             src={'/farm-land.jpg'}
             alt="farm land"
-            width={100}
-            height={100}
+            width={200}
+            height={200}
           />
           <CardContent></CardContent>
         </Card>
@@ -39,8 +39,8 @@ const HeroSection = () => {
           <Image
             src={'/farm-land.jpg'}
             alt="farm land"
-            width={100}
-            height={100}
+            width={200}
+            height={200}
           />
           <CardContent></CardContent>
         </Card>
