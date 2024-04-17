@@ -1,0 +1,907 @@
+Commodity,Unit,Minimum,Maximum,Average,Season,Category,Year,Month,Day
+Guava,Kg,35.0,40.0,37.5,Summer Monsoon,Other,2013,August,14
+Guava,Kg,35.0,40.0,37.5,Summer Monsoon,Other,2013,August,15
+Guava,Kg,35.0,40.0,37.5,Summer Monsoon,Other,2013,August,16
+Guava,Kg,35.0,40.0,37.5,Summer Monsoon,Other,2013,August,18
+Guava,Kg,35.0,40.0,37.5,Summer Monsoon,Other,2013,August,19
+Guava,Kg,35.0,40.0,37.5,Summer Monsoon,Other,2013,August,20
+Guava,Kg,35.0,40.0,37.5,Summer Monsoon,Other,2013,August,23
+Guava,Kg,30.0,35.0,32.5,Summer Monsoon,Other,2013,August,25
+Guava,Kg,35.0,40.0,37.5,Summer Monsoon,Other,2013,August,26
+Guava,Kg,30.0,35.0,32.5,Summer Monsoon,Other,2013,August,27
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2013,August,29
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2013,August,30
+Guava,Kg,50.0,60.0,55.0,Late Autumn,Other,2013,December,9
+Guava,Kg,55.0,60.0,57.5,Late Autumn,Other,2013,December,10
+Guava,Kg,60.0,65.0,62.5,Summer Monsoon,Other,2013,July,25
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,November,1
+Guava,Kg,55.0,60.0,57.5,Early Autumn,Other,2013,November,3
+Guava,Kg,40.0,50.0,45.0,Early Autumn,Other,2013,November,4
+Guava,Kg,50.0,60.0,55.0,Late Autumn,Other,2013,November,29
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,1
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,2
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,3
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,4
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,6
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,7
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2013,October,8
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2013,October,9
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2013,October,10
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2013,October,11
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2013,October,12
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,16
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,17
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,20
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,21
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,22
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,23
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,24
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,25
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,27
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,28
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,29
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,30
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,October,31
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2013,September,1
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2013,September,2
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2013,September,3
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2013,September,4
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2013,September,5
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2013,September,6
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2013,September,8
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2013,September,9
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2013,September,10
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2013,September,11
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2013,September,12
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2013,September,13
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2013,September,15
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2013,September,16
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2013,September,17
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2013,September,19
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2013,September,20
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2013,September,22
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2013,September,23
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2013,September,24
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2013,September,25
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2013,September,26
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2013,September,27
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,September,29
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2013,September,30
+Guava,Kg,30.0,35.0,32.5,Summer Monsoon,Other,2014,August,8
+Guava,Kg,30.0,35.0,32.5,Summer Monsoon,Other,2014,August,9
+Guava,Kg,30.0,35.0,32.5,Summer Monsoon,Other,2014,August,10
+Guava,Kg,40.0,50.0,45.0,Summer Monsoon,Other,2014,August,12
+Guava,Kg,45.0,50.0,47.5,Summer Monsoon,Other,2014,August,13
+Guava,Kg,45.0,50.0,47.5,Summer Monsoon,Other,2014,August,14
+Guava,Kg,45.0,50.0,47.5,Summer Monsoon,Other,2014,August,17
+Guava,Kg,45.0,50.0,47.5,Summer Monsoon,Other,2014,August,18
+Guava,Kg,40.0,50.0,45.0,Summer Monsoon,Other,2014,August,19
+Guava,Kg,45.0,50.0,47.5,Summer Monsoon,Other,2014,August,20
+Guava,Kg,45.0,50.0,47.5,Summer Monsoon,Other,2014,August,21
+Guava,Kg,45.0,50.0,47.5,Summer Monsoon,Other,2014,August,22
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,August,23
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,August,24
+Guava,Kg,40.0,50.0,45.0,Summer Monsoon,Other,2014,August,25
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2014,August,26
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2014,August,27
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,August,28
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,August,29
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2014,August,31
+Guava,Kg,55.0,60.0,57.5,Winter,Other,2014,February,14
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2014,November,1
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2014,November,2
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2014,November,3
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2014,November,4
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2014,November,5
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2014,November,7
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2014,November,8
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2014,November,9
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2014,November,10
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,October,8
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,October,9
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,October,10
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2014,October,12
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,October,13
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,October,14
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,October,16
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2014,October,17
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2014,October,19
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2014,October,20
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2014,October,21
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2014,October,22
+Guava,Kg,25.0,35.0,30.0,Early Autumn,Other,2014,October,24
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2014,October,25
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,September,1
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,September,2
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,September,3
+Guava,Kg,25.0,35.0,30.0,Summer Monsoon,Other,2014,September,4
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,September,5
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,September,6
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,September,7
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,September,8
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,September,9
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,September,10
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,September,11
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,September,12
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,September,13
+Guava,Kg,30.0,40.0,35.0,Summer Monsoon,Other,2014,September,14
+Guava,Kg,40.0,50.0,45.0,Early Autumn,Other,2014,September,15
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,September,16
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,September,17
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,September,19
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,September,20
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,September,21
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,September,22
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,September,23
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,September,24
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,September,26
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,September,28
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,September,29
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2014,September,30
+Guava,Kg,35.0,40.0,37.5,Summer Monsoon,Other,2015,August,29
+Guava,Kg,35.0,40.0,37.5,Summer Monsoon,Other,2015,August,30
+Guava,Kg,110.0,120.0,115.0,Winter,Other,2015,March,3
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2015,October,1
+Guava,Kg,40.0,42.0,41.0,Early Autumn,Other,2015,October,2
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2015,October,3
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2015,October,4
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2015,October,5
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2015,October,6
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2015,October,7
+Guava,Kg,50.0,55.0,52.5,Early Autumn,Other,2015,October,8
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2015,October,9
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2015,October,10
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2015,October,11
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2015,October,12
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2015,October,13
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2015,October,14
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2015,October,15
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2015,October,16
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2015,October,17
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2015,October,18
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2015,October,19
+Guava,Kg,40.0,50.0,45.0,Early Autumn,Other,2015,October,20
+Guava,Kg,50.0,60.0,55.0,Early Autumn,Other,2015,October,23
+Guava,Kg,50.0,55.0,52.5,Early Autumn,Other,2015,October,24
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2015,September,9
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2015,September,10
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2015,September,11
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2015,September,12
+Guava,Kg,25.0,30.0,27.5,Summer Monsoon,Other,2015,September,13
+Guava,Kg,30.0,32.0,31.0,Summer Monsoon,Other,2015,September,14
+Guava,Kg,30.0,32.0,31.0,Early Autumn,Other,2015,September,15
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2015,September,16
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2015,September,17
+Guava,Kg,20.0,25.0,22.5,Early Autumn,Other,2015,September,18
+Guava,Kg,20.0,25.0,22.5,Early Autumn,Other,2015,September,19
+Guava,Kg,20.0,25.0,22.5,Early Autumn,Other,2015,September,20
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2015,September,21
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2015,September,22
+Guava,Kg,25.0,30.0,27.5,Early Autumn,Other,2015,September,23
+Guava,Kg,30.0,32.0,31.0,Early Autumn,Other,2015,September,24
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2015,September,25
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2015,September,26
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2015,September,27
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2015,September,28
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2015,September,29
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2015,September,30
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,1
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,2
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,3
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,4
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,5
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,6
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,7
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,8
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,9
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,10
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,11
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,12
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,13
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,14
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,15
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,16
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,17
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,18
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,19
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,20
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,21
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,22
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,23
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,October,24
+Guava,Kg,40.0,50.0,45.0,Summer Monsoon,Other,2016,September,2
+Guava,Kg,40.0,50.0,45.0,Summer Monsoon,Other,2016,September,3
+Guava,Kg,50.0,55.0,52.5,Summer Monsoon,Other,2016,September,4
+Guava,Kg,50.0,60.0,55.0,Summer Monsoon,Other,2016,September,5
+Guava,Kg,50.0,55.0,52.5,Summer Monsoon,Other,2016,September,6
+Guava,Kg,50.0,60.0,55.0,Summer Monsoon,Other,2016,September,7
+Guava,Kg,50.0,55.0,52.5,Summer Monsoon,Other,2016,September,8
+Guava,Kg,50.0,60.0,55.0,Summer Monsoon,Other,2016,September,9
+Guava,Kg,65.0,70.0,67.5,Summer Monsoon,Other,2016,September,10
+Guava,Kg,40.0,45.0,42.5,Summer Monsoon,Other,2016,September,11
+Guava,Kg,40.0,45.0,42.5,Summer Monsoon,Other,2016,September,12
+Guava,Kg,40.0,45.0,42.5,Summer Monsoon,Other,2016,September,13
+Guava,Kg,40.0,45.0,42.5,Summer Monsoon,Other,2016,September,14
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2016,September,15
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,September,16
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,September,17
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2016,September,18
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2016,September,19
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2016,September,20
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2016,September,21
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2016,September,22
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2016,September,23
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2016,September,24
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,September,25
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2016,September,26
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,September,27
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,September,28
+Guava,Kg,30.0,40.0,35.0,Early Autumn,Other,2016,September,29
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2016,September,30
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2017,October,2
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2017,October,3
+Guava,Kg,60.0,70.0,65.0,Early Autumn,Other,2017,October,4
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2017,October,5
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2017,October,6
+Guava,Kg,60.0,70.0,65.0,Early Autumn,Other,2017,October,7
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2017,October,8
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2017,October,9
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2017,October,10
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2017,October,11
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2017,September,15
+Guava,Kg,70.0,80.0,75.0,Early Autumn,Other,2017,September,16
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2017,September,17
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2017,September,18
+Guava,Kg,40.0,50.0,45.0,Early Autumn,Other,2017,September,20
+Guava,Kg,40.0,50.0,45.0,Early Autumn,Other,2017,September,21
+Guava,Kg,40.0,50.0,45.0,Early Autumn,Other,2017,September,22
+Guava,Kg,40.0,50.0,45.0,Early Autumn,Other,2017,September,23
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2017,September,24
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2017,September,25
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2017,September,26
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2017,September,27
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2017,September,28
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2017,September,29
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2017,September,30
+Guava,Kg,30.0,35.0,32.5,Summer Monsoon,Other,2018,August,26
+Guava,Kg,30.0,35.0,32.5,Summer Monsoon,Other,2018,August,27
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2018,October,7
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2018,October,8
+Guava,Kg,50.0,60.0,55.0,Early Autumn,Other,2018,October,9
+Guava,Kg,50.0,60.0,55.0,Early Autumn,Other,2018,October,10
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2018,October,11
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2018,October,12
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2018,October,13
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2018,October,14
+Guava,Kg,40.0,50.0,45.0,Early Autumn,Other,2018,October,15
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2018,October,16
+Guava,Kg,40.0,50.0,45.0,Early Autumn,Other,2018,October,17
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2018,October,18
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2018,October,19
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2018,October,20
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2018,October,21
+Guava,Kg,40.0,50.0,45.0,Early Autumn,Other,2018,October,22
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2019,September,21
+Guava,Kg,60.0,70.0,65.0,Early Autumn,Other,2019,September,22
+Guava,Kg,50.0,60.0,55.0,Early Autumn,Other,2019,September,23
+Guava,Kg,60.0,70.0,65.0,Early Autumn,Other,2019,September,24
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,1
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,2
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,3
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,4
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,5
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,6
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,7
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,8
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,9
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,10
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,11
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,12
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,13
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,14
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,15
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,16
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,17
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,18
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,19
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,20
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,December,21
+Guava,Kg,100.0,110.0,105.0,Late Autumn,Other,2020,December,22
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2020,December,23
+Guava,Kg,80.0,90.0,85.0,Late Autumn,Other,2020,December,24
+Guava,Kg,90.0,100.0,95.0,Late Autumn,Other,2020,December,25
+Guava,Kg,80.0,90.0,85.0,Late Autumn,Other,2020,December,26
+Guava,Kg,80.0,90.0,85.0,Late Autumn,Other,2020,December,27
+Guava,Kg,100.0,110.0,105.0,Late Autumn,Other,2020,December,28
+Guava,Kg,90.0,100.0,95.0,Late Autumn,Other,2020,December,29
+Guava,Kg,90.0,100.0,95.0,Late Autumn,Other,2020,December,30
+Guava,Kg,90.0,100.0,95.0,Late Autumn,Other,2020,December,31
+Guava,Kg,60.0,70.0,65.0,Early Autumn,Other,2020,November,1
+Guava,Kg,40.0,45.0,42.5,Early Autumn,Other,2020,November,2
+Guava,Kg,70.0,80.0,75.0,Early Autumn,Other,2020,November,3
+Guava,Kg,60.0,70.0,65.0,Early Autumn,Other,2020,November,4
+Guava,Kg,70.0,80.0,75.0,Early Autumn,Other,2020,November,5
+Guava,Kg,70.0,80.0,75.0,Early Autumn,Other,2020,November,6
+Guava,Kg,60.0,70.0,65.0,Early Autumn,Other,2020,November,7
+Guava,Kg,60.0,70.0,65.0,Early Autumn,Other,2020,November,8
+Guava,Kg,70.0,80.0,75.0,Early Autumn,Other,2020,November,9
+Guava,Kg,60.0,70.0,65.0,Early Autumn,Other,2020,November,10
+Guava,Kg,70.0,80.0,75.0,Early Autumn,Other,2020,November,11
+Guava,Kg,70.0,80.0,75.0,Early Autumn,Other,2020,November,12
+Guava,Kg,70.0,80.0,75.0,Early Autumn,Other,2020,November,13
+Guava,Kg,70.0,80.0,75.0,Early Autumn,Other,2020,November,14
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,November,15
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,November,27
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,November,28
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,November,29
+Guava,Kg,70.0,80.0,75.0,Late Autumn,Other,2020,November,30
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2020,October,5
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2020,October,6
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2020,October,7
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2020,October,8
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2020,October,9
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2020,October,10
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2020,October,11
+Guava,Kg,30.0,35.0,32.5,Early Autumn,Other,2020,October,12
+Guava,Kg,35.0,40.0,37.5,Early Autumn,Other,2020,October,13
+Guava,Kg,40.0,50.0,45.0,Early Autumn,Other,2020,October,14
+Guava,Kg,50.0,60.0,55.0,Early Autumn,Other,2020,October,15
+Guava,Kg,45.0,50.0,47.5,Early Autumn,Other,2020,October,17
+Guava,Kg,60.0,70.0,65.0,Early Autumn,Other,2020,October,20
+Guava,Kg,50.0,60.0,55.0,Early Autumn,Other,2020,October,21
+Guava,Kg,60.0,70.0,65.0,Early Autumn,Other,2020,October,22
+Guava,Kg,60.0,70.0,65.0,Early Autumn,Other,2020,October,23
+Guava,Kg,70.0,80.0,75.0,Early Autumn,Other,2020,October,24
+Guava,Kg,70.0,80.0,75.0,Early Autumn,Other,2020,October,25
+Guava,Kg,70.0,80.0,75.0,Early Autumn,Other,2020,October,26
+Guava,Kg,70.0,80.0,75.0,Early Autumn,Other,2020,October,27
+Guava,Kg,70.0,75.0,72.5,Early Autumn,Other,2020,October,28
+Guava,Kg,70.0,80.0,75.0,Early Autumn,Other,2020,October,29
+Guava,Kg,80.0,90.0,85.0,Early Autumn,Other,2020,October,30
+Guava,Kg,70.0,80.0,75.0,Early Autumn,Other,2020,October,31
+Guava,Kg,120.0,130.0,125.0,Summer Monsoon,Other,2021,August,20
+Guava,Kg,120.0,130.0,125.0,Summer Monsoon,Other,2021,August,21
+Guava,Kg,120.0,130.0,125.0,Summer Monsoon,Other,2021,August,22
+Guava,Kg,250.0,300.0,275.0,Summer Monsoon,Other,2021,August,24
+Guava,Kg,90.0,100.0,95.0,Summer Monsoon,Other,2021,August,25
+Guava,Kg,100.0,110.0,105.0,Summer Monsoon,Other,2021,August,26
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2021,August,27
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2021,August,28
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2021,August,29
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2021,August,30
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2021,August,31
+Guava,Kg,110.0,120.0,115.0,Late Autumn,Other,2021,December,1
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,December,2
+Guava,Kg,120.0,130.0,125.0,Late Autumn,Other,2021,December,3
+Guava,Kg,120.0,130.0,125.0,Late Autumn,Other,2021,December,4
+Guava,Kg,90.0,100.0,95.0,Late Autumn,Other,2021,December,5
+Guava,Kg,150.0,180.0,165.0,Late Autumn,Other,2021,December,6
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2021,December,7
+Guava,Kg,150.0,180.0,165.0,Late Autumn,Other,2021,December,8
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,December,9
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2021,December,10
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2021,December,11
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2021,December,12
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2021,December,13
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2021,December,14
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,December,15
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,December,16
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,December,18
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,December,19
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,December,20
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,December,21
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,December,22
+Guava,Kg,110.0,120.0,115.0,Late Autumn,Other,2021,December,23
+Guava,Kg,110.0,120.0,115.0,Late Autumn,Other,2021,December,24
+Guava,Kg,110.0,120.0,115.0,Late Autumn,Other,2021,December,25
+Guava,Kg,110.0,120.0,115.0,Late Autumn,Other,2021,December,26
+Guava,Kg,110.0,130.0,120.0,Late Autumn,Other,2021,December,27
+Guava,Kg,120.0,130.0,125.0,Late Autumn,Other,2021,December,28
+Guava,Kg,110.0,130.0,120.0,Late Autumn,Other,2021,December,29
+Guava,Kg,120.0,130.0,125.0,Late Autumn,Other,2021,December,30
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,December,31
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,1
+Guava,Kg,80.0,90.0,85.0,Winter,Other,2021,February,2
+Guava,Kg,80.0,90.0,85.0,Winter,Other,2021,February,3
+Guava,Kg,80.0,90.0,85.0,Winter,Other,2021,February,4
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,5
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,6
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,7
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,8
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,9
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,10
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,11
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,12
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,13
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,14
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,15
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,16
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,17
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,18
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,19
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,20
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,February,21
+Guava,Kg,110.0,110.0,110.0,Winter,Other,2021,February,22
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2021,February,23
+Guava,Kg,120.0,130.0,125.0,Winter,Other,2021,February,24
+Guava,Kg,120.0,130.0,125.0,Winter,Other,2021,February,25
+Guava,Kg,120.0,140.0,130.0,Winter,Other,2021,February,26
+Guava,Kg,120.0,130.0,125.0,Winter,Other,2021,February,27
+Guava,Kg,120.0,130.0,125.0,Winter,Other,2021,February,28
+Guava,Kg,90.0,100.0,95.0,Late Autumn,Other,2021,January,1
+Guava,Kg,90.0,100.0,95.0,Late Autumn,Other,2021,January,2
+Guava,Kg,90.0,100.0,95.0,Late Autumn,Other,2021,January,3
+Guava,Kg,90.0,100.0,95.0,Late Autumn,Other,2021,January,4
+Guava,Kg,90.0,100.0,95.0,Late Autumn,Other,2021,January,5
+Guava,Kg,100.0,110.0,105.0,Late Autumn,Other,2021,January,6
+Guava,Kg,90.0,100.0,95.0,Late Autumn,Other,2021,January,7
+Guava,Kg,100.0,110.0,105.0,Late Autumn,Other,2021,January,8
+Guava,Kg,100.0,110.0,105.0,Late Autumn,Other,2021,January,9
+Guava,Kg,100.0,110.0,105.0,Late Autumn,Other,2021,January,10
+Guava,Kg,100.0,110.0,105.0,Late Autumn,Other,2021,January,11
+Guava,Kg,110.0,120.0,115.0,Late Autumn,Other,2021,January,12
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2021,January,13
+Guava,Kg,120.0,140.0,130.0,Late Autumn,Other,2021,January,14
+Guava,Kg,100.0,110.0,105.0,Winter,Other,2021,January,15
+Guava,Kg,100.0,110.0,105.0,Winter,Other,2021,January,16
+Guava,Kg,100.0,110.0,105.0,Winter,Other,2021,January,17
+Guava,Kg,100.0,110.0,105.0,Winter,Other,2021,January,18
+Guava,Kg,100.0,110.0,105.0,Winter,Other,2021,January,19
+Guava,Kg,100.0,110.0,105.0,Winter,Other,2021,January,21
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2021,January,22
+Guava,Kg,100.0,110.0,105.0,Winter,Other,2021,January,23
+Guava,Kg,100.0,110.0,105.0,Winter,Other,2021,January,24
+Guava,Kg,100.0,110.0,105.0,Winter,Other,2021,January,25
+Guava,Kg,100.0,110.0,105.0,Winter,Other,2021,January,26
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,January,27
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,January,28
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2021,January,29
+Guava,Kg,80.0,90.0,85.0,Winter,Other,2021,January,30
+Guava,Kg,80.0,90.0,85.0,Winter,Other,2021,January,31
+Guava,Kg,150.0,160.0,155.0,Winter,Other,2021,March,1
+Guava,Kg,150.0,180.0,165.0,Winter,Other,2021,March,2
+Guava,Kg,280.0,300.0,290.0,Winter,Other,2021,March,5
+Guava,Kg,250.0,300.0,275.0,Winter,Other,2021,March,6
+Guava,Kg,250.0,260.0,255.0,Winter,Other,2021,March,7
+Guava,Kg,110.0,120.0,115.0,Winter,Other,2021,March,14
+Guava,Kg,190.0,200.0,195.0,Spring,Other,2021,May,3
+Guava,Kg,190.0,200.0,195.0,Spring,Other,2021,May,4
+Guava,Kg,190.0,200.0,195.0,Spring,Other,2021,May,5
+Guava,Kg,190.0,200.0,195.0,Spring,Other,2021,May,6
+Guava,Kg,190.0,200.0,195.0,Spring,Other,2021,May,7
+Guava,Kg,190.0,200.0,195.0,Spring,Other,2021,May,8
+Guava,Kg,190.0,200.0,195.0,Spring,Other,2021,May,9
+Guava,Kg,190.0,200.0,195.0,Spring,Other,2021,May,10
+Guava,Kg,190.0,200.0,195.0,Spring,Other,2021,May,11
+Guava,Kg,190.0,200.0,195.0,Spring,Other,2021,May,12
+Guava,Kg,190.0,200.0,195.0,Spring,Other,2021,May,13
+Guava,Kg,190.0,200.0,195.0,Spring,Other,2021,May,14
+Guava,Kg,190.0,200.0,195.0,Early Summer,Other,2021,May,15
+Guava,Kg,120.0,150.0,135.0,Early Autumn,Other,2021,November,1
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,November,2
+Guava,Kg,80.0,100.0,90.0,Early Autumn,Other,2021,November,3
+Guava,Kg,80.0,100.0,90.0,Early Autumn,Other,2021,November,4
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,November,5
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2021,November,6
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,November,7
+Guava,Kg,90.0,100.0,95.0,Early Autumn,Other,2021,November,8
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,November,9
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2021,November,10
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2021,November,11
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,November,12
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,November,13
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,November,14
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,November,15
+Guava,Kg,100.0,110.0,105.0,Late Autumn,Other,2021,November,16
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,November,17
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,November,18
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,November,19
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,November,20
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,November,21
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,November,22
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,November,23
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,November,24
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,November,25
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2021,November,26
+Guava,Kg,110.0,120.0,115.0,Late Autumn,Other,2021,November,27
+Guava,Kg,110.0,120.0,115.0,Late Autumn,Other,2021,November,28
+Guava,Kg,110.0,120.0,115.0,Late Autumn,Other,2021,November,29
+Guava,Kg,110.0,120.0,115.0,Late Autumn,Other,2021,November,30
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,October,1
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,October,2
+Guava,Kg,90.0,100.0,95.0,Early Autumn,Other,2021,October,3
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,October,4
+Guava,Kg,90.0,100.0,95.0,Early Autumn,Other,2021,October,5
+Guava,Kg,90.0,100.0,95.0,Early Autumn,Other,2021,October,6
+Guava,Kg,100.0,110.0,105.0,Early Autumn,Other,2021,October,7
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,October,8
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,October,9
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,October,10
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,October,11
+Guava,Kg,90.0,100.0,95.0,Early Autumn,Other,2021,October,12
+Guava,Kg,150.0,200.0,175.0,Early Autumn,Other,2021,October,13
+Guava,Kg,150.0,200.0,175.0,Early Autumn,Other,2021,October,14
+Guava,Kg,150.0,200.0,175.0,Early Autumn,Other,2021,October,15
+Guava,Kg,150.0,200.0,175.0,Early Autumn,Other,2021,October,16
+Guava,Kg,150.0,200.0,175.0,Early Autumn,Other,2021,October,17
+Guava,Kg,120.0,150.0,135.0,Early Autumn,Other,2021,October,18
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2021,October,19
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2021,October,20
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2021,October,21
+Guava,Kg,120.0,150.0,135.0,Early Autumn,Other,2021,October,22
+Guava,Kg,120.0,150.0,135.0,Early Autumn,Other,2021,October,23
+Guava,Kg,120.0,150.0,135.0,Early Autumn,Other,2021,October,24
+Guava,Kg,120.0,150.0,135.0,Early Autumn,Other,2021,October,25
+Guava,Kg,100.0,110.0,105.0,Early Autumn,Other,2021,October,26
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,October,27
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,October,28
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,October,29
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2021,October,30
+Guava,Kg,130.0,150.0,140.0,Early Autumn,Other,2021,October,31
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2021,September,1
+Guava,Kg,80.0,90.0,85.0,Summer Monsoon,Other,2021,September,2
+Guava,Kg,100.0,110.0,105.0,Summer Monsoon,Other,2021,September,3
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2021,September,4
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2021,September,5
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2021,September,6
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2021,September,7
+Guava,Kg,60.0,80.0,70.0,Summer Monsoon,Other,2021,September,8
+Guava,Kg,60.0,70.0,65.0,Summer Monsoon,Other,2021,September,9
+Guava,Kg,70.0,80.0,75.0,Summer Monsoon,Other,2021,September,10
+Guava,Kg,60.0,70.0,65.0,Summer Monsoon,Other,2021,September,11
+Guava,Kg,60.0,70.0,65.0,Summer Monsoon,Other,2021,September,12
+Guava,Kg,50.0,60.0,55.0,Summer Monsoon,Other,2021,September,13
+Guava,Kg,60.0,80.0,70.0,Summer Monsoon,Other,2021,September,14
+Guava,Kg,80.0,100.0,90.0,Early Autumn,Other,2021,September,15
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,September,16
+Guava,Kg,120.0,150.0,135.0,Early Autumn,Other,2021,September,17
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,September,18
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,September,19
+Guava,Kg,110.0,120.0,115.0,Early Autumn,Other,2021,September,20
+Guava,Kg,120.0,130.0,125.0,Early Autumn,Other,2021,September,21
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,September,22
+Guava,Kg,80.0,100.0,90.0,Early Autumn,Other,2021,September,23
+Guava,Kg,80.0,100.0,90.0,Early Autumn,Other,2021,September,24
+Guava,Kg,80.0,100.0,90.0,Early Autumn,Other,2021,September,25
+Guava,Kg,80.0,100.0,90.0,Early Autumn,Other,2021,September,26
+Guava,Kg,90.0,100.0,95.0,Early Autumn,Other,2021,September,27
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,September,28
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,September,29
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2021,September,30
+Guava,Kg,300.0,320.0,310.0,Summer Monsoon,Other,2022,August,1
+Guava,Kg,300.0,320.0,310.0,Summer Monsoon,Other,2022,August,2
+Guava,Kg,120.0,140.0,133.33,Summer Monsoon,Other,2022,August,15
+Guava,Kg,120.0,140.0,130.0,Summer Monsoon,Other,2022,August,16
+Guava,Kg,120.0,140.0,130.0,Summer Monsoon,Other,2022,August,17
+Guava,Kg,120.0,140.0,130.0,Summer Monsoon,Other,2022,August,18
+Guava,Kg,140.0,150.0,145.0,Summer Monsoon,Other,2022,August,19
+Guava,Kg,140.0,150.0,145.0,Summer Monsoon,Other,2022,August,20
+Guava,Kg,140.0,150.0,145.0,Summer Monsoon,Other,2022,August,21
+Guava,Kg,100.0,120.0,113.33,Summer Monsoon,Other,2022,August,22
+Guava,Kg,120.0,130.0,125.0,Summer Monsoon,Other,2022,August,23
+Guava,Kg,120.0,140.0,130.0,Summer Monsoon,Other,2022,August,24
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2022,August,25
+Guava,Kg,80.0,100.0,90.0,Summer Monsoon,Other,2022,August,26
+Guava,Kg,80.0,90.0,86.67,Summer Monsoon,Other,2022,August,27
+Guava,Kg,80.0,90.0,85.0,Summer Monsoon,Other,2022,August,28
+Guava,Kg,80.0,90.0,85.0,Summer Monsoon,Other,2022,August,29
+Guava,Kg,80.0,90.0,86.67,Summer Monsoon,Other,2022,August,30
+Guava,Kg,90.0,100.0,95.0,Summer Monsoon,Other,2022,August,31
+Guava,Kg,150.0,200.0,175.0,Late Autumn,Other,2022,December,1
+Guava,Kg,150.0,200.0,175.0,Late Autumn,Other,2022,December,2
+Guava,Kg,150.0,200.0,175.0,Late Autumn,Other,2022,December,3
+Guava,Kg,150.0,200.0,175.0,Late Autumn,Other,2022,December,4
+Guava,Kg,150.0,200.0,175.0,Late Autumn,Other,2022,December,5
+Guava,Kg,120.0,150.0,140.0,Late Autumn,Other,2022,December,6
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,December,7
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,December,8
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,December,9
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,December,10
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,December,11
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,December,12
+Guava,Kg,120.0,150.0,140.0,Late Autumn,Other,2022,December,13
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,December,14
+Guava,Kg,150.0,180.0,165.0,Late Autumn,Other,2022,December,15
+Guava,Kg,120.0,150.0,140.0,Late Autumn,Other,2022,December,16
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,December,17
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,December,18
+Guava,Kg,150.0,160.0,156.67,Late Autumn,Other,2022,December,19
+Guava,Kg,120.0,150.0,140.0,Late Autumn,Other,2022,December,20
+Guava,Kg,120.0,150.0,140.0,Late Autumn,Other,2022,December,21
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,December,22
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,December,23
+Guava,Kg,120.0,150.0,140.0,Late Autumn,Other,2022,December,24
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,December,25
+Guava,Kg,120.0,150.0,140.0,Late Autumn,Other,2022,December,26
+Guava,Kg,140.0,160.0,150.0,Late Autumn,Other,2022,December,27
+Guava,Kg,120.0,150.0,140.0,Late Autumn,Other,2022,December,28
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,December,29
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,December,30
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,December,31
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,1
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,2
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,3
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,4
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,5
+Guava,Kg,110.0,120.0,115.0,Winter,Other,2022,February,6
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,7
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,8
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,9
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,10
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,11
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,12
+Guava,Kg,110.0,120.0,115.0,Winter,Other,2022,February,13
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,14
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,15
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,16
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,17
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,18
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,19
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,20
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,21
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,22
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,23
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,24
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,25
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,27
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,February,28
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2022,January,1
+Guava,Kg,100.0,110.0,105.0,Late Autumn,Other,2022,January,2
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2022,January,3
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2022,January,4
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2022,January,6
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2022,January,7
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2022,January,8
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2022,January,9
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2022,January,10
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2022,January,11
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2022,January,12
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2022,January,13
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2022,January,14
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,15
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,16
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,17
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,18
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,19
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,20
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,21
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,22
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,23
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,24
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,25
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,26
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,27
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,28
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,29
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,30
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,January,31
+Guava,Kg,300.0,320.0,310.0,Summer Monsoon,Other,2022,July,28
+Guava,Kg,300.0,320.0,310.0,Summer Monsoon,Other,2022,July,29
+Guava,Kg,300.0,320.0,310.0,Summer Monsoon,Other,2022,July,30
+Guava,Kg,300.0,320.0,310.0,Summer Monsoon,Other,2022,July,31
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,March,1
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,March,2
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,March,3
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,March,5
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,March,6
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,March,7
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,March,8
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2022,March,9
+Guava,Kg,120.0,130.0,125.0,Winter,Other,2022,March,10
+Guava,Kg,120.0,140.0,130.0,Winter,Other,2022,March,11
+Guava,Kg,120.0,140.0,130.0,Winter,Other,2022,March,12
+Guava,Kg,120.0,140.0,130.0,Winter,Other,2022,March,13
+Guava,Kg,120.0,140.0,130.0,Winter,Other,2022,March,14
+Guava,Kg,120.0,140.0,130.0,Spring,Other,2022,March,15
+Guava,Kg,120.0,140.0,130.0,Spring,Other,2022,March,16
+Guava,Kg,120.0,140.0,130.0,Spring,Other,2022,March,17
+Guava,Kg,120.0,140.0,130.0,Spring,Other,2022,March,18
+Guava,Kg,120.0,140.0,130.0,Spring,Other,2022,March,19
+Guava,Kg,120.0,140.0,130.0,Spring,Other,2022,March,20
+Guava,Kg,120.0,140.0,130.0,Spring,Other,2022,March,21
+Guava,Kg,120.0,140.0,130.0,Spring,Other,2022,March,22
+Guava,Kg,110.0,120.0,115.0,Spring,Other,2022,March,23
+Guava,Kg,120.0,140.0,130.0,Spring,Other,2022,March,24
+Guava,Kg,120.0,140.0,130.0,Spring,Other,2022,March,25
+Guava,Kg,120.0,140.0,130.0,Spring,Other,2022,March,26
+Guava,Kg,120.0,140.0,130.0,Spring,Other,2022,March,27
+Guava,Kg,120.0,140.0,130.0,Spring,Other,2022,March,28
+Guava,Kg,150.0,200.0,175.0,Early Autumn,Other,2022,November,2
+Guava,Kg,150.0,180.0,165.0,Early Autumn,Other,2022,November,3
+Guava,Kg,150.0,180.0,165.0,Early Autumn,Other,2022,November,4
+Guava,Kg,150.0,160.0,155.0,Early Autumn,Other,2022,November,5
+Guava,Kg,150.0,160.0,155.0,Early Autumn,Other,2022,November,6
+Guava,Kg,120.0,150.0,135.0,Early Autumn,Other,2022,November,7
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,November,8
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,November,9
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2022,November,10
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2022,November,11
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,November,12
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,November,13
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2022,November,14
+Guava,Kg,150.0,200.0,175.0,Late Autumn,Other,2022,November,24
+Guava,Kg,150.0,200.0,175.0,Late Autumn,Other,2022,November,25
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,November,26
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2022,November,27
+Guava,Kg,200.0,250.0,225.0,Late Autumn,Other,2022,November,29
+Guava,Kg,150.0,200.0,175.0,Late Autumn,Other,2022,November,30
+Guava,Kg,80.0,100.0,90.0,Early Autumn,Other,2022,October,1
+Guava,Kg,100.0,110.0,105.0,Early Autumn,Other,2022,October,2
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,October,3
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,October,4
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,October,6
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,October,8
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,October,9
+Guava,Kg,120.0,140.0,130.0,Early Autumn,Other,2022,October,10
+Guava,Kg,90.0,100.0,95.0,Early Autumn,Other,2022,October,11
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,October,12
+Guava,Kg,120.0,150.0,135.0,Early Autumn,Other,2022,October,13
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,October,14
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,October,15
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,October,16
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,October,17
+Guava,Kg,120.0,130.0,125.0,Early Autumn,Other,2022,October,18
+Guava,Kg,120.0,150.0,135.0,Early Autumn,Other,2022,October,19
+Guava,Kg,120.0,130.0,125.0,Early Autumn,Other,2022,October,20
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,October,21
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,October,22
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,October,23
+Guava,Kg,120.0,130.0,125.0,Early Autumn,Other,2022,October,24
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,October,25
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,October,26
+Guava,Kg,80.0,90.0,86.67,Summer Monsoon,Other,2022,September,1
+Guava,Kg,80.0,90.0,85.0,Summer Monsoon,Other,2022,September,2
+Guava,Kg,80.0,90.0,86.67,Summer Monsoon,Other,2022,September,3
+Guava,Kg,90.0,100.0,96.67,Summer Monsoon,Other,2022,September,5
+Guava,Kg,90.0,100.0,96.67,Summer Monsoon,Other,2022,September,6
+Guava,Kg,80.0,90.0,85.0,Summer Monsoon,Other,2022,September,7
+Guava,Kg,80.0,90.0,86.67,Summer Monsoon,Other,2022,September,8
+Guava,Kg,80.0,90.0,85.0,Summer Monsoon,Other,2022,September,9
+Guava,Kg,90.0,100.0,95.0,Summer Monsoon,Other,2022,September,10
+Guava,Kg,80.0,90.0,85.0,Summer Monsoon,Other,2022,September,11
+Guava,Kg,80.0,90.0,85.0,Summer Monsoon,Other,2022,September,12
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2022,September,13
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2022,September,14
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,September,15
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,September,16
+Guava,Kg,100.0,110.0,105.0,Early Autumn,Other,2022,September,17
+Guava,Kg,90.0,100.0,95.0,Early Autumn,Other,2022,September,18
+Guava,Kg,90.0,100.0,95.0,Early Autumn,Other,2022,September,19
+Guava,Kg,80.0,90.0,86.67,Early Autumn,Other,2022,September,20
+Guava,Kg,80.0,100.0,93.33,Early Autumn,Other,2022,September,21
+Guava,Kg,100.0,120.0,113.33,Early Autumn,Other,2022,September,22
+Guava,Kg,100.0,110.0,105.0,Early Autumn,Other,2022,September,23
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,September,24
+Guava,Kg,90.0,100.0,95.0,Early Autumn,Other,2022,September,25
+Guava,Kg,100.0,120.0,113.33,Early Autumn,Other,2022,September,26
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2022,September,27
+Guava,Kg,100.0,120.0,113.33,Early Autumn,Other,2022,September,28
+Guava,Kg,100.0,120.0,113.33,Early Autumn,Other,2022,September,29
+Guava,Kg,90.0,100.0,93.33,Early Autumn,Other,2022,September,30
+Guava,Kg,280.0,300.0,290.0,Summer Monsoon,Other,2023,August,15
+Guava,Kg,300.0,320.0,310.0,Summer Monsoon,Other,2023,August,16
+Guava,Kg,300.0,350.0,325.0,Summer Monsoon,Other,2023,August,17
+Guava,Kg,300.0,320.0,310.0,Summer Monsoon,Other,2023,August,22
+Guava,Kg,150.0,200.0,175.0,Summer Monsoon,Other,2023,August,23
+Guava,Kg,140.0,150.0,146.67,Summer Monsoon,Other,2023,August,24
+Guava,Kg,120.0,150.0,135.0,Summer Monsoon,Other,2023,August,25
+Guava,Kg,120.0,150.0,135.0,Summer Monsoon,Other,2023,August,26
+Guava,Kg,120.0,150.0,135.0,Summer Monsoon,Other,2023,August,27
+Guava,Kg,120.0,150.0,135.0,Summer Monsoon,Other,2023,August,28
+Guava,Kg,120.0,150.0,135.0,Summer Monsoon,Other,2023,August,29
+Guava,Kg,120.0,150.0,135.0,Summer Monsoon,Other,2023,August,30
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2023,August,31
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,1
+Guava,Kg,90.0,100.0,96.67,Winter,Other,2023,February,2
+Guava,Kg,90.0,100.0,93.33,Winter,Other,2023,February,3
+Guava,Kg,90.0,100.0,96.67,Winter,Other,2023,February,4
+Guava,Kg,90.0,100.0,95.0,Winter,Other,2023,February,5
+Guava,Kg,120.0,150.0,140.0,Winter,Other,2023,February,6
+Guava,Kg,120.0,150.0,135.0,Winter,Other,2023,February,7
+Guava,Kg,120.0,150.0,135.0,Winter,Other,2023,February,8
+Guava,Kg,100.0,120.0,113.33,Winter,Other,2023,February,9
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,10
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,11
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,12
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,13
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,15
+Guava,Kg,100.0,120.0,113.33,Winter,Other,2023,February,16
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,17
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,18
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,19
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,20
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,21
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,22
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,23
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,24
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,25
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,26
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,27
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,February,28
+Guava,Kg,120.0,150.0,135.0,Late Autumn,Other,2023,January,1
+Guava,Kg,120.0,150.0,140.0,Late Autumn,Other,2023,January,2
+Guava,Kg,100.0,120.0,113.33,Late Autumn,Other,2023,January,3
+Guava,Kg,100.0,120.0,113.33,Late Autumn,Other,2023,January,4
+Guava,Kg,100.0,120.0,113.33,Late Autumn,Other,2023,January,5
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2023,January,6
+Guava,Kg,100.0,120.0,113.33,Late Autumn,Other,2023,January,7
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2023,January,8
+Guava,Kg,100.0,120.0,113.33,Late Autumn,Other,2023,January,9
+Guava,Kg,100.0,120.0,113.33,Late Autumn,Other,2023,January,10
+Guava,Kg,100.0,120.0,113.33,Late Autumn,Other,2023,January,11
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2023,January,12
+Guava,Kg,100.0,120.0,110.0,Late Autumn,Other,2023,January,13
+Guava,Kg,100.0,120.0,113.33,Late Autumn,Other,2023,January,14
+Guava,Kg,100.0,120.0,113.33,Winter,Other,2023,January,15
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,January,16
+Guava,Kg,100.0,120.0,113.33,Winter,Other,2023,January,17
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,January,18
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,January,19
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,January,20
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,January,21
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,January,22
+Guava,Kg,120.0,150.0,135.0,Winter,Other,2023,January,23
+Guava,Kg,120.0,150.0,135.0,Winter,Other,2023,January,24
+Guava,Kg,120.0,150.0,140.0,Winter,Other,2023,January,25
+Guava,Kg,120.0,150.0,135.0,Winter,Other,2023,January,26
+Guava,Kg,120.0,150.0,140.0,Winter,Other,2023,January,27
+Guava,Kg,120.0,150.0,140.0,Winter,Other,2023,January,28
+Guava,Kg,120.0,150.0,135.0,Winter,Other,2023,January,29
+Guava,Kg,120.0,150.0,140.0,Winter,Other,2023,January,30
+Guava,Kg,120.0,150.0,140.0,Winter,Other,2023,January,31
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,March,1
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,March,2
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,March,3
+Guava,Kg,100.0,120.0,110.0,Winter,Other,2023,March,5
+Guava,Kg,200.0,220.0,210.0,Winter,Other,2023,March,7
+Guava,Kg,200.0,220.0,210.0,Winter,Other,2023,March,8
+Guava,Kg,200.0,220.0,210.0,Winter,Other,2023,March,9
+Guava,Kg,200.0,220.0,210.0,Winter,Other,2023,March,10
+Guava,Kg,220.0,240.0,230.0,Winter,Other,2023,March,11
+Guava,Kg,220.0,240.0,230.0,Winter,Other,2023,March,12
+Guava,Kg,200.0,220.0,210.0,Winter,Other,2023,March,13
+Guava,Kg,200.0,220.0,210.0,Winter,Other,2023,March,14
+Guava,Kg,200.0,220.0,210.0,Spring,Other,2023,March,15
+Guava,Kg,200.0,220.0,210.0,Spring,Other,2023,March,16
+Guava,Kg,200.0,250.0,225.0,Spring,Other,2023,March,17
+Guava,Kg,200.0,220.0,210.0,Spring,Other,2023,March,18
+Guava,Kg,200.0,220.0,210.0,Spring,Other,2023,March,19
+Guava,Kg,200.0,220.0,210.0,Spring,Other,2023,March,20
+Guava,Kg,200.0,250.0,225.0,Spring,Other,2023,March,21
+Guava,Kg,200.0,250.0,225.0,Spring,Other,2023,March,22
+Guava,Kg,200.0,220.0,210.0,Spring,Other,2023,March,23
+Guava,Kg,200.0,220.0,210.0,Spring,Other,2023,March,24
+Guava,Kg,200.0,220.0,210.0,Spring,Other,2023,March,25
+Guava,Kg,200.0,220.0,210.0,Spring,Other,2023,March,26
+Guava,Kg,200.0,220.0,210.0,Spring,Other,2023,March,27
+Guava,Kg,200.0,220.0,210.0,Spring,Other,2023,March,28
+Guava,Kg,200.0,220.0,210.0,Spring,Other,2023,March,29
+Guava,Kg,200.0,220.0,210.0,Spring,Other,2023,March,30
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2023,September,1
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2023,September,2
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2023,September,3
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2023,September,4
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2023,September,5
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2023,September,6
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2023,September,7
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2023,September,8
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2023,September,9
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2023,September,10
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2023,September,11
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2023,September,12
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2023,September,13
+Guava,Kg,100.0,120.0,110.0,Summer Monsoon,Other,2023,September,14
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2023,September,15
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2023,September,16
+Guava,Kg,100.0,120.0,110.0,Early Autumn,Other,2023,September,17
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2023,September,18
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2023,September,19
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2023,September,20
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2023,September,21
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2023,September,22
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2023,September,23
+Guava,Kg,120.0,150.0,135.0,Early Autumn,Other,2023,September,24
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2023,September,25
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2023,September,26
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2023,September,27
+Guava,Kg,100.0,150.0,125.0,Early Autumn,Other,2023,September,28

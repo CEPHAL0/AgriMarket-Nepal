@@ -1,0 +1,11 @@
+Commodity,Unit,Minimum,Maximum,Average,Season,Category,Year,Month,Day
+Musk Melon,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2014,December,9
+Musk Melon,Kg,65.0,70.0,67.5,Late Autumn,Fruit,2014,December,10
+Musk Melon,Kg,30.0,30.0,30.0,Spring,Fruit,2015,April,1
+Musk Melon,Kg,30.0,35.0,32.5,Spring,Fruit,2015,April,2
+Musk Melon,Kg,20.0,25.0,22.5,Spring,Fruit,2015,April,18
+Musk Melon,Kg,50.0,60.0,55.0,Winter,Fruit,2015,February,23
+Musk Melon,Kg,15.0,18.0,16.5,Early Summer,Fruit,2015,May,16
+Musk Melon,Kg,18.0,20.0,19.0,Early Summer,Fruit,2015,May,23
+Musk Melon,Kg,20.0,22.0,21.0,Early Summer,Fruit,2015,May,30
+Musk Melon,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2020,November,21

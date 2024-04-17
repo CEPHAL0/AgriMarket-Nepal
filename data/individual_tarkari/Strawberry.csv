@@ -1,0 +1,551 @@
+Commodity,Unit,Minimum,Maximum,Average,Season,Category,Year,Month,Day
+Strawberry,Kg,190.0,200.0,195.0,Spring,Fruit,2014,April,9
+Strawberry,Kg,190.0,200.0,195.0,Spring,Fruit,2014,April,10
+Strawberry,Kg,190.0,200.0,195.0,Spring,Fruit,2014,April,11
+Strawberry,Kg,190.0,200.0,195.0,Spring,Fruit,2014,April,13
+Strawberry,Kg,190.0,200.0,195.0,Spring,Fruit,2014,April,15
+Strawberry,Kg,190.0,200.0,195.0,Spring,Fruit,2014,April,16
+Strawberry,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2014,December,31
+Strawberry,Kg,200.0,250.0,225.0,Winter,Fruit,2014,February,9
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,February,10
+Strawberry,Kg,180.0,200.0,190.0,Winter,Fruit,2014,February,11
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,February,12
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,February,13
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,February,14
+Strawberry,Kg,180.0,200.0,190.0,Winter,Fruit,2014,February,16
+Strawberry,Kg,180.0,200.0,190.0,Winter,Fruit,2014,February,17
+Strawberry,Kg,180.0,200.0,190.0,Winter,Fruit,2014,February,18
+Strawberry,Kg,180.0,200.0,190.0,Winter,Fruit,2014,February,20
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,February,21
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,February,23
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,February,24
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,February,25
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,February,26
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,February,28
+Strawberry,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2014,January,7
+Strawberry,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2014,January,8
+Strawberry,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2014,January,9
+Strawberry,Kg,180.0,200.0,190.0,Late Autumn,Fruit,2014,January,10
+Strawberry,Kg,300.0,350.0,325.0,Winter,Fruit,2014,January,29
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,March,3
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,March,6
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,March,7
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,March,9
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,March,10
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,March,11
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,March,12
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,March,13
+Strawberry,Kg,190.0,200.0,195.0,Winter,Fruit,2014,March,14
+Strawberry,Kg,190.0,200.0,195.0,Spring,Fruit,2014,March,17
+Strawberry,Kg,190.0,200.0,195.0,Spring,Fruit,2014,March,18
+Strawberry,Kg,180.0,200.0,190.0,Spring,Fruit,2014,March,19
+Strawberry,Kg,190.0,200.0,195.0,Spring,Fruit,2014,March,20
+Strawberry,Kg,190.0,200.0,195.0,Spring,Fruit,2014,March,21
+Strawberry,Kg,190.0,200.0,195.0,Spring,Fruit,2014,March,23
+Strawberry,Kg,190.0,200.0,195.0,Spring,Fruit,2014,March,24
+Strawberry,Kg,190.0,200.0,195.0,Spring,Fruit,2014,March,25
+Strawberry,Kg,190.0,200.0,195.0,Spring,Fruit,2014,March,26
+Strawberry,Kg,190.0,200.0,195.0,Spring,Fruit,2014,March,27
+Strawberry,Kg,190.0,200.0,195.0,Spring,Fruit,2014,March,28
+Strawberry,Kg,380.0,400.0,390.0,Winter,Fruit,2015,February,18
+Strawberry,Kg,250.0,400.0,325.0,Winter,Fruit,2015,February,19
+Strawberry,Kg,350.0,400.0,375.0,Winter,Fruit,2015,February,20
+Strawberry,Kg,350.0,400.0,375.0,Winter,Fruit,2015,February,22
+Strawberry,Kg,350.0,400.0,375.0,Winter,Fruit,2015,February,23
+Strawberry,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2015,January,1
+Strawberry,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2015,January,2
+Strawberry,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2015,January,4
+Strawberry,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2015,January,5
+Strawberry,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2015,January,6
+Strawberry,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2015,January,8
+Strawberry,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2015,January,9
+Strawberry,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2015,January,11
+Strawberry,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2015,January,12
+Strawberry,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2015,January,13
+Strawberry,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2015,January,14
+Strawberry,Kg,250.0,300.0,275.0,Winter,Fruit,2015,January,16
+Strawberry,Kg,250.0,300.0,275.0,Winter,Fruit,2015,January,19
+Strawberry,Kg,200.0,250.0,225.0,Winter,Fruit,2015,January,20
+Strawberry,Kg,200.0,250.0,225.0,Winter,Fruit,2015,January,21
+Strawberry,Kg,200.0,220.0,210.0,Winter,Fruit,2015,January,22
+Strawberry,Kg,200.0,220.0,210.0,Winter,Fruit,2015,January,23
+Strawberry,Kg,200.0,220.0,210.0,Winter,Fruit,2015,January,25
+Strawberry,Kg,200.0,220.0,210.0,Winter,Fruit,2015,January,26
+Strawberry,Kg,200.0,220.0,210.0,Winter,Fruit,2015,January,27
+Strawberry,Kg,200.0,220.0,210.0,Winter,Fruit,2015,January,28
+Strawberry,Kg,200.0,220.0,210.0,Winter,Fruit,2015,January,29
+Strawberry,Kg,200.0,220.0,210.0,Winter,Fruit,2015,January,31
+Strawberry,Kg,250.0,260.0,255.0,Late Autumn,Fruit,2016,January,9
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,1
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2020,December,2
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,3
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,4
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,5
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,6
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,7
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,8
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,9
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,10
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,11
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,12
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,13
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,14
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,15
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,17
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,18
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,19
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,20
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,21
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,22
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2020,December,23
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2020,December,24
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2020,December,25
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2020,December,26
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,December,27
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2020,December,28
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2020,December,29
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2020,December,30
+Strawberry,Kg,550.0,600.0,575.0,Late Autumn,Fruit,2020,December,31
+Strawberry,Kg,550.0,600.0,575.0,Late Autumn,Fruit,2020,November,19
+Strawberry,Kg,650.0,700.0,675.0,Late Autumn,Fruit,2020,November,24
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2020,November,25
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,November,26
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2020,November,27
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,November,28
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,November,29
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2020,November,30
+Strawberry,Kg,450.0,500.0,475.0,Spring,Fruit,2021,April,1
+Strawberry,Kg,500.0,600.0,550.0,Spring,Fruit,2021,April,2
+Strawberry,Kg,450.0,500.0,475.0,Spring,Fruit,2021,April,3
+Strawberry,Kg,450.0,500.0,475.0,Spring,Fruit,2021,April,4
+Strawberry,Kg,350.0,400.0,375.0,Spring,Fruit,2021,April,6
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2021,April,7
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2021,April,8
+Strawberry,Kg,350.0,400.0,375.0,Spring,Fruit,2021,April,9
+Strawberry,Kg,350.0,400.0,375.0,Spring,Fruit,2021,April,10
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2021,April,11
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2021,April,12
+Strawberry,Kg,350.0,400.0,375.0,Spring,Fruit,2021,April,13
+Strawberry,Kg,350.0,450.0,400.0,Spring,Fruit,2021,April,14
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2021,April,15
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2021,April,16
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2021,April,17
+Strawberry,Kg,350.0,400.0,375.0,Spring,Fruit,2021,April,18
+Strawberry,Kg,300.0,350.0,325.0,Spring,Fruit,2021,April,19
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2021,April,20
+Strawberry,Kg,300.0,350.0,325.0,Spring,Fruit,2021,April,21
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2021,April,22
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2021,April,23
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2021,April,24
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2021,April,25
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2021,April,26
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2021,April,27
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2021,April,28
+Strawberry,Kg,600.0,650.0,625.0,Late Autumn,Fruit,2021,December,1
+Strawberry,Kg,600.0,700.0,650.0,Late Autumn,Fruit,2021,December,2
+Strawberry,Kg,600.0,700.0,650.0,Late Autumn,Fruit,2021,December,3
+Strawberry,Kg,600.0,700.0,650.0,Late Autumn,Fruit,2021,December,4
+Strawberry,Kg,600.0,700.0,650.0,Late Autumn,Fruit,2021,December,5
+Strawberry,Kg,600.0,650.0,625.0,Late Autumn,Fruit,2021,December,6
+Strawberry,Kg,600.0,650.0,625.0,Late Autumn,Fruit,2021,December,7
+Strawberry,Kg,600.0,650.0,625.0,Late Autumn,Fruit,2021,December,8
+Strawberry,Kg,600.0,650.0,625.0,Late Autumn,Fruit,2021,December,9
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2021,December,10
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2021,December,11
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2021,December,12
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2021,December,13
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,December,14
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,December,15
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2021,December,16
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2021,December,18
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2021,December,19
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,December,20
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,December,21
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,December,22
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,December,23
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,December,24
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,December,25
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,December,26
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,December,27
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,December,28
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,December,29
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2021,December,31
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,February,1
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,February,2
+Strawberry,Kg,550.0,600.0,575.0,Winter,Fruit,2021,February,3
+Strawberry,Kg,550.0,600.0,575.0,Winter,Fruit,2021,February,4
+Strawberry,Kg,550.0,600.0,575.0,Winter,Fruit,2021,February,5
+Strawberry,Kg,550.0,600.0,575.0,Winter,Fruit,2021,February,6
+Strawberry,Kg,550.0,600.0,575.0,Winter,Fruit,2021,February,7
+Strawberry,Kg,550.0,600.0,575.0,Winter,Fruit,2021,February,8
+Strawberry,Kg,550.0,600.0,575.0,Winter,Fruit,2021,February,9
+Strawberry,Kg,550.0,600.0,575.0,Winter,Fruit,2021,February,10
+Strawberry,Kg,550.0,600.0,575.0,Winter,Fruit,2021,February,11
+Strawberry,Kg,600.0,650.0,625.0,Winter,Fruit,2021,February,12
+Strawberry,Kg,600.0,650.0,625.0,Winter,Fruit,2021,February,13
+Strawberry,Kg,630.0,650.0,640.0,Winter,Fruit,2021,February,14
+Strawberry,Kg,600.0,650.0,625.0,Winter,Fruit,2021,February,15
+Strawberry,Kg,600.0,650.0,625.0,Winter,Fruit,2021,February,16
+Strawberry,Kg,600.0,650.0,625.0,Winter,Fruit,2021,February,17
+Strawberry,Kg,600.0,650.0,625.0,Winter,Fruit,2021,February,18
+Strawberry,Kg,600.0,650.0,625.0,Winter,Fruit,2021,February,19
+Strawberry,Kg,600.0,650.0,625.0,Winter,Fruit,2021,February,20
+Strawberry,Kg,600.0,650.0,625.0,Winter,Fruit,2021,February,21
+Strawberry,Kg,600.0,650.0,625.0,Winter,Fruit,2021,February,22
+Strawberry,Kg,600.0,650.0,625.0,Winter,Fruit,2021,February,23
+Strawberry,Kg,600.0,650.0,625.0,Winter,Fruit,2021,February,24
+Strawberry,Kg,600.0,650.0,625.0,Winter,Fruit,2021,February,25
+Strawberry,Kg,600.0,650.0,625.0,Winter,Fruit,2021,February,26
+Strawberry,Kg,600.0,650.0,625.0,Winter,Fruit,2021,February,27
+Strawberry,Kg,600.0,650.0,625.0,Winter,Fruit,2021,February,28
+Strawberry,Kg,550.0,600.0,575.0,Late Autumn,Fruit,2021,January,1
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,January,2
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,January,3
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,January,4
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,January,5
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,January,6
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,January,7
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,January,8
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,January,9
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,January,10
+Strawberry,Kg,500.0,550.0,525.0,Late Autumn,Fruit,2021,January,11
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2021,January,12
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2021,January,13
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2021,January,14
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,January,15
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,January,16
+Strawberry,Kg,550.0,600.0,575.0,Winter,Fruit,2021,January,17
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,January,18
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,January,19
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,January,20
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,January,21
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,January,22
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,January,23
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,January,24
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,January,25
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,January,26
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,January,27
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,January,28
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,January,29
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,January,30
+Strawberry,Kg,500.0,550.0,525.0,Winter,Fruit,2021,January,31
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,March,1
+Strawberry,Kg,550.0,600.0,575.0,Winter,Fruit,2021,March,2
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,March,3
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,March,5
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,March,6
+Strawberry,Kg,550.0,600.0,575.0,Winter,Fruit,2021,March,7
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,March,8
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,March,9
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,March,10
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2021,March,11
+Strawberry,Kg,500.0,550.0,525.0,Winter,Fruit,2021,March,12
+Strawberry,Kg,500.0,550.0,525.0,Winter,Fruit,2021,March,13
+Strawberry,Kg,500.0,550.0,525.0,Winter,Fruit,2021,March,14
+Strawberry,Kg,500.0,550.0,525.0,Spring,Fruit,2021,March,15
+Strawberry,Kg,500.0,550.0,525.0,Spring,Fruit,2021,March,16
+Strawberry,Kg,500.0,600.0,550.0,Spring,Fruit,2021,March,17
+Strawberry,Kg,550.0,600.0,575.0,Spring,Fruit,2021,March,18
+Strawberry,Kg,450.0,500.0,475.0,Spring,Fruit,2021,March,19
+Strawberry,Kg,450.0,500.0,475.0,Spring,Fruit,2021,March,20
+Strawberry,Kg,450.0,500.0,475.0,Spring,Fruit,2021,March,21
+Strawberry,Kg,450.0,550.0,500.0,Spring,Fruit,2021,March,22
+Strawberry,Kg,350.0,450.0,400.0,Spring,Fruit,2021,March,23
+Strawberry,Kg,400.0,450.0,425.0,Spring,Fruit,2021,March,24
+Strawberry,Kg,350.0,400.0,375.0,Spring,Fruit,2021,March,25
+Strawberry,Kg,450.0,500.0,475.0,Spring,Fruit,2021,March,26
+Strawberry,Kg,350.0,400.0,375.0,Spring,Fruit,2021,March,27
+Strawberry,Kg,350.0,400.0,375.0,Spring,Fruit,2021,March,28
+Strawberry,Kg,350.0,400.0,375.0,Spring,Fruit,2021,March,29
+Strawberry,Kg,350.0,400.0,375.0,Spring,Fruit,2021,March,30
+Strawberry,Kg,500.0,600.0,550.0,Spring,Fruit,2021,March,31
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2021,May,11
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2021,May,12
+Strawberry,Kg,450.0,500.0,475.0,Spring,Fruit,2021,May,13
+Strawberry,Kg,450.0,500.0,475.0,Spring,Fruit,2021,May,14
+Strawberry,Kg,600.0,650.0,625.0,Late Autumn,Fruit,2021,November,19
+Strawberry,Kg,550.0,600.0,575.0,Late Autumn,Fruit,2021,November,20
+Strawberry,Kg,550.0,600.0,575.0,Late Autumn,Fruit,2021,November,21
+Strawberry,Kg,650.0,700.0,675.0,Late Autumn,Fruit,2021,November,23
+Strawberry,Kg,600.0,650.0,625.0,Late Autumn,Fruit,2021,November,24
+Strawberry,Kg,600.0,620.0,610.0,Late Autumn,Fruit,2021,November,26
+Strawberry,Kg,600.0,650.0,625.0,Late Autumn,Fruit,2021,November,27
+Strawberry,Kg,600.0,650.0,625.0,Late Autumn,Fruit,2021,November,28
+Strawberry,Kg,600.0,650.0,625.0,Late Autumn,Fruit,2021,November,29
+Strawberry,Kg,600.0,650.0,625.0,Late Autumn,Fruit,2021,November,30
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,April,1
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,April,2
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,April,3
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2022,April,4
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,April,5
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,April,6
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,April,7
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,April,8
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,April,9
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2022,April,10
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2022,April,11
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2022,April,12
+Strawberry,Kg,450.0,550.0,500.0,Late Autumn,Fruit,2022,December,1
+Strawberry,Kg,450.0,550.0,500.0,Late Autumn,Fruit,2022,December,2
+Strawberry,Kg,450.0,550.0,500.0,Late Autumn,Fruit,2022,December,3
+Strawberry,Kg,450.0,500.0,475.0,Late Autumn,Fruit,2022,December,4
+Strawberry,Kg,450.0,550.0,500.0,Late Autumn,Fruit,2022,December,5
+Strawberry,Kg,450.0,550.0,500.0,Late Autumn,Fruit,2022,December,6
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2022,December,7
+Strawberry,Kg,450.0,550.0,500.0,Late Autumn,Fruit,2022,December,8
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2022,December,9
+Strawberry,Kg,450.0,500.0,483.33,Late Autumn,Fruit,2022,December,10
+Strawberry,Kg,450.0,550.0,500.0,Late Autumn,Fruit,2022,December,11
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2022,December,12
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2022,December,13
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2022,December,14
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2022,December,15
+Strawberry,Kg,400.0,450.0,433.33,Late Autumn,Fruit,2022,December,16
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2022,December,17
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2022,December,18
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2022,December,19
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2022,December,20
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2022,December,21
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2022,December,22
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2022,December,23
+Strawberry,Kg,400.0,450.0,425.0,Late Autumn,Fruit,2022,December,24
+Strawberry,Kg,400.0,450.0,425.0,Late Autumn,Fruit,2022,December,25
+Strawberry,Kg,400.0,450.0,425.0,Late Autumn,Fruit,2022,December,26
+Strawberry,Kg,400.0,450.0,425.0,Late Autumn,Fruit,2022,December,27
+Strawberry,Kg,400.0,450.0,425.0,Late Autumn,Fruit,2022,December,28
+Strawberry,Kg,350.0,400.0,375.0,Late Autumn,Fruit,2022,December,29
+Strawberry,Kg,350.0,400.0,375.0,Late Autumn,Fruit,2022,December,30
+Strawberry,Kg,350.0,400.0,375.0,Late Autumn,Fruit,2022,December,31
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,February,1
+Strawberry,Kg,600.0,700.0,650.0,Winter,Fruit,2022,February,2
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,February,3
+Strawberry,Kg,600.0,700.0,650.0,Winter,Fruit,2022,February,4
+Strawberry,Kg,700.0,800.0,750.0,Winter,Fruit,2022,February,7
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,February,8
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,February,9
+Strawberry,Kg,800.0,900.0,850.0,Winter,Fruit,2022,February,10
+Strawberry,Kg,800.0,900.0,850.0,Winter,Fruit,2022,February,11
+Strawberry,Kg,700.0,800.0,750.0,Winter,Fruit,2022,February,12
+Strawberry,Kg,700.0,800.0,750.0,Winter,Fruit,2022,February,13
+Strawberry,Kg,700.0,800.0,750.0,Winter,Fruit,2022,February,14
+Strawberry,Kg,800.0,900.0,850.0,Winter,Fruit,2022,February,15
+Strawberry,Kg,800.0,900.0,850.0,Winter,Fruit,2022,February,16
+Strawberry,Kg,800.0,900.0,850.0,Winter,Fruit,2022,February,17
+Strawberry,Kg,800.0,900.0,850.0,Winter,Fruit,2022,February,18
+Strawberry,Kg,600.0,800.0,700.0,Winter,Fruit,2022,February,19
+Strawberry,Kg,700.0,800.0,750.0,Winter,Fruit,2022,February,20
+Strawberry,Kg,600.0,700.0,650.0,Winter,Fruit,2022,February,21
+Strawberry,Kg,600.0,700.0,650.0,Winter,Fruit,2022,February,22
+Strawberry,Kg,600.0,700.0,650.0,Winter,Fruit,2022,February,23
+Strawberry,Kg,600.0,700.0,650.0,Winter,Fruit,2022,February,24
+Strawberry,Kg,700.0,800.0,750.0,Winter,Fruit,2022,February,25
+Strawberry,Kg,700.0,800.0,750.0,Winter,Fruit,2022,February,27
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,February,28
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2022,January,1
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2022,January,2
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2022,January,3
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2022,January,4
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2022,January,5
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2022,January,6
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2022,January,7
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2022,January,8
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2022,January,9
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2022,January,10
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2022,January,11
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2022,January,12
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2022,January,13
+Strawberry,Kg,500.0,600.0,550.0,Late Autumn,Fruit,2022,January,14
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,15
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,16
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,17
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,18
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,19
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,20
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,21
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,22
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,23
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,24
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,25
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,26
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,27
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,28
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,29
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,30
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,January,31
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,1
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,2
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,3
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,5
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,6
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,7
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,8
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,9
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,10
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,11
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,12
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,13
+Strawberry,Kg,500.0,600.0,550.0,Winter,Fruit,2022,March,14
+Strawberry,Kg,500.0,600.0,550.0,Spring,Fruit,2022,March,15
+Strawberry,Kg,500.0,600.0,550.0,Spring,Fruit,2022,March,16
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2022,March,17
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,March,18
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,March,19
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,March,20
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2022,March,21
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2022,March,22
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,March,23
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,March,24
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,March,25
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,March,26
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,March,27
+Strawberry,Kg,400.0,500.0,450.0,Spring,Fruit,2022,March,28
+Strawberry,Kg,300.0,350.0,325.0,Spring,Fruit,2022,March,29
+Strawberry,Kg,250.0,350.0,300.0,Spring,Fruit,2022,March,30
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2022,March,31
+Strawberry,Kg,600.0,700.0,650.0,Early Autumn,Fruit,2022,November,14
+Strawberry,Kg,600.0,700.0,650.0,Late Autumn,Fruit,2022,November,15
+Strawberry,Kg,600.0,650.0,625.0,Late Autumn,Fruit,2022,November,16
+Strawberry,Kg,600.0,650.0,625.0,Late Autumn,Fruit,2022,November,17
+Strawberry,Kg,600.0,650.0,625.0,Late Autumn,Fruit,2022,November,18
+Strawberry,Kg,600.0,700.0,650.0,Late Autumn,Fruit,2022,November,19
+Strawberry,Kg,600.0,650.0,625.0,Late Autumn,Fruit,2022,November,21
+Strawberry,Kg,600.0,700.0,650.0,Late Autumn,Fruit,2022,November,22
+Strawberry,Kg,600.0,700.0,650.0,Late Autumn,Fruit,2022,November,23
+Strawberry,Kg,600.0,700.0,650.0,Late Autumn,Fruit,2022,November,24
+Strawberry,Kg,600.0,700.0,650.0,Late Autumn,Fruit,2022,November,25
+Strawberry,Kg,550.0,600.0,575.0,Late Autumn,Fruit,2022,November,26
+Strawberry,Kg,550.0,600.0,575.0,Late Autumn,Fruit,2022,November,27
+Strawberry,Kg,550.0,650.0,600.0,Late Autumn,Fruit,2022,November,28
+Strawberry,Kg,550.0,600.0,583.33,Late Autumn,Fruit,2022,November,29
+Strawberry,Kg,550.0,600.0,575.0,Late Autumn,Fruit,2022,November,30
+Strawberry,Kg,250.0,300.0,275.0,Spring,Fruit,2023,April,1
+Strawberry,Kg,250.0,300.0,275.0,Spring,Fruit,2023,April,2
+Strawberry,Kg,250.0,300.0,275.0,Spring,Fruit,2023,April,3
+Strawberry,Kg,250.0,300.0,275.0,Spring,Fruit,2023,April,4
+Strawberry,Kg,300.0,350.0,325.0,Spring,Fruit,2023,April,5
+Strawberry,Kg,250.0,350.0,300.0,Spring,Fruit,2023,April,6
+Strawberry,Kg,350.0,400.0,375.0,Spring,Fruit,2023,April,7
+Strawberry,Kg,300.0,350.0,325.0,Spring,Fruit,2023,April,8
+Strawberry,Kg,350.0,400.0,375.0,Spring,Fruit,2023,April,9
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,April,10
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,April,11
+Strawberry,Kg,300.0,350.0,325.0,Spring,Fruit,2023,April,12
+Strawberry,Kg,300.0,350.0,325.0,Spring,Fruit,2023,April,13
+Strawberry,Kg,350.0,400.0,375.0,Spring,Fruit,2023,April,14
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,April,15
+Strawberry,Kg,350.0,400.0,375.0,Spring,Fruit,2023,April,16
+Strawberry,Kg,250.0,300.0,275.0,Spring,Fruit,2023,April,17
+Strawberry,Kg,250.0,300.0,275.0,Spring,Fruit,2023,April,18
+Strawberry,Kg,200.0,300.0,250.0,Spring,Fruit,2023,April,19
+Strawberry,Kg,250.0,300.0,275.0,Spring,Fruit,2023,April,20
+Strawberry,Kg,250.0,300.0,275.0,Spring,Fruit,2023,April,21
+Strawberry,Kg,250.0,300.0,275.0,Spring,Fruit,2023,April,22
+Strawberry,Kg,250.0,300.0,275.0,Spring,Fruit,2023,April,23
+Strawberry,Kg,300.0,350.0,325.0,Spring,Fruit,2023,April,24
+Strawberry,Kg,300.0,350.0,325.0,Spring,Fruit,2023,April,25
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,April,26
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,April,27
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,April,28
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,April,29
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,April,30
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,February,1
+Strawberry,Kg,250.0,350.0,300.0,Winter,Fruit,2023,February,2
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,3
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,4
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,5
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,6
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,7
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,8
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,9
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,10
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,11
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,12
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,13
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,February,14
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,February,15
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,February,16
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,February,17
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,February,18
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,February,19
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,February,20
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,21
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,22
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,23
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,24
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,25
+Strawberry,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,26
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,27
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,February,28
+Strawberry,Kg,350.0,400.0,375.0,Late Autumn,Fruit,2023,January,1
+Strawberry,Kg,350.0,450.0,400.0,Late Autumn,Fruit,2023,January,2
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2023,January,3
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2023,January,4
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2023,January,5
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2023,January,6
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2023,January,7
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2023,January,8
+Strawberry,Kg,400.0,500.0,450.0,Late Autumn,Fruit,2023,January,9
+Strawberry,Kg,350.0,450.0,400.0,Late Autumn,Fruit,2023,January,10
+Strawberry,Kg,350.0,400.0,375.0,Late Autumn,Fruit,2023,January,11
+Strawberry,Kg,350.0,400.0,383.33,Late Autumn,Fruit,2023,January,12
+Strawberry,Kg,350.0,400.0,383.33,Late Autumn,Fruit,2023,January,13
+Strawberry,Kg,350.0,400.0,383.33,Late Autumn,Fruit,2023,January,14
+Strawberry,Kg,350.0,400.0,383.33,Winter,Fruit,2023,January,15
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,January,16
+Strawberry,Kg,400.0,450.0,433.33,Winter,Fruit,2023,January,17
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,January,18
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,January,19
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,January,20
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,January,21
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,January,22
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,January,23
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,January,24
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,January,25
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,January,26
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,January,27
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,January,28
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,January,29
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,January,30
+Strawberry,Kg,350.0,450.0,400.0,Winter,Fruit,2023,January,31
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,March,1
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,March,2
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,March,3
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,March,5
+Strawberry,Kg,250.0,300.0,275.0,Winter,Fruit,2023,March,6
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,March,7
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,March,8
+Strawberry,Kg,250.0,350.0,300.0,Winter,Fruit,2023,March,9
+Strawberry,Kg,200.0,300.0,250.0,Winter,Fruit,2023,March,10
+Strawberry,Kg,200.0,300.0,250.0,Winter,Fruit,2023,March,11
+Strawberry,Kg,200.0,300.0,250.0,Winter,Fruit,2023,March,12
+Strawberry,Kg,200.0,300.0,250.0,Winter,Fruit,2023,March,13
+Strawberry,Kg,300.0,400.0,350.0,Winter,Fruit,2023,March,14
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,March,15
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,March,16
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,March,17
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,March,18
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,March,19
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,March,20
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,March,21
+Strawberry,Kg,250.0,350.0,300.0,Spring,Fruit,2023,March,22
+Strawberry,Kg,250.0,350.0,300.0,Spring,Fruit,2023,March,23
+Strawberry,Kg,200.0,300.0,250.0,Spring,Fruit,2023,March,24
+Strawberry,Kg,200.0,300.0,250.0,Spring,Fruit,2023,March,25
+Strawberry,Kg,200.0,300.0,250.0,Spring,Fruit,2023,March,26
+Strawberry,Kg,250.0,300.0,275.0,Spring,Fruit,2023,March,27
+Strawberry,Kg,250.0,300.0,275.0,Spring,Fruit,2023,March,28
+Strawberry,Kg,250.0,300.0,275.0,Spring,Fruit,2023,March,29
+Strawberry,Kg,250.0,300.0,275.0,Spring,Fruit,2023,March,30
+Strawberry,Kg,250.0,300.0,275.0,Spring,Fruit,2023,March,31
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,May,1
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,May,2
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,May,3
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,May,4
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,May,5
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,May,6
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,May,7
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,May,8
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,May,9
+Strawberry,Kg,300.0,400.0,350.0,Spring,Fruit,2023,May,10
+Strawberry,Kg,500.0,600.0,550.0,Spring,Fruit,2023,May,14
+Strawberry,Kg,800.0,900.0,850.0,Early Autumn,Fruit,2023,September,25
