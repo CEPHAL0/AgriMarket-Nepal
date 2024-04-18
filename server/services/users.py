@@ -16,6 +16,13 @@ def get_user(user_id: int, db: Session):
     return user
 
 
+def get_user_by_username(username: str, db: Session):
+    user = db.query(Users).filter(Users.username == username).first()
+    if user is None:
+        raise HTTPException(status_code=404, detail="User not found")
+    return user
+
+
 def get_users(db: Session) -> list[UserSchema]:
     users = db.query(Users).all()
     return users
