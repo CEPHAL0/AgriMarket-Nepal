@@ -60,21 +60,14 @@ async def root():
     return {"message": "Hello World"}
 
 
+PUBLIC_ROUTES_PREFIX = ["/login", "/docs", "/openapi", "/public"]
+
+
 @app.middleware("authorization")
 async def is_authorized(request: Request, call_next):
     try:
-        if request.url.path.startswith("/login"):
+        if (any(request.url.path.startswith(prefix) for prefix in PUBLIC_ROUTES_PREFIX)):
             return await call_next(request)
-
-        if request.url.path.startswith("/docs"):
-            return await call_next(request)
-
-        if request.url.path.startswith("/openapi"):
-            return await call_next(request)
-
-        if request.url.path.startswith("/public"):
-            return await call_next(request)
-
         jwt = request.cookies.get("jwt")
         if jwt is None:
             raise HTTPException(status_code=401, detail="Unauthorized")
@@ -83,6 +76,7 @@ async def is_authorized(request: Request, call_next):
 
         response = await call_next(request)
         return response
+    
     except Exception as e:
         logger.error(e)
         return JSONResponse(
