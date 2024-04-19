@@ -17,6 +17,7 @@ class ConsumableListings(Base):
     expiry_date = Column(DateTime, nullable=False)
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)
+    quantity = Column(Float, nullable=False)
 
     consumable = relationship("Consumables", back_populates="consumable_listings")
 

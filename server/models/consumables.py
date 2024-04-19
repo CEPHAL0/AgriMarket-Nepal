@@ -1,4 +1,13 @@
-from sqlalchemy import Column, Boolean, Integer, String, ForeignKey, Enum, DateTime
+from sqlalchemy import (
+    Column,
+    Boolean,
+    Integer,
+    String,
+    ForeignKey,
+    Float,
+    Enum,
+    DateTime,
+)
 from sqlalchemy.orm import relationship
 from datetime import datetime
 from config.enums.consumable import ConsumableEnum

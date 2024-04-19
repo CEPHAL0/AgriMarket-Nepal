@@ -11,6 +11,7 @@ def create_consumable_listings_table():
         sa.Column("user_id", sa.Integer, nullable=False),
         sa.Column("district_id", sa.Integer, nullable=False),
         sa.Column("price", sa.Float, nullable=False, index=True),
+        sa.Column("quantity", sa.Float, nullable=False, index=True),
         sa.ForeignKeyConstraint(
             ["consumable_id"],
             ["consumables.id"],
