@@ -7,6 +7,7 @@ from schemas.Users import (
     UserBase as UserBaseSchema,
     UserCreate as UserCreateSchema,
 )
+from config.enums.role import RoleEnum
 
 
 def get_user(user_id: int, db: Session):
@@ -18,8 +19,15 @@ def get_user(user_id: int, db: Session):
 
 def get_user_by_username(username: str, db: Session):
     user = db.query(Users).filter(Users.username == username).first()
-    if user is None:
-        raise HTTPException(status_code=404, detail="User not found")
+    # if user is None:
+    #     raise HTTPException(status_code=404, detail="User with provided username not found")
+    return user
+
+
+def get_user_by_email(email: str, db: Session):
+    user = db.query(Users).filter(Users.email == email).first()
+    # if user is None:
+    #     raise HTTPException(status_code=404, detail="User with provided email not found")
     return user
 
 
@@ -36,7 +44,7 @@ def create_user(user: UserCreateSchema, db: Session):
         email=user.email,
         password=user.password,
         image=user.image,
-        role=user.role.value,
+        role=RoleEnum.USER,
         address=user.address,
         phone=user.phone,
     )

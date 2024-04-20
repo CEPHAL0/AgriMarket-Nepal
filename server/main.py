@@ -60,7 +60,7 @@ async def root():
     return {"message": "Hello World"}
 
 
-PUBLIC_ROUTES_PREFIX = ["/login", "/docs", "/openapi", "/public"]
+PUBLIC_ROUTES_PREFIX = ["/login", "/register", "/docs", "/openapi", "/public"]
 
 
 @app.middleware("authorization")
