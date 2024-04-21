@@ -1,5 +1,6 @@
 from pydantic import BaseModel
 from datetime import datetime
+from schemas.Users import User
 
 
 class FarmerPerformanceBase(BaseModel):
@@ -13,6 +14,7 @@ class FarmerPerformanceCreate(FarmerPerformanceBase):
 
 class FarmerPerformance(FarmerPerformanceBase):
     id: int
+    farmer: User
     created_at: datetime
     updated_at: datetime
 
