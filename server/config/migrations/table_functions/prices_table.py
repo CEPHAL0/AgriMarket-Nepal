@@ -10,6 +10,7 @@ def create_prices_table():
         sa.Column("consumable_id", sa.Integer, nullable=False, index=True),
         sa.Column("price", sa.Float, nullable=False, index=True),
         sa.ForeignKeyConstraint(["consumable_id"], ["consumables.id"]),
+        sa.Column("date", sa.DateTime, nullable=False, index=True),
         sa.Column(
             "created_at",
             sa.DateTime,

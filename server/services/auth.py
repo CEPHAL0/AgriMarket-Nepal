@@ -80,14 +80,6 @@ def get_current_user_from_token(token):
     db.close()
 
 
-def is_user_admin(token: str):
-    try:
-        db = SessionLocal()
-
-        payload = decode_token()
-    except Exception as e:
-        logger.error(e)
-        raise HTTPException(status_code=400, detail="Failed to get user role")
 
 
 async def is_user_admin(request: Request):
@@ -115,7 +107,7 @@ async def is_user_farmer_or_admin(request: Request):
 async def login(login_schema: LoginSchema, response: Response, db: Session):
     try:
         user = user_service.get_user_by_username(login_schema.username, db)
-        print(user)
+
 
         if user.password != login_schema.password:
             raise HTTPException(status_code=401, detail="Invalid Credentials")
