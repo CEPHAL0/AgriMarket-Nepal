@@ -31,6 +31,11 @@ def get_user_by_email(email: str, db: Session):
     return user
 
 
+def get_user_by_phone_number(phone_number: str, db: Session):
+    user = db.query(Users).filter(Users.phone == phone_number).first()
+    return user
+
+
 def get_users(db: Session) -> list[UserSchema]:
     users = db.query(Users).all()
     return users

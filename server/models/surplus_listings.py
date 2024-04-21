@@ -24,6 +24,5 @@ class SurplusListings(Base):
     posted_date = Column(DateTime, default=datetime.now())
 
     consumable = relationship("Consumables", back_populates="surplus_listings")
-    surplus_bookings = relationship(
-        "UserSurplusBookings", back_populates="surplus_listing"
-    )
+
+    bookings = relationship("UserSurplusBookings", back_populates="surplus_listing")

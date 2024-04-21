@@ -23,5 +23,5 @@ class SoldConsumableQuantities(Base):
     quantity_sold = Column(Float, nullable=False)
     date_sold = Column(DateTime, default=datetime.now())
 
-    consumable = relationship("Consumables", back_populates="surplus_listings")
+    consumable = relationship("Consumables", back_populates="sold_consumables")
     farmer = relationship("Users", back_populates="sold_consumable_quantities")

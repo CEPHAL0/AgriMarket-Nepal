@@ -12,4 +12,5 @@ from models import (
     resources,
     surplus_listings,
     user_surplus_bookings,
+    sold_consumable_quantities,
 )

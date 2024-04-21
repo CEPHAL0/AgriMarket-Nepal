@@ -29,9 +29,11 @@ class Consumables(Base):
         "ConsumableListings", back_populates="consumable"
     )
 
-    bookings = relationship("UserSurplusBookings", back_populates="consumable")
-
     surplus_listings = relationship("SurplusListings", back_populates="consumable")
+
+    sold_consumables = relationship(
+        "SoldConsumableQuantities", back_populates="consumable"
+    )
 
     prices = relationship("Prices", back_populates="consumable")
 

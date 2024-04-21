@@ -92,8 +92,6 @@ def get_current_user_from_token(token):
     db.close()
 
 
-
-
 async def is_user_admin(request: Request):
     try:
         jwt = request.cookies.get("jwt")
@@ -144,7 +142,11 @@ async def register(register_schema: RegisterSchema, response: Response, db: Sess
         user = user_service.get_user_by_email(register_schema.email, db)
         if user is not None:
             raise HTTPException(status_code=400, detail="Email already exists")
-        
+
+        user = user_service.get_user_by_phone_number(register_schema.phone, db)
+        if user is not None:
+            raise HTTPException(status_code=400, detail="Phone number already in use")
+
         register_schema.password = get_password_hash(register_schema.password)
 
         user = user_service.create_user(register_schema, db)
@@ -159,7 +161,7 @@ async def register(register_schema: RegisterSchema, response: Response, db: Sess
     except HTTPException as httpe:
         logger.error(httpe)
         raise httpe
-    
+
     except Exception as e:
         logger.error(e)
         raise HTTPException(status_code=400, detail="Failed to register")
