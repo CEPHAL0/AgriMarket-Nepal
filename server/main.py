@@ -2,6 +2,7 @@ from fastapi import FastAPI, Request, HTTPException, Response, status, Depends
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from config.database import SessionLocal, Base, engine
+from fastapi.staticfiles import StaticFiles
 
 from routes.auth import auth
 from routes.index import (
@@ -60,7 +61,7 @@ async def root():
     return {"message": "Hello World"}
 
 
-PUBLIC_ROUTES_PREFIX = ["/login", "/register", "/docs", "/openapi", "/public"]
+PUBLIC_ROUTES_PREFIX = ["/login", "/register", "/docs", "/openapi", "/public", "/images"]
 
 
 @app.middleware("authorization")
@@ -84,6 +85,8 @@ async def is_authorized(request: Request, call_next):
             content={"message": "Unauthorized"},
         )
 
+
+app.mount("/images", StaticFiles(directory="public/images"), name="images")
 
 app.include_router(consumables.router, prefix="/consumables")
 app.include_router(users.router, prefix="/users")
