@@ -36,3 +36,19 @@ async def login(
     except Exception as e:
         logger.error(e)
         raise HTTPException(status_code=401, detail="Failed to login")
+
+
+@router.post("/register")
+async def register(
+    register_schema: RegisterSchema, response: Response, db: Session = Depends(get_db)
+):
+    try:
+        response = await auth_service.register(register_schema, response, db)
+        return response
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+    except Exception as e:
+        logger.error(e)
+        raise HTTPException(status_code=401, detail="Failed to register")

@@ -193,17 +193,65 @@ def reduce_quantity(
                 raise HTTPException(
                     status_code=404, detail="Consumable Listing not found"
                 )
-
-            if quantity_to_reduce > db_consumable.quantity:
+            
+            if request.body.get("quantity") is None:
+                raise HTTPException(
+                    status_code=400, detail="Quantity to reduce not provided"
+                )
+            elif float(request.body.get("quantity")) > db_consumable.quantity:
                 raise HTTPException(
                     status_code=400,
                     detail="Quantity cannot exceed max quantity of listing",
                 )
+            else:
+                db_consumable.quantity = db_consumable.quantity - float(request.body.get("quantity"))
+                db.commit()
+                db.refresh(db_consumable)
 
-            db_consumable.quantity = db_consumable.quantity - quantity_to_reduce
-
-            db.commit()
-            db.refresh(db_consumable)
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
 
     except Exception as e:
         raise HTTPException(status_code=400, detail="Failed to reduce quantity")
+
+
+@router.patch("/add/{consumable_listing_id}")
+def reduce_quantity(
+    request: Request,
+    consumable_listing_id: int,
+    db: Session = Depends(get_db),
+):
+    try:
+        token = request.cookies.get("jwt")
+        user: Users = get_current_user_from_token(token)
+
+        if user.role != RoleEnum.ADMIN:
+            db_consumable: ConsumableListings = (
+                db.query(ConsumableListings)
+                .filter(
+                    (ConsumableListings.id == consumable_listing_id)
+                    & (ConsumableListings.user_id == user.id)
+                )
+                .first()
+            )
+            if db_consumable is None:
+                raise HTTPException(
+                    status_code=404, detail="Consumable Listing not found"
+                )
+            
+            if request.body.get("quantity") is None:
+                raise HTTPException(
+                    status_code=400, detail="Quantity to add not provided"
+                )
+            else:
+                db_consumable.quantity = db_consumable.quantity + float(request.body.get("quantity"))
+                db.commit()
+                db.refresh(db_consumable)
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
+    except Exception as e:
+        raise HTTPException(status_code=400, detail="Failed to add quantity")
