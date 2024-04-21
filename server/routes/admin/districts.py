@@ -1,5 +1,5 @@
 from fastapi import APIRouter, Depends, HTTPException
-from sqlalchemy.orm import Session
+from sqlalchemy.orm import Session, joinedload
 from config.database import SessionLocal, engine
 from models.districts import Districts
 from models.provinces import Provinces

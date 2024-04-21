@@ -53,7 +53,9 @@ def create_price(price: PricesCreateSchema, db: Session = Depends(get_db)):
         if consumable is None:
             raise HTTPException(status_code=404, detail="Consumable not found")
 
-        db_price = Prices(consumable_id=price.consumable_id, price=price.price)
+        db_price = Prices(
+            consumable_id=price.consumable_id, price=price.price, date=price.date
+        )
         db.add(db_price)
         db.commit()
         db.refresh(db_price)
@@ -77,6 +79,7 @@ def update_price(
         if db_price is None:
             raise HTTPException(status_code=404, detail="Price not found")
         db_price.price = price.price
+        db_price.date = price.date
         db.commit()
         return db_price
 

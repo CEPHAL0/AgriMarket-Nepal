@@ -70,7 +70,8 @@ def create_surplus_listing(
 
         db_surplus_listing = SurplusListings(
             consumable_id=surplus_listing.consumable_id,
-            poster_id=surplus_listing.poster_id,
+            price=surplus_listing.price,
+            farmer_id=surplus_listing.farmer_id,
         )
         db.add(db_surplus_listing)
         db.commit()
