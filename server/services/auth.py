@@ -1,5 +1,5 @@
 from datetime import timedelta, datetime
-from fastapi import Depends, APIRouter, HTTPException, Header, Request
+from fastapi import Depends, APIRouter, HTTPException, Header, Request, File, UploadFile
 from fastapi.security import OAuth2PasswordBearer
 from schemas.Auth import Register, Login
 from schemas.Users import UserComplete
@@ -19,6 +19,7 @@ from schemas.Auth import Register as RegisterSchema
 from fastapi import Response
 from config.database import SessionLocal
 from passlib.context import CryptContext
+import os
 
 
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/login")
@@ -27,6 +28,8 @@ ALGORITHM = os.getenv("ALGORITHM")
 ACCESS_TOKEN_EXPIRES_MINUTES = int(os.getenv("ACCESS_TOKEN_EXPIRES_MINUTES"))
 
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
+
+IMAGE_DIR = "public/images/users"
 
 
 def get_db():
@@ -133,7 +136,7 @@ async def login(login_schema: LoginSchema, response: Response, db: Session):
         raise httpe
 
 
-async def register(register_schema: RegisterSchema, response: Response, db: Session):
+async def register(register_schema: RegisterSchema, response: Response,   db: Session, image: UploadFile = File(None)):
     try:
         user = user_service.get_user_by_username(register_schema.username, db)
         if user is not None:
@@ -147,9 +150,16 @@ async def register(register_schema: RegisterSchema, response: Response, db: Sess
         if user is not None:
             raise HTTPException(status_code=400, detail="Phone number already in use")
 
+        filename = "users/default.png"
+        if image:
+            formatted_datetime = datetime.now().strftime("%Y-%m-%d_%H-%M-%S-%f")[:-3]
+            filename = f"users/{formatted_datetime}-{image.filename}"
+            with open(f"{IMAGE_DIR}/{filename}", "wb") as image_file:
+                image_file.write(await image.read())
+
         register_schema.password = get_password_hash(register_schema.password)
 
-        user = user_service.create_user(register_schema, db)
+        user = user_service.create_user(register_schema, image=filename, db=db)
 
         jwt_token = create_access_token(user.id)
         response.set_cookie(

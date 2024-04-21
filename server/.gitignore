@@ -3,3 +3,5 @@ venv/
 fastapi.log
 
 **/__pycache__
+
+public/images/users/*.*
