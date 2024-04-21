@@ -11,6 +11,7 @@ from config.enums.role import RoleEnum
 #     FARMER = "FARMER"
 #     USER = "USER"
 
+
 class UserBase(BaseModel):
     name: str
     username: str
@@ -32,3 +33,7 @@ class User(UserBase):
 
     class Config:
         from_attributes = True
+
+
+class UserComplete(UserCreate):
+    pass

@@ -7,10 +7,11 @@ class ConsumableListingBase(BaseModel):
     user_id: int
     price: float
     district_id: int
+    quantity: float
 
 
 class ConsumableListingCreate(ConsumableListingBase):
-    pass
+    expiry_date: datetime
 
 
 class ConsumableListing(ConsumableListingBase):

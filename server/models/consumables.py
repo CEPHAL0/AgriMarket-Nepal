@@ -1,4 +1,13 @@
-from sqlalchemy import Column, Boolean, Integer, String, ForeignKey, Enum, DateTime
+from sqlalchemy import (
+    Column,
+    Boolean,
+    Integer,
+    String,
+    ForeignKey,
+    Float,
+    Enum,
+    DateTime,
+)
 from sqlalchemy.orm import relationship
 from datetime import datetime
 from config.enums.consumable import ConsumableEnum
@@ -20,9 +29,11 @@ class Consumables(Base):
         "ConsumableListings", back_populates="consumable"
     )
 
-    bookings = relationship("UserSurplusBookings", back_populates="consumable")
-
     surplus_listings = relationship("SurplusListings", back_populates="consumable")
+
+    sold_consumables = relationship(
+        "SoldConsumableQuantities", back_populates="consumable"
+    )
 
     prices = relationship("Prices", back_populates="consumable")
 

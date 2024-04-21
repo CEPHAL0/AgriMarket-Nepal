@@ -12,4 +12,5 @@ from config.migrations.table_functions import (
     farmer_performances_table,
     resources_table,
     resource_images_table,
+    sold_consumable_quantities,
 )
