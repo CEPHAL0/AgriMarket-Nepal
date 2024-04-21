@@ -92,14 +92,6 @@ def get_current_user_from_token(token):
     db.close()
 
 
-def is_user_admin(token: str):
-    try:
-        db = SessionLocal()
-
-        payload = decode_token()
-    except Exception as e:
-        logger.error(e)
-        raise HTTPException(status_code=400, detail="Failed to get user role")
 
 
 async def is_user_admin(request: Request):

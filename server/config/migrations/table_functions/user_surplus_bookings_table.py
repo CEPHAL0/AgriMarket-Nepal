@@ -1,18 +1,18 @@
 from alembic import op
 import sqlalchemy as sa
 from datetime import datetime
+from config.enums.accepted import AcceptedEnum
 
 
 def create_user_surplus_bookings_table():
     op.create_table(
         "user_surplus_bookings",
         sa.Column("id", sa.Integer, primary_key=True, autoincrement=True, index=True),
-        sa.Column("consumable_id", sa.Integer, nullable=False, index=True),
-        sa.Column("poster_id", sa.Integer, nullable=False, index=True),
+        sa.Column("surplus_listing_id", sa.Integer, nullable=False, index=True),
         sa.Column("booker_id", sa.Integer, nullable=False, index=True),
-        sa.ForeignKeyConstraint(["poster_id"], ["users.id"]),
         sa.ForeignKeyConstraint(["booker_id"], ["users.id"]),
-        sa.ForeignKeyConstraint(["consumable_id"], ["consumables.id"]),
+        sa.ForeignKeyConstraint(["surplus_listing_id"], ["surplus_listings.id"]),
+        sa.Column("accepted", sa.Enum(AcceptedEnum), nullable=False, index=True),
         sa.Column(
             "created_at",
             sa.DateTime,
@@ -31,4 +31,5 @@ def create_user_surplus_bookings_table():
 
 
 def remove_user_surplus_bookings_table():
+    op.execute("DROP TYPE IF EXISTS acceptedenum")
     op.drop_table("user_surplus_bookings")

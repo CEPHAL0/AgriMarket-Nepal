@@ -14,16 +14,14 @@ from datetime import datetime
 from config.database import Base
 
 
-class SurplusListings(Base):
-    __tablename__ = "surplus_listings"
+class SoldConsumableQuantities(Base):
+    __tablename__ = "sold_consumable_quantities"
 
     id = Column(Integer, primary_key=True, autoincrement=True)
     consumable_id = Column(Integer, ForeignKey("consumables.id"), nullable=False)
-    price = Column(Float, nullable=False)
-    booked = Column(Enum("1", "0"), default="0", nullable=False)
-    posted_date = Column(DateTime, default=datetime.now())
+    farmer_id = Column(Integer, ForeignKey("users.id"))
+    quantity_sold = Column(Float, nullable=False)
+    date_sold = Column(DateTime, default=datetime.now())
 
     consumable = relationship("Consumables", back_populates="surplus_listings")
-    surplus_bookings = relationship(
-        "UserSurplusBookings", back_populates="surplus_listing"
-    )
+    farmer = relationship("Users", back_populates="sold_consumable_quantities")
