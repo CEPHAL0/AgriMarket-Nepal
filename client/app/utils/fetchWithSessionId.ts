@@ -13,7 +13,7 @@ export const fetchWithSessionId = async (
     ...init,
     headers: {
       ...init.headers,
-      jwt: `Bearer ${sessionId}`
+      Authorization: `Bearer ${sessionId}`
     }
   }
 

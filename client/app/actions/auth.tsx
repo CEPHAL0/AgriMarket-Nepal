@@ -36,10 +36,10 @@ export const signIn = async (state: FormState, formData: FormData) => {
         error: 'Invalid credentials'
       }
     }
-    const responseData = await response.json()
-    console.log(responseData)
-    await createSession(responseData.access_token)
-    redirect('/')
+    // const responseData = await response.json()
+    console.log(jsonData)
+    await createSession(jsonData.access_token)
+    // redirect('/')
   } catch (err) {
     if (isRedirectError(err)) {
       console.error(err)
