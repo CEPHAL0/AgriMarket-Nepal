@@ -8,14 +8,20 @@ from schemas.ConsumableListings import (
     ConsumableListing as ConsumableListingSchema,
     ConsumableListingCreate as ConsumableListingCreateSchema,
 )
+
+from schemas.Quantities import Quantity
+
 from logger import logger
 from datetime import datetime
 
 
 from services.auth import get_current_user_from_token
 from config.enums.role import RoleEnum
+from services import auth as auth_service
 
-router = APIRouter()
+from models.sold_consumable_quantities import SoldConsumableQuantities
+
+router = APIRouter(tags=["Consumable Listings"])
 
 
 def get_db():
@@ -64,7 +70,13 @@ def get_one_consumable_listing(
         )
 
 
-@router.post("/create", response_model=ConsumableListingSchema, status_code=201)
+@router.post(
+    "/create",
+    response_model=ConsumableListingSchema,
+    status_code=201,
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
 def create_consumable_listing(
     consumable_listing: ConsumableListingCreateSchema, db: Session = Depends(get_db)
 ):
@@ -106,7 +118,12 @@ def create_consumable_listing(
         )
 
 
-@router.put("/update/{consumable_listing_id}", response_model=ConsumableListingSchema)
+@router.put(
+    "/update/{consumable_listing_id}",
+    response_model=ConsumableListingSchema,
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
 def update_consumable_listing(
     consumable_listing_id: int,
     consumable_listing: ConsumableListingCreateSchema,
@@ -142,7 +159,12 @@ def update_consumable_listing(
         )
 
 
-@router.delete("/delete/{consumable_listing_id}", status_code=204)
+@router.delete(
+    "/delete/{consumable_listing_id}",
+    status_code=204,
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
 def delete_consumable_listing(
     consumable_listing_id: int, db: Session = Depends(get_db)
 ):
@@ -170,9 +192,14 @@ def delete_consumable_listing(
         )
 
 
-@router.patch("/reduce/{consumable_listing_id}")
+@router.patch(
+    "/reduce/{consumable_listing_id}",
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
 def reduce_quantity(
     request: Request,
+    quantity_to_reduce: Quantity,
     consumable_listing_id: int,
     db: Session = Depends(get_db),
 ):
@@ -180,33 +207,44 @@ def reduce_quantity(
         token = request.cookies.get("jwt")
         user: Users = get_current_user_from_token(token)
 
-        if user.role != RoleEnum.ADMIN:
-            db_consumable: ConsumableListings = (
-                db.query(ConsumableListings)
-                .filter(
-                    (ConsumableListings.id == consumable_listing_id)
-                    & (ConsumableListings.user_id == user.id)
-                )
-                .first()
+        db_consumable: ConsumableListings = (
+            db.query(ConsumableListings)
+            .filter(
+                (ConsumableListings.id == consumable_listing_id)
+                & (ConsumableListings.user_id == user.id)
             )
-            if db_consumable is None:
-                raise HTTPException(
-                    status_code=404, detail="Consumable Listing not found"
-                )
-            
-            if request.body.get("quantity") is None:
-                raise HTTPException(
-                    status_code=400, detail="Quantity to reduce not provided"
-                )
-            elif float(request.body.get("quantity")) > db_consumable.quantity:
-                raise HTTPException(
-                    status_code=400,
-                    detail="Quantity cannot exceed max quantity of listing",
-                )
-            else:
-                db_consumable.quantity = db_consumable.quantity - float(request.body.get("quantity"))
-                db.commit()
-                db.refresh(db_consumable)
+            .first()
+        )
+
+        if db_consumable is None:
+            raise HTTPException(status_code=404, detail="Consumable Listing not found")
+
+        if quantity_to_reduce.quantity is None:
+            raise HTTPException(
+                status_code=400, detail="Quantity to reduce not provided"
+            )
+        elif quantity_to_reduce.quantity > db_consumable.quantity:
+            raise HTTPException(
+                status_code=400,
+                detail="Quantity cannot exceed max quantity of listing",
+            )
+
+        db_consumable.quantity = db_consumable.quantity - quantity_to_reduce.quantity
+
+        db_sold_consumable_quantity: SoldConsumableQuantities = (
+            SoldConsumableQuantities(
+                consumable_id=db_consumable.id,
+                farmer_id=user.id,
+                quantity_sold=quantity_to_reduce.quantity,
+                date_sold=datetime.now(),
+            )
+        )
+
+        db.add(db_sold_consumable_quantity)
+
+        db.commit()
+        db.refresh(db_consumable)
+        return {"message": "Quantity Reduced Successfully"}
 
     except HTTPException as httpe:
         logger.error(httpe)
@@ -216,42 +254,46 @@ def reduce_quantity(
         raise HTTPException(status_code=400, detail="Failed to reduce quantity")
 
 
-@router.patch("/add/{consumable_listing_id}")
-def reduce_quantity(
+@router.patch(
+    "/add/{consumable_listing_id}",
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
+def add_quantity(
     request: Request,
+    quantity_to_add: Quantity,
     consumable_listing_id: int,
     db: Session = Depends(get_db),
 ):
+
     try:
         token = request.cookies.get("jwt")
         user: Users = get_current_user_from_token(token)
 
-        if user.role != RoleEnum.ADMIN:
-            db_consumable: ConsumableListings = (
-                db.query(ConsumableListings)
-                .filter(
-                    (ConsumableListings.id == consumable_listing_id)
-                    & (ConsumableListings.user_id == user.id)
-                )
-                .first()
+        db_consumable: ConsumableListings = (
+            db.query(ConsumableListings)
+            .filter(
+                (ConsumableListings.id == consumable_listing_id)
+                & (ConsumableListings.user_id == user.id)
             )
-            if db_consumable is None:
-                raise HTTPException(
-                    status_code=404, detail="Consumable Listing not found"
-                )
-            
-            if request.body.get("quantity") is None:
-                raise HTTPException(
-                    status_code=400, detail="Quantity to add not provided"
-                )
-            else:
-                db_consumable.quantity = db_consumable.quantity + float(request.body.get("quantity"))
-                db.commit()
-                db.refresh(db_consumable)
+            .first()
+        )
+
+        if db_consumable is None:
+            raise HTTPException(status_code=404, detail="Consumable Listing not found")
+
+        if quantity_to_add.quantity is None:
+            raise HTTPException(status_code=400, detail="Quantity to add not provided")
+
+        db_consumable.quantity = db_consumable.quantity + quantity_to_add.quantity
+
+        db.commit()
+        db.refresh(db_consumable)
+        return {"message": "Quantity Added Successfully"}
 
     except HTTPException as httpe:
         logger.error(httpe)
         raise httpe
 
     except Exception as e:
-        raise HTTPException(status_code=400, detail="Failed to add quantity")
+        raise HTTPException(status_code=400, detail="Failed to reduce quantity")

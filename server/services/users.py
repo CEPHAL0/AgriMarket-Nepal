@@ -20,6 +20,7 @@ def get_user(user_id: int, db: Session):
 
 def get_user_by_username(username: str, db: Session):
     user = db.query(Users).filter(Users.username == username).first()
+    print(user)
     # if user is None:
     #     raise HTTPException(status_code=404, detail="User with provided username not found")
     return user
@@ -88,6 +89,11 @@ def update_user(id: int, user: UserCreateSchema, db: Session):
 
     if (user_phone is not None) and (user_phone.id != id):
         raise HTTPException(status_code=400, detail="Phone Number already taken")
+
+    if len(user.password) < 8:
+        raise HTTPException(
+            status_code=400, detail="Password should be at least 8 characters long"
+        )
 
     hashed_password = auth_service.get_password_hash(user.password)
 

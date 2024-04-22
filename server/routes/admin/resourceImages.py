@@ -10,7 +10,7 @@ from schemas.ResourceImages import (
 from logger import logger
 from datetime import datetime
 
-router = APIRouter()
+router = APIRouter(tags=["Resource Images"])
 
 IMAGE_DIR = "public/images/resource_images"
 

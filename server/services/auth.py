@@ -111,8 +111,12 @@ async def is_user_farmer_or_admin(request: Request):
     try:
         jwt = request.cookies.get("jwt")
         user: Users = auth_service.get_current_user_from_token(jwt)
-        if (user.role != RoleEnum.ADMIN) or (user.role != RoleEnum.Farmer):
+        if (user.role != RoleEnum.ADMIN) or (user.role != RoleEnum.FARMER):
             raise HTTPException(detail="Forbidden resource", status_code=401)
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+
     except Exception as e:
         logger.error(e)
         raise HTTPException(status_code=401, detail="Forbidden resource")

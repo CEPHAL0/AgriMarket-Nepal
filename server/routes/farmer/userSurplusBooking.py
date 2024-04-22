@@ -11,11 +11,15 @@ from schemas.UserSurplusBookings import (
 )
 from schemas.SurplusListings import SurplusListing as SurplusListingSchema
 from logger import logger
+<<<<<<< HEAD
 from config.enums.accepted import AcceptedEnum
 from config.enums.booked import BookedEnum
 from services.auth import get_current_user_from_token
+=======
+from services import auth as auth_service
+>>>>>>> 5894e5f01fe41acab0834c5ab096098087126c40
 
-router = APIRouter()
+router = APIRouter(tags=["User Surplus Bookings"])
 
 
 def get_db():
@@ -65,7 +69,12 @@ def get_user_surplus_booking(
         )
 
 
-@router.post("/create", status_code=201)
+@router.post(
+    "/create",
+    status_code=201,
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
 def create_user_surplus_booking(
     user_surplus_booking: UserSurplusBookingCreateSchema, db: Session = Depends(get_db)
 ):
@@ -111,7 +120,11 @@ def create_user_surplus_booking(
         )
 
 
-@router.put("/update/{user_surplus_booking_id}")
+@router.put(
+    "/update/{user_surplus_booking_id}",
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
 def update_user_surplus_booking(
     user_surplus_booking_id: int,
     user_surplus_booking: UserSurplusBookingCreateSchema,
@@ -145,7 +158,11 @@ def update_user_surplus_booking(
         )
 
 
-@router.delete("/delete/{user_surplus_booking_id}")
+@router.delete(
+    "/delete/{user_surplus_booking_id}",
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
 def delete_user_surplus_booking(
     user_surplus_booking_id: int, db: Session = Depends(get_db)
 ):

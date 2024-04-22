@@ -25,3 +25,6 @@ class SoldConsumableQuantities(Base):
 
     consumable = relationship("Consumables", back_populates="sold_consumables")
     farmer = relationship("Users", back_populates="sold_consumable_quantities")
+
+    created_at = Column(DateTime, default=datetime.now(), nullable=False)
+    updated_at = Column(DateTime, default=datetime.now(), nullable=False)
