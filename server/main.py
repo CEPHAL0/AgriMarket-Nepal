@@ -61,13 +61,20 @@ async def root():
     return {"message": "Hello World"}
 
 
-PUBLIC_ROUTES_PREFIX = ["/login", "/register", "/docs", "/openapi", "/public", "/images"]
+PUBLIC_ROUTES_PREFIX = [
+    "/login",
+    "/register",
+    "/docs",
+    "/openapi",
+    "/public",
+    "/images",
+]
 
 
 @app.middleware("authorization")
 async def is_authorized(request: Request, call_next):
     try:
-        if (any(request.url.path.startswith(prefix) for prefix in PUBLIC_ROUTES_PREFIX)):
+        if any(request.url.path.startswith(prefix) for prefix in PUBLIC_ROUTES_PREFIX):
             return await call_next(request)
         jwt = request.cookies.get("jwt")
         if jwt is None:
@@ -77,7 +84,7 @@ async def is_authorized(request: Request, call_next):
 
         response = await call_next(request)
         return response
-    
+
     except Exception as e:
         logger.error(e)
         return JSONResponse(
@@ -88,8 +95,9 @@ async def is_authorized(request: Request, call_next):
 
 app.mount("/images", StaticFiles(directory="public/images"), name="images")
 
-app.include_router(consumables.router, prefix="/consumables")
+app.include_router(auth.router)
 app.include_router(users.router, prefix="/users")
+app.include_router(consumables.router, prefix="/consumables")
 app.include_router(provinces.router, prefix="/provinces")
 app.include_router(districts.router, prefix="/districts")
 app.include_router(resources.router, prefix="/resources")
@@ -101,4 +109,3 @@ app.include_router(macroTypes.router, prefix="/macroTypes")
 app.include_router(prices.router, prefix="/prices")
 app.include_router(surplusListings.router, prefix="/surplusListings")
 app.include_router(userSurplusBooking.router, prefix="/userSurplusBooking")
-app.include_router(auth.router)

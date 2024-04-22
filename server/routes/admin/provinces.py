@@ -8,7 +8,7 @@ from schemas.Provinces import (
 )
 from logger import logger
 
-router = APIRouter()
+router = APIRouter(tags=["Provinces"])
 
 
 def get_db():

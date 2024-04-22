@@ -7,8 +7,9 @@ from schemas.Consumables import (
     ConsumableCreate as ConsumablesCreateSchema,
 )
 from logger import logger
+from services import auth as auth_service
 
-router = APIRouter()
+router = APIRouter(tags=["Consumables"])
 
 
 def get_db():
@@ -48,7 +49,12 @@ def get_consumable(consumable_id: int, db: Session = Depends(get_db)):
         raise HTTPException(status_code=400, detail="Failed to retrieve Consumable")
 
 
-@router.post("/create", response_model=ConsumablesSchema, status_code=201)
+@router.post(
+    "/create",
+    response_model=ConsumablesSchema,
+    status_code=201,
+    dependencies=[Depends(auth_service.is_user_admin)],
+)
 def create_consumable(
     consumable: ConsumablesCreateSchema, db: Session = Depends(get_db)
 ):

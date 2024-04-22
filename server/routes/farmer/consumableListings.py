@@ -15,7 +15,7 @@ from datetime import datetime
 from services.auth import get_current_user_from_token
 from config.enums.role import RoleEnum
 
-router = APIRouter()
+router = APIRouter(tags=["Consumable Listings"])
 
 
 def get_db():
@@ -193,7 +193,7 @@ def reduce_quantity(
                 raise HTTPException(
                     status_code=404, detail="Consumable Listing not found"
                 )
-            
+
             if request.body.get("quantity") is None:
                 raise HTTPException(
                     status_code=400, detail="Quantity to reduce not provided"
@@ -204,7 +204,9 @@ def reduce_quantity(
                     detail="Quantity cannot exceed max quantity of listing",
                 )
             else:
-                db_consumable.quantity = db_consumable.quantity - float(request.body.get("quantity"))
+                db_consumable.quantity = db_consumable.quantity - float(
+                    request.body.get("quantity")
+                )
                 db.commit()
                 db.refresh(db_consumable)
 
@@ -239,13 +241,15 @@ def reduce_quantity(
                 raise HTTPException(
                     status_code=404, detail="Consumable Listing not found"
                 )
-            
+
             if request.body.get("quantity") is None:
                 raise HTTPException(
                     status_code=400, detail="Quantity to add not provided"
                 )
             else:
-                db_consumable.quantity = db_consumable.quantity + float(request.body.get("quantity"))
+                db_consumable.quantity = db_consumable.quantity + float(
+                    request.body.get("quantity")
+                )
                 db.commit()
                 db.refresh(db_consumable)
 

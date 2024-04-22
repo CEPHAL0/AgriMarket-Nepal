@@ -11,7 +11,7 @@ from logger import logger
 from models.users import Users
 from services.auth import get_current_user_from_token
 
-router = APIRouter()
+router = APIRouter(tags=["Surplus Listings"])
 
 
 def get_db():

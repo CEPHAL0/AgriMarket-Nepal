@@ -59,7 +59,7 @@ def create_access_token(user_id: int):
 
 def decode_token(token: str):
     try:
-        payload = jwt.decode(token, SECRET_KET, ALGORITHM)
+        payload = jwt.decode(token, SECRET_KEY, ALGORITHM)
         id: str = payload.get("user_id")
 
         if id is None:

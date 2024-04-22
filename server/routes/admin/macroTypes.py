@@ -8,7 +8,7 @@ from schemas.MacroTypes import (
 )
 from logger import logger
 
-router = APIRouter()
+router = APIRouter(tags=["Macro Types"])
 
 
 def get_db():

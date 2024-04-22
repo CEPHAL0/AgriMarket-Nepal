@@ -10,7 +10,7 @@ from schemas.UserSurplusBookings import (
 )
 from logger import logger
 
-router = APIRouter()
+router = APIRouter(tags=["User Surplus Bookings"])
 
 
 def get_db():

@@ -9,7 +9,7 @@ from schemas.Districts import (
 )
 from logger import logger
 
-router = APIRouter()
+router = APIRouter(tags=["Districts"])
 
 
 def get_db():

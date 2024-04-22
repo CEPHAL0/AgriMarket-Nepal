@@ -10,7 +10,7 @@ from schemas.ConsumableMacros import (
 )
 from logger import logger
 
-router = APIRouter()
+router = APIRouter(tags=["Consumable Macros"])
 
 
 def get_db():
@@ -26,7 +26,7 @@ def get_consumable_macros(db: Session = Depends(get_db)):
     try:
         consumable_macros = db.query(ConsumableMacros).all()
         return consumable_macros
-        
+
     except Exception as e:
         logger.error(e)
         raise HTTPException(

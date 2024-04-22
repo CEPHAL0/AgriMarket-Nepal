@@ -19,7 +19,7 @@ def get_db():
         db.close()
 
 
-router = APIRouter(dependencies=[Depends(auth_service.is_user_admin)])
+router = APIRouter(dependencies=[Depends(auth_service.is_user_admin)], tags=["Users"])
 # router = APIRouter()
 
 

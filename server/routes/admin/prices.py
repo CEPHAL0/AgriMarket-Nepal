@@ -6,7 +6,7 @@ from models.consumables import Consumables
 from schemas.Prices import Price as PricesSchema, PriceCreate as PricesCreateSchema
 from logger import logger
 
-router = APIRouter()
+router = APIRouter(tags=["Prices"])
 
 
 def get_db():
