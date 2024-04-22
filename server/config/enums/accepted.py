@@ -3,5 +3,5 @@ from sqlalchemy import Enum
 
 
 class AcceptedEnum(enum.Enum):
-    ACCEPTED = "1"
-    NOT_ACCEPTED = "0"
+    ACCEPTED = "ACCEPTED"
+    NOT_ACCEPTED = "NOT_ACCEPTED"

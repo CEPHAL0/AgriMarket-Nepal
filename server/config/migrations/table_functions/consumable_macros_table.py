@@ -10,8 +10,18 @@ def create_consumable_macros_table():
         sa.Column("consumable_id", sa.Integer, nullable=False, index=True),
         sa.Column("macro_type_id", sa.Integer, nullable=False, index=True),
         sa.Column("quantity", sa.Float, nullable=False, index=True),
-        sa.ForeignKeyConstraint(["consumable_id"], ["consumables.id"]),
-        sa.ForeignKeyConstraint(["macro_type_id"], ["macro_types.id"]),
+        sa.ForeignKeyConstraint(
+            ["consumable_id"],
+            ["consumables.id"],
+            onupdate="CASCADE",
+            ondelete="CASCADE",
+        ),
+        sa.ForeignKeyConstraint(
+            ["macro_type_id"],
+            ["macro_types.id"],
+            onupdate="CASCADE",
+            ondelete="CASCADE",
+        ),
         sa.Column(
             "created_at",
             sa.DateTime,

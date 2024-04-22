@@ -23,9 +23,10 @@ import os
 
 
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/login")
-SECRET_KET = os.getenv("SECRET_KEY")
+SECRET_KEY = os.getenv("SECRET_KEY")
 ALGORITHM = os.getenv("ALGORITHM")
 ACCESS_TOKEN_EXPIRES_MINUTES = int(os.getenv("ACCESS_TOKEN_EXPIRES_MINUTES"))
+ACCESS_TOKEN_EXPIRES_HOURS = int(os.getenv("ACCESS_TOKEN_EXPIRES_HOURS"))
 
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
@@ -50,9 +51,9 @@ def get_password_hash(password):
 
 def create_access_token(user_id: int):
     to_encode = {"user_id": user_id}
-    expire = datetime.now() + timedelta(minutes=ACCESS_TOKEN_EXPIRES_MINUTES)
+    expire = datetime.now() + timedelta(hours=ACCESS_TOKEN_EXPIRES_HOURS)
     to_encode.update({"expire": expire.strftime("%Y-%m-%d %H:%M:%S")})
-    encoded_jwt = jwt.encode(to_encode, SECRET_KET, ALGORITHM)
+    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, ALGORITHM)
     return encoded_jwt
 
 
@@ -126,7 +127,7 @@ async def login(login_schema: LoginSchema, response: Response, db: Session):
 
         jwt_token = create_access_token(user.id)
         response.set_cookie(
-            key="jwt", value=jwt_token, expires=ACCESS_TOKEN_EXPIRES_MINUTES
+            key="jwt", value=jwt_token, expires=ACCESS_TOKEN_EXPIRES_HOURS * 60 * 60
         )
 
         return {"message": "Login Successfull", "access_token": jwt_token}
@@ -136,7 +137,12 @@ async def login(login_schema: LoginSchema, response: Response, db: Session):
         raise httpe
 
 
-async def register(register_schema: RegisterSchema, response: Response,   db: Session, image: UploadFile = File(None)):
+async def register(
+    register_schema: RegisterSchema,
+    response: Response,
+    db: Session,
+    image: UploadFile = File(None),
+):
     try:
         user = user_service.get_user_by_username(register_schema.username, db)
         if user is not None:

@@ -14,7 +14,12 @@ def create_resources_table():
         sa.Column("title", sa.String, nullable=False, index=True),
         sa.Column("description", sa.Text, nullable=False),
         sa.Column("author_id", sa.Integer, nullable=False),
-        sa.ForeignKeyConstraint(["author_id"], ["users.id"]),
+        sa.ForeignKeyConstraint(
+            ["author_id"],
+            ["users.id"],
+            onupdate="CASCADE",
+            ondelete="CASCADE",
+        ),
         sa.Column(
             "created_at",
             sa.DateTime,

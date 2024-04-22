@@ -10,7 +10,12 @@ def create_districs_table():
         sa.Column("name", sa.String, nullable=False, index=True),
         sa.Column("province_id", sa.Integer, nullable=False),
         sa.Column("ecological_region", sa.String, nullable=False, index=True),
-        sa.ForeignKeyConstraint(["province_id"], ["provinces.id"]),
+        sa.ForeignKeyConstraint(
+            ["province_id"],
+            ["provinces.id"],
+            onupdate="CASCADE",
+            ondelete="CASCADE",
+        ),
         sa.Column(
             "created_at",
             sa.DateTime,

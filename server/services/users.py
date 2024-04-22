@@ -42,7 +42,7 @@ def get_users(db: Session) -> list[UserSchema]:
     return users
 
 
-def create_user(user: UserCreateSchema, image: str, db: Session):
+def create_user(user: UserCreateSchema, db: Session):
 
     if len(user.password) < 8:
         raise HTTPException(
@@ -56,7 +56,7 @@ def create_user(user: UserCreateSchema, image: str, db: Session):
         username=user.username,
         email=user.email,
         password=hashed_password,
-        image=image,
+        image=user.image,
         role=RoleEnum.USER,
         address=user.address,
         phone=user.phone,
