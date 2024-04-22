@@ -4,7 +4,7 @@ from datetime import datetime
 
 class ResourceImageBase(BaseModel):
     resource_id: int
-    image_path: str
+    # image_path: str
     order: int
 
 
@@ -14,6 +14,7 @@ class ResourceImageCreate(ResourceImageBase):
 
 class ResourceImage(ResourceImageBase):
     id: int
+    image_path: str
     created_at: datetime
     updated_at: datetime
 

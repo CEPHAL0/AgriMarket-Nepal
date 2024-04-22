@@ -39,6 +39,8 @@ class Users(Base):
         "SoldConsumableQuantities", back_populates="farmer"
     )
 
+    surplus_listings = relationship("SurplusListings", back_populates="farmer")
+
     # poster_bookings = relationship("UserSurplusBooking", foreign_keys=[UserSurplusBooking.poster_id], back_populates="poster")
 
     # booker_bookings = relationship("UserSurplusBooking", foreign_keys=[UserSurplusBooking.booker_id], back_populates="booker")

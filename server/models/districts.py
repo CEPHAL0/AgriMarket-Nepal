@@ -1,6 +1,7 @@
 from sqlalchemy import Column, Boolean, Integer, String, ForeignKey, DateTime
-from sqlalchemy.orm import relationship
+from sqlalchemy.orm import relationship, Mapped
 from datetime import datetime
+
 
 from config.database import Base
 
@@ -10,7 +11,7 @@ class Districts(Base):
 
     id = Column(Integer, primary_key=True, autoincrement=True)
     name = Column(String, index=True)
-    province_id = Column(Integer, ForeignKey('provinces.id'))
+    province_id = Column(Integer, ForeignKey("provinces.id"))
     ecological_region = Column(String)
     created_at = Column(DateTime, default=datetime.now(), nullable=False)
     updated_at = Column(DateTime, default=datetime.now(), nullable=False)

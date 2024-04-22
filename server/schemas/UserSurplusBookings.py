@@ -1,9 +1,11 @@
 from pydantic import BaseModel
 from datetime import datetime
+from config.enums.accepted import AcceptedEnum
+from schemas.SurplusListings import SurplusListing
+
 
 class UserSurplusBookingBase(BaseModel):
-    consumable_id: int
-    poster_id: int
+    surplus_listing_id: int
     booker_id: int
 
 
@@ -13,6 +15,8 @@ class UserSurplusBookingCreate(UserSurplusBookingBase):
 
 class UserSurplusBooking(UserSurplusBookingBase):
     id: int
+    surplus_listing: SurplusListing
+    accepted: AcceptedEnum
     created_at: datetime
     updated_at: datetime
 

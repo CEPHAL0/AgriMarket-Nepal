@@ -1,6 +1,7 @@
 import VegitableCard from '@/components/vegitableCard/VegitableCard'
 import React from 'react'
 
+
 type Consumable = {
   consumable_id: number
   user_id: number

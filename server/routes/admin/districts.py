@@ -1,5 +1,5 @@
 from fastapi import APIRouter, Depends, HTTPException
-from sqlalchemy.orm import Session
+from sqlalchemy.orm import Session, joinedload
 from config.database import SessionLocal, engine
 from models.districts import Districts
 from models.provinces import Provinces
@@ -8,8 +8,9 @@ from schemas.Districts import (
     DistrictCreate as DistrictCreateSchema,
 )
 from logger import logger
+from services import auth as auth_service
 
-router = APIRouter()
+router = APIRouter(tags=["Districts"])
 
 
 def get_db():
@@ -47,7 +48,13 @@ def get_district(district_id: int, db: Session = Depends(get_db)):
         raise HTTPException(status_code=400, detail="Failed to retrieve District")
 
 
-@router.post("/create", response_model=DistrictsSchema, status_code=201)
+@router.post(
+    "/create",
+    response_model=DistrictsSchema,
+    status_code=201,
+    dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
+)
 def create_district(district: DistrictCreateSchema, db: Session = Depends(get_db)):
     try:
         province = (
@@ -75,7 +82,12 @@ def create_district(district: DistrictCreateSchema, db: Session = Depends(get_db
         raise e
 
 
-@router.put("/update/{district_id}", response_model=DistrictsSchema)
+@router.put(
+    "/update/{district_id}",
+    response_model=DistrictsSchema,
+    dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
+)
 def update_district(
     district_id: int, district: DistrictCreateSchema, db: Session = Depends(get_db)
 ):
@@ -106,7 +118,11 @@ def update_district(
         raise e
 
 
-@router.delete("/delete/{district_id}")
+@router.delete(
+    "/delete/{district_id}",
+    dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
+)
 def delete_district(district_id: int, db: Session = Depends(get_db)):
     try:
         db_district = db.query(Districts).filter(Districts.id == district_id).first()

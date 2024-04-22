@@ -1,30 +1,55 @@
-'use client'
+"use client";
 
-import React, { useState } from 'react'
+import React, { useState } from "react";
 
 const Login = () => {
-  const [password, setPassword] = useState<string>()
-  const [username, setUsername] = useState<string>()
+  const [password, setPassword] = useState<string>();
+  const [username, setUsername] = useState<string>();
 
   const handleSubmit = async (e: React.FormEvent) => {
     try {
-      e.preventDefault()
-      const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/login`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({ username, password })
-      })
-      const data = await response.json()
-      console.log(data)
-      console.log('submit')
+      e.preventDefault();
+      const response: Response = await fetch(
+        `${process.env.NEXT_PUBLIC_API_URL}/login`,
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({ username, password }),
+        }
+      );
+      const data = await response.json();
+      document.cookie = `jwt=${data.access_token}`;
+      console.log(data);
     } catch (err) {
-      console.log(err)
+      console.log(err);
+    }
+  };
+
+  async function handleClick() {
+    try {
+      const response: Response = await fetch(
+        `${process.env.NEXT_PUBLIC_API_URL}/users`,
+        {
+          credentials: "include",
+          method: "GET",
+          headers: {
+            "Content-Type": "application/json",
+          },
+        }
+      );
+
+      const data = await response.json();
+
+      console.log(data);
+    } catch (err) {
+      console.log(err);
     }
   }
   return (
     <div className="flex min-h-full flex-col justify-center px-6 py-12 lg:px-8">
+      <button onClick={handleClick}>Click Me</button>
       <div className="sm:mx-auto sm:w-full sm:max-w-sm">
         <h2 className="mt-10 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">
           Sign in to your account
@@ -86,7 +111,7 @@ const Login = () => {
         </form>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Login
+export default Login;

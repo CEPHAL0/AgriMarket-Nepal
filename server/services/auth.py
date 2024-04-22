@@ -1,5 +1,5 @@
 from datetime import timedelta, datetime
-from fastapi import Depends, APIRouter, HTTPException, Header, Request
+from fastapi import Depends, APIRouter, HTTPException, Header, Request, File, UploadFile
 from fastapi.security import OAuth2PasswordBearer
 from schemas.Auth import Register, Login
 from schemas.Users import UserComplete
@@ -19,14 +19,18 @@ from schemas.Auth import Register as RegisterSchema
 from fastapi import Response
 from config.database import SessionLocal
 from passlib.context import CryptContext
+import os
 
 
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/login")
-SECRET_KET = os.getenv("SECRET_KEY")
+SECRET_KEY = os.getenv("SECRET_KEY")
 ALGORITHM = os.getenv("ALGORITHM")
 ACCESS_TOKEN_EXPIRES_MINUTES = int(os.getenv("ACCESS_TOKEN_EXPIRES_MINUTES"))
+ACCESS_TOKEN_EXPIRES_HOURS = int(os.getenv("ACCESS_TOKEN_EXPIRES_HOURS"))
 
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
+
+IMAGE_DIR = "public/images/users"
 
 
 def get_db():
@@ -47,15 +51,15 @@ def get_password_hash(password):
 
 def create_access_token(user_id: int):
     to_encode = {"user_id": user_id}
-    expire = datetime.now() + timedelta(minutes=ACCESS_TOKEN_EXPIRES_MINUTES)
+    expire = datetime.now() + timedelta(hours=ACCESS_TOKEN_EXPIRES_HOURS)
     to_encode.update({"expire": expire.strftime("%Y-%m-%d %H:%M:%S")})
-    encoded_jwt = jwt.encode(to_encode, SECRET_KET, ALGORITHM)
+    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, ALGORITHM)
     return encoded_jwt
 
 
 def decode_token(token: str):
     try:
-        payload = jwt.decode(token, SECRET_KET, ALGORITHM)
+        payload = jwt.decode(token, SECRET_KEY, ALGORITHM)
         id: str = payload.get("user_id")
 
         if id is None:
@@ -107,7 +111,7 @@ async def is_user_farmer_or_admin(request: Request):
     try:
         jwt = request.cookies.get("jwt")
         user: Users = auth_service.get_current_user_from_token(jwt)
-        if (user.role != RoleEnum.ADMIN) or (user.role != RoleEnum.Farmer):
+        if (user.role != RoleEnum.ADMIN) or (user.role != RoleEnum.FARMER):
             raise HTTPException(detail="Forbidden resource", status_code=401)
     except Exception as e:
         logger.error(e)
@@ -123,7 +127,7 @@ async def login(login_schema: LoginSchema, response: Response, db: Session):
 
         jwt_token = create_access_token(user.id)
         response.set_cookie(
-            key="jwt", value=jwt_token, expires=ACCESS_TOKEN_EXPIRES_MINUTES
+            key="jwt", value=jwt_token, expires=ACCESS_TOKEN_EXPIRES_HOURS * 60 * 60
         )
 
         return {"message": "Login Successfull", "access_token": jwt_token}
@@ -133,7 +137,12 @@ async def login(login_schema: LoginSchema, response: Response, db: Session):
         raise httpe
 
 
-async def register(register_schema: RegisterSchema, response: Response, db: Session):
+async def register(
+    register_schema: RegisterSchema,
+    response: Response,
+    db: Session,
+    image: UploadFile = File(None),
+):
     try:
         user = user_service.get_user_by_username(register_schema.username, db)
         if user is not None:
@@ -147,9 +156,17 @@ async def register(register_schema: RegisterSchema, response: Response, db: Sess
         if user is not None:
             raise HTTPException(status_code=400, detail="Phone number already in use")
 
+        image_name = "images/users/default.png"
+        if image:
+            formatted_datetime = datetime.now().strftime("%Y-%m-%d_%H-%M-%S-%f")[:-3]
+            filename = f"{formatted_datetime}-{image.filename}"
+            image_name = f"images/users/{filename}"
+            with open(f"{IMAGE_DIR}/{filename}", "wb") as image_file:
+                image_file.write(await image.read())
+
         register_schema.password = get_password_hash(register_schema.password)
 
-        user = user_service.create_user(register_schema, db)
+        user = user_service.create_user(register_schema, image=image_name, db=db)
 
         jwt_token = create_access_token(user.id)
         response.set_cookie(

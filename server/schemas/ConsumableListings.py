@@ -1,5 +1,9 @@
 from pydantic import BaseModel
 from datetime import datetime
+from schemas.Districts import District
+from schemas.Users import User
+from schemas.Consumables import Consumable
+from schemas.Users import User
 
 
 class ConsumableListingBase(BaseModel):
@@ -16,6 +20,9 @@ class ConsumableListingCreate(ConsumableListingBase):
 
 class ConsumableListing(ConsumableListingBase):
     id: int
+    consumable: Consumable
+    district: District
+    user: User
     created_at: datetime
     updated_at: datetime
 

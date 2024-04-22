@@ -7,8 +7,9 @@ from schemas.MacroTypes import (
     MacroTypeCreate as MacroTypesCreateSchema,
 )
 from logger import logger
+from services import auth as auth_service
 
-router = APIRouter()
+router = APIRouter(tags=["Macro Types"])
 
 
 def get_db():
@@ -47,7 +48,13 @@ def get_macro_type(macro_type_id: int, db: Session = Depends(get_db)):
         raise HTTPException(status_code=400, detail="Failed to retrieve Macro Type")
 
 
-@router.post("/create", response_model=MacroTypesSchema, status_code=201)
+@router.post(
+    "/create",
+    response_model=MacroTypesSchema,
+    status_code=201,
+    dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
+)
 def create_macro_type(
     macro_type: MacroTypesCreateSchema, db: Session = Depends(get_db)
 ):
@@ -63,7 +70,12 @@ def create_macro_type(
         raise HTTPException(status_code=400, detail="Failed to create Macro Types")
 
 
-@router.put("/update/{macro_type_id}", response_model=MacroTypesSchema)
+@router.put(
+    "/update/{macro_type_id}",
+    response_model=MacroTypesSchema,
+    dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
+)
 def update_macro_type(
     macro_type_id: int,
     macro_type: MacroTypesCreateSchema,
@@ -90,7 +102,12 @@ def update_macro_type(
         raise HTTPException(status_code=400, detail="Failed to update Macro Type")
 
 
-@router.delete("/delete/{macro_type_id}", status_code=204)
+@router.delete(
+    "/delete/{macro_type_id}",
+    status_code=204,
+    dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
+)
 def delete_macro_type(macro_type_id: int, db: Session = Depends(get_db)):
     try:
         db_macro_type = (

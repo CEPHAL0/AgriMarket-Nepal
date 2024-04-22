@@ -19,7 +19,9 @@ def get_db():
         db.close()
 
 
-router = APIRouter(dependencies=[Depends(auth_service.is_user_admin)])
+router = APIRouter(
+    dependencies=[Depends(auth_service.is_user_admin)], tags=["Users", "admin"]
+)
 # router = APIRouter()
 
 
@@ -32,11 +34,11 @@ def get_users(db: Session = Depends(get_db)):
         logger.error(e)
 
 
-@router.get("/{user_id}")
+@router.get("/{user_id}", response_model=UserSchema)
 def get_user(user_id: int, db: Session = Depends(get_db)):
     try:
         user = user_service.get_user(user_id, db)
-        return {"message": "User retrieved successfully", "data": user}
+        return user
     except HTTPException as httpe:
         logger.error(httpe)
         raise httpe
@@ -49,13 +51,33 @@ def get_user(user_id: int, db: Session = Depends(get_db)):
 def create_user(user: UserCreateSchema, db: Session = Depends(get_db)):
     try:
         user = user_service.create_user(user, db)
-        return {"message": "Successfully Created User", "data": user}
+        return {"message": "Successfully Created User"}
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
         raise HTTPException(status_code=400, detail="Failed to save user")
 
 
-@router.delete("/{user_id}")
+@router.put("/update/{id}", response_model=UserSchema)
+def update_user(id: int, user: UserCreateSchema, db: Session = Depends(get_db)):
+    try:
+        user = user_service.update_user(id, user, db)
+        return user
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
+    except Exception as e:
+        logger.error(e)
+        raise HTTPException(status_code=400, detail="Failed to update user")
+
+
+@router.delete("/delete/{user_id}")
 def delete_user(user_id: int, db: Session = Depends(get_db)):
     try:
         user_service.delete_user(user_id, db)

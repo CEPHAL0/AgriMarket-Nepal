@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Request
 from sqlalchemy.orm import Session
 from config.database import SessionLocal, engine
 from models.surplus_listings import SurplusListings
@@ -8,8 +8,11 @@ from schemas.SurplusListings import (
     SurplusListingCreate as SurplusListingCreateSchema,
 )
 from logger import logger
+from models.users import Users
+from services.auth import get_current_user_from_token
+from services import auth as auth_service
 
-router = APIRouter()
+router = APIRouter(tags=["Surplus Listings"])
 
 
 def get_db():
@@ -55,7 +58,13 @@ def get_surplus_listing(surplus_listing_id: int, db: Session = Depends(get_db)):
         )
 
 
-@router.post("/create", response_model=SurplusListingsSchema, status_code=201)
+@router.post(
+    "/create",
+    response_model=SurplusListingsSchema,
+    status_code=201,
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
 def create_surplus_listing(
     surplus_listing: SurplusListingCreateSchema, db: Session = Depends(get_db)
 ):
@@ -70,7 +79,8 @@ def create_surplus_listing(
 
         db_surplus_listing = SurplusListings(
             consumable_id=surplus_listing.consumable_id,
-            poster_id=surplus_listing.poster_id,
+            price=surplus_listing.price,
+            farmer_id=surplus_listing.farmer_id,
         )
         db.add(db_surplus_listing)
         db.commit()
@@ -86,14 +96,23 @@ def create_surplus_listing(
         raise HTTPException(status_code=400, detail="Failed to create Surplus Listing")
 
 
-@router.put("/update/{surplus_listing_id}", response_model=SurplusListingsSchema)
+@router.put(
+    "/update/{surplus_listing_id}",
+    response_model=SurplusListingsSchema,
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
 def update_surplus_listing(
     surplus_listing_id: int,
+    request: Request,
     surplus_listing: SurplusListingCreateSchema,
     db: Session = Depends(get_db),
 ):
     try:
-        db_surplus_listing = (
+        token = request.cookies.get("jwt")
+        user: Users = get_current_user_from_token(token)
+
+        db_surplus_listing: SurplusListings = (
             db.query(SurplusListings)
             .filter(SurplusListings.id == surplus_listing_id)
             .first()
@@ -101,8 +120,16 @@ def update_surplus_listing(
         if db_surplus_listing is None:
             raise HTTPException(status_code=404, detail="Surplus Listing not found")
 
+        if db_surplus_listing.farmer_id != user.id:
+            raise HTTPException(status_code=404, detail="Surplus Listing not found")
+
         db_surplus_listing.consumable_id = surplus_listing.consumable_id
-        db_surplus_listing.poster_id = surplus_listing.poster_id
+        db_surplus_listing.farmer_id = surplus_listing.farmer_id
+        db_surplus_listing.price = surplus_listing.price
+
+        if surplus_listing.booked is not None:
+            db_surplus_listing.booked = surplus_listing.booked
+
         db.commit()
         db.refresh(db_surplus_listing)
         return db_surplus_listing
@@ -117,7 +144,12 @@ def update_surplus_listing(
 
 
 @router.delete("/delete/{surplus_listing_id}")
-def delete_surplus_listing(surplus_listing_id: int, db: Session = Depends(get_db)):
+def delete_surplus_listing(
+    surplus_listing_id: int,
+    db: Session = Depends(get_db),
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+):
     try:
         db_surplus_listing = (
             db.query(SurplusListings)

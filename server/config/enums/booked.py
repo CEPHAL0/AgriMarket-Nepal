@@ -3,5 +3,5 @@ from sqlalchemy import Enum
 
 
 class BookedEnum(enum.Enum):
-    booked = "1"
-    not_booked = "0"
+    BOOKED = "BOOKED"
+    NOT_BOOKED = "NOT_BOOKED"

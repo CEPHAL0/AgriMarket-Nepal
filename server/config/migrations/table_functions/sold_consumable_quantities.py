@@ -25,8 +25,18 @@ def create_sold_consumable_quantities_table():
             default=datetime.now(),
             onupdate=datetime.now(),
         ),
-        sa.ForeignKeyConstraint(["consumable_id"], ["consumables.id"]),
-        sa.ForeignKeyConstraint(["farmer_id"], ["users.id"]),
+        sa.ForeignKeyConstraint(
+            ["consumable_id"],
+            ["consumables.id"],
+            onupdate="CASCADE",
+            ondelete="CASCADE",
+        ),
+        sa.ForeignKeyConstraint(
+            ["farmer_id"],
+            ["users.id"],
+            onupdate="CASCADE",
+            ondelete="CASCADE",
+        ),
     )
 
 

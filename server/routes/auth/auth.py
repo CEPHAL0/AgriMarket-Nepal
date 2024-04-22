@@ -1,4 +1,4 @@
-from fastapi import APIRouter, HTTPException, Depends, Response
+from fastapi import APIRouter, HTTPException, Depends, Response, Form, File, UploadFile
 from services.auth import (
     create_access_token,
     decode_token,
@@ -9,6 +9,7 @@ from sqlalchemy.orm import Session
 from config.database import SessionLocal, engine
 from schemas.Auth import Login as LoginSchema, Register as RegisterSchema
 from services import users as user_service, auth as auth_service
+from typing import Annotated
 
 
 def get_db():
@@ -19,7 +20,7 @@ def get_db():
         db.close()
 
 
-router = APIRouter()
+router = APIRouter(tags=["Auth"])
 
 
 @router.post("/login")
@@ -40,10 +41,29 @@ async def login(
 
 @router.post("/register")
 async def register(
-    register_schema: RegisterSchema, response: Response, db: Session = Depends(get_db)
+    response: Response,
+    db: Session = Depends(get_db),
+    name: str = Form(...),
+    username: str = Form(...),
+    email: str = Form(...),
+    password: str = Form(...),
+    address: str = Form(...),
+    phone: str = Form(...),
+    image: UploadFile = File(None),
 ):
     try:
-        response = await auth_service.register(register_schema, response, db)
+        register_schema = RegisterSchema(
+            name=name,
+            username=username,
+            email=email,
+            password=password,
+            address=address,
+            phone=phone,
+            image="default.png",
+        )
+
+        response = await auth_service.register(register_schema, response, db, image)
+
         return response
 
     except HTTPException as httpe:

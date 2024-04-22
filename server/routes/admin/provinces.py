@@ -7,8 +7,9 @@ from schemas.Provinces import (
     ProvinceCreate as ProvincesCreateSchema,
 )
 from logger import logger
+from services import auth as auth_service
 
-router = APIRouter()
+router = APIRouter(tags=["Provinces"])
 
 
 def get_db():
@@ -46,7 +47,13 @@ def get_province_by_id(province_id: int, db: Session = Depends(get_db)):
         raise HTTPException(status_code=400, detail="Failed to retrieve Province")
 
 
-@router.post("/create", response_model=ProvincesSchema, status_code=201)
+@router.post(
+    "/create",
+    response_model=ProvincesSchema,
+    status_code=201,
+    dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
+)
 def create_province(province: ProvincesCreateSchema, db: Session = Depends(get_db)):
     try:
         db_province = Provinces(name=province.name)
@@ -64,7 +71,12 @@ def create_province(province: ProvincesCreateSchema, db: Session = Depends(get_d
         raise HTTPException(status_code=400, detail="Failed to create Province")
 
 
-@router.put("/update/{province_id}", response_model=ProvincesSchema)
+@router.put(
+    "/update/{province_id}",
+    response_model=ProvincesSchema,
+    dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
+)
 def update_province(
     province_id: int, province: ProvincesCreateSchema, db: Session = Depends(get_db)
 ):
@@ -86,7 +98,11 @@ def update_province(
         raise HTTPException(status_code=400, detail="Failed to update Province")
 
 
-@router.delete("/delete/{province_id}")
+@router.delete(
+    "/delete/{province_id}",
+    dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
+)
 def delete_province(province_id: int, db: Session = Depends(get_db)):
     try:
         db_province = db.query(Provinces).filter(Provinces.id == province_id).first()

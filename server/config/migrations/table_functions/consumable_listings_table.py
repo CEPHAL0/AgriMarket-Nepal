@@ -15,14 +15,20 @@ def create_consumable_listings_table():
         sa.ForeignKeyConstraint(
             ["consumable_id"],
             ["consumables.id"],
+            onupdate="CASCADE",
+            ondelete="CASCADE",
         ),
         sa.ForeignKeyConstraint(
             ["user_id"],
             ["users.id"],
+            onupdate="CASCADE",
+            ondelete="CASCADE",
         ),
         sa.ForeignKeyConstraint(
             ["district_id"],
             ["districts.id"],
+            onupdate="CASCADE",
+            ondelete="CASCADE",
         ),
         sa.Column("posted_date", sa.DateTime, nullable=False),
         sa.Column("expiry_date", sa.DateTime, nullable=False),
