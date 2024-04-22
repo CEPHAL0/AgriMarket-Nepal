@@ -89,6 +89,11 @@ def update_user(id: int, user: UserCreateSchema, db: Session):
     if (user_phone is not None) and (user_phone.id != id):
         raise HTTPException(status_code=400, detail="Phone Number already taken")
 
+    if len(user.password) < 8:
+        raise HTTPException(
+            status_code=400, detail="Password should be at least 8 characters long"
+        )
+
     hashed_password = auth_service.get_password_hash(user.password)
 
     db_user.name = user.name

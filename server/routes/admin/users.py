@@ -19,7 +19,9 @@ def get_db():
         db.close()
 
 
-router = APIRouter(dependencies=[Depends(auth_service.is_user_admin)], tags=["Users"])
+router = APIRouter(
+    dependencies=[Depends(auth_service.is_user_admin)], tags=["Users", "admin"]
+)
 # router = APIRouter()
 
 
@@ -60,7 +62,7 @@ def create_user(user: UserCreateSchema, db: Session = Depends(get_db)):
         raise HTTPException(status_code=400, detail="Failed to save user")
 
 
-@router.put("/update/{id}")
+@router.put("/update/{id}", response_model=UserSchema)
 def update_user(id: int, user: UserCreateSchema, db: Session = Depends(get_db)):
     try:
         user = user_service.update_user(id, user, db)

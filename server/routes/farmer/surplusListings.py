@@ -10,6 +10,7 @@ from schemas.SurplusListings import (
 from logger import logger
 from models.users import Users
 from services.auth import get_current_user_from_token
+from services import auth as auth_service
 
 router = APIRouter(tags=["Surplus Listings"])
 
@@ -57,7 +58,13 @@ def get_surplus_listing(surplus_listing_id: int, db: Session = Depends(get_db)):
         )
 
 
-@router.post("/create", response_model=SurplusListingsSchema, status_code=201)
+@router.post(
+    "/create",
+    response_model=SurplusListingsSchema,
+    status_code=201,
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
 def create_surplus_listing(
     surplus_listing: SurplusListingCreateSchema, db: Session = Depends(get_db)
 ):
@@ -89,7 +96,12 @@ def create_surplus_listing(
         raise HTTPException(status_code=400, detail="Failed to create Surplus Listing")
 
 
-@router.put("/update/{surplus_listing_id}", response_model=SurplusListingsSchema)
+@router.put(
+    "/update/{surplus_listing_id}",
+    response_model=SurplusListingsSchema,
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
 def update_surplus_listing(
     surplus_listing_id: int,
     request: Request,
@@ -132,7 +144,12 @@ def update_surplus_listing(
 
 
 @router.delete("/delete/{surplus_listing_id}")
-def delete_surplus_listing(surplus_listing_id: int, db: Session = Depends(get_db)):
+def delete_surplus_listing(
+    surplus_listing_id: int,
+    db: Session = Depends(get_db),
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+):
     try:
         db_surplus_listing = (
             db.query(SurplusListings)

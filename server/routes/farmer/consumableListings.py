@@ -14,6 +14,7 @@ from datetime import datetime
 
 from services.auth import get_current_user_from_token
 from config.enums.role import RoleEnum
+from services import auth as auth_service
 
 router = APIRouter(tags=["Consumable Listings"])
 
@@ -64,7 +65,13 @@ def get_one_consumable_listing(
         )
 
 
-@router.post("/create", response_model=ConsumableListingSchema, status_code=201)
+@router.post(
+    "/create",
+    response_model=ConsumableListingSchema,
+    status_code=201,
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
 def create_consumable_listing(
     consumable_listing: ConsumableListingCreateSchema, db: Session = Depends(get_db)
 ):
@@ -106,7 +113,12 @@ def create_consumable_listing(
         )
 
 
-@router.put("/update/{consumable_listing_id}", response_model=ConsumableListingSchema)
+@router.put(
+    "/update/{consumable_listing_id}",
+    response_model=ConsumableListingSchema,
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
 def update_consumable_listing(
     consumable_listing_id: int,
     consumable_listing: ConsumableListingCreateSchema,
@@ -142,7 +154,12 @@ def update_consumable_listing(
         )
 
 
-@router.delete("/delete/{consumable_listing_id}", status_code=204)
+@router.delete(
+    "/delete/{consumable_listing_id}",
+    status_code=204,
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
 def delete_consumable_listing(
     consumable_listing_id: int, db: Session = Depends(get_db)
 ):
@@ -170,7 +187,11 @@ def delete_consumable_listing(
         )
 
 
-@router.patch("/reduce/{consumable_listing_id}")
+@router.patch(
+    "/reduce/{consumable_listing_id}",
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
 def reduce_quantity(
     request: Request,
     consumable_listing_id: int,
@@ -218,7 +239,11 @@ def reduce_quantity(
         raise HTTPException(status_code=400, detail="Failed to reduce quantity")
 
 
-@router.patch("/add/{consumable_listing_id}")
+@router.patch(
+    "/add/{consumable_listing_id}",
+    dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
+    tags=["admin_or_farmer"],
+)
 def reduce_quantity(
     request: Request,
     consumable_listing_id: int,

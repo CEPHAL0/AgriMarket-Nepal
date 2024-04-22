@@ -5,6 +5,7 @@ from models.prices import Prices
 from models.consumables import Consumables
 from schemas.Prices import Price as PricesSchema, PriceCreate as PricesCreateSchema
 from logger import logger
+from services import auth as auth_service
 
 router = APIRouter(tags=["Prices"])
 
@@ -44,7 +45,13 @@ def get_price(price_id: int, db: Session = Depends(get_db)):
         raise HTTPException(status_code=400, detail="Failed to retrieve Price")
 
 
-@router.post("/create", response_model=PricesSchema, status_code=201)
+@router.post(
+    "/create",
+    response_model=PricesSchema,
+    status_code=201,
+    dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
+)
 def create_price(price: PricesCreateSchema, db: Session = Depends(get_db)):
     try:
         consumable = (
@@ -70,7 +77,12 @@ def create_price(price: PricesCreateSchema, db: Session = Depends(get_db)):
         raise HTTPException(status_code=400, detail="Failed to create Prices")
 
 
-@router.put("/update/{price_id}", response_model=PricesSchema)
+@router.put(
+    "/update/{price_id}",
+    response_model=PricesSchema,
+    dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
+)
 def update_price(
     price_id: int, price: PricesCreateSchema, db: Session = Depends(get_db)
 ):
@@ -92,7 +104,11 @@ def update_price(
         raise HTTPException(status_code=400, detail="Failed to update Price")
 
 
-@router.delete("/delete/{price_id}")
+@router.delete(
+    "/delete/{price_id}",
+    dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
+)
 def delete_price(price_id: int, db: Session = Depends(get_db)):
     try:
         db_price = db.query(Prices).filter(Prices.id == price_id).first()
