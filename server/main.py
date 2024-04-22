@@ -19,6 +19,7 @@ from routes.index import (
     surplusListings,
     prices,
     userSurplusBooking,
+    soldConsumableQuantities,
 )
 
 
@@ -68,6 +69,7 @@ PUBLIC_ROUTES_PREFIX = [
     "/openapi",
     "/public",
     "/images",
+    "/redoc",
 ]
 
 
@@ -109,3 +111,4 @@ app.include_router(macroTypes.router, prefix="/macroTypes")
 app.include_router(prices.router, prefix="/prices")
 app.include_router(surplusListings.router, prefix="/surplusListings")
 app.include_router(userSurplusBooking.router, prefix="/userSurplusBooking")
+app.include_router(soldConsumableQuantities.router, prefix="/soldConsumableQuantities")
