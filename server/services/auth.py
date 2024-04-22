@@ -102,6 +102,11 @@ async def is_user_admin(request: Request):
         user: Users = auth_service.get_current_user_from_token(jwt)
         if user.role != RoleEnum.ADMIN:
             raise HTTPException(detail="Forbidden resource", status_code=401)
+            
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
     except Exception as e:
         logger.error(e)
         raise HTTPException(status_code=401, detail="Forbidden resource")

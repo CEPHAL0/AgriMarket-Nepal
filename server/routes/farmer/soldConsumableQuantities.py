@@ -34,20 +34,114 @@ def get_sold_consumable_quantities(db: Session = Depends(get_db)):
         )
 
 
-@router.get("/{sold_consumable_id}", response_model=SoldConsumableQuantitySchema)
+@router.get(
+    "/{sold_consumable_quantity_id}", response_model=SoldConsumableQuantitySchema
+)
 def get_sold_consumable_quantities(
-    sold_consumable_id: int, db: Session = Depends(get_db)
+    sold_consumable_quantity_id: int, db: Session = Depends(get_db)
 ):
     try:
         db_sold_consumable_quantity = (
             db.query(SoldConsumableQuantities)
-            .filter(SoldConsumableQuantities.id == sold_consumable_id)
+            .filter(SoldConsumableQuantities.id == sold_consumable_quantity_id)
             .first()
         )
+
+        if db_sold_consumable_quantity is None:
+            raise HTTPException(
+                status_code=404, detail="Sold Consumable Listing not found"
+            )
+
         return db_sold_consumable_quantity
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
 
     except Exception as e:
         logger.error(e)
         raise HTTPException(
             status_code=400, detail="Failed to get sold consumable quantities"
+        )
+
+
+@router.put(
+    "/{sold_consumable_quantity_id}",
+    response_model=SoldConsumableQuantitySchema,
+    dependencies=[Depends(auth_service.is_user_admin)],
+)
+def update_sold_consumable_quantity(
+    sold_consumable_quantity_id: int,
+    sold_consumable_quantity: SoldConsumableQuantityCreateSchema,
+    db: Session = Depends(get_db),
+):
+    try:
+        db_sold_consumable_quantity: SoldConsumableQuantities = (
+            db.query(SoldConsumableQuantities)
+            .filter(SoldConsumableQuantities.id == sold_consumable_quantity_id)
+            .first()
+        )
+
+        if db_sold_consumable_quantity is None:
+            raise HTTPException(
+                status_code=404, detail="Sold Consumable Listing not found"
+            )
+
+        db_sold_consumable_quantity.consumable_id = (
+            sold_consumable_quantity.consumable_id
+        )
+
+        db_sold_consumable_quantity.farmer_id = sold_consumable_quantity.farmer_id
+
+        db_sold_consumable_quantity.quantity_sold = (
+            sold_consumable_quantity.quantity_sold
+        )
+
+        db_sold_consumable_quantity.date_sold = sold_consumable_quantity.date_sold
+
+        db.commit()
+        db.refresh(db_sold_consumable_quantity)
+        return db_sold_consumable_quantity
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
+    except Exception as e:
+        logger.error(e)
+        raise HTTPException(
+            status_code=400, detail="Failed to update Sold Consumable Quantity"
+        )
+
+
+@router.delete(
+    "/{sold_consumable_quantity_id}", dependencies=[Depends(auth_service.is_user_admin)]
+)
+def delete_sold_consumable_quantity_id(
+    sold_consumable_quantity_id: int, db: Session = Depends(get_db)
+):
+    try:
+        db_sold_consumable_quantity = (
+            db.query(SoldConsumableQuantities)
+            .filter(SoldConsumableQuantities.id == sold_consumable_quantity_id)
+            .first()
+        )
+
+        if db_sold_consumable_quantity is None:
+            raise HTTPException(
+                status_code=404, detail="Sold Consumable Listing not found"
+            )
+
+        db.delete(db_sold_consumable_quantity)
+        db.commit()
+        return {"message": "Sold Consumable Quantity Deleted Successfully"}
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
+    except Exception as e:
+        logger.error(e)
+        raise HTTPException(
+            status_code=400, detail="Failed to delete Sold Consumable Quantity"
         )
