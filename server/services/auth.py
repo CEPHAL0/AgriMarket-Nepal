@@ -156,16 +156,17 @@ async def register(
         if user is not None:
             raise HTTPException(status_code=400, detail="Phone number already in use")
 
-        filename = "users/default.png"
+        image_name = "images/users/default.png"
         if image:
             formatted_datetime = datetime.now().strftime("%Y-%m-%d_%H-%M-%S-%f")[:-3]
-            filename = f"users/{formatted_datetime}-{image.filename}"
+            filename = f"{formatted_datetime}-{image.filename}"
+            image_name = f"images/users/{filename}"
             with open(f"{IMAGE_DIR}/{filename}", "wb") as image_file:
                 image_file.write(await image.read())
 
         register_schema.password = get_password_hash(register_schema.password)
 
-        user = user_service.create_user(register_schema, image=filename, db=db)
+        user = user_service.create_user(register_schema, image=image_name, db=db)
 
         jwt_token = create_access_token(user.id)
         response.set_cookie(
