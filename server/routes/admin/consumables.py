@@ -97,8 +97,8 @@ def update_consumable(
         )
         if db_consumable is None:
             raise HTTPException(status_code=404, detail="Consumable not found")
-        db_consumable.name = consumable.name
-        db_consumable.type = consumable.type
+        setattr(db_consumable, "name", consumable.name)
+        setattr(db_consumable, "type", consumable.type)
         db.commit()
         db.refresh(db_consumable)
         return db_consumable

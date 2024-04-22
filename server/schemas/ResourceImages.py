@@ -14,6 +14,7 @@ class ResourceImageCreate(ResourceImageBase):
 
 class ResourceImage(ResourceImageBase):
     id: int
+    image_path: str
     created_at: datetime
     updated_at: datetime
 

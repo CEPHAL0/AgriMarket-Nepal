@@ -6,6 +6,8 @@ fastapi.log
 
 public/images/users/*.*
 public/images/consumables/*.*
+public/images/resource_images/*.*
 
 !public/images/users/.gitkeep
 !public/images/consumables/.gitkeep
+!public/images/resource_images/.gitkeep

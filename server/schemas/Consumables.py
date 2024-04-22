@@ -23,6 +23,7 @@ class ConsumableCreate(ConsumableBase):
 
 class Consumable(ConsumableBase):
     id: int
+    image_path: str
     created_at: datetime
     updated_at: datetime
 
