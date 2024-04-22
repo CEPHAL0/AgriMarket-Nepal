@@ -59,7 +59,7 @@ def create_access_token(user_id: int):
 
 def decode_token(token: str):
     try:
-        payload = jwt.decode(token, SECRET_KET, ALGORITHM)
+        payload = jwt.decode(token, SECRET_KEY, ALGORITHM)
         id: str = payload.get("user_id")
 
         if id is None:
@@ -111,7 +111,7 @@ async def is_user_farmer_or_admin(request: Request):
     try:
         jwt = request.cookies.get("jwt")
         user: Users = auth_service.get_current_user_from_token(jwt)
-        if (user.role != RoleEnum.ADMIN) or (user.role != RoleEnum.Farmer):
+        if (user.role != RoleEnum.ADMIN) or (user.role != RoleEnum.FARMER):
             raise HTTPException(detail="Forbidden resource", status_code=401)
     except Exception as e:
         logger.error(e)

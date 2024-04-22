@@ -9,7 +9,7 @@ from schemas.Resources import (
 )
 from logger import logger
 
-router = APIRouter()
+router = APIRouter(tags=["Resources"])
 
 
 def get_db():

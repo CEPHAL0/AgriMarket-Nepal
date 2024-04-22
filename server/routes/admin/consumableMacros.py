@@ -9,8 +9,9 @@ from schemas.ConsumableMacros import (
     ConsumableMacroCreate as ConsumableMacrosCreateSchema,
 )
 from logger import logger
+from services import auth as auth_service
 
-router = APIRouter()
+router = APIRouter(tags=["Consumable Macros"])
 
 
 def get_db():
@@ -26,7 +27,7 @@ def get_consumable_macros(db: Session = Depends(get_db)):
     try:
         consumable_macros = db.query(ConsumableMacros).all()
         return consumable_macros
-        
+
     except Exception as e:
         logger.error(e)
         raise HTTPException(
@@ -57,7 +58,13 @@ def get_one_consumable_macro(consumable_macro_id: int, db: Session = Depends(get
         )
 
 
-@router.post("/create", response_model=ConsumableMacrosSchema, status_code=201)
+@router.post(
+    "/create",
+    response_model=ConsumableMacrosSchema,
+    status_code=201,
+    dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
+)
 def create_consumable_macro(
     consumable_macro: ConsumableMacrosCreateSchema, db: Session = Depends(get_db)
 ):
@@ -97,7 +104,12 @@ def create_consumable_macro(
         raise HTTPException(status_code=400, detail="Failed to create Consumable Macro")
 
 
-@router.put("/update/{consumable_macro_id}", response_model=ConsumableMacrosSchema)
+@router.put(
+    "/update/{consumable_macro_id}",
+    response_model=ConsumableMacrosSchema,
+    dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
+)
 def update_consumable_macro(
     consumable_macro_id: int,
     consumable_macro: ConsumableMacrosCreateSchema,
@@ -144,7 +156,12 @@ def update_consumable_macro(
         raise HTTPException(status_code=400, detail="Failed to update Consumable Macro")
 
 
-@router.delete("/delete/{consumable_macro_id}", status_code=204)
+@router.delete(
+    "/delete/{consumable_macro_id}",
+    status_code=204,
+    dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
+)
 def delete_consumable_macro(consumable_macro_id: int, db: Session = Depends(get_db)):
     try:
         db_consumable_macro = (

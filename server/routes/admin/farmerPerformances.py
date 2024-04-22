@@ -9,7 +9,7 @@ from schemas.FarmerPerformances import (
 )
 from logger import logger
 
-router = APIRouter()
+router = APIRouter(tags=["Farmer Performances"])
 
 
 def get_db():

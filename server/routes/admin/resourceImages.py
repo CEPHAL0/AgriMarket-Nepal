@@ -9,7 +9,7 @@ from schemas.ResourceImages import (
 )
 from logger import logger
 
-router = APIRouter()
+router = APIRouter(tags=["Resource Images"])
 
 
 def get_db():

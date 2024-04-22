@@ -7,8 +7,9 @@ from schemas.Consumables import (
     ConsumableCreate as ConsumablesCreateSchema,
 )
 from logger import logger
+from services import auth as auth_service
 
-router = APIRouter()
+router = APIRouter(tags=["Consumables"])
 
 
 def get_db():
@@ -48,7 +49,12 @@ def get_consumable(consumable_id: int, db: Session = Depends(get_db)):
         raise HTTPException(status_code=400, detail="Failed to retrieve Consumable")
 
 
-@router.post("/create", response_model=ConsumablesSchema, status_code=201)
+@router.post(
+    "/create",
+    response_model=ConsumablesSchema,
+    status_code=201,
+    dependencies=[Depends(auth_service.is_user_admin)],
+)
 def create_consumable(
     consumable: ConsumablesCreateSchema, db: Session = Depends(get_db)
 ):
@@ -70,7 +76,11 @@ def create_consumable(
         raise HTTPException(status_code=400, detail="Failed to create Consumable")
 
 
-@router.put("/update/{consumable_id}", response_model=ConsumablesSchema)
+@router.put(
+    "/update/{consumable_id}",
+    response_model=ConsumablesSchema,
+    dependencies=[Depends(auth_service.is_user_admin)],
+)
 def update_consumable(
     consumable_id: int,
     consumable: ConsumablesCreateSchema,
@@ -97,7 +107,9 @@ def update_consumable(
         raise HTTPException(status_code=400, detail="Failed to update Consumable")
 
 
-@router.delete("/delete/{consumable_id}")
+@router.delete(
+    "/delete/{consumable_id}", dependencies=[Depends(auth_service.is_user_admin)]
+)
 def delete_consumable(consumable_id: int, db: Session = Depends(get_db)):
     try:
         db_consumable = (
