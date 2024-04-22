@@ -5,3 +5,7 @@ fastapi.log
 **/__pycache__
 
 public/images/users/*.*
+public/images/consumables/*.*
+
+!public/images/users/.gitkeep
+!public/images/consumables/.gitkeep

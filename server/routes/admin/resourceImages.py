@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Form, File, UploadFile
 from sqlalchemy.orm import Session
 from config.database import SessionLocal, engine
 from models.resource_images import ResourceImages
@@ -32,13 +32,13 @@ def get_resource_images(db: Session = Depends(get_db)):
         )
 
 
-@router.get("/{resource_image_id}", response_model=ResourceImageSchema)
+@router.get("/{resource_image_id}", response_model=list[ResourceImageSchema])
 def get_single_resource_image(resource_image_id: int, db: Session = Depends(get_db)):
     try:
         resource_image = (
             db.query(ResourceImages)
             .filter(ResourceImages.id == resource_image_id)
-            .first()
+            .all()
         )
         if resource_image is None:
             raise HTTPException(status_code=404, detail="Resource Image not found")
@@ -55,7 +55,9 @@ def get_single_resource_image(resource_image_id: int, db: Session = Depends(get_
 
 @router.post("/create", response_model=ResourceImageSchema, status_code=201)
 def create_new_resource_image(
-    resource_image: ResourceImageCreateSchema, db: Session = Depends(get_db)
+    # resource_image: ResourceImageCreateSchema, 
+
+    db: Session = Depends(get_db)
 ):
     try:
         resource = (
