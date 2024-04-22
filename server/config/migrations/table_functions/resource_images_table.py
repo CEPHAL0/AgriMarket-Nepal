@@ -10,7 +10,12 @@ def create_resource_images_table():
         sa.Column("resource_id", sa.Integer, nullable=False, index=True),
         sa.Column("image_path", sa.String, nullable=False, index=True),
         sa.Column("order", sa.Integer, nullable=False, index=True),
-        sa.ForeignKeyConstraint(["resource_id"], ["resources.id"]),
+        sa.ForeignKeyConstraint(
+            ["resource_id"],
+            ["resources.id"],
+            onupdate="CASCADE",
+            ondelete="CASCADE",
+        ),
         sa.Column(
             "created_at",
             sa.DateTime,

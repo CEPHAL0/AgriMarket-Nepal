@@ -8,7 +8,7 @@ from schemas.Users import User
 class SurplusListingBase(BaseModel):
     consumable_id: int
     price: float
-    booked: BookedEnum = BookedEnum.not_booked
+    booked: BookedEnum = BookedEnum.NOT_BOOKED
 
 
 class SurplusListingCreate(SurplusListingBase):

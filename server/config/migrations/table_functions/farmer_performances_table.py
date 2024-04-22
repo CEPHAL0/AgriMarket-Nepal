@@ -9,7 +9,12 @@ def create_farmer_performances_table():
         sa.Column("id", sa.Integer, primary_key=True, autoincrement=True),
         sa.Column("farmer_id", sa.Integer, nullable=False, index=True),
         sa.Column("performance", sa.Float, nullable=False, index=True),
-        sa.ForeignKeyConstraint(["farmer_id"], ["users.id"]),
+        sa.ForeignKeyConstraint(
+            ["farmer_id"],
+            ["users.id"],
+            onupdate="CASCADE",
+            ondelete="CASCADE",
+        ),
         sa.Column(
             "created_at",
             sa.DateTime,

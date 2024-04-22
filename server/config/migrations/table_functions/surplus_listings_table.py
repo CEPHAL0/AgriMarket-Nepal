@@ -12,8 +12,18 @@ def create_surplus_listings_table():
         sa.Column("price", sa.Float, nullable=False, index=True),
         sa.Column("farmer_id", sa.Integer, nullable=False, index=True),
         sa.Column("booked", sa.Enum(booked.BookedEnum), nullable=False, index=True),
-        sa.ForeignKeyConstraint(["consumable_id"], ["consumables.id"]),
-        sa.ForeignKeyConstraint(["farmer_id", ["users.id"]]),
+        sa.ForeignKeyConstraint(
+            ["consumable_id"],
+            ["consumables.id"],
+            onupdate="CASCADE",
+            ondelete="CASCADE",
+        ),
+        sa.ForeignKeyConstraint(
+            ["farmer_id"],
+            ["users.id"],
+            onupdate="CASCADE",
+            ondelete="CASCADE",
+        ),
         sa.Column(
             "posted_date",
             sa.DateTime,
