@@ -14,7 +14,7 @@ class ConsumableTypeEnum(str, Enum):
 class ConsumableBase(BaseModel):
     name: str
     type: ConsumableEnum
-    image_path: str
+    # image_path: str
 
 
 class ConsumableCreate(ConsumableBase):
@@ -23,6 +23,7 @@ class ConsumableCreate(ConsumableBase):
 
 class Consumable(ConsumableBase):
     id: int
+    image_path: str
     created_at: datetime
     updated_at: datetime
 

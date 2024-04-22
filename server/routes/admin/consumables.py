@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Form, File, UploadFile
 from sqlalchemy.orm import Session
 from config.database import SessionLocal, engine
 from models.consumables import Consumables
@@ -7,8 +7,11 @@ from schemas.Consumables import (
     ConsumableCreate as ConsumablesCreateSchema,
 )
 from logger import logger
+from datetime import datetime
 
 router = APIRouter()
+
+IMAGE_DIR = "public/images/consumables"
 
 
 def get_db():
@@ -50,11 +53,23 @@ def get_consumable(consumable_id: int, db: Session = Depends(get_db)):
 
 @router.post("/create", response_model=ConsumablesSchema, status_code=201)
 def create_consumable(
-    consumable: ConsumablesCreateSchema, db: Session = Depends(get_db)
+    # consumable: ConsumablesCreateSchema, 
+    db: Session = Depends(get_db),
+    name: str = Form(...),
+    type: str = Form(...),
+    image_path: UploadFile = File(None)
 ):
     try:
+        image_name = "images/consumables/default.png"
+        if image_path is not None:
+            formatted_datetime = datetime.now().strftime("%Y-%m-%d_%H-%M-%S-%f")[:-3]
+            filename = f"{formatted_datetime}-{image_path.filename}"
+            image_name = f"images/consumables/{filename}"
+            with open(f"{IMAGE_DIR}/{filename}", "wb") as buffer:
+                buffer.write(image_path.file.read())
+
         db_consumable = Consumables(
-            name=consumable.name, type=consumable.type, image_path=consumable.image_path
+            name=name, type=type, image_path=image_name
         )
         db.add(db_consumable)
         db.commit()
@@ -82,8 +97,8 @@ def update_consumable(
         )
         if db_consumable is None:
             raise HTTPException(status_code=404, detail="Consumable not found")
-        db_consumable.name = consumable.name
-        db_consumable.type = consumable.type
+        setattr(db_consumable, "name", consumable.name)
+        setattr(db_consumable, "type", consumable.type)
         db.commit()
         db.refresh(db_consumable)
         return db_consumable
