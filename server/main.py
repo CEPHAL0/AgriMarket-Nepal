@@ -29,6 +29,7 @@ from models import index
 import sys
 import os
 from logger import logger
+from fastapi import Request
 
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
@@ -74,6 +75,7 @@ async def is_authorized(request: Request, call_next):
             raise HTTPException(status_code=401, detail="Unauthorized")
 
         user = get_current_user_from_token(jwt)
+        request.state.user = user
 
         response = await call_next(request)
         return response

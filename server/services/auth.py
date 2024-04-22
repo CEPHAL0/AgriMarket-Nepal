@@ -121,6 +121,8 @@ async def is_user_farmer_or_admin(request: Request):
 async def login(login_schema: LoginSchema, response: Response, db: Session):
     try:
         user = user_service.get_user_by_username(login_schema.username, db)
+        if user is None:
+            raise HTTPException(status_code=401, detail="Username does not exists")
 
         if not verify_password(login_schema.password, user.password):
             raise HTTPException(status_code=401, detail="Invalid Credentials")

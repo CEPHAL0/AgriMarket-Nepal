@@ -59,7 +59,7 @@ async def register(
             password=password,
             address=address,
             phone=phone,
-            image="default.png"
+            # image="default.png"
         )
         
         response = await auth_service.register(register_schema, response, db, image)
