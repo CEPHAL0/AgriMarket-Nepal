@@ -11,13 +11,10 @@ from schemas.UserSurplusBookings import (
 )
 from schemas.SurplusListings import SurplusListing as SurplusListingSchema
 from logger import logger
-<<<<<<< HEAD
 from config.enums.accepted import AcceptedEnum
 from config.enums.booked import BookedEnum
 from services.auth import get_current_user_from_token
-=======
 from services import auth as auth_service
->>>>>>> 5894e5f01fe41acab0834c5ab096098087126c40
 
 router = APIRouter(tags=["User Surplus Bookings"])
 
