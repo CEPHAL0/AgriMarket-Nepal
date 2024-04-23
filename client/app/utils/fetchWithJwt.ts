@@ -28,6 +28,5 @@ export const fetchWithJwt = async (
     options.body = body;
   }
 
-  console.log(options);
   return await fetch(url, options);
 };
