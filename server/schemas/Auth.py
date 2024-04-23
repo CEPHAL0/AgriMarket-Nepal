@@ -14,7 +14,7 @@ class Register(BaseModel):
     email: str
     password: str
     # image: Optional[str] = None
-    # image: str
+    image: str
     # image: Optional[UploadFile] = None
     address: str
     phone: str
