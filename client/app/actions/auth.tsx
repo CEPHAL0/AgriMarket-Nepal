@@ -5,6 +5,7 @@ import { NextResponse } from "next/server";
 import { SignInSchema, FormState, TSignInSchema } from "../lib/definitions";
 import { createSession } from "../lib/session";
 import { isRedirectError } from "next/dist/client/components/redirect";
+import { cookies } from "next/headers";
 
 export const signIn = async (state: FormState, formData: FormData) => {
   const validateFields = SignInSchema.safeParse({
@@ -45,3 +46,22 @@ export const signIn = async (state: FormState, formData: FormData) => {
     console.log(err);
   }
 };
+
+export async function handleClick() {
+  const myCookie = cookies();
+  const jwtCookie = myCookie.get("jwt");
+  console.log(jwtCookie);
+  const response = await fetch(
+    `${process.env.NEXT_PUBLIC_API_URL}/consumables`,
+    {
+      method: "GET",
+      headers: {
+        "Content-Type": "application/json",
+        Cookie: `${jwtCookie?.value}`,
+      },
+    }
+  );
+
+  const res = await response.json();
+  console.log(res);
+}
