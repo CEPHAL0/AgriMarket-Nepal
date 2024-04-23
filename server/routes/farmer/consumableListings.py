@@ -3,6 +3,7 @@ from sqlalchemy.orm import Session
 from config.database import SessionLocal, engine
 from models.consumable_listings import ConsumableListings
 from models.districts import Districts
+from models.consumables import Consumables
 from models.users import Users
 from schemas.ConsumableListings import (
     ConsumableListing as ConsumableListingSchema,
@@ -21,6 +22,8 @@ from config.enums.role import RoleEnum
 from services import auth as auth_service
 
 from models.sold_consumable_quantities import SoldConsumableQuantities
+
+from services.auth import get_current_user_from_token
 
 router = APIRouter(tags=["Consumable Listings"])
 
@@ -91,9 +94,12 @@ def create_consumable_listing(
             .filter(Districts.id == consumable_listing.district_id)
             .first()
         )
-
         if district is None:
             raise HTTPException(status_code=404, detail="District not found")
+        
+        consumable = db.query(Consumables).filter(Consumables.id == consumable_listing.consumable_id).first()
+        if consumable is None:
+            raise HTTPException(status_code=404, detail="Consumable not found")
 
         db_consumable_listing = ConsumableListings(
             consumable_id=consumable_listing.consumable_id,
