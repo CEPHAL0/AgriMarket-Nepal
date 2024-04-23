@@ -6,6 +6,8 @@ from models.consumables import Consumables
 from schemas.Prices import Price as PricesSchema, PriceCreate as PricesCreateSchema
 from logger import logger
 from services import auth as auth_service
+from datetime import datetime
+from typing import List
 
 router = APIRouter(tags=["Prices"])
 
@@ -29,7 +31,7 @@ def get_prices(db: Session = Depends(get_db)):
 
 
 @router.get("/{price_id}", response_model=PricesSchema)
-def get_price(price_id: int, db: Session = Depends(get_db)):
+def get_price_by_id(price_id: int, db: Session = Depends(get_db)):
     try:
         price = db.query(Prices).filter(Prices.id == price_id).first()
         if price is None:
@@ -43,6 +45,58 @@ def get_price(price_id: int, db: Session = Depends(get_db)):
     except Exception as e:
         logger.error(e)
         raise HTTPException(status_code=400, detail="Failed to retrieve Price")
+    
+
+@router.get("/consumable/{consumable_id}", response_model=list[PricesSchema])
+def get_price_by_consumable_id(consumable_id: int, db: Session = Depends(get_db)):
+    try:
+        consumables = db.query(Consumables).filter(Consumables.id == consumable_id).all()
+        if consumables is None:
+            raise HTTPException(status_code=404, detail="Consumable not found")
+        
+        prices = db.query(Prices).filter(Prices.consumable_id == consumable_id).all()
+        if prices is None:
+            raise HTTPException(status_code=404, detail="Price not found")
+        return prices
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
+    except Exception as e:
+        logger.error(e)
+        raise HTTPException(status_code=400, detail="Failed to retrieve Price for provided Consumable")
+
+
+@router.get("/consumable/today/{consumable_id}", response_model=PricesSchema)
+def get_price_by_consumable_today(consumable_id: int, db: Session = Depends(get_db)):
+    try:
+        consumable = db.query(Consumables).filter(Consumables.id == consumable_id).first()
+        if consumable is None:
+            raise HTTPException(status_code=404, detail="Consumable not found")
+        price = db.query(Prices).filter(Prices.consumable_id == consumable_id).all()
+
+        filtered_data = []
+        for item in price:
+            item_date = datetime.strptime(str(item.date), "%Y-%m-%d %H:%M:%S").date()
+            if item_date == datetime.now().date():
+                filtered_data.append(item)
+        
+        print('filtered data: ', filtered_data[0])
+        print(len(filtered_data))
+
+        if len(filtered_data) == 0:
+            raise HTTPException(status_code=404, detail="Price for today found")
+        
+        return filtered_data[0]
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
+    except Exception as e:
+        logger.error(e)
+        raise HTTPException(status_code=400, detail="Failed to retrieve Price for provided Consumable")
 
 
 @router.post(

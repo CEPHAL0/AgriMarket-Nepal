@@ -1,5 +1,5 @@
 from sqlalchemy.orm import Session
-from fastapi import HTTPException
+from fastapi import HTTPException, File, UploadFile
 from models.users import Users
 from schemas import index
 from schemas.Users import (
@@ -9,6 +9,10 @@ from schemas.Users import (
 )
 from config.enums.role import RoleEnum
 from services.index import auth as auth_service
+from datetime import datetime
+from logger import logger
+
+IMAGE_DIR = "public/images/users"
 
 
 def get_user(user_id: int, db: Session):
@@ -43,30 +47,41 @@ def get_users(db: Session) -> list[UserSchema]:
     return users
 
 
-def create_user(user: UserCreateSchema, db: Session):
+async def create_user(user: UserCreateSchema, db: Session, image: UploadFile = File(None)):
+    try:
+        if len(user.password) < 8:
+            raise HTTPException(
+                status_code=400, detail="Password must be at least 8 characters long"
+            )
 
-    if len(user.password) < 8:
-        raise HTTPException(
-            status_code=400, detail="Password must be at least 8 characters long"
+        hashed_password = auth_service.get_password_hash(user.password)
+
+        image_name = "images/users/default.png"
+        if image:
+            formatted_datetime = datetime.now().strftime("%Y-%m-%d_%H-%M-%S-%f")[:-3]
+            filename = f"{formatted_datetime}-{image.filename}"
+            image_name = f"images/users/{filename}"
+            with open(f"{IMAGE_DIR}/{filename}", "wb") as image_file:
+                image_file.write(await image.read())
+
+        db_user = Users(
+            name=user.name,
+            username=user.username,
+            email=user.email,
+            password=hashed_password,
+            image=image_name,
+            role=RoleEnum.USER,
+            address=user.address,
+            phone=user.phone,
         )
 
-    hashed_password = auth_service.get_password_hash(user.password)
-
-    db_user = Users(
-        name=user.name,
-        username=user.username,
-        email=user.email,
-        password=hashed_password,
-        image=user.image,
-        role=RoleEnum.USER,
-        address=user.address,
-        phone=user.phone,
-    )
-
-    db.add(db_user)
-    db.commit()
-    db.refresh(db_user)
-    return db_user
+        db.add(db_user)
+        db.commit()
+        db.refresh(db_user)
+        return db_user
+    except Exception as e:
+        logger.error(e)
+        raise HTTPException(status_code=400, detail="Failed to create user")
 
 
 def update_user(id: int, user: UserCreateSchema, db: Session):
@@ -100,7 +115,7 @@ def update_user(id: int, user: UserCreateSchema, db: Session):
     db_user.name = user.name
     db_user.email = user.email
     db_user.address = user.address
-    db_user.image = user.image
+    # db_user.image = user.image
     db_user.role = user.role
     db_user.phone = user.phone
     db_user.username = user.username

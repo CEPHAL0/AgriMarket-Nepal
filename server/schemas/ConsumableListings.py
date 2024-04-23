@@ -14,7 +14,7 @@ class ConsumableListingBase(BaseModel):
 
 
 class ConsumableListingCreate(ConsumableListingBase):
-    user_id: int
+    #user_id: int
     expiry_date: datetime
 
 
