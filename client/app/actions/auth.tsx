@@ -6,7 +6,7 @@ import { SignInSchema, FormState, TSignInSchema } from "../lib/definitions";
 import { createSession } from "../lib/session";
 import { isRedirectError } from "next/dist/client/components/redirect";
 import { cookies } from "next/headers";
-import { fetchWithJwt } from "../utils/fetchWithSessionId";
+import { fetchWithJwt } from "../utils/fetchWithJwt";
 
 export const signIn = async (state: FormState, formData: FormData) => {
   const validateFields = SignInSchema.safeParse({

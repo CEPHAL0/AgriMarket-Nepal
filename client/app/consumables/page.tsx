@@ -1,6 +1,6 @@
 import VegitableCard from "@/components/VegetableCard/VegetableCard";
 import React from "react";
-import { fetchWithSessionId } from "../utils/fetchWithSessionId";
+import { fetchWithSessionId } from "../utils/fetchWithJwt";
 
 type Consumable = {
   consumable_id: number;
