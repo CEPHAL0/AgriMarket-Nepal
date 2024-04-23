@@ -24,6 +24,9 @@ const config = {
         ring: "hsl(var(--ring))",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
+        fruit: "hsl(var(--fruit-background))",
+        vegetable: "hsl(var(--vegetable-background))",
+        other: "hsl(var(--other-background))",
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",

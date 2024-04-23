@@ -39,6 +39,11 @@
     --primary-blue: 187, 60%, 17%;
     --primary-red: 11, 99%, 63%;
     --primary-gray: 120, 22%, 95%;
+
+
+    --fruit-background: 28, 83%, 91%;
+    --vegetable-background: 121, 83%, 91%;
+    --other-background: 223, 27%, 91%;
   }
 
   .dark {

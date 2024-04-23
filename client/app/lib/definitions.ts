@@ -17,3 +17,11 @@ export type FormState =
       error?: string;
     }
   | undefined;
+
+export enum ConsumableType {
+  VEGETABLE = "VEGETABLE",
+  FRUIT = "FRUIT",
+  OTHER = "OTHER",
+}
+
+export type ConsumableTypeString = keyof typeof ConsumableType;
