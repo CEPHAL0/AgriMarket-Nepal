@@ -20,7 +20,6 @@ def get_user(user_id: int, db: Session):
 
 def get_user_by_username(username: str, db: Session):
     user = db.query(Users).filter(Users.username == username).first()
-    print(user)
     # if user is None:
     #     raise HTTPException(status_code=404, detail="User with provided username not found")
     return user
