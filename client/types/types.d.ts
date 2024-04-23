@@ -1,4 +1,9 @@
 type Link = {
-  name: string
-  path: string
+  name: string;
+  path: string;
+};
+
+enum ConsumableType {
+  Vegetable = "VEGETABLE",
+  Fruit = "FRUIT",
 }

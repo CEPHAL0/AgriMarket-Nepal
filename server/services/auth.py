@@ -133,6 +133,8 @@ async def login(login_schema: LoginSchema, response: Response, db: Session):
         if user is None:
             raise HTTPException(status_code=401, detail="Username does not exists")
 
+        if not verify_password(login_schema.password, user.password):
+            raise HTTPException(status_code=400, detail="Invalid Credentials")
         if verify_password(login_schema.password, user.password) == False:
             raise HTTPException(status_code=401, detail="Invalid Credentials")
 
