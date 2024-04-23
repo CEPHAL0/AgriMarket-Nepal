@@ -2,6 +2,8 @@ from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 from config.database import SessionLocal, engine
 from models.sold_consumable_quantities import SoldConsumableQuantities
+from models.consumables import Consumables
+from models.users import Users
 from schemas.SoldConsumableQuantities import (
     SoldConsumableQuantity as SoldConsumableQuantitySchema,
     SoldConsumableQuantityCreate as SoldConsumableQuantityCreateSchema,
@@ -63,10 +65,47 @@ def get_sold_consumable_quantities(
         raise HTTPException(
             status_code=400, detail="Failed to get sold consumable quantities"
         )
+    
+
+@router.post("/create", response_model=SoldConsumableQuantitySchema)
+def create_sold_consumable_quantity(
+    sold_consumable_quantity: SoldConsumableQuantityCreateSchema,
+    db: Session = Depends(get_db),
+):
+    try:
+        consumable = db.query(Consumables).filter(Consumables.id == sold_consumable_quantity.consumable_id).first()
+        if consumable is None:
+            raise HTTPException(status_code=404, detail="Consumable not found")
+        
+        farmer = db.query(Users).filter(Users.id == sold_consumable_quantity.farmer_id).first()
+        if farmer is None:
+            raise HTTPException(status_code=404, detail="Farmer not found")
+
+        db_sold_consumable_quantity = SoldConsumableQuantities(
+            consumable_id=sold_consumable_quantity.consumable_id,
+            farmer_id=sold_consumable_quantity.farmer_id,
+            quantity_sold=sold_consumable_quantity.quantity_sold,
+            date_sold=sold_consumable_quantity.date_sold,
+        )
+
+        db.add(db_sold_consumable_quantity)
+        db.commit()
+        db.refresh(db_sold_consumable_quantity)
+        return db_sold_consumable_quantity
+
+    except HTTPException as httpe:
+        logger.error(httpe)
+        raise httpe
+
+    except Exception as e:
+        logger.error(e)
+        raise HTTPException(
+            status_code=400, detail="Failed to create Sold Consumable Quantity"
+        )
 
 
 @router.put(
-    "/{sold_consumable_quantity_id}",
+    "/update/{sold_consumable_quantity_id}",
     response_model=SoldConsumableQuantitySchema,
     dependencies=[Depends(auth_service.is_user_admin)],
     tags=["admin"],

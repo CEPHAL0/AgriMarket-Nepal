@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, HTTPException, Request, Response
+from fastapi import APIRouter, Depends, HTTPException, Request, Response, Form, File, UploadFile
 from sqlalchemy.orm import Session
 from config.database import SessionLocal, engine
 from models.users import Users
@@ -9,6 +9,7 @@ from schemas.Users import (
 )
 from services import users as user_service, auth as auth_service
 from logger import logger
+from config.enums.role import RoleEnum
 
 
 def get_db():
@@ -48,10 +49,31 @@ def get_user(user_id: int, db: Session = Depends(get_db)):
 
 
 @router.post("/create")
-def create_user(user: UserCreateSchema, db: Session = Depends(get_db)):
+async def create_user(
+    # user: UserCreateSchema, 
+    db: Session = Depends(get_db),
+    name: str = Form(...),
+    username: str = Form(...),
+    email: str = Form(...),
+    password: str = Form(...),
+    address: str = Form(...),
+    phone: str = Form(...),
+    image: UploadFile = File(None),
+    ):
     try:
-        user = user_service.create_user(user, db)
-        return {"message": "Successfully Created User"}
+        user = UserCreateSchema(
+            name=name,
+            username=username,
+            email=email,
+            password=password,
+            address=address,
+            phone=phone,
+            role=RoleEnum.USER,
+            image="default.png",
+        )
+        user = await user_service.create_user(user, db, image)
+        # return {"message": "Successfully Created User"}
+        return user
 
     except HTTPException as httpe:
         logger.error(httpe)

@@ -12,11 +12,12 @@ class SurplusListingBase(BaseModel):
 
 
 class SurplusListingCreate(SurplusListingBase):
-    farmer_id: int
+    pass
 
 
 class SurplusListing(SurplusListingBase):
     id: int
+    farmer_id: int
     farmer: User
     consumable: Consumable
     created_at: datetime

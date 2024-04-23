@@ -83,12 +83,19 @@ def update_resource(
         if resource is None:
             raise HTTPException(status_code=404, detail="Resource not found")
 
-        user = db.query(Usesr).filter(Users.id == resource.author_id).first()
+        user = db.query(Users).filter(Users.id == resource.author_id).first()
         if user is None:
             raise HTTPException(status_code=404, detail="User not found")
 
-        db_resource.audience
-        return resource
+        db_resource.audience = resource.audience
+        db_resource.title = resource.title
+        db_resource.description = resource.description
+        db_resource.author_id = resource.author_id
+
+        db.commit()
+        db.refresh(db_resource)
+
+        return db_resource
 
     except HTTPException as httpe:
         logger.error(httpe)
@@ -108,7 +115,7 @@ def delete_resource(resource_id: int, db: Session = Depends(get_db)):
 
         db.delete(db_resource)
         db.commit()
-        return
+        return {"message": "Successfully Deleted Resource"}
 
     except HTTPException as httpe:
         logger.error(httpe)

@@ -66,9 +66,12 @@ def get_surplus_listing(surplus_listing_id: int, db: Session = Depends(get_db)):
     tags=["admin_or_farmer"],
 )
 def create_surplus_listing(
-    surplus_listing: SurplusListingCreateSchema, db: Session = Depends(get_db)
+    surplus_listing: SurplusListingCreateSchema, request: Request, db: Session = Depends(get_db)
 ):
     try:
+        token = request.cookies.get("jwt")
+        farmer: Users = get_current_user_from_token(token)
+
         consumable = (
             db.query(Consumables)
             .filter(Consumables.id == surplus_listing.consumable_id)
@@ -80,7 +83,7 @@ def create_surplus_listing(
         db_surplus_listing = SurplusListings(
             consumable_id=surplus_listing.consumable_id,
             price=surplus_listing.price,
-            farmer_id=surplus_listing.farmer_id,
+            farmer_id=farmer.id,
         )
         db.add(db_surplus_listing)
         db.commit()
