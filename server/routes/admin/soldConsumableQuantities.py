@@ -69,6 +69,7 @@ def get_sold_consumable_quantities(
     "/{sold_consumable_quantity_id}",
     response_model=SoldConsumableQuantitySchema,
     dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
 )
 def update_sold_consumable_quantity(
     sold_consumable_quantity_id: int,
@@ -115,7 +116,9 @@ def update_sold_consumable_quantity(
 
 
 @router.delete(
-    "/{sold_consumable_quantity_id}", dependencies=[Depends(auth_service.is_user_admin)]
+    "/{sold_consumable_quantity_id}",
+    dependencies=[Depends(auth_service.is_user_admin)],
+    tags=["admin"],
 )
 def delete_sold_consumable_quantity_id(
     sold_consumable_quantity_id: int, db: Session = Depends(get_db)

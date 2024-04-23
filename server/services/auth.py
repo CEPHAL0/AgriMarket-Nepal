@@ -71,7 +71,7 @@ def decode_token(token: str):
         raise jwe
 
 
-def get_current_user_from_token(token):
+def get_current_user_from_token(token) -> Users:
     try:
         db = SessionLocal()
         payload = decode_token(token)
@@ -102,7 +102,7 @@ async def is_user_admin(request: Request):
         user: Users = auth_service.get_current_user_from_token(jwt)
         if user.role != RoleEnum.ADMIN:
             raise HTTPException(detail="Forbidden resource", status_code=401)
-            
+
     except HTTPException as httpe:
         logger.error(httpe)
         raise httpe

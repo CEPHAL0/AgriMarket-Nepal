@@ -104,7 +104,6 @@ def update_macro_type(
 
 @router.delete(
     "/delete/{macro_type_id}",
-    status_code=204,
     dependencies=[Depends(auth_service.is_user_admin)],
     tags=["admin"],
 )

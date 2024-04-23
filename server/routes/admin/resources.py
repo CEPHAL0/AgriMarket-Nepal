@@ -99,7 +99,7 @@ def update_resource(
         raise HTTPException(status_code=400, detail="Failed to update Resource")
 
 
-@router.delete("/delete/{resource_id}", status_code=204)
+@router.delete("/delete/{resource_id}")
 def delete_resource(resource_id: int, db: Session = Depends(get_db)):
     try:
         db_resource = db.query(Resources).filter(Resources.id == resource_id).first()

@@ -7,6 +7,7 @@ from models.users import Users
 from schemas.ConsumableListings import (
     ConsumableListing as ConsumableListingSchema,
     ConsumableListingCreate as ConsumableListingCreateSchema,
+    ConsumableListingEdit as ConsumableListingEditSchema,
 )
 
 from schemas.Quantities import Quantity
@@ -78,24 +79,25 @@ def get_one_consumable_listing(
     tags=["admin_or_farmer"],
 )
 def create_consumable_listing(
-    consumable_listing: ConsumableListingCreateSchema, db: Session = Depends(get_db)
+    request: Request,
+    consumable_listing: ConsumableListingCreateSchema,
+    db: Session = Depends(get_db),
 ):
     try:
-        user = db.query(Users).filter(Users.id == consumable_listing.user_id).first()
-        if user is None:
-            raise HTTPException(status_code=404, detail="User not found")
+        user = auth_service.get_current_user_from_token(request.cookies.get("jwt"))
 
         district = (
             db.query(Districts)
             .filter(Districts.id == consumable_listing.district_id)
             .first()
         )
+
         if district is None:
             raise HTTPException(status_code=404, detail="District not found")
 
         db_consumable_listing = ConsumableListings(
             consumable_id=consumable_listing.consumable_id,
-            user_id=consumable_listing.user_id,
+            user_id=user.id,
             price=consumable_listing.price,
             district_id=consumable_listing.district_id,
             quantity=consumable_listing.quantity,
@@ -126,20 +128,27 @@ def create_consumable_listing(
 )
 def update_consumable_listing(
     consumable_listing_id: int,
-    consumable_listing: ConsumableListingCreateSchema,
+    request: Request,
+    consumable_listing: ConsumableListingEditSchema,
     db: Session = Depends(get_db),
 ):
     try:
+        user = auth_service.get_current_user_from_token(request.cookies.get("jwt"))
+
         db_consumable_listing = (
             db.query(ConsumableListings)
-            .filter(ConsumableListings.id == consumable_listing_id)
+            .filter(
+                (ConsumableListings.id == consumable_listing_id),
+                (ConsumableListings.user_id == user.id),
+            )
             .first()
         )
+
         if db_consumable_listing is None:
             raise HTTPException(status_code=404, detail="Consumable Listing not found")
 
         db_consumable_listing.consumable_id = consumable_listing.consumable_id
-        db_consumable_listing.user_id = consumable_listing.user_id
+        db_consumable_listing.user_id = user.id
         db_consumable_listing.price = consumable_listing.price
         db_consumable_listing.district_id = consumable_listing.district_id
         db_consumable_listing.quantity = consumable_listing.quantity
@@ -161,17 +170,20 @@ def update_consumable_listing(
 
 @router.delete(
     "/delete/{consumable_listing_id}",
-    status_code=204,
     dependencies=[Depends(auth_service.is_user_farmer_or_admin)],
     tags=["admin_or_farmer"],
 )
 def delete_consumable_listing(
-    consumable_listing_id: int, db: Session = Depends(get_db)
+    request: Request, consumable_listing_id: int, db: Session = Depends(get_db)
 ):
     try:
+        user = auth_service.get_current_user_from_token(request.cookies.get("jwt"))
         consumable_listing = (
             db.query(ConsumableListings)
-            .filter(ConsumableListings.id == consumable_listing_id)
+            .filter(
+                (ConsumableListings.id == consumable_listing_id),
+                (ConsumableListings.user_id == user.id),
+            )
             .first()
         )
         if consumable_listing is None:
@@ -210,8 +222,8 @@ def reduce_quantity(
         db_consumable: ConsumableListings = (
             db.query(ConsumableListings)
             .filter(
-                (ConsumableListings.id == consumable_listing_id)
-                & (ConsumableListings.user_id == user.id)
+                (ConsumableListings.id == consumable_listing_id),
+                (ConsumableListings.user_id == user.id),
             )
             .first()
         )
@@ -273,8 +285,8 @@ def add_quantity(
         db_consumable: ConsumableListings = (
             db.query(ConsumableListings)
             .filter(
-                (ConsumableListings.id == consumable_listing_id)
-                & (ConsumableListings.user_id == user.id)
+                (ConsumableListings.id == consumable_listing_id),
+                (ConsumableListings.user_id == user.id),
             )
             .first()
         )

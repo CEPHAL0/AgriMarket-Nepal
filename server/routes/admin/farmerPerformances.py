@@ -119,7 +119,7 @@ def update_farmer_performance(
         )
 
 
-@router.delete("/delete/{farmer_performance_id}", status_code=204)
+@router.delete("/delete/{farmer_performance_id}")
 def delete_farmer_performance(
     farmer_performance_id: int, db: Session = Depends(get_db)
 ):
