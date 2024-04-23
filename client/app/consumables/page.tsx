@@ -1,6 +1,6 @@
 import VegitableCard from '@/components/vegitableCard/VegitableCard'
 import React from 'react'
-
+import { fetchWithSessionId } from '../utils/fetchWithSessionId'
 
 type Consumable = {
   consumable_id: number
@@ -38,17 +38,19 @@ const Consuables = async () => {
 }
 
 async function getServerSideProps() {
-  const res = await fetch(process.env.API_URL + '/consumableLisitings', {
+  const res = await fetchWithSessionId('/consumableLisitings', {
     method: 'GET',
     headers: {
-      'Content-Type': 'application/json',
-      authorization: `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJleHBpcmUiOiIyMDI0LTA0LTIxIDIyOjM0OjIwIn0.imtzlwIRtk5YSqVTG6aHznmcRpM0WWy6rvIbQQLrgJU`
+      'Content-Type': 'application/json'
     }
   })
+  const data = await res.json()
   if (!res.ok) {
-    throw new Error('Something went wrong')
+    // console.log(data.message)
+
+    throw new Error(data.message)
   }
-  return res.json()
+  return data
 }
 
 export default Consuables

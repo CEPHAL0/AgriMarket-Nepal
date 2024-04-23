@@ -69,7 +69,7 @@ PUBLIC_ROUTES_PREFIX = [
     "/openapi",
     "/public",
     "/images",
-    "/redoc",
+    "/redoc"
 ]
 
 

@@ -132,7 +132,7 @@ async def login(login_schema: LoginSchema, response: Response, db: Session):
         user = user_service.get_user_by_username(login_schema.username, db)
 
         if not verify_password(login_schema.password, user.password):
-            raise HTTPException(status_code=401, detail="Invalid Credentials")
+            raise HTTPException(status_code=400, detail="Invalid Credentials")
 
         jwt_token = create_access_token(user.id)
         response.set_cookie(
