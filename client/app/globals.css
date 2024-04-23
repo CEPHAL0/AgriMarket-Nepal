@@ -33,6 +33,12 @@
     --ring: 222.2 84% 4.9%;
 
     --radius: 0.5rem;
+
+    --primary-green: 77, 43%, 36%;
+    --secondary-green: 63, 95%, 68%;
+    --primary-blue: 187, 60%, 17%;
+    --primary-red: 11, 99%, 63%;
+    --primary-gray: 120, 22%, 95%;
   }
 
   .dark {
@@ -70,6 +76,7 @@
   * {
     @apply border-border;
   }
+
   body {
     @apply bg-background text-foreground;
   }

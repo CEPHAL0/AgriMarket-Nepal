@@ -1,50 +1,47 @@
-'use server'
+"use server";
 
-import { redirect } from 'next/navigation'
-import { SignInSchema, FormState, TSignInSchema } from '../lib/definitions'
-import { createSession } from '../lib/session'
-import { isRedirectError } from 'next/dist/client/components/redirect'
+import { redirect } from "next/navigation";
+import { NextResponse } from "next/server";
+import { SignInSchema, FormState, TSignInSchema } from "../lib/definitions";
+import { createSession } from "../lib/session";
+import { isRedirectError } from "next/dist/client/components/redirect";
 
 export const signIn = async (state: FormState, formData: FormData) => {
   const validateFields = SignInSchema.safeParse({
-    username: formData.get('username'),
-    password: formData.get('password')
-  })
+    username: formData.get("username"),
+    password: formData.get("password"),
+  });
 
   if (!validateFields.success) {
-    return { errors: validateFields.error.flatten().fieldErrors }
+    return { errors: validateFields.error.flatten().fieldErrors };
   }
 
-  const { username, password } = validateFields.data
+  const { username, password } = validateFields.data;
   try {
     const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/login`, {
-      method: 'POST',
+      method: "POST",
       headers: {
-        'Content-Type': 'application/json'
+        "Content-Type": "application/json",
       },
-      body: JSON.stringify({ username, password })
-    })
-    const jsonData = await response.json()
+      body: JSON.stringify({ username, password }),
+    });
+    const jsonData = await response.json();
     if (!response.ok) {
       return {
-        error: jsonData.detail
-      }
+        error: jsonData.detail,
+      };
     }
-    // console.log(response)
     if (response.status != 200) {
       return {
-        error: 'Invalid credentials'
-      }
+        error: "Invalid credentials",
+      };
     }
-    // const responseData = await response.json()
-    console.log(jsonData)
-    await createSession(jsonData.access_token)
-    // redirect('/')
-  } catch (err) {
+    await createSession(jsonData.access_token);
+    redirect("/");
+  } catch (err: any) {
     if (isRedirectError(err)) {
-      console.error(err)
-      redirect('/')
+      redirect("/");
     }
-    console.log(err)
+    console.log(err);
   }
-}
+};

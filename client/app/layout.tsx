@@ -1,17 +1,23 @@
-import { Toaster } from '@/components/ui/toaster'
-import './globals.css'
+import { Toaster } from "@/components/ui/toaster";
+import "./globals.css";
+import { Poppins } from "next/font/google";
+
+const poppins = Poppins({
+  weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
+  subsets: ["latin"],
+});
 
 export default function RootLayout({
-  children
+  children,
 }: Readonly<{
-  children: React.ReactNode
+  children: React.ReactNode;
 }>) {
   return (
     <html lang="en">
-      <body>
+      <body className={poppins.className} suppressHydrationWarning={true}>
         {children}
         <Toaster />
       </body>
     </html>
-  )
+  );
 }
