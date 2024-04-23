@@ -31,3 +31,5 @@ export const typeClassMap = {
   VEGETABLE: "bg-vegetable",
   OTHER: "bg-other",
 };
+
+export type RequestMethodsType = "GET" | "POST" | "PUT" | "DELETE" | "PATCH";

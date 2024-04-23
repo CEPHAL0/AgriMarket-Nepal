@@ -1,26 +1,33 @@
 import { cookies } from "next/headers";
+import { RequestMethodsType } from "../lib/definitions";
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL;
 
-export const fetchWithSessionId = async (
+export const fetchWithJwt = async (
   endpoint: string,
-  init: RequestInit
+  method: RequestMethodsType,
+  body?: BodyInit
 ) => {
-  const sessionId = cookies().get("jwt");
+  const jwtCookie = cookies().get("jwt");
+
+  if (!jwtCookie) {
+    throw new Error("Failed to get jwt");
+  }
+
   const url: string = `${API_URL}${endpoint}`;
 
   const options: RequestInit = {
-    ...init,
+    method: method,
     headers: {
-      ...init.headers,
-      Authorization: `Bearer ${sessionId}`,
+      "Content-Type": "application/json",
+      Cookie: `${jwtCookie?.value}`,
     },
   };
 
-  try {
-    return await fetch(url, options);
-  } catch (err) {
-    console.error(err);
-    throw err;
+  if (body) {
+    options.body = body;
   }
+
+  console.log(options);
+  return await fetch(url, options);
 };
