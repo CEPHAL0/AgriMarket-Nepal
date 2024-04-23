@@ -179,9 +179,22 @@ async def register(
 
         register_schema.password = get_password_hash(register_schema.password)
 
-        user = user_service.create_user(register_schema, image=image_name, db=db)
+        # user = await user_service.create_user(register_schema, image=image_name, db=db)
+        db_user = Users(
+            name=register_schema.name,
+            username=register_schema.username,
+            email=register_schema.email,
+            password=register_schema.password,
+            image=image_name,
+            role=RoleEnum.USER,
+            address=register_schema.address,
+            phone=register_schema.phone,
+        )
+        db.add(db_user)
+        db.commit()
+        db.refresh(db_user)
 
-        jwt_token = create_access_token(user.id)
+        jwt_token = create_access_token(db_user.id)
         response.set_cookie(
             key="jwt", value=jwt_token, expires=ACCESS_TOKEN_EXPIRES_MINUTES
         )
