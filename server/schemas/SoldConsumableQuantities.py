@@ -8,7 +8,7 @@ class SoldConsumableQuantityBase(BaseModel):
     consumable_id: int
     farmer_id: int
     quantity_sold: float
-    date_sold: int
+    date_sold: datetime
 
 
 class SoldConsumableQuantityCreate(SoldConsumableQuantityBase):

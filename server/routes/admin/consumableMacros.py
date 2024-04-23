@@ -158,7 +158,6 @@ def update_consumable_macro(
 
 @router.delete(
     "/delete/{consumable_macro_id}",
-    status_code=204,
     dependencies=[Depends(auth_service.is_user_admin)],
     tags=["admin"],
 )

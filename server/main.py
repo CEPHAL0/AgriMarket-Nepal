@@ -19,6 +19,7 @@ from routes.index import (
     surplusListings,
     prices,
     userSurplusBooking,
+    soldConsumableQuantities,
 )
 
 
@@ -86,6 +87,10 @@ async def is_authorized(request: Request, call_next):
         response = await call_next(request)
         return response
 
+    except HTTPException as httpe:
+        logger.error(httpe)
+        return JSONResponse(status_code=httpe.status_code, content=httpe.detail)
+
     except Exception as e:
         logger.error(e)
         return JSONResponse(
@@ -110,3 +115,4 @@ app.include_router(macroTypes.router, prefix="/macroTypes")
 app.include_router(prices.router, prefix="/prices")
 app.include_router(surplusListings.router, prefix="/surplusListings")
 app.include_router(userSurplusBooking.router, prefix="/userSurplusBooking")
+app.include_router(soldConsumableQuantities.router, prefix="/soldConsumableQuantities")

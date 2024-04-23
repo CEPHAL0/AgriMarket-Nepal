@@ -79,21 +79,17 @@ def get_resource_image_by_resource_id(resource_id: int, db: Session = Depends(ge
 
 @router.post("/create", response_model=ResourceImageSchema, status_code=201)
 def create_new_resource_image(
-    # resource_image: ResourceImageCreateSchema, 
+    # resource_image: ResourceImageCreateSchema,
     resource_id: int = Form(...),
     image_path: UploadFile = File(...),
     order: int = Form(...),
-    db: Session = Depends(get_db)
+    db: Session = Depends(get_db),
 ):
     try:
-        resource = (
-            db.query(Resources)
-            .filter(Resources.id == resource_id)
-            .first()
-        )
+        resource = db.query(Resources).filter(Resources.id == resource_id).first()
         if resource is None:
             raise HTTPException(status_code=404, detail="Resource not found")
-        
+
         image_name = "images/resource_images/default.png"
         if image_path is not None:
             formatted_datetime = datetime.now().strftime("%Y-%m-%d_%H-%M-%S-%f")[:-3]
@@ -152,7 +148,7 @@ def update_resource_image(
         raise HTTPException(status_code=400, detail="Failed to update Resource Image")
 
 
-@router.delete("/delete/{resource_image_id}", status_code=204)
+@router.delete("/delete/{resource_image_id}")
 def delete_resource_image(resource_image_id: int, db: Session = Depends(get_db)):
     try:
         db_resource_image = (

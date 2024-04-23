@@ -9,7 +9,12 @@ from routes.admin import (
     macroTypes,
     prices,
     consumables,
+    soldConsumableQuantities,
 )
 
 
-from routes.farmer import consumableListings, surplusListings, userSurplusBooking
+from routes.farmer import (
+    consumableListings,
+    surplusListings,
+    userSurplusBooking,
+)
