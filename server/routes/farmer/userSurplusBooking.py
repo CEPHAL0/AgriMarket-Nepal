@@ -247,12 +247,19 @@ def accept_surplus_booking(
             .filter(UserSurplusBookings.id == user_surplus_booking_id)
             .first()
         )
-
+        db_surplus_listing = (
+            db.query(SurplusListings)
+            .filter(SurplusListings.id == db_user_surplus_booking.surplus_listing_id)
+            .first()
+        )
         
+        if db_surplus_listing.farmer_id != user.id:
+            raise HTTPException(status_code=401, detail="Unauthorized")
         if db_user_surplus_booking is None:
             raise HTTPException(
                 status_code=404, detail="User Surplus Booking not found"
             )
+        
         db_user_surplus_booking.accepted = AcceptedEnum.ACCEPTED
         db.commit()
         db.refresh(db_user_surplus_booking)

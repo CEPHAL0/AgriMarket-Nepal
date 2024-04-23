@@ -28,6 +28,9 @@ ALGORITHM = os.getenv("ALGORITHM")
 ACCESS_TOKEN_EXPIRES_MINUTES = int(os.getenv("ACCESS_TOKEN_EXPIRES_MINUTES"))
 ACCESS_TOKEN_EXPIRES_HOURS = int(os.getenv("ACCESS_TOKEN_EXPIRES_HOURS"))
 
+print('SECRET_KEY: ', SECRET_KEY)
+print('ALGORITHM: ', ALGORITHM)
+
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
 IMAGE_DIR = "public/images/users"
@@ -42,6 +45,10 @@ def get_db():
 
 
 def verify_password(plain_password, hashed_password):
+    print('plain: ', plain_password)
+    print(type(plain_password))
+    print('hashed: ', hashed_password)
+    print(type(hashed_password))
     return pwd_context.verify(plain_password, hashed_password)
 
 
@@ -124,11 +131,16 @@ async def is_user_farmer_or_admin(request: Request):
 
 async def login(login_schema: LoginSchema, response: Response, db: Session):
     try:
+        print(login_schema)
         user = user_service.get_user_by_username(login_schema.username, db)
         if user is None:
             raise HTTPException(status_code=401, detail="Username does not exists")
 
-        if not verify_password(login_schema.password, user.password):
+        print('input password: ', login_schema.password)
+        print('user password', user.password)
+        print(verify_password(str(login_schema.password), str(user.password)))
+
+        if verify_password(login_schema.password, user.password) == False:
             raise HTTPException(status_code=401, detail="Invalid Credentials")
 
         jwt_token = create_access_token(user.id)
