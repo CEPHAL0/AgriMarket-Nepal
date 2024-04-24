@@ -34,7 +34,7 @@ export default function Page() {
                 price={consumableListing.price}
                 quantity={consumableListing.quantity}
                 user={consumableListing.user.name}
-                userImage={Vegetable}
+                userImage={`${API_URL}/${consumableListing.user.image}`}
                 consumableImage={`${API_URL}/${consumableListing.consumable.image_path}`}
                 consumableType={consumableListing.consumable.type}
               />

@@ -12,7 +12,7 @@ interface ConsumableListingCardProps {
   district: string;
   quantity: number;
   expiryDate?: string;
-  userImage: StaticImageData;
+  userImage: StaticImageData | string;
   consumableImage: StaticImageData | string;
   consumableType: ConsumableType;
 }
@@ -43,7 +43,7 @@ export default function ConsumableListingCard(
               <Image
                 src={props.userImage}
                 fill
-                className="object-cover rounded-full"
+                className="object-cover rounded-full overflow-hidden"
                 alt={props.user}
               />
             </div>
