@@ -36,7 +36,7 @@ def get_db():
         db.close()
 
 
-@router.get("/", response_model=list[ConsumableListingSchema])
+@router.get("", response_model=list[ConsumableListingSchema])
 def get_consumable_listings(db: Session = Depends(get_db)):
     try:
         consumable_listings = db.query(ConsumableListings).all()
@@ -96,8 +96,12 @@ def create_consumable_listing(
         )
         if district is None:
             raise HTTPException(status_code=404, detail="District not found")
-        
-        consumable = db.query(Consumables).filter(Consumables.id == consumable_listing.consumable_id).first()
+
+        consumable = (
+            db.query(Consumables)
+            .filter(Consumables.id == consumable_listing.consumable_id)
+            .first()
+        )
         if consumable is None:
             raise HTTPException(status_code=404, detail="Consumable not found")
 
