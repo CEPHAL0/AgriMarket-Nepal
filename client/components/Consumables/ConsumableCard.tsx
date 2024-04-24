@@ -1,5 +1,5 @@
 import { ReactElement } from "react";
-import { ConsumableTypeString } from "@/app/lib/definitions";
+import { ConsumableType } from "@/app/lib/definitions";
 import Image, { StaticImageData } from "next/image";
 export default function ConsumableCard({
   name,
@@ -7,7 +7,7 @@ export default function ConsumableCard({
   image,
 }: {
   name: string;
-  type: ConsumableTypeString;
+  type: ConsumableType;
   image: StaticImageData;
 }): ReactElement {
   const typeClassMap = {

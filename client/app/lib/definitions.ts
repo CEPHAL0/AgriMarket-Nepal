@@ -18,10 +18,18 @@ export type FormState =
     }
   | undefined;
 
-export enum ConsumableType {
+export enum EConsumableType {
   VEGETABLE = "VEGETABLE",
   FRUIT = "FRUIT",
   OTHER = "OTHER",
 }
 
-export type ConsumableTypeString = keyof typeof ConsumableType;
+export type ConsumableType = keyof typeof EConsumableType;
+
+export const typeClassMap = {
+  FRUIT: "bg-fruit",
+  VEGETABLE: "bg-vegetable",
+  OTHER: "bg-other",
+};
+
+export type RequestMethodsType = "GET" | "POST" | "PUT" | "DELETE" | "PATCH";
