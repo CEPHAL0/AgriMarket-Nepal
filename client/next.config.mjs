@@ -1,14 +1,15 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
+        domains: ['127.0.0.1'],
         remotePatterns: [
             {
                 protocol: 'http',
-                hostname: 'localhost',
+                hostname: '127.0.0.1',
                 port: '8000',
-                pathname: '/images/**',
-            }
-        ]
+                pathname: `${ process.env.NEXT_PUBLIC_API_URL }/*`,
+            },
+        ],
     },
     async headers() {
         return [
@@ -24,5 +25,6 @@ const nextConfig = {
         ]
     }
 };
+
 
 export default nextConfig;  

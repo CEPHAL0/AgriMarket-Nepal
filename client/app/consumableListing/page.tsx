@@ -5,6 +5,8 @@ import { useState, useEffect } from "react";
 import Vegetable from "@/public/Vegetables.jpg";
 import { fetchConsumableListings } from "./fetchConsumableListing";
 
+const API_URL = process.env.NEXT_PUBLIC_API_URL;
+
 export default function Page() {
   const [res, setRes] = useState<any>();
 
@@ -33,7 +35,7 @@ export default function Page() {
                 quantity={consumableListing.quantity}
                 user={consumableListing.user.name}
                 userImage={Vegetable}
-                consumableImage={Vegetable}
+                consumableImage={`${API_URL}/${consumableListing.consumable.image_path}`}
                 consumableType={consumableListing.consumable.type}
               />
             );
