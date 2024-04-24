@@ -220,7 +220,7 @@ def book_surplus_listing(
         db.commit()
         db.refresh(surplus_listing)
 
-        return db_user_surplus_booking
+        return {'message': 'Booking Successful'}
 
     except HTTPException as httpe:
         logger.error(httpe)

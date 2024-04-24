@@ -5,7 +5,8 @@ import ConsumableListingCard from "@/components/ConsumableListings/ConsumableLis
 import { cookies } from "next/headers";
 import Vegetable from "@/public/Vegetables.jpg";
 import { handleClick } from "../actions/auth";
-export default async function Page() {
+
+export default function Page() {
   return (
     <div className="m-6 flex flex-wrap gap-4">
       <ConsumableCard image={Vegetable} name="Radish" type="VEGETABLE" />
