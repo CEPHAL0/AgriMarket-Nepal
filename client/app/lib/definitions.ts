@@ -24,6 +24,22 @@ export enum EConsumableType {
   OTHER = "OTHER",
 }
 
+export enum AcceptedEnumType {
+  ACCEPTED = "ACCEPTED",
+  NOT_ACCEPTED = "NOT_ACCEPTED",
+}
+
+export enum RoleEnumType {
+  ADMIN = "ADMIN",
+  FARMER = "FARMER",
+  USER = "USER",
+}
+
+export enum BookedEnumType {
+  BOOKED = "BOOKED",
+  NOT_BOOKED = "NOT_BOOKED",
+}
+
 export type ConsumableType = keyof typeof EConsumableType;
 
 export const typeClassMap = {

@@ -4,6 +4,8 @@ import ConsumableListingCard from "@/components/ConsumableListings/ConsumableLis
 import { useState, useEffect } from "react";
 import Vegetable from "@/public/Vegetables.jpg";
 import { fetchSurplusListings } from "./fetchSurplusListing";
+import { SurplusListing } from "@/types/types";
+import SurplusListingCard from "@/components/SurplusListing/SurplusListing";
 
 export default function Page() {
   const [res, setRes] = useState<any>();
@@ -23,20 +25,16 @@ export default function Page() {
     <div className="m-6 flex flex-wrap gap-4">
       {res && (
         <div>
-          {res.map((consumableListing: any) => {
+          {res.map((surplusListing: SurplusListing) => {
             return (
-              <ConsumableListingCard
-                key={consumableListing.id}
-                consumable={consumableListing.consumable.name}
-                district={consumableListing.district.name}
-                postedDate={consumableListing.posted_date}
-                price={consumableListing.price}
-                quantity={consumableListing.quantity}
-                user={consumableListing.user.name}
-                userImage={Vegetable}
-                consumableImage={Vegetable}
-                consumableType={consumableListing.consumable.type}
-              />
+              <div className="m-8" key={surplusListing.id}>
+                <SurplusListingCard
+                  booked={surplusListing.booked}
+                  consumable={surplusListing.consumable}
+                  farmer={surplusListing.farmer}
+                  price={surplusListing.price}
+                />
+              </div>
             );
           })}
         </div>
