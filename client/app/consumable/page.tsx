@@ -4,6 +4,7 @@ import ConsumableCard from "@/components/Consumables/ConsumableCard";
 import { useState, useEffect } from "react";
 import Vegetable from "@/public/Vegetables.jpg";
 import { fetchConsumables } from "./fetchConsumables";
+import { User } from "@/types/types";
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL;
 

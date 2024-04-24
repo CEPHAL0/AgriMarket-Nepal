@@ -24,23 +24,25 @@ export enum EConsumableType {
   OTHER = "OTHER",
 }
 
-export enum AcceptedEnumType {
+export enum EAcceptedType {
   ACCEPTED = "ACCEPTED",
   NOT_ACCEPTED = "NOT_ACCEPTED",
 }
 
-export enum RoleEnumType {
+export enum ERoleType {
   ADMIN = "ADMIN",
   FARMER = "FARMER",
   USER = "USER",
 }
 
-export enum BookedEnumType {
+export enum EBookedType {
   BOOKED = "BOOKED",
-  NOT_BOOKED = "NOT_BOOKED",
+  NOT_BOKED = "NOT_BOOKED",
 }
 
 export type ConsumableType = keyof typeof EConsumableType;
+export type AcceptedType = keyof typeof EAcceptedType;
+export type RoleType = keyof typeof ERoleType;
 
 export const typeClassMap = {
   FRUIT: "bg-fruit",
