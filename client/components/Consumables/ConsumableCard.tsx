@@ -8,7 +8,7 @@ export default function ConsumableCard({
 }: {
   name: string;
   type: ConsumableType;
-  image: StaticImageData;
+  image: StaticImageData | string;
 }): ReactElement {
   const typeClassMap = {
     FRUIT: "bg-fruit",
@@ -30,7 +30,7 @@ export default function ConsumableCard({
         />
       </div>
       <div className="flex items-center justify-between p-4 grow">
-        <p className=" font-semibold text-3xl text-primary-blue">{name}</p>
+        <p className="font-semibold text-2xl text-primary-blue">{name}</p>
         <span className="bg-black w-fit h-fit rounded-xl px-2 py-1 text-xs text-white">
           {type.toUpperCase()}
         </span>

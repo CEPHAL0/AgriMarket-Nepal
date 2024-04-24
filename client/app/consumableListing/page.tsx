@@ -13,7 +13,6 @@ export default function Page() {
   useEffect(() => {
     fetchConsumableListings()
       .then((data) => {
-        console.log(data);
         setRes(data);
       })
       .catch((error) => {
@@ -22,12 +21,16 @@ export default function Page() {
   }, []);
 
   return (
-    <div className="m-6 flex flex-wrap gap-4">
-      {res && (
-        <div>
+    <div className="px-4 py-6 flex flex-col items-center justify-center gap-8">
+      <h1 className="text-4xl font-bold">
+        <span className="text-primary-green">Consumbale </span> Listings
+      </h1>
+      {res ? (
+        <div className="flex flex-wrap justify-center gap-10 w-full">
           {res.map((consumableListing: any) => {
             return (
               <ConsumableListingCard
+                key={consumableListing.id}
                 consumable={consumableListing.consumable.name}
                 district={consumableListing.district.name}
                 postedDate={consumableListing.posted_date}
@@ -41,6 +44,8 @@ export default function Page() {
             );
           })}
         </div>
+      ) : (
+        "Loading..."
       )}
     </div>
   );
