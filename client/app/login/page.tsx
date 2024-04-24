@@ -5,6 +5,7 @@ import Image from "next/image";
 import Vegetable from "@/public/Vegetables.jpg";
 
 const Login = () => {
+
   return (
     <div className="flex min-h-full h-screen justify-center bg-primary-gray p-6">
       <div className="grow flex flex-col  gap-4 items-center justify-center">

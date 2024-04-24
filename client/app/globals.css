@@ -41,9 +41,9 @@
     --primary-gray: 120, 22%, 95%;
 
 
-    --fruit-background: 28, 83%, 91%;
-    --vegetable-background: 121, 83%, 91%;
-    --other-background: 223, 27%, 91%;
+    --fruit-background: 28, 53%, 96%;
+    --vegetable-background: 121, 53%, 96%;
+    --other-background: 223, 53%, 96%;
   }
 
   .dark {
