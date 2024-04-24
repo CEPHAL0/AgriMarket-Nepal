@@ -13,7 +13,7 @@ interface ConsumableListingCardProps {
   quantity: number;
   expiryDate?: string;
   userImage: StaticImageData;
-  consumableImage: StaticImageData;
+  consumableImage: StaticImageData | string;
   consumableType: ConsumableType;
 }
 
@@ -22,11 +22,11 @@ export default function ConsumableListingCard(
 ) {
   return (
     <div
-      className={`h-80 w-64 rounded-xl flex flex-col shadow-md shadow-primary-gray ${
+      className={`h-96 w-64 rounded-xl flex flex-col shadow-md shadow-primary-gray ${
         typeClassMap[props.consumableType]
       }`}
     >
-      <div className="h-[50%] relative w-full">
+      <div className="h-[70%] relative w-full">
         <Image
           src={props.consumableImage}
           alt="name"
@@ -58,8 +58,8 @@ export default function ConsumableListingCard(
           </div>
         </div>
 
-        <div className="flex items-center justify-between w-full">
-          <p className=" font-semibold text-3xl text-primary-blue">
+        <div className="flex items-center justify-between w-full gap-3">
+          <p className="w-2/3 font-semibold text-2xl text-primary-blue">
             {props.consumable}
           </p>
           <span className="bg-black w-fit h-fit rounded-xl px-2 py-1 text-xs text-white">
@@ -68,7 +68,7 @@ export default function ConsumableListingCard(
         </div>
 
         <div className="flex justify-between w-full items-start">
-          <div className="text-xl text-gray-700 font-[600]">
+          <div className="text-lg text-gray-700 font-[600]">
             Rs.{props.price}
             <span className="text-xs">/kg</span>
           </div>
