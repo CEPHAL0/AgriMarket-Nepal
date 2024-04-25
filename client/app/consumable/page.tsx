@@ -11,7 +11,7 @@ export default function Page() {
   const [res, setRes] = useState<any>();
 
   useEffect(() => {
-    fetchConsumables()
+    getConsumables()
       .then((data) => {
         setRes(data);
       })
@@ -41,4 +41,9 @@ export default function Page() {
       )}
     </div>
   );
+}
+
+export async function getConsumables() {
+  let data = await fetchConsumables();
+  return data;
 }
