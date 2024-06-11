@@ -1,0 +1,690 @@
+Commodity,Unit,Minimum,Maximum,Average,Season,Category,Year,Month,Day
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,1
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,2
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,3
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,4
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,5
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,6
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,7
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,8
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,9
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,10
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,11
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,12
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,13
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,14
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,15
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,16
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,18
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,19
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,20
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,21
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,22
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,23
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,24
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,25
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,26
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,27
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,28
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,29
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2021,December,30
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,December,31
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,November,1
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,November,2
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,November,3
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,November,4
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,November,5
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,November,6
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2021,November,7
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,November,8
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,November,9
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,November,10
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,November,11
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,November,12
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,November,13
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,November,14
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,15
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,16
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,17
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,18
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,19
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,20
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,21
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,22
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,23
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,24
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,25
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,26
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,27
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,28
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,29
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2021,November,30
+Avocado,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2021,October,29
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,October,30
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2021,October,31
+Avocado,Kg,500.0,550.0,525.0,Spring,Fruit,2022,April,1
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,2
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,3
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,4
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,5
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,6
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,7
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,8
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,9
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,10
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,11
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,12
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,13
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,14
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,15
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,16
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,17
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,18
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,19
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,20
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,21
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,22
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,23
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,24
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,25
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,26
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,27
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,28
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,29
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,April,30
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,August,1
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,August,2
+Avocado,Kg,400.0,500.0,450.0,Summer Monsoon,Fruit,2022,August,3
+Avocado,Kg,400.0,500.0,450.0,Summer Monsoon,Fruit,2022,August,4
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,August,5
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,August,6
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,August,7
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,August,8
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,August,9
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,August,10
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,August,11
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,August,12
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,August,13
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,August,14
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,August,15
+Avocado,Kg,450.0,500.0,475.0,Summer Monsoon,Fruit,2022,August,16
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,August,17
+Avocado,Kg,450.0,500.0,475.0,Summer Monsoon,Fruit,2022,August,18
+Avocado,Kg,450.0,500.0,475.0,Summer Monsoon,Fruit,2022,August,19
+Avocado,Kg,450.0,500.0,475.0,Summer Monsoon,Fruit,2022,August,20
+Avocado,Kg,450.0,500.0,475.0,Summer Monsoon,Fruit,2022,August,21
+Avocado,Kg,450.0,500.0,475.0,Summer Monsoon,Fruit,2022,August,22
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,August,23
+Avocado,Kg,300.0,320.0,310.0,Summer Monsoon,Fruit,2022,August,24
+Avocado,Kg,250.0,300.0,283.33,Summer Monsoon,Fruit,2022,August,25
+Avocado,Kg,200.0,250.0,233.33,Summer Monsoon,Fruit,2022,August,26
+Avocado,Kg,200.0,250.0,233.33,Summer Monsoon,Fruit,2022,August,27
+Avocado,Kg,200.0,250.0,225.0,Summer Monsoon,Fruit,2022,August,28
+Avocado,Kg,200.0,300.0,250.0,Summer Monsoon,Fruit,2022,August,29
+Avocado,Kg,200.0,250.0,225.0,Summer Monsoon,Fruit,2022,August,30
+Avocado,Kg,200.0,250.0,233.33,Summer Monsoon,Fruit,2022,August,31
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,1
+Avocado,Kg,250.0,300.0,283.33,Late Autumn,Fruit,2022,December,2
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,3
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,4
+Avocado,Kg,250.0,300.0,283.33,Late Autumn,Fruit,2022,December,5
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,6
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,7
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,8
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,9
+Avocado,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,December,10
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,11
+Avocado,Kg,250.0,300.0,283.33,Late Autumn,Fruit,2022,December,12
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,13
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,14
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,15
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,16
+Avocado,Kg,250.0,300.0,283.33,Late Autumn,Fruit,2022,December,17
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,18
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,19
+Avocado,Kg,250.0,300.0,283.33,Late Autumn,Fruit,2022,December,20
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,21
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,22
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2022,December,23
+Avocado,Kg,280.0,320.0,300.0,Late Autumn,Fruit,2022,December,24
+Avocado,Kg,280.0,320.0,300.0,Late Autumn,Fruit,2022,December,25
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,26
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,December,27
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2022,December,28
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2022,December,29
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2022,December,30
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2022,December,31
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,February,1
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,February,2
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,February,3
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,February,4
+Avocado,Kg,400.0,450.0,425.0,Winter,Fruit,2022,February,5
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,6
+Avocado,Kg,400.0,450.0,425.0,Winter,Fruit,2022,February,7
+Avocado,Kg,400.0,450.0,425.0,Winter,Fruit,2022,February,8
+Avocado,Kg,400.0,450.0,425.0,Winter,Fruit,2022,February,9
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,10
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,11
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,12
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,13
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,14
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,15
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,16
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,17
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,18
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,19
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,20
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,21
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,22
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,23
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,24
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,25
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,February,27
+Avocado,Kg,450.0,500.0,475.0,Winter,Fruit,2022,February,28
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,January,1
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,January,2
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,January,3
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,January,4
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,January,5
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2022,January,6
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2022,January,7
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2022,January,8
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2022,January,9
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2022,January,10
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2022,January,11
+Avocado,Kg,350.0,400.0,375.0,Late Autumn,Fruit,2022,January,12
+Avocado,Kg,350.0,400.0,375.0,Late Autumn,Fruit,2022,January,13
+Avocado,Kg,350.0,400.0,375.0,Late Autumn,Fruit,2022,January,14
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,15
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,16
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,17
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,18
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,19
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,20
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,21
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,22
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,23
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,24
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,25
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,26
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,27
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,28
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,29
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,30
+Avocado,Kg,350.0,400.0,375.0,Winter,Fruit,2022,January,31
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,1
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,2
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,3
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,4
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,5
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,6
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,7
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,8
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,9
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,10
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,11
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,July,12
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,July,16
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,July,17
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,July,18
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,July,19
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,July,20
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,July,21
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,July,22
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,July,23
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,July,24
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,July,25
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,July,26
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,July,27
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,July,28
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,July,29
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,July,30
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2022,July,31
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,1
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,2
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,3
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,4
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,5
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,6
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,7
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,8
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,9
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,10
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,11
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,12
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,13
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,14
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,15
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,16
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,17
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,18
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,19
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,20
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,21
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,June,22
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,23
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,24
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,25
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,26
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,27
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,28
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,29
+Avocado,Kg,500.0,550.0,525.0,Early Summer,Fruit,2022,June,30
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,March,1
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,March,2
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,March,3
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,March,5
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,March,6
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,March,7
+Avocado,Kg,450.0,500.0,475.0,Winter,Fruit,2022,March,8
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,March,9
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,March,10
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,March,11
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,March,12
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,March,13
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2022,March,14
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,15
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2022,March,16
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,17
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,18
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,19
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,20
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,21
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,22
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,23
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,24
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,25
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,26
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,27
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,28
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,29
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,30
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,March,31
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,1
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,2
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,3
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,4
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,5
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,6
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,7
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,8
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,9
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,10
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,11
+Avocado,Kg,450.0,500.0,475.0,Spring,Fruit,2022,May,14
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,15
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,16
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,17
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,18
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,19
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,20
+Avocado,Kg,400.0,450.0,425.0,Early Summer,Fruit,2022,May,21
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,22
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,23
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,24
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,25
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,26
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,27
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,28
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,29
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,30
+Avocado,Kg,450.0,500.0,475.0,Early Summer,Fruit,2022,May,31
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,1
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,2
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,3
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,4
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,5
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,6
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,7
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,8
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,9
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,10
+Avocado,Kg,200.0,220.0,213.33,Early Autumn,Fruit,2022,November,11
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,12
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,13
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,November,14
+Avocado,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,15
+Avocado,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,16
+Avocado,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,17
+Avocado,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,18
+Avocado,Kg,200.0,220.0,210.0,Late Autumn,Fruit,2022,November,19
+Avocado,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,21
+Avocado,Kg,200.0,250.0,233.33,Late Autumn,Fruit,2022,November,22
+Avocado,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,23
+Avocado,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,24
+Avocado,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,25
+Avocado,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,26
+Avocado,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,27
+Avocado,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,28
+Avocado,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,29
+Avocado,Kg,200.0,250.0,225.0,Late Autumn,Fruit,2022,November,30
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,1
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,2
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,3
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,4
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,5
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,6
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,7
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,8
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,9
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,10
+Avocado,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2022,October,11
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,12
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,13
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,14
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,15
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,16
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,17
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,18
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,October,19
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,20
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,21
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,22
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,23
+Avocado,Kg,200.0,250.0,233.33,Early Autumn,Fruit,2022,October,24
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,25
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,26
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,27
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,28
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,29
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,October,30
+Avocado,Kg,200.0,250.0,233.33,Early Autumn,Fruit,2022,October,31
+Avocado,Kg,200.0,250.0,233.33,Summer Monsoon,Fruit,2022,September,1
+Avocado,Kg,200.0,250.0,225.0,Summer Monsoon,Fruit,2022,September,2
+Avocado,Kg,200.0,250.0,225.0,Summer Monsoon,Fruit,2022,September,3
+Avocado,Kg,200.0,250.0,225.0,Summer Monsoon,Fruit,2022,September,4
+Avocado,Kg,200.0,250.0,233.33,Summer Monsoon,Fruit,2022,September,5
+Avocado,Kg,200.0,250.0,225.0,Summer Monsoon,Fruit,2022,September,6
+Avocado,Kg,200.0,250.0,225.0,Summer Monsoon,Fruit,2022,September,7
+Avocado,Kg,200.0,250.0,225.0,Summer Monsoon,Fruit,2022,September,8
+Avocado,Kg,200.0,250.0,225.0,Summer Monsoon,Fruit,2022,September,9
+Avocado,Kg,200.0,250.0,225.0,Summer Monsoon,Fruit,2022,September,10
+Avocado,Kg,200.0,250.0,225.0,Summer Monsoon,Fruit,2022,September,11
+Avocado,Kg,200.0,250.0,225.0,Summer Monsoon,Fruit,2022,September,12
+Avocado,Kg,200.0,250.0,233.33,Summer Monsoon,Fruit,2022,September,13
+Avocado,Kg,200.0,250.0,233.33,Summer Monsoon,Fruit,2022,September,14
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,September,15
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,September,16
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,September,17
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,September,18
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,September,19
+Avocado,Kg,220.0,260.0,243.33,Early Autumn,Fruit,2022,September,20
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2022,September,21
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,September,22
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,September,23
+Avocado,Kg,250.0,300.0,283.33,Early Autumn,Fruit,2022,September,24
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,September,25
+Avocado,Kg,250.0,300.0,283.33,Early Autumn,Fruit,2022,September,26
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,September,27
+Avocado,Kg,250.0,300.0,283.33,Early Autumn,Fruit,2022,September,28
+Avocado,Kg,250.0,300.0,283.33,Early Autumn,Fruit,2022,September,29
+Avocado,Kg,250.0,300.0,275.0,Early Autumn,Fruit,2022,September,30
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,April,1
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,April,2
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,April,3
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,4
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,5
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,6
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,7
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,8
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,9
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,10
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,11
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,12
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,13
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,14
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,15
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,16
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,17
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,18
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,19
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,20
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,21
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,22
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,23
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,24
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,April,25
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,April,26
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,April,27
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,April,28
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,April,29
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,April,30
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2023,August,1
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2023,August,2
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,3
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,4
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,5
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,6
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,7
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,8
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,9
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,10
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,11
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,12
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,13
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,15
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,16
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,17
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,18
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,19
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,August,20
+Avocado,Kg,450.0,500.0,483.33,Summer Monsoon,Fruit,2023,August,21
+Avocado,Kg,350.0,400.0,383.33,Summer Monsoon,Fruit,2023,August,22
+Avocado,Kg,350.0,400.0,375.0,Summer Monsoon,Fruit,2023,August,23
+Avocado,Kg,300.0,350.0,325.0,Summer Monsoon,Fruit,2023,August,24
+Avocado,Kg,350.0,400.0,375.0,Summer Monsoon,Fruit,2023,August,25
+Avocado,Kg,250.0,350.0,300.0,Summer Monsoon,Fruit,2023,August,26
+Avocado,Kg,250.0,350.0,300.0,Summer Monsoon,Fruit,2023,August,27
+Avocado,Kg,250.0,300.0,275.0,Summer Monsoon,Fruit,2023,August,28
+Avocado,Kg,250.0,350.0,300.0,Summer Monsoon,Fruit,2023,August,29
+Avocado,Kg,250.0,350.0,300.0,Summer Monsoon,Fruit,2023,August,30
+Avocado,Kg,250.0,350.0,300.0,Summer Monsoon,Fruit,2023,August,31
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,1
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,2
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,3
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,4
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,5
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,6
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,7
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,8
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,February,9
+Avocado,Kg,400.0,450.0,433.33,Winter,Fruit,2023,February,10
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2023,February,11
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2023,February,12
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2023,February,13
+Avocado,Kg,500.0,600.0,550.0,Winter,Fruit,2023,February,14
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2023,February,15
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2023,February,16
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2023,February,17
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2023,February,18
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2023,February,19
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2023,February,20
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2023,February,21
+Avocado,Kg,500.0,600.0,550.0,Winter,Fruit,2023,February,22
+Avocado,Kg,350.0,450.0,400.0,Winter,Fruit,2023,February,23
+Avocado,Kg,500.0,600.0,550.0,Winter,Fruit,2023,February,24
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2023,February,25
+Avocado,Kg,400.0,450.0,425.0,Winter,Fruit,2023,February,26
+Avocado,Kg,500.0,600.0,550.0,Winter,Fruit,2023,February,27
+Avocado,Kg,500.0,600.0,550.0,Winter,Fruit,2023,February,28
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2023,January,1
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2023,January,2
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2023,January,3
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2023,January,4
+Avocado,Kg,250.0,300.0,283.33,Late Autumn,Fruit,2023,January,5
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2023,January,6
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2023,January,7
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2023,January,8
+Avocado,Kg,250.0,300.0,275.0,Late Autumn,Fruit,2023,January,9
+Avocado,Kg,250.0,300.0,283.33,Late Autumn,Fruit,2023,January,10
+Avocado,Kg,300.0,350.0,333.33,Late Autumn,Fruit,2023,January,11
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2023,January,12
+Avocado,Kg,300.0,350.0,325.0,Late Autumn,Fruit,2023,January,13
+Avocado,Kg,300.0,350.0,333.33,Late Autumn,Fruit,2023,January,14
+Avocado,Kg,300.0,350.0,333.33,Winter,Fruit,2023,January,15
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,January,16
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,January,17
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,January,18
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,January,19
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,January,20
+Avocado,Kg,250.0,300.0,275.0,Winter,Fruit,2023,January,21
+Avocado,Kg,250.0,300.0,275.0,Winter,Fruit,2023,January,22
+Avocado,Kg,300.0,350.0,333.33,Winter,Fruit,2023,January,23
+Avocado,Kg,300.0,350.0,333.33,Winter,Fruit,2023,January,24
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,January,25
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,January,26
+Avocado,Kg,300.0,350.0,333.33,Winter,Fruit,2023,January,27
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,January,28
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,January,29
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,January,30
+Avocado,Kg,300.0,350.0,325.0,Winter,Fruit,2023,January,31
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,July,1
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,July,2
+Avocado,Kg,550.0,600.0,575.0,Early Summer,Fruit,2023,July,3
+Avocado,Kg,550.0,600.0,575.0,Early Summer,Fruit,2023,July,4
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,July,5
+Avocado,Kg,550.0,600.0,575.0,Early Summer,Fruit,2023,July,6
+Avocado,Kg,550.0,600.0,575.0,Early Summer,Fruit,2023,July,7
+Avocado,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,July,8
+Avocado,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,July,9
+Avocado,Kg,550.0,600.0,575.0,Early Summer,Fruit,2023,July,10
+Avocado,Kg,550.0,600.0,575.0,Early Summer,Fruit,2023,July,11
+Avocado,Kg,550.0,600.0,575.0,Early Summer,Fruit,2023,July,12
+Avocado,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,July,13
+Avocado,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,July,14
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,July,15
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,July,16
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,July,17
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,July,18
+Avocado,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2023,July,19
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,July,20
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,July,21
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,July,22
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,July,23
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,July,24
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,July,25
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,July,26
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2023,July,27
+Avocado,Kg,500.0,550.0,525.0,Summer Monsoon,Fruit,2023,July,28
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,July,29
+Avocado,Kg,500.0,600.0,550.0,Summer Monsoon,Fruit,2023,July,30
+Avocado,Kg,550.0,600.0,575.0,Summer Monsoon,Fruit,2023,July,31
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,June,1
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,June,2
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,June,3
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,June,4
+Avocado,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,5
+Avocado,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,6
+Avocado,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,7
+Avocado,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,8
+Avocado,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,9
+Avocado,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,10
+Avocado,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,11
+Avocado,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,12
+Avocado,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,13
+Avocado,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,June,14
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,15
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,16
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,17
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,18
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,19
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,20
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,21
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,22
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,23
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,24
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,25
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,26
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,27
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,28
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,29
+Avocado,Kg,600.0,700.0,650.0,Early Summer,Fruit,2023,June,30
+Avocado,Kg,500.0,600.0,550.0,Winter,Fruit,2023,March,1
+Avocado,Kg,500.0,600.0,550.0,Winter,Fruit,2023,March,2
+Avocado,Kg,500.0,600.0,550.0,Winter,Fruit,2023,March,3
+Avocado,Kg,500.0,600.0,550.0,Winter,Fruit,2023,March,5
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2023,March,6
+Avocado,Kg,400.0,500.0,450.0,Winter,Fruit,2023,March,7
+Avocado,Kg,500.0,550.0,525.0,Winter,Fruit,2023,March,8
+Avocado,Kg,500.0,600.0,550.0,Winter,Fruit,2023,March,9
+Avocado,Kg,500.0,600.0,550.0,Winter,Fruit,2023,March,10
+Avocado,Kg,500.0,600.0,550.0,Winter,Fruit,2023,March,11
+Avocado,Kg,500.0,600.0,550.0,Winter,Fruit,2023,March,12
+Avocado,Kg,500.0,600.0,550.0,Winter,Fruit,2023,March,13
+Avocado,Kg,500.0,600.0,550.0,Winter,Fruit,2023,March,14
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,15
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,16
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,17
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,18
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,19
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,20
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,21
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,22
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,23
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,24
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,25
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,26
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,27
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,28
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,29
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,30
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,March,31
+Avocado,Kg,500.0,600.0,566.67,Spring,Fruit,2023,May,1
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,May,2
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,May,3
+Avocado,Kg,500.0,600.0,566.67,Spring,Fruit,2023,May,4
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,May,5
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,May,6
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,May,7
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,May,8
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,May,9
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,May,10
+Avocado,Kg,500.0,600.0,550.0,Spring,Fruit,2023,May,11
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,12
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,13
+Avocado,Kg,400.0,500.0,450.0,Spring,Fruit,2023,May,14
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,15
+Avocado,Kg,500.0,600.0,550.0,Early Summer,Fruit,2023,May,16
+Avocado,Kg,450.0,500.0,483.33,Early Summer,Fruit,2023,May,17
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,18
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,19
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,20
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,21
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,22
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,23
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,24
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,25
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,26
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,27
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,28
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,29
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,30
+Avocado,Kg,400.0,500.0,450.0,Early Summer,Fruit,2023,May,31
+Avocado,Kg,250.0,350.0,300.0,Summer Monsoon,Fruit,2023,September,1
+Avocado,Kg,250.0,350.0,300.0,Summer Monsoon,Fruit,2023,September,2
+Avocado,Kg,250.0,350.0,300.0,Summer Monsoon,Fruit,2023,September,3
+Avocado,Kg,250.0,350.0,300.0,Summer Monsoon,Fruit,2023,September,4
+Avocado,Kg,250.0,350.0,300.0,Summer Monsoon,Fruit,2023,September,5
+Avocado,Kg,200.0,300.0,250.0,Summer Monsoon,Fruit,2023,September,6
+Avocado,Kg,200.0,300.0,250.0,Summer Monsoon,Fruit,2023,September,7
+Avocado,Kg,200.0,300.0,250.0,Summer Monsoon,Fruit,2023,September,8
+Avocado,Kg,200.0,300.0,250.0,Summer Monsoon,Fruit,2023,September,9
+Avocado,Kg,200.0,300.0,250.0,Summer Monsoon,Fruit,2023,September,10
+Avocado,Kg,250.0,300.0,275.0,Summer Monsoon,Fruit,2023,September,11
+Avocado,Kg,200.0,300.0,250.0,Summer Monsoon,Fruit,2023,September,12
+Avocado,Kg,200.0,300.0,250.0,Summer Monsoon,Fruit,2023,September,13
+Avocado,Kg,200.0,300.0,250.0,Summer Monsoon,Fruit,2023,September,14
+Avocado,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2023,September,15
+Avocado,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2023,September,16
+Avocado,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2023,September,17
+Avocado,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2023,September,18
+Avocado,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2023,September,19
+Avocado,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2023,September,20
+Avocado,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2023,September,21
+Avocado,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2023,September,22
+Avocado,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2023,September,23
+Avocado,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2023,September,24
+Avocado,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2023,September,25
+Avocado,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2023,September,26
+Avocado,Kg,200.0,300.0,250.0,Early Autumn,Fruit,2023,September,27
+Avocado,Kg,200.0,250.0,225.0,Early Autumn,Fruit,2023,September,28

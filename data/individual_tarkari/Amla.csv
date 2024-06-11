@@ -1,0 +1,439 @@
+Commodity,Unit,Minimum,Maximum,Average,Season,Category,Year,Month,Day
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,December,1
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,December,2
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,December,3
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,December,4
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,December,5
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,December,6
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,December,7
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2021,December,8
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,December,9
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,December,10
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,December,11
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,December,12
+Amla,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,December,13
+Amla,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,December,14
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2021,December,15
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2021,December,16
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2021,December,18
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2021,December,19
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2021,December,20
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2021,December,21
+Amla,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,December,22
+Amla,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,December,23
+Amla,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,December,24
+Amla,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,December,25
+Amla,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,December,26
+Amla,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,December,27
+Amla,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,December,28
+Amla,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2021,December,29
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2021,December,30
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2021,December,31
+Amla,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2021,November,1
+Amla,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2021,November,2
+Amla,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2021,November,3
+Amla,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2021,November,4
+Amla,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2021,November,5
+Amla,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2021,November,6
+Amla,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2021,November,7
+Amla,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2021,November,8
+Amla,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2021,November,9
+Amla,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2021,November,10
+Amla,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2021,November,11
+Amla,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2021,November,12
+Amla,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2021,November,13
+Amla,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2021,November,14
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,November,15
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,November,16
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,November,17
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,November,18
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,November,19
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2021,November,20
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2021,November,21
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2021,November,22
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2021,November,23
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2021,November,24
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2021,November,25
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2021,November,26
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,November,27
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,November,28
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,November,29
+Amla,Kg,90.0,100.0,95.0,Late Autumn,Fruit,2021,November,30
+Amla,Kg,60.0,80.0,70.0,Early Autumn,Fruit,2021,October,29
+Amla,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2021,October,30
+Amla,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2021,October,31
+Amla,Kg,120.0,130.0,125.0,Summer Monsoon,Fruit,2022,August,9
+Amla,Kg,120.0,130.0,125.0,Summer Monsoon,Fruit,2022,August,10
+Amla,Kg,120.0,130.0,125.0,Summer Monsoon,Fruit,2022,August,11
+Amla,Kg,120.0,130.0,125.0,Summer Monsoon,Fruit,2022,August,12
+Amla,Kg,120.0,130.0,125.0,Summer Monsoon,Fruit,2022,August,13
+Amla,Kg,120.0,130.0,125.0,Summer Monsoon,Fruit,2022,August,14
+Amla,Kg,110.0,120.0,115.0,Summer Monsoon,Fruit,2022,August,15
+Amla,Kg,100.0,120.0,110.0,Summer Monsoon,Fruit,2022,August,16
+Amla,Kg,120.0,130.0,125.0,Summer Monsoon,Fruit,2022,August,17
+Amla,Kg,100.0,120.0,110.0,Summer Monsoon,Fruit,2022,August,18
+Amla,Kg,90.0,100.0,95.0,Summer Monsoon,Fruit,2022,August,19
+Amla,Kg,80.0,90.0,86.67,Summer Monsoon,Fruit,2022,August,20
+Amla,Kg,80.0,90.0,85.0,Summer Monsoon,Fruit,2022,August,21
+Amla,Kg,80.0,90.0,86.67,Summer Monsoon,Fruit,2022,August,22
+Amla,Kg,80.0,100.0,90.0,Summer Monsoon,Fruit,2022,August,23
+Amla,Kg,80.0,90.0,86.67,Summer Monsoon,Fruit,2022,August,24
+Amla,Kg,70.0,80.0,76.67,Summer Monsoon,Fruit,2022,August,25
+Amla,Kg,80.0,90.0,86.67,Summer Monsoon,Fruit,2022,August,26
+Amla,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,August,27
+Amla,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,August,28
+Amla,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,August,29
+Amla,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,August,30
+Amla,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,August,31
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,1
+Amla,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,December,2
+Amla,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,December,3
+Amla,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2022,December,4
+Amla,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,December,5
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,6
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,7
+Amla,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,December,8
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,9
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,10
+Amla,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,December,11
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,12
+Amla,Kg,70.0,80.0,76.67,Late Autumn,Fruit,2022,December,13
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,14
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,15
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,16
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,17
+Amla,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,December,18
+Amla,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,December,19
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,20
+Amla,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,December,21
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,22
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,23
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,24
+Amla,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,December,25
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,26
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,December,27
+Amla,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,December,28
+Amla,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,December,29
+Amla,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,December,30
+Amla,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,December,31
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,1
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,2
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,3
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,4
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,5
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,6
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,7
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,8
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,9
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,10
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,11
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,12
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,13
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,14
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,15
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,16
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,February,17
+Amla,Kg,90.0,100.0,95.0,Winter,Fruit,2022,February,18
+Amla,Kg,90.0,100.0,95.0,Winter,Fruit,2022,February,19
+Amla,Kg,90.0,100.0,95.0,Winter,Fruit,2022,February,20
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,21
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,22
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,23
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,24
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,25
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,27
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,February,28
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2022,January,1
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2022,January,2
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2022,January,3
+Amla,Kg,70.0,80.0,75.0,Late Autumn,Fruit,2022,January,4
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2022,January,5
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2022,January,6
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2022,January,7
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2022,January,8
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2022,January,9
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2022,January,10
+Amla,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2022,January,11
+Amla,Kg,90.0,100.0,95.0,Winter,Fruit,2022,January,18
+Amla,Kg,90.0,100.0,95.0,Winter,Fruit,2022,January,19
+Amla,Kg,90.0,100.0,95.0,Winter,Fruit,2022,January,20
+Amla,Kg,90.0,100.0,95.0,Winter,Fruit,2022,January,21
+Amla,Kg,90.0,100.0,95.0,Winter,Fruit,2022,January,23
+Amla,Kg,90.0,100.0,95.0,Winter,Fruit,2022,January,24
+Amla,Kg,110.0,120.0,115.0,Winter,Fruit,2022,January,25
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,January,26
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,January,27
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,January,28
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,January,29
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2022,January,30
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,January,31
+Amla,Kg,150.0,160.0,155.0,Summer Monsoon,Fruit,2022,July,27
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,March,1
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,March,2
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,March,3
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,March,5
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,March,6
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,March,7
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,March,8
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,March,9
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2022,March,10
+Amla,Kg,90.0,100.0,95.0,Winter,Fruit,2022,March,11
+Amla,Kg,90.0,100.0,95.0,Winter,Fruit,2022,March,12
+Amla,Kg,90.0,100.0,95.0,Winter,Fruit,2022,March,13
+Amla,Kg,90.0,100.0,95.0,Winter,Fruit,2022,March,14
+Amla,Kg,90.0,100.0,95.0,Spring,Fruit,2022,March,15
+Amla,Kg,90.0,100.0,95.0,Spring,Fruit,2022,March,16
+Amla,Kg,90.0,100.0,95.0,Spring,Fruit,2022,March,17
+Amla,Kg,90.0,100.0,95.0,Spring,Fruit,2022,March,18
+Amla,Kg,90.0,100.0,95.0,Spring,Fruit,2022,March,19
+Amla,Kg,90.0,100.0,95.0,Spring,Fruit,2022,March,20
+Amla,Kg,90.0,100.0,95.0,Spring,Fruit,2022,March,21
+Amla,Kg,90.0,100.0,95.0,Spring,Fruit,2022,March,22
+Amla,Kg,90.0,100.0,95.0,Spring,Fruit,2022,March,23
+Amla,Kg,90.0,100.0,95.0,Spring,Fruit,2022,May,7
+Amla,Kg,90.0,100.0,95.0,Spring,Fruit,2022,May,8
+Amla,Kg,90.0,100.0,95.0,Spring,Fruit,2022,May,9
+Amla,Kg,90.0,100.0,95.0,Spring,Fruit,2022,May,10
+Amla,Kg,90.0,100.0,95.0,Spring,Fruit,2022,May,11
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,November,1
+Amla,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2022,November,2
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,November,3
+Amla,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2022,November,4
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,November,5
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,November,6
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,November,7
+Amla,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,November,8
+Amla,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,November,9
+Amla,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,November,10
+Amla,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,November,11
+Amla,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,November,12
+Amla,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,November,13
+Amla,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,November,14
+Amla,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,November,15
+Amla,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,November,16
+Amla,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,November,17
+Amla,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,November,18
+Amla,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,November,19
+Amla,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,November,21
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,November,22
+Amla,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,November,23
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,November,24
+Amla,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,November,25
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,November,26
+Amla,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,November,27
+Amla,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,November,28
+Amla,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2022,November,29
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2022,November,30
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,October,1
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,October,2
+Amla,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2022,October,3
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,October,4
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,October,6
+Amla,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2022,October,8
+Amla,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2022,October,9
+Amla,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2022,October,10
+Amla,Kg,80.0,90.0,86.67,Early Autumn,Fruit,2022,October,11
+Amla,Kg,80.0,90.0,86.67,Early Autumn,Fruit,2022,October,12
+Amla,Kg,80.0,90.0,86.67,Early Autumn,Fruit,2022,October,13
+Amla,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2022,October,14
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,October,15
+Amla,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2022,October,16
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,October,17
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,October,18
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,October,19
+Amla,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2022,October,20
+Amla,Kg,60.0,70.0,66.67,Early Autumn,Fruit,2022,October,21
+Amla,Kg,60.0,70.0,66.67,Early Autumn,Fruit,2022,October,22
+Amla,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2022,October,23
+Amla,Kg,60.0,70.0,66.67,Early Autumn,Fruit,2022,October,24
+Amla,Kg,60.0,70.0,63.33,Early Autumn,Fruit,2022,October,25
+Amla,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2022,October,26
+Amla,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2022,October,27
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,October,28
+Amla,Kg,60.0,70.0,66.67,Early Autumn,Fruit,2022,October,29
+Amla,Kg,70.0,80.0,76.67,Early Autumn,Fruit,2022,October,30
+Amla,Kg,60.0,70.0,66.67,Early Autumn,Fruit,2022,October,31
+Amla,Kg,60.0,70.0,65.0,Summer Monsoon,Fruit,2022,September,1
+Amla,Kg,60.0,70.0,66.67,Summer Monsoon,Fruit,2022,September,2
+Amla,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,September,3
+Amla,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,September,4
+Amla,Kg,100.0,120.0,110.0,Summer Monsoon,Fruit,2022,September,5
+Amla,Kg,80.0,90.0,86.67,Summer Monsoon,Fruit,2022,September,6
+Amla,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,September,7
+Amla,Kg,70.0,80.0,76.67,Summer Monsoon,Fruit,2022,September,8
+Amla,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,September,9
+Amla,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,September,10
+Amla,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,September,11
+Amla,Kg,70.0,80.0,76.67,Summer Monsoon,Fruit,2022,September,12
+Amla,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,September,13
+Amla,Kg,70.0,80.0,76.67,Summer Monsoon,Fruit,2022,September,14
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,September,15
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,September,16
+Amla,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2022,September,17
+Amla,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,September,18
+Amla,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,September,19
+Amla,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2022,September,20
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,September,21
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,September,22
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,September,23
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,September,24
+Amla,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2022,September,25
+Amla,Kg,70.0,80.0,76.67,Early Autumn,Fruit,2022,September,26
+Amla,Kg,70.0,80.0,76.67,Early Autumn,Fruit,2022,September,27
+Amla,Kg,70.0,80.0,76.67,Early Autumn,Fruit,2022,September,28
+Amla,Kg,70.0,80.0,76.67,Early Autumn,Fruit,2022,September,29
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2022,September,30
+Amla,Kg,110.0,120.0,115.0,Spring,Fruit,2023,April,1
+Amla,Kg,110.0,120.0,115.0,Spring,Fruit,2023,April,2
+Amla,Kg,110.0,120.0,115.0,Spring,Fruit,2023,April,3
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,4
+Amla,Kg,120.0,140.0,130.0,Spring,Fruit,2023,April,5
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,6
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,7
+Amla,Kg,120.0,140.0,130.0,Spring,Fruit,2023,April,8
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,9
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,10
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,11
+Amla,Kg,110.0,120.0,115.0,Spring,Fruit,2023,April,12
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,13
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,14
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,15
+Amla,Kg,110.0,120.0,115.0,Spring,Fruit,2023,April,16
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,17
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,18
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,19
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,20
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,21
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,22
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,23
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,24
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,25
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,26
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,27
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,28
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,29
+Amla,Kg,120.0,130.0,125.0,Spring,Fruit,2023,April,30
+Amla,Kg,150.0,200.0,175.0,Summer Monsoon,Fruit,2023,August,23
+Amla,Kg,150.0,200.0,175.0,Summer Monsoon,Fruit,2023,August,24
+Amla,Kg,60.0,70.0,65.0,Winter,Fruit,2023,February,1
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,2
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,3
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,4
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2023,February,5
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,6
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,7
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,8
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,9
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,10
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,11
+Amla,Kg,60.0,70.0,65.0,Winter,Fruit,2023,February,12
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,13
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,14
+Amla,Kg,70.0,80.0,76.67,Winter,Fruit,2023,February,15
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,16
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,17
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,18
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,19
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,20
+Amla,Kg,70.0,80.0,76.67,Winter,Fruit,2023,February,21
+Amla,Kg,70.0,80.0,76.67,Winter,Fruit,2023,February,22
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,23
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,24
+Amla,Kg,70.0,80.0,76.67,Winter,Fruit,2023,February,25
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,26
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,27
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,28
+Amla,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2023,January,1
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2023,January,2
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2023,January,3
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2023,January,4
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2023,January,5
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2023,January,6
+Amla,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2023,January,7
+Amla,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2023,January,8
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2023,January,9
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2023,January,10
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2023,January,11
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2023,January,12
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2023,January,13
+Amla,Kg,60.0,70.0,66.67,Late Autumn,Fruit,2023,January,14
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,15
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,16
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,17
+Amla,Kg,60.0,70.0,65.0,Winter,Fruit,2023,January,18
+Amla,Kg,60.0,70.0,65.0,Winter,Fruit,2023,January,19
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,20
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,21
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,22
+Amla,Kg,50.0,60.0,56.67,Winter,Fruit,2023,January,23
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,24
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,25
+Amla,Kg,60.0,70.0,65.0,Winter,Fruit,2023,January,26
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,27
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,28
+Amla,Kg,60.0,70.0,65.0,Winter,Fruit,2023,January,29
+Amla,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,30
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2023,January,31
+Amla,Kg,90.0,100.0,95.0,Winter,Fruit,2023,March,1
+Amla,Kg,100.0,110.0,105.0,Winter,Fruit,2023,March,2
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2023,March,3
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2023,March,5
+Amla,Kg,70.0,80.0,75.0,Winter,Fruit,2023,March,6
+Amla,Kg,80.0,90.0,86.67,Winter,Fruit,2023,March,7
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2023,March,8
+Amla,Kg,90.0,100.0,95.0,Winter,Fruit,2023,March,9
+Amla,Kg,80.0,90.0,86.67,Winter,Fruit,2023,March,10
+Amla,Kg,80.0,90.0,86.67,Winter,Fruit,2023,March,11
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2023,March,12
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2023,March,13
+Amla,Kg,80.0,90.0,85.0,Winter,Fruit,2023,March,14
+Amla,Kg,80.0,90.0,85.0,Spring,Fruit,2023,March,15
+Amla,Kg,80.0,90.0,86.67,Spring,Fruit,2023,March,16
+Amla,Kg,80.0,90.0,85.0,Spring,Fruit,2023,March,17
+Amla,Kg,80.0,90.0,86.67,Spring,Fruit,2023,March,18
+Amla,Kg,80.0,90.0,85.0,Spring,Fruit,2023,March,19
+Amla,Kg,80.0,90.0,85.0,Spring,Fruit,2023,March,20
+Amla,Kg,80.0,90.0,86.67,Spring,Fruit,2023,March,21
+Amla,Kg,80.0,90.0,85.0,Spring,Fruit,2023,March,22
+Amla,Kg,80.0,90.0,86.67,Spring,Fruit,2023,March,23
+Amla,Kg,80.0,90.0,85.0,Spring,Fruit,2023,March,24
+Amla,Kg,80.0,90.0,85.0,Spring,Fruit,2023,March,25
+Amla,Kg,80.0,90.0,85.0,Spring,Fruit,2023,March,26
+Amla,Kg,90.0,100.0,95.0,Spring,Fruit,2023,March,27
+Amla,Kg,100.0,120.0,110.0,Spring,Fruit,2023,March,28
+Amla,Kg,110.0,120.0,115.0,Spring,Fruit,2023,March,29
+Amla,Kg,110.0,120.0,115.0,Spring,Fruit,2023,March,30
+Amla,Kg,110.0,120.0,115.0,Spring,Fruit,2023,March,31
+Amla,Kg,90.0,100.0,95.0,Spring,Fruit,2023,May,1
+Amla,Kg,100.0,110.0,105.0,Spring,Fruit,2023,May,2
+Amla,Kg,150.0,180.0,165.0,Spring,Fruit,2023,May,6
+Amla,Kg,150.0,180.0,165.0,Spring,Fruit,2023,May,7
+Amla,Kg,150.0,200.0,175.0,Spring,Fruit,2023,May,8
+Amla,Kg,150.0,200.0,175.0,Spring,Fruit,2023,May,9
+Amla,Kg,110.0,120.0,115.0,Summer Monsoon,Fruit,2023,September,2
+Amla,Kg,110.0,120.0,116.67,Summer Monsoon,Fruit,2023,September,3
+Amla,Kg,110.0,120.0,115.0,Summer Monsoon,Fruit,2023,September,4
+Amla,Kg,110.0,120.0,115.0,Summer Monsoon,Fruit,2023,September,5
+Amla,Kg,120.0,150.0,135.0,Summer Monsoon,Fruit,2023,September,6
+Amla,Kg,110.0,120.0,115.0,Summer Monsoon,Fruit,2023,September,7
+Amla,Kg,120.0,130.0,125.0,Summer Monsoon,Fruit,2023,September,8
+Amla,Kg,120.0,130.0,125.0,Summer Monsoon,Fruit,2023,September,9
+Amla,Kg,100.0,120.0,110.0,Summer Monsoon,Fruit,2023,September,10
+Amla,Kg,120.0,130.0,125.0,Summer Monsoon,Fruit,2023,September,11
+Amla,Kg,120.0,140.0,130.0,Summer Monsoon,Fruit,2023,September,12
+Amla,Kg,120.0,150.0,135.0,Summer Monsoon,Fruit,2023,September,13
+Amla,Kg,130.0,150.0,140.0,Summer Monsoon,Fruit,2023,September,14
+Amla,Kg,130.0,150.0,140.0,Early Autumn,Fruit,2023,September,15
+Amla,Kg,120.0,140.0,130.0,Early Autumn,Fruit,2023,September,16
+Amla,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2023,September,17
+Amla,Kg,120.0,140.0,130.0,Early Autumn,Fruit,2023,September,18
+Amla,Kg,80.0,90.0,86.67,Early Autumn,Fruit,2023,September,19
+Amla,Kg,80.0,90.0,86.67,Early Autumn,Fruit,2023,September,20
+Amla,Kg,70.0,80.0,76.67,Early Autumn,Fruit,2023,September,21
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2023,September,22
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2023,September,23
+Amla,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2023,September,24
+Amla,Kg,70.0,80.0,76.67,Early Autumn,Fruit,2023,September,25
+Amla,Kg,70.0,80.0,75.0,Early Autumn,Fruit,2023,September,26
+Amla,Kg,70.0,80.0,76.67,Early Autumn,Fruit,2023,September,27
+Amla,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2023,September,28

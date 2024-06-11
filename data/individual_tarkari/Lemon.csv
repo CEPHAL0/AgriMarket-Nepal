@@ -1,0 +1,1019 @@
+Commodity,Unit,Minimum,Maximum,Average,Season,Category,Year,Month,Day
+Lemon,Kg,35.0,40.0,37.5,Late Autumn,Fruit,2013,December,1
+Lemon,Kg,35.0,40.0,37.5,Late Autumn,Fruit,2013,December,2
+Lemon,Kg,35.0,40.0,37.5,Late Autumn,Fruit,2013,December,3
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2013,December,4
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2013,December,5
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2013,December,6
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2013,December,8
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2013,December,9
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2013,December,10
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2013,December,11
+Lemon,Kg,35.0,40.0,37.5,Late Autumn,Fruit,2013,December,12
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2013,December,13
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2013,December,15
+Lemon,Kg,35.0,40.0,37.5,Late Autumn,Fruit,2013,December,16
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2013,December,18
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2013,December,19
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2013,December,20
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2013,December,23
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2013,December,24
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2013,December,26
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2013,December,29
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2013,December,31
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,November,1
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2013,November,3
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2013,November,4
+Lemon,Kg,30.0,40.0,35.0,Early Autumn,Fruit,2013,November,5
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2013,November,7
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2013,November,29
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,October,1
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,October,2
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,October,3
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,October,4
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,October,6
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,October,7
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,October,8
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,October,9
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,October,10
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,October,11
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2013,October,12
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2013,October,16
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2013,October,17
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2013,October,20
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2013,October,21
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2013,October,22
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2013,October,25
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2013,October,27
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2013,October,28
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2013,October,29
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2013,October,30
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2013,October,31
+Lemon,Kg,40.0,50.0,45.0,Summer Monsoon,Fruit,2013,September,9
+Lemon,Kg,30.0,40.0,35.0,Summer Monsoon,Fruit,2013,September,10
+Lemon,Kg,30.0,35.0,32.5,Summer Monsoon,Fruit,2013,September,11
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2013,September,19
+Lemon,Kg,20.0,25.0,22.5,Early Autumn,Fruit,2013,September,20
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,September,22
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,September,23
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,September,25
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,September,26
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,September,27
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,September,29
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2013,September,30
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,1
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,3
+Lemon,Kg,20.0,25.0,22.5,Late Autumn,Fruit,2014,December,4
+Lemon,Kg,20.0,25.0,22.5,Late Autumn,Fruit,2014,December,5
+Lemon,Kg,20.0,25.0,22.5,Late Autumn,Fruit,2014,December,7
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,12
+Lemon,Kg,25.0,30.0,27.5,Late Autumn,Fruit,2014,December,13
+Lemon,Kg,25.0,30.0,27.5,Late Autumn,Fruit,2014,December,14
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,15
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,16
+Lemon,Kg,30.0,31.0,30.5,Late Autumn,Fruit,2014,December,17
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,18
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,19
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,21
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,22
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,23
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,24
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,25
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,26
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,27
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,28
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,29
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,30
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,December,31
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,2
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,3
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,4
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,5
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,6
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,9
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,10
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,11
+Lemon,Kg,25.0,30.0,27.5,Winter,Fruit,2014,February,12
+Lemon,Kg,25.0,30.0,27.5,Winter,Fruit,2014,February,13
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,14
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,16
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,17
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,18
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,20
+Lemon,Kg,25.0,30.0,27.5,Winter,Fruit,2014,February,21
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2014,February,23
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,24
+Lemon,Kg,25.0,30.0,27.5,Winter,Fruit,2014,February,25
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,26
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,February,28
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,January,1
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,January,2
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,January,3
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,January,5
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,January,6
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,January,7
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,January,8
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,January,9
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,January,10
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,January,12
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,January,13
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,January,14
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,January,16
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,January,17
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2014,January,19
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,January,20
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2014,January,21
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,January,22
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,January,23
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,January,24
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2014,January,26
+Lemon,Kg,30.0,40.0,35.0,Winter,Fruit,2014,January,27
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2014,January,28
+Lemon,Kg,25.0,30.0,27.5,Winter,Fruit,2014,January,29
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2014,March,3
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2014,March,5
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2014,March,6
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2014,March,7
+Lemon,Kg,30.0,40.0,35.0,Winter,Fruit,2014,March,9
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2014,March,10
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2014,March,11
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2014,March,12
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2014,March,13
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2014,March,14
+Lemon,Kg,40.0,45.0,42.5,Spring,Fruit,2014,March,17
+Lemon,Kg,35.0,40.0,37.5,Spring,Fruit,2014,March,19
+Lemon,Kg,38.0,40.0,39.0,Early Autumn,Fruit,2014,November,11
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,November,12
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,November,13
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,November,15
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,November,16
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,November,17
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,November,18
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,November,19
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,November,20
+Lemon,Kg,25.0,30.0,27.5,Late Autumn,Fruit,2014,November,21
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,November,23
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,November,24
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,November,25
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,November,26
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,November,28
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2014,November,29
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,October,17
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,October,19
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,October,20
+Lemon,Kg,40.0,45.0,42.5,Early Autumn,Fruit,2014,October,21
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2014,October,22
+Lemon,Kg,45.0,55.0,50.0,Early Autumn,Fruit,2014,October,23
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2014,October,24
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2014,October,25
+Lemon,Kg,30.0,40.0,35.0,Early Autumn,Fruit,2014,October,26
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,October,30
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,October,31
+Lemon,Kg,40.0,50.0,45.0,Summer Monsoon,Fruit,2014,September,10
+Lemon,Kg,38.0,40.0,39.0,Summer Monsoon,Fruit,2014,September,11
+Lemon,Kg,35.0,40.0,37.5,Summer Monsoon,Fruit,2014,September,12
+Lemon,Kg,30.0,40.0,35.0,Summer Monsoon,Fruit,2014,September,13
+Lemon,Kg,35.0,40.0,37.5,Summer Monsoon,Fruit,2014,September,14
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,September,17
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,September,18
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2014,September,19
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,September,20
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,September,21
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,September,22
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,September,23
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,September,24
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,September,26
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,September,28
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,September,29
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2014,September,30
+Lemon,Kg,30.0,40.0,35.0,Late Autumn,Fruit,2015,December,1
+Lemon,Kg,35.0,40.0,37.5,Late Autumn,Fruit,2015,December,2
+Lemon,Kg,30.0,40.0,35.0,Late Autumn,Fruit,2015,December,3
+Lemon,Kg,30.0,40.0,35.0,Late Autumn,Fruit,2015,December,4
+Lemon,Kg,30.0,40.0,35.0,Late Autumn,Fruit,2015,December,5
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,6
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,7
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,8
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,9
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,10
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,11
+Lemon,Kg,30.0,40.0,35.0,Late Autumn,Fruit,2015,December,12
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,13
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,14
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,15
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,16
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,17
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,18
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,19
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,20
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,21
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,22
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,23
+Lemon,Kg,25.0,30.0,27.5,Late Autumn,Fruit,2015,December,24
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,25
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,27
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,28
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,29
+Lemon,Kg,30.0,40.0,35.0,Late Autumn,Fruit,2015,December,30
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,December,31
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,1
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,2
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,3
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,5
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,6
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,7
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,9
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,February,10
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,January,1
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,January,2
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,January,3
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,January,4
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,January,5
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,January,6
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,January,7
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,January,8
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,January,9
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,January,12
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,January,13
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,January,14
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,January,16
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,January,17
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,January,18
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,January,19
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,January,21
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,January,22
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,January,23
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,January,25
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,January,26
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,January,27
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,January,28
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,January,29
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2015,January,31
+Lemon,Kg,30.0,40.0,35.0,Early Autumn,Fruit,2015,November,9
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2015,November,10
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2015,November,11
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2015,November,12
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2015,November,13
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2015,November,14
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,November,15
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,November,16
+Lemon,Kg,20.0,25.0,22.5,Late Autumn,Fruit,2015,November,17
+Lemon,Kg,20.0,25.0,22.5,Late Autumn,Fruit,2015,November,18
+Lemon,Kg,25.0,30.0,27.5,Late Autumn,Fruit,2015,November,19
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,November,20
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,November,21
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,November,22
+Lemon,Kg,30.0,40.0,35.0,Late Autumn,Fruit,2015,November,23
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,November,24
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,November,25
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,November,26
+Lemon,Kg,30.0,40.0,35.0,Late Autumn,Fruit,2015,November,27
+Lemon,Kg,30.0,40.0,35.0,Late Autumn,Fruit,2015,November,28
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,November,29
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2015,November,30
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2015,October,1
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2015,October,2
+Lemon,Kg,30.0,32.0,31.0,Early Autumn,Fruit,2015,October,3
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2015,October,4
+Lemon,Kg,20.0,25.0,22.5,Early Autumn,Fruit,2015,October,5
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2015,October,6
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2015,October,7
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2015,October,8
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2015,October,9
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2015,October,10
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2015,October,11
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2015,October,12
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2015,October,13
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2015,October,14
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2015,October,15
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2015,October,16
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2015,October,17
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2015,October,18
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2015,October,19
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2015,October,20
+Lemon,Kg,30.0,32.0,31.0,Early Autumn,Fruit,2015,September,23
+Lemon,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2015,September,24
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2015,September,25
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2015,September,26
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2015,September,27
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2015,September,28
+Lemon,Kg,30.0,32.0,31.0,Early Autumn,Fruit,2015,September,29
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2015,September,30
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,December,1
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,December,2
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,December,3
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2016,December,4
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2016,December,5
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2016,December,6
+Lemon,Kg,30.0,40.0,35.0,Late Autumn,Fruit,2016,December,7
+Lemon,Kg,30.0,40.0,35.0,Late Autumn,Fruit,2016,December,8
+Lemon,Kg,30.0,40.0,35.0,Late Autumn,Fruit,2016,December,9
+Lemon,Kg,30.0,40.0,35.0,Late Autumn,Fruit,2016,December,10
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,December,11
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,December,12
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,December,13
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2016,December,14
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,December,15
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,December,16
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,December,17
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,December,18
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2016,December,19
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2016,December,20
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2016,December,21
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2016,December,22
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,December,23
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,December,24
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2016,December,25
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2016,December,26
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2016,December,27
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,December,28
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2016,December,29
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2016,December,30
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2016,December,31
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,February,1
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,February,2
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,February,3
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,February,4
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,February,5
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,February,6
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,February,7
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2016,February,8
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,February,10
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,February,11
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,February,12
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,February,13
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2016,February,14
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,February,15
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2016,February,16
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,February,17
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2016,January,1
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2016,January,2
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2016,January,3
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2016,January,4
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2016,January,5
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2016,January,6
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2016,January,7
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2016,January,8
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2016,January,9
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2016,January,10
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2016,January,11
+Lemon,Kg,30.0,40.0,35.0,Late Autumn,Fruit,2016,January,12
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2016,January,13
+Lemon,Kg,30.0,35.0,32.5,Late Autumn,Fruit,2016,January,14
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,January,15
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,January,16
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,January,17
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,January,18
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,January,19
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2016,January,20
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,January,21
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2016,January,22
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2016,January,23
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2016,January,24
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,January,27
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,January,28
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,January,29
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,January,30
+Lemon,Kg,30.0,35.0,32.5,Winter,Fruit,2016,January,31
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,November,1
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,November,2
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2016,November,3
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2016,November,4
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2016,November,5
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2016,November,6
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,November,7
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,November,8
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,November,9
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,November,10
+Lemon,Kg,40.0,45.0,42.5,Early Autumn,Fruit,2016,November,11
+Lemon,Kg,40.0,45.0,42.5,Early Autumn,Fruit,2016,November,12
+Lemon,Kg,40.0,45.0,42.5,Early Autumn,Fruit,2016,November,13
+Lemon,Kg,40.0,45.0,42.5,Early Autumn,Fruit,2016,November,14
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,November,15
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,November,16
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2016,November,17
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,November,18
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,November,19
+Lemon,Kg,35.0,40.0,37.5,Late Autumn,Fruit,2016,November,25
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2016,November,27
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,November,28
+Lemon,Kg,40.0,45.0,42.5,Late Autumn,Fruit,2016,November,29
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2016,November,30
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,1
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,2
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,3
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,4
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,5
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,6
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,7
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,8
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,9
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,10
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,11
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,12
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,13
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,14
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,15
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,16
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,17
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,18
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,19
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,20
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,21
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,22
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,23
+Lemon,Kg,30.0,34.0,32.0,Early Autumn,Fruit,2016,October,24
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,25
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,26
+Lemon,Kg,40.0,45.0,42.5,Early Autumn,Fruit,2016,October,27
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,28
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,29
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,30
+Lemon,Kg,30.0,35.0,32.5,Early Autumn,Fruit,2016,October,31
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2016,September,29
+Lemon,Kg,40.0,45.0,42.5,Early Autumn,Fruit,2016,September,30
+Lemon,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2017,December,18
+Lemon,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2017,December,19
+Lemon,Kg,35.0,40.0,37.5,Late Autumn,Fruit,2017,December,20
+Lemon,Kg,35.0,40.0,37.5,Late Autumn,Fruit,2017,December,27
+Lemon,Kg,35.0,40.0,37.5,Late Autumn,Fruit,2017,December,28
+Lemon,Kg,35.0,40.0,37.5,Late Autumn,Fruit,2017,December,29
+Lemon,Kg,35.0,40.0,37.5,Late Autumn,Fruit,2017,December,30
+Lemon,Kg,35.0,40.0,37.5,Late Autumn,Fruit,2017,December,31
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2017,January,1
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2017,January,2
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2017,January,3
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2017,January,4
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2017,January,5
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2017,January,6
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2017,January,7
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2017,January,8
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2017,January,9
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2017,January,10
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2017,January,11
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2017,January,12
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2018,February,1
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2018,February,2
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2018,February,3
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2018,February,4
+Lemon,Kg,35.0,40.0,37.5,Late Autumn,Fruit,2018,January,1
+Lemon,Kg,35.0,40.0,37.5,Late Autumn,Fruit,2018,January,2
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2018,January,26
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2018,January,27
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2018,January,28
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2018,January,29
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2018,January,30
+Lemon,Kg,35.0,40.0,37.5,Winter,Fruit,2018,January,31
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,December,1
+Lemon,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2020,December,2
+Lemon,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2020,December,3
+Lemon,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2020,December,4
+Lemon,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2020,December,5
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,December,6
+Lemon,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2020,December,8
+Lemon,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2020,December,12
+Lemon,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2020,December,13
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,December,16
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,December,17
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,December,18
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,December,19
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,December,20
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,December,21
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,December,22
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,December,23
+Lemon,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2020,December,24
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2020,December,25
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2020,December,26
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2020,December,28
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2020,December,29
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2020,December,30
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,December,31
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2020,November,2
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2020,November,3
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2020,November,4
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2020,November,5
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2020,November,6
+Lemon,Kg,45.0,50.0,47.5,Early Autumn,Fruit,2020,November,7
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2020,November,9
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2020,November,10
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2020,November,11
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2020,November,12
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2020,November,13
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2020,November,14
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,November,15
+Lemon,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2020,November,16
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,November,17
+Lemon,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2020,November,19
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,November,20
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,November,21
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,November,22
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,November,23
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,November,24
+Lemon,Kg,50.0,55.0,52.5,Late Autumn,Fruit,2020,November,25
+Lemon,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2020,November,26
+Lemon,Kg,55.0,60.0,57.5,Late Autumn,Fruit,2020,November,27
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2020,November,28
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2020,November,29
+Lemon,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2020,November,30
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2020,October,21
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2020,October,22
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2020,October,23
+Lemon,Kg,40.0,45.0,42.5,Early Autumn,Fruit,2020,October,24
+Lemon,Kg,40.0,45.0,42.5,Early Autumn,Fruit,2020,October,25
+Lemon,Kg,35.0,40.0,37.5,Early Autumn,Fruit,2020,October,31
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2021,April,4
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,1
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,2
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,3
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,4
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,5
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,6
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,7
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,8
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,9
+Lemon,Kg,60.0,70.0,65.0,Late Autumn,Fruit,2021,December,10
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,11
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,12
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,13
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,14
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,15
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,16
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,18
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,19
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,20
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,21
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,22
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,23
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,24
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,25
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,26
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,27
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,28
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,29
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,December,31
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,1
+Lemon,Kg,40.0,50.0,45.0,Winter,Fruit,2021,February,2
+Lemon,Kg,40.0,50.0,45.0,Winter,Fruit,2021,February,3
+Lemon,Kg,40.0,50.0,45.0,Winter,Fruit,2021,February,4
+Lemon,Kg,40.0,50.0,45.0,Winter,Fruit,2021,February,5
+Lemon,Kg,40.0,50.0,45.0,Winter,Fruit,2021,February,6
+Lemon,Kg,40.0,50.0,45.0,Winter,Fruit,2021,February,7
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,8
+Lemon,Kg,40.0,50.0,45.0,Winter,Fruit,2021,February,9
+Lemon,Kg,40.0,50.0,45.0,Winter,Fruit,2021,February,10
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,11
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,12
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,13
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,14
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,15
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,16
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,17
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,18
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,19
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,20
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,21
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,22
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,23
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,24
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,February,25
+Lemon,Kg,40.0,50.0,45.0,Winter,Fruit,2021,February,26
+Lemon,Kg,40.0,50.0,45.0,Winter,Fruit,2021,February,27
+Lemon,Kg,40.0,50.0,45.0,Winter,Fruit,2021,February,28
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2021,January,1
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,January,2
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,January,3
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,January,4
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,January,9
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,January,10
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,January,11
+Lemon,Kg,60.0,70.0,65.0,Winter,Fruit,2021,January,23
+Lemon,Kg,60.0,70.0,65.0,Winter,Fruit,2021,January,24
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,January,25
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,January,26
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,January,27
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,January,28
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,January,29
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,January,30
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,January,31
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,March,1
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,March,2
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,March,3
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,March,5
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,March,6
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,March,7
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,March,8
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,March,9
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,March,10
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,March,11
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,March,12
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,March,13
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2021,March,14
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,15
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,16
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,17
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,18
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,19
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,20
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,21
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,22
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,23
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,24
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,25
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,26
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,27
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2021,March,28
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,November,1
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,November,2
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,November,3
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,November,4
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,November,5
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,November,6
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,November,7
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,November,8
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,November,9
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,November,10
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,November,11
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,November,12
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,November,13
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,November,14
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,November,15
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,November,16
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,November,17
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,November,18
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,November,19
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,November,20
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,November,21
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,November,22
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,November,23
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,November,24
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,November,25
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,November,26
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,November,27
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,November,28
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,November,29
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2021,November,30
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,1
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,2
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,3
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,4
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,5
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,October,6
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,7
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,8
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,9
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,10
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,11
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,12
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,13
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,15
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,16
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,17
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,18
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,19
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,20
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,21
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,22
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,23
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,24
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,25
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,26
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,27
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,28
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,October,29
+Lemon,Kg,60.0,80.0,70.0,Early Autumn,Fruit,2021,October,30
+Lemon,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2021,October,31
+Lemon,Kg,50.0,60.0,55.0,Summer Monsoon,Fruit,2021,September,14
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,September,15
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,September,16
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,September,17
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,September,18
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,September,19
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,September,20
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2021,September,21
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,September,22
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,September,23
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,September,24
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,September,25
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,September,26
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,September,27
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,September,28
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,September,29
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2021,September,30
+Lemon,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,August,17
+Lemon,Kg,80.0,90.0,85.0,Summer Monsoon,Fruit,2022,August,18
+Lemon,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,August,19
+Lemon,Kg,80.0,90.0,85.0,Summer Monsoon,Fruit,2022,August,20
+Lemon,Kg,80.0,90.0,85.0,Summer Monsoon,Fruit,2022,August,21
+Lemon,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,August,22
+Lemon,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,August,23
+Lemon,Kg,60.0,70.0,66.67,Summer Monsoon,Fruit,2022,August,24
+Lemon,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,August,25
+Lemon,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,August,26
+Lemon,Kg,50.0,60.0,55.0,Summer Monsoon,Fruit,2022,August,27
+Lemon,Kg,50.0,60.0,55.0,Summer Monsoon,Fruit,2022,August,28
+Lemon,Kg,60.0,70.0,65.0,Summer Monsoon,Fruit,2022,August,29
+Lemon,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,August,30
+Lemon,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,August,31
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,1
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,2
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2022,December,5
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,6
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,7
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2022,December,8
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2022,December,9
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,10
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,11
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,12
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,13
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2022,December,14
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,15
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,16
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2022,December,17
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2022,December,18
+Lemon,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2022,December,19
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,20
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,21
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2022,December,22
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,23
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,24
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2022,December,25
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,26
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,27
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,28
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,December,29
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2022,December,30
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2022,December,31
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,1
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,2
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,3
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,4
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,5
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,6
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,7
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,8
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,9
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,10
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,11
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,12
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,13
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,14
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,15
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,16
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,17
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,18
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,19
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,20
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,21
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,22
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,23
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,24
+Lemon,Kg,60.0,70.0,65.0,Winter,Fruit,2022,February,25
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,27
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,February,28
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2022,January,1
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2022,January,2
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2022,January,3
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2022,January,4
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2022,January,5
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2022,January,6
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2022,January,7
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2022,January,8
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2022,January,9
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2022,January,10
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2022,January,11
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2022,January,12
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2022,January,13
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2022,January,14
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,15
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,16
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,17
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,18
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,19
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,20
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,21
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,22
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,23
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,24
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,25
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,26
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,27
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,28
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,29
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,30
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,January,31
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,March,1
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,March,2
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,March,3
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,March,5
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,March,6
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,March,7
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,March,8
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,March,9
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,March,10
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,March,11
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,March,12
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,March,13
+Lemon,Kg,50.0,60.0,55.0,Winter,Fruit,2022,March,14
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2022,March,15
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2022,March,16
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2022,March,17
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2022,March,18
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2022,March,19
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2022,March,20
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2022,March,21
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2022,March,22
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2022,March,23
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2022,March,24
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,November,1
+Lemon,Kg,40.0,50.0,46.67,Early Autumn,Fruit,2022,November,2
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2022,November,3
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,November,4
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2022,November,5
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2022,November,6
+Lemon,Kg,40.0,50.0,46.67,Early Autumn,Fruit,2022,November,7
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2022,November,8
+Lemon,Kg,40.0,50.0,46.67,Early Autumn,Fruit,2022,November,9
+Lemon,Kg,40.0,50.0,46.67,Early Autumn,Fruit,2022,November,10
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,November,11
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2022,November,12
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2022,November,13
+Lemon,Kg,40.0,50.0,46.67,Early Autumn,Fruit,2022,November,14
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2022,November,15
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2022,November,16
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,November,17
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,November,18
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,November,19
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,November,21
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,November,22
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,November,23
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,November,24
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2022,November,25
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,November,26
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2022,November,27
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,November,28
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,November,29
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2022,November,30
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,October,1
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,October,2
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2022,October,3
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,October,4
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,October,6
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,October,8
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,October,9
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,October,10
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2022,October,11
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2022,October,12
+Lemon,Kg,40.0,50.0,46.67,Early Autumn,Fruit,2022,October,13
+Lemon,Kg,40.0,50.0,46.67,Early Autumn,Fruit,2022,October,14
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,October,15
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,October,16
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,October,17
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,October,18
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,October,19
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,October,20
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,October,21
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,October,22
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,October,23
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,October,24
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,October,25
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,October,26
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,October,27
+Lemon,Kg,40.0,50.0,46.67,Early Autumn,Fruit,2022,October,29
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,October,30
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,October,31
+Lemon,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,September,1
+Lemon,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,September,2
+Lemon,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,September,3
+Lemon,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,September,4
+Lemon,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,September,5
+Lemon,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,September,6
+Lemon,Kg,60.0,70.0,65.0,Summer Monsoon,Fruit,2022,September,7
+Lemon,Kg,60.0,70.0,65.0,Summer Monsoon,Fruit,2022,September,8
+Lemon,Kg,70.0,80.0,75.0,Summer Monsoon,Fruit,2022,September,9
+Lemon,Kg,50.0,60.0,56.67,Summer Monsoon,Fruit,2022,September,10
+Lemon,Kg,50.0,60.0,55.0,Summer Monsoon,Fruit,2022,September,11
+Lemon,Kg,50.0,60.0,56.67,Summer Monsoon,Fruit,2022,September,12
+Lemon,Kg,50.0,60.0,55.0,Summer Monsoon,Fruit,2022,September,13
+Lemon,Kg,50.0,60.0,55.0,Summer Monsoon,Fruit,2022,September,14
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,September,15
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,September,16
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,September,20
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,September,21
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,September,22
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,September,23
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,September,24
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,September,25
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2022,September,26
+Lemon,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2022,September,27
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,September,28
+Lemon,Kg,40.0,50.0,46.67,Early Autumn,Fruit,2022,September,29
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2022,September,30
+Lemon,Kg,60.0,70.0,66.67,Summer Monsoon,Fruit,2023,August,21
+Lemon,Kg,60.0,70.0,65.0,Summer Monsoon,Fruit,2023,August,22
+Lemon,Kg,60.0,70.0,65.0,Summer Monsoon,Fruit,2023,August,23
+Lemon,Kg,60.0,70.0,65.0,Summer Monsoon,Fruit,2023,August,24
+Lemon,Kg,50.0,60.0,55.0,Summer Monsoon,Fruit,2023,August,25
+Lemon,Kg,40.0,50.0,45.0,Summer Monsoon,Fruit,2023,August,26
+Lemon,Kg,40.0,50.0,45.0,Summer Monsoon,Fruit,2023,August,27
+Lemon,Kg,60.0,70.0,65.0,Summer Monsoon,Fruit,2023,August,28
+Lemon,Kg,50.0,60.0,56.67,Summer Monsoon,Fruit,2023,August,29
+Lemon,Kg,60.0,70.0,65.0,Summer Monsoon,Fruit,2023,August,30
+Lemon,Kg,60.0,70.0,65.0,Summer Monsoon,Fruit,2023,August,31
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,1
+Lemon,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,2
+Lemon,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,3
+Lemon,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,4
+Lemon,Kg,60.0,70.0,65.0,Winter,Fruit,2023,February,5
+Lemon,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,6
+Lemon,Kg,60.0,70.0,65.0,Winter,Fruit,2023,February,7
+Lemon,Kg,60.0,70.0,63.33,Winter,Fruit,2023,February,8
+Lemon,Kg,60.0,70.0,65.0,Winter,Fruit,2023,February,9
+Lemon,Kg,60.0,70.0,65.0,Winter,Fruit,2023,February,10
+Lemon,Kg,60.0,70.0,66.67,Winter,Fruit,2023,February,11
+Lemon,Kg,60.0,70.0,65.0,Winter,Fruit,2023,February,12
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,13
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,14
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,15
+Lemon,Kg,70.0,80.0,76.67,Winter,Fruit,2023,February,16
+Lemon,Kg,70.0,80.0,76.67,Winter,Fruit,2023,February,17
+Lemon,Kg,70.0,80.0,76.67,Winter,Fruit,2023,February,18
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,19
+Lemon,Kg,70.0,80.0,76.67,Winter,Fruit,2023,February,20
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,21
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,22
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,23
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,24
+Lemon,Kg,70.0,80.0,76.67,Winter,Fruit,2023,February,25
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,26
+Lemon,Kg,80.0,90.0,85.0,Winter,Fruit,2023,February,27
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,February,28
+Lemon,Kg,50.0,50.0,50.0,Late Autumn,Fruit,2023,January,1
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2023,January,2
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2023,January,3
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2023,January,4
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2023,January,5
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2023,January,6
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2023,January,7
+Lemon,Kg,40.0,50.0,45.0,Late Autumn,Fruit,2023,January,8
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2023,January,9
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2023,January,10
+Lemon,Kg,50.0,60.0,56.67,Late Autumn,Fruit,2023,January,11
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2023,January,12
+Lemon,Kg,50.0,60.0,55.0,Late Autumn,Fruit,2023,January,13
+Lemon,Kg,40.0,50.0,46.67,Late Autumn,Fruit,2023,January,14
+Lemon,Kg,40.0,50.0,46.67,Winter,Fruit,2023,January,15
+Lemon,Kg,50.0,60.0,56.67,Winter,Fruit,2023,January,16
+Lemon,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,17
+Lemon,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,18
+Lemon,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,19
+Lemon,Kg,50.0,60.0,56.67,Winter,Fruit,2023,January,20
+Lemon,Kg,60.0,70.0,65.0,Winter,Fruit,2023,January,21
+Lemon,Kg,60.0,70.0,65.0,Winter,Fruit,2023,January,22
+Lemon,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,23
+Lemon,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,24
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,January,25
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,January,26
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,January,27
+Lemon,Kg,70.0,80.0,76.67,Winter,Fruit,2023,January,28
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,January,29
+Lemon,Kg,60.0,70.0,66.67,Winter,Fruit,2023,January,31
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,March,1
+Lemon,Kg,60.0,70.0,65.0,Winter,Fruit,2023,March,2
+Lemon,Kg,80.0,90.0,85.0,Winter,Fruit,2023,March,3
+Lemon,Kg,80.0,90.0,85.0,Winter,Fruit,2023,March,5
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,March,7
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,March,8
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,March,9
+Lemon,Kg,70.0,80.0,75.0,Winter,Fruit,2023,March,10
+Lemon,Kg,70.0,80.0,76.67,Winter,Fruit,2023,March,13
+Lemon,Kg,80.0,90.0,85.0,Winter,Fruit,2023,March,14
+Lemon,Kg,80.0,90.0,85.0,Spring,Fruit,2023,March,16
+Lemon,Kg,50.0,60.0,55.0,Spring,Fruit,2023,March,19
+Lemon,Kg,50.0,60.0,55.0,Summer Monsoon,Fruit,2023,September,1
+Lemon,Kg,60.0,70.0,65.0,Summer Monsoon,Fruit,2023,September,2
+Lemon,Kg,60.0,70.0,66.67,Summer Monsoon,Fruit,2023,September,3
+Lemon,Kg,60.0,70.0,66.67,Summer Monsoon,Fruit,2023,September,4
+Lemon,Kg,60.0,70.0,66.67,Summer Monsoon,Fruit,2023,September,5
+Lemon,Kg,60.0,70.0,65.0,Summer Monsoon,Fruit,2023,September,6
+Lemon,Kg,60.0,70.0,65.0,Summer Monsoon,Fruit,2023,September,7
+Lemon,Kg,60.0,70.0,66.67,Summer Monsoon,Fruit,2023,September,8
+Lemon,Kg,60.0,70.0,65.0,Summer Monsoon,Fruit,2023,September,9
+Lemon,Kg,50.0,60.0,55.0,Summer Monsoon,Fruit,2023,September,10
+Lemon,Kg,50.0,60.0,55.0,Summer Monsoon,Fruit,2023,September,11
+Lemon,Kg,60.0,70.0,65.0,Summer Monsoon,Fruit,2023,September,12
+Lemon,Kg,60.0,70.0,66.67,Summer Monsoon,Fruit,2023,September,13
+Lemon,Kg,60.0,70.0,66.67,Summer Monsoon,Fruit,2023,September,14
+Lemon,Kg,60.0,70.0,66.67,Early Autumn,Fruit,2023,September,15
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2023,September,16
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2023,September,17
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2023,September,18
+Lemon,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2023,September,19
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2023,September,20
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2023,September,21
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2023,September,22
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2023,September,23
+Lemon,Kg,50.0,60.0,55.0,Early Autumn,Fruit,2023,September,24
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2023,September,25
+Lemon,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2023,September,26
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2023,September,27
+Lemon,Kg,50.0,60.0,56.67,Early Autumn,Fruit,2023,September,28

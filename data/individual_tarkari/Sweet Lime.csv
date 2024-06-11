@@ -1,0 +1,24 @@
+Commodity,Unit,Minimum,Maximum,Average,Season,Category,Year,Month,Day
+Sweet Lime,Kg,55.0,60.0,57.5,Early Summer,Fruit,2013,June,30
+Sweet Lime,Kg,40.0,50.0,45.0,Early Autumn,Fruit,2013,November,3
+Sweet Lime,Kg,60.0,70.0,65.0,Early Autumn,Fruit,2013,November,4
+Sweet Lime,Kg,45.0,50.0,47.5,Late Autumn,Fruit,2014,November,20
+Sweet Lime,Kg,40.0,45.0,42.5,Early Autumn,Fruit,2014,October,21
+Sweet Lime,Kg,45.0,50.0,47.5,Early Autumn,Fruit,2014,October,22
+Sweet Lime,Kg,45.0,50.0,47.5,Early Autumn,Fruit,2014,October,23
+Sweet Lime,Kg,45.0,50.0,47.5,Early Autumn,Fruit,2014,October,24
+Sweet Lime,Kg,25.0,30.0,27.5,Early Autumn,Fruit,2014,October,25
+Sweet Lime,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2020,November,12
+Sweet Lime,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2020,November,13
+Sweet Lime,Kg,80.0,90.0,85.0,Early Autumn,Fruit,2020,November,14
+Sweet Lime,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,November,15
+Sweet Lime,Kg,80.0,90.0,85.0,Late Autumn,Fruit,2020,November,16
+Sweet Lime,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2021,November,1
+Sweet Lime,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2021,November,2
+Sweet Lime,Kg,120.0,150.0,135.0,Early Autumn,Fruit,2021,November,3
+Sweet Lime,Kg,150.0,180.0,165.0,Early Autumn,Fruit,2021,November,4
+Sweet Lime,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2021,October,30
+Sweet Lime,Kg,90.0,100.0,95.0,Early Autumn,Fruit,2021,October,31
+Sweet Lime,Kg,150.0,180.0,170.0,Early Autumn,Fruit,2022,October,24
+Sweet Lime,Kg,150.0,180.0,165.0,Early Autumn,Fruit,2022,October,25
+Sweet Lime,Kg,150.0,180.0,165.0,Early Autumn,Fruit,2022,October,26
